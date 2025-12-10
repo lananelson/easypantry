@@ -254,19 +254,21 @@ async function loadShoppingList() {
         html += `
           <div class="card mb-3">
             <div class="card-header" style="cursor: pointer;" onclick="toggleShoppingList('${listId}')">
-              <div class="d-flex align-items-center justify-content-between">
-                <h3 class="card-title mb-0">
-                  <span id="chevron-${listId}" style="display: inline-block; width: 1em;">${chevron}</span> ${
+              <div class="d-flex align-items-start justify-content-between">
+                <div>
+                  <h3 class="card-title mb-0">
+                    <span id="chevron-${listId}" style="display: inline-block; width: 1em;">${chevron}</span> ${
           list.title
         }
-                </h3>
+                  </h3>
+                  ${
+                    list.completed_date
+                      ? `<div class="text-muted small mt-1">Completed: ${list.completed_date}</div>`
+                      : ""
+                  }
+                </div>
                 ${statusBadge}
               </div>
-              ${
-                list.completed_date
-                  ? `<div class="text-muted small mt-1">Completed: ${list.completed_date}</div>`
-                  : ""
-              }
             </div>
             <div id="${collapseId}" class="collapse ${showClass}">
               <div class="list-group list-group-flush">
