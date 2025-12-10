@@ -28,11 +28,13 @@ jobs:
         run: |
           mkdir -p _site
           cp -r docs/* _site/
-          cp pantry.csv _site/
-          cp -r shopping-lists _site/
-          cp -r recipes _site/
-          cp -r weekly-meals _site/
+          cp pantry.csv _site/ || echo "pantry.csv not found"
+          cp -r shopping-lists _site/ || echo "shopping-lists not found"
+          cp -r recipes _site/ || echo "recipes not found"
+          cp -r weekly-meals _site/ || echo "weekly-meals not found"
           echo "Site built successfully"
+          echo "Contents of _site:"
+          ls -la _site/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
