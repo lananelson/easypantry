@@ -30,7 +30,7 @@ Marsala wine,condiment,1,bottle,open,fridge,no,low,,,"Fortified wine"
 Red wine,beverage,1,bottle,open,fridge,no,low,,,"Table wine"
 White wine,beverage,1,bottle,open,fridge,no,low,,,"Table wine"
 Kombucha,beverage,1,bottle,open,garage,yes,medium,,,"Should be moved to fridge"
-Fontina cheese,dairy,1,block,sealed,fridge,yes,medium,Trader Joe's,
+Fontina cheese,dairy,1,block,sealed,fridge,yes,medium,Trader Joe's,,
 Frozen pizzas,prepared_food,3,individual,sealed,freezer,no,low,,,"Frozen single-serve pizzas"
 Tuna,canned,3,can,sealed,pantry,no,low,,,"Shelf-stable tuna"
 Sweet potato chips,snack,1,bag,open,pantry,yes,medium,,,"Bag opened yesterday"
