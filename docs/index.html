@@ -4,220 +4,160 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>EasyPantry</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/@tabler/core@1.0.0-beta20/dist/css/tabler.min.css"
+      rel="stylesheet"
+    />
     <style>
-      * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-      }
-
-      body {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-          sans-serif;
-        line-height: 1.6;
-        color: #1a1a1a;
-        background: #fafafa;
-      }
-
-      header {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        color: white;
-        padding: 3rem 2rem;
-        text-align: center;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      }
-
-      header h1 {
-        font-size: 2.5rem;
-        font-weight: 700;
-        margin-bottom: 0.5rem;
-        letter-spacing: -0.5px;
-      }
-
-      header p {
-        opacity: 0.9;
-        font-size: 1.1rem;
-        font-weight: 300;
-      }
-
-      nav {
-        background: white;
-        padding: 0;
-        text-align: center;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-        position: sticky;
-        top: 0;
-        z-index: 100;
-      }
-
-      nav button {
-        background: none;
-        border: none;
-        color: #666;
-        padding: 1.25rem 2rem;
-        margin: 0;
-        cursor: pointer;
-        font-size: 0.95rem;
-        font-weight: 500;
-        transition: all 0.2s;
-        border-bottom: 3px solid transparent;
-      }
-
-      nav button:hover {
-        color: #667eea;
-        background: #f8f9fa;
-      }
-
-      nav button.active {
-        color: #667eea;
-        border-bottom-color: #667eea;
-      }
-
-      .container {
-        max-width: 1200px;
-        margin: 3rem auto;
-        padding: 0 2rem;
-      }
-
       .section {
         display: none;
-        background: white;
-        padding: 2.5rem;
-        border-radius: 12px;
-        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
       }
-
       .section.active {
         display: block;
-        animation: fadeIn 0.3s ease-in;
       }
-
-      @keyframes fadeIn {
-        from {
-          opacity: 0;
-          transform: translateY(10px);
-        }
-        to {
-          opacity: 1;
-          transform: translateY(0);
-        }
-      }
-
-      .section h2 {
-        margin-bottom: 2rem;
-        color: #1a1a1a;
-        font-size: 1.75rem;
-        font-weight: 600;
-        letter-spacing: -0.5px;
-      }
-
-      table {
-        width: 100%;
-        border-collapse: separate;
-        border-spacing: 0;
-        margin-top: 1rem;
-        font-size: 0.95rem;
-      }
-
-      th,
-      td {
-        padding: 1rem;
-        text-align: left;
-      }
-
-      th {
-        background: #f8f9fa;
-        color: #666;
-        font-weight: 600;
-        font-size: 0.85rem;
-        text-transform: uppercase;
-        letter-spacing: 0.5px;
-        border-bottom: 2px solid #e9ecef;
-      }
-
-      td {
-        border-bottom: 1px solid #f1f3f5;
-      }
-
-      tr:last-child td {
-        border-bottom: none;
-      }
-
-      tr:hover td {
-        background: #f8f9fa;
-      }
-
       .urgency-high {
-        color: #e74c3c;
+        color: #d63939;
         font-weight: 600;
       }
-
       .urgency-medium {
-        color: #f39c12;
+        color: #f76707;
         font-weight: 500;
       }
-
       .urgency-low {
-        color: #95a5a6;
-      }
-
-      .loading {
-        text-align: center;
-        padding: 3rem;
-        color: #999;
-        font-size: 0.95rem;
-      }
-
-      .error {
-        background: #fff5f5;
-        border: 1px solid #feb2b2;
-        padding: 1rem 1.5rem;
-        border-radius: 8px;
-        color: #c53030;
-        font-size: 0.95rem;
-      }
-
-      pre {
-        background: #f8f9fa;
-        padding: 1.5rem;
-        border-radius: 8px;
-        border-left: 4px solid #667eea;
-        line-height: 1.8;
+        color: #868e96;
       }
     </style>
   </head>
   <body>
-    <header>
-      <h1>🥘 EasyPantry</h1>
-      <p>Your personal pantry management system</p>
-    </header>
+    <div class="page">
+      <!-- Header -->
+      <header class="navbar navbar-expand-md navbar-light d-print-none">
+        <div class="container-xl">
+          <h1
+            class="navbar-brand navbar-brand-autodark d-none-navbar-horizontal pe-0 pe-md-3"
+          >
+            <span class="navbar-brand-image">🥘</span>
+            EasyPantry
+          </h1>
+          <div class="navbar-nav flex-row order-md-last">
+            <div class="nav-item">
+              <span class="text-muted"
+                >Your personal pantry management system</span
+              >
+            </div>
+          </div>
+        </div>
+      </header>
 
-    <nav>
-      <button class="active" onclick="showSection('pantry')">Pantry</button>
-      <button onclick="showSection('recipes')">Recipes</button>
-      <button onclick="showSection('meals')">Meal Plan</button>
-      <button onclick="showSection('shopping')">Shopping List</button>
-    </nav>
+      <!-- Navigation -->
+      <header class="navbar-expand-md">
+        <div class="collapse navbar-collapse" id="navbar-menu">
+          <div class="navbar navbar-light">
+            <div class="container-xl">
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a
+                    class="nav-link active"
+                    href="#"
+                    onclick="showSection('pantry'); return false;"
+                  >
+                    <span class="nav-link-title">Pantry</span>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a
+                    class="nav-link"
+                    href="#"
+                    onclick="showSection('recipes'); return false;"
+                  >
+                    <span class="nav-link-title">Recipes</span>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a
+                    class="nav-link"
+                    href="#"
+                    onclick="showSection('meals'); return false;"
+                  >
+                    <span class="nav-link-title">Meal Plan</span>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a
+                    class="nav-link"
+                    href="#"
+                    onclick="showSection('shopping'); return false;"
+                  >
+                    <span class="nav-link-title">Shopping List</span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </header>
 
-    <div class="container">
-      <div id="pantry" class="section active">
-        <h2>Pantry Inventory</h2>
-        <div class="loading">Loading pantry data...</div>
-      </div>
+      <!-- Page Content -->
+      <div class="page-wrapper">
+        <div class="page-body">
+          <div class="container-xl">
+            <!-- Pantry Section -->
+            <div id="pantry" class="section active">
+              <div class="card">
+                <div class="card-header">
+                  <h3 class="card-title">Pantry Inventory</h3>
+                </div>
+                <div class="card-body">
+                  <div class="text-center text-muted py-5">
+                    Loading pantry data...
+                  </div>
+                </div>
+              </div>
+            </div>
 
-      <div id="recipes" class="section">
-        <h2>Recipes</h2>
-        <div class="loading">Loading recipes...</div>
-      </div>
+            <!-- Recipes Section -->
+            <div id="recipes" class="section">
+              <div class="card">
+                <div class="card-header">
+                  <h3 class="card-title">Recipes</h3>
+                </div>
+                <div class="card-body">
+                  <div class="text-center text-muted py-5">
+                    Loading recipes...
+                  </div>
+                </div>
+              </div>
+            </div>
 
-      <div id="meals" class="section">
-        <h2>This Week's Meal Plan</h2>
-        <div class="loading">Loading meal plan...</div>
-      </div>
+            <!-- Meal Plan Section -->
+            <div id="meals" class="section">
+              <div class="card">
+                <div class="card-header">
+                  <h3 class="card-title">This Week's Meal Plan</h3>
+                </div>
+                <div class="card-body">
+                  <div class="text-center text-muted py-5">
+                    Loading meal plan...
+                  </div>
+                </div>
+              </div>
+            </div>
 
-      <div id="shopping" class="section">
-        <h2>Shopping List</h2>
-        <div class="loading">Loading shopping list...</div>
+            <!-- Shopping List Section -->
+            <div id="shopping" class="section">
+              <div class="card">
+                <div class="card-header">
+                  <h3 class="card-title">Shopping List</h3>
+                </div>
+                <div class="card-body">
+                  <div class="text-center text-muted py-5">
+                    Loading shopping list...
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
 

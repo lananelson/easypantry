@@ -5,16 +5,16 @@ function showSection(sectionId) {
     section.classList.remove("active");
   });
 
-  // Remove active from all buttons
-  document.querySelectorAll("nav button").forEach((button) => {
-    button.classList.remove("active");
+  // Remove active from all nav links
+  document.querySelectorAll(".nav-link").forEach((link) => {
+    link.classList.remove("active");
   });
 
   // Show selected section
   document.getElementById(sectionId).classList.add("active");
 
-  // Activate button
-  event.target.classList.add("active");
+  // Activate nav link
+  event.target.closest(".nav-link").classList.add("active");
 }
 
 // Parse CSV
@@ -41,7 +41,8 @@ async function loadPantry() {
     const text = await response.text();
     const items = parseCSV(text);
 
-    let html = "<table>";
+    let html = '<div class="table-responsive">';
+    html += '<table class="table table-vcenter card-table">';
     html += "<thead><tr>";
     html +=
       "<th>Name</th><th>Category</th><th>Quantity</th><th>Location</th><th>Urgency</th>";
@@ -50,16 +51,18 @@ async function loadPantry() {
     items.forEach((item) => {
       const urgencyClass = `urgency-${item.urgency}`;
       html += "<tr>";
-      html += `<td>${item.name}</td>`;
-      html += `<td>${item.category}</td>`;
-      html += `<td>${item.quantity} ${item.unit}</td>`;
-      html += `<td>${item.location}</td>`;
-      html += `<td class="${urgencyClass}">${item.urgency}</td>`;
+      html += `<td class="text-muted">${item.name}</td>`;
+      html += `<td class="text-muted"><span class="badge badge-outline">${item.category}</span></td>`;
+      html += `<td class="text-muted">${item.quantity} ${item.unit}</td>`;
+      html += `<td class="text-muted">${item.location}</td>`;
+      html += `<td><span class="badge ${urgencyClass}">${item.urgency}</span></td>`;
       html += "</tr>";
     });
 
-    html += "</tbody></table>";
-    pantrySection.innerHTML = "<h2>Pantry Inventory</h2>" + html;
+    html += "</tbody></table></div>";
+
+    const card = pantrySection.querySelector(".card-body");
+    card.innerHTML = html;
   } catch (error) {
     pantrySection.innerHTML =
       '<h2>Pantry Inventory</h2><div class="error">Error loading pantry data</div>';
@@ -70,23 +73,25 @@ async function loadPantry() {
 // Load recipes
 async function loadRecipes() {
   const recipesSection = document.getElementById("recipes");
+  const card = recipesSection.querySelector(".card-body");
 
-  // For now, just show a placeholder
-  // We'll need to generate a recipes index file or fetch from GitHub API
-  recipesSection.innerHTML =
-    "<h2>Recipes</h2><p>Recipe browser coming soon...</p>";
+  card.innerHTML =
+    '<div class="empty"><p class="empty-title">Recipe browser coming soon</p><p class="empty-subtitle text-muted">Check back later for recipe management</p></div>';
 }
 
 // Load meal plan
 async function loadMealPlan() {
   const mealsSection = document.getElementById("meals");
-  mealsSection.innerHTML =
-    "<h2>This Week's Meal Plan</h2><p>Meal plan viewer coming soon...</p>";
+  const card = mealsSection.querySelector(".card-body");
+
+  card.innerHTML =
+    '<div class="empty"><p class="empty-title">Meal plan viewer coming soon</p><p class="empty-subtitle text-muted">Check back later for weekly meal planning</p></div>';
 }
 
 // Load shopping list
 async function loadShoppingList() {
   const shoppingSection = document.getElementById("shopping");
+  const card = shoppingSection.querySelector(".card-body");
 
   try {
     // Try to load the most recent shopping list
@@ -94,13 +99,13 @@ async function loadShoppingList() {
     const text = await response.text();
 
     const html =
-      '<pre style="white-space: pre-wrap; font-family: inherit;">' +
+      '<pre class="m-0" style="white-space: pre-wrap; font-family: inherit; font-size: 0.95rem;">' +
       text +
       "</pre>";
-    shoppingSection.innerHTML = "<h2>Shopping List</h2>" + html;
+    card.innerHTML = html;
   } catch (error) {
-    shoppingSection.innerHTML =
-      '<h2>Shopping List</h2><div class="error">No shopping list found</div>';
+    card.innerHTML =
+      '<div class="alert alert-danger">No shopping list found</div>';
     console.error("Error loading shopping list:", error);
   }
 }
