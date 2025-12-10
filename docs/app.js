@@ -219,81 +219,164 @@ async function loadMealPlan() {
     '<div class="empty"><p class="empty-title">Meal plan viewer coming soon</p><p class="empty-subtitle text-muted">Check back later for weekly meal planning</p></div>';
 }
 
-// Load shopping list
+// Load shopping lists (supports multiple lists)
 async function loadShoppingList() {
   const shoppingSection = document.getElementById("shopping");
   const card = shoppingSection.querySelector(".card-body");
 
   try {
-    // Try to load the most recent shopping list
-    const response = await fetch("./shopping-lists/2025-W50.txt");
-    const text = await response.text();
+    // Load all shopping lists - for now just the one
+    const lists = ["2025-W50"];
+    let html = "";
 
-    // Parse the shopping list into sections
-    const lines = text.trim().split("\n");
-    const appState = loadAppState();
-    const checkedItems = appState.checkedShoppingItems || [];
+    for (const listId of lists) {
+      try {
+        const response = await fetch(`./shopping-lists/${listId}.json`);
+        const list = await response.json();
 
-    let html = '<div class="list-group list-group-flush">';
+        const appState = loadAppState();
+        const listState = appState[`shoppingList_${listId}`] || {
+          collapsed: list.status === "completed",
+          checkedItems: [],
+        };
 
-    lines.forEach((line) => {
-      if (line.trim() === "") return; // Skip empty lines
+        const statusBadge =
+          list.status === "completed"
+            ? '<span class="badge bg-success ms-2">Completed</span>'
+            : list.status === "active"
+            ? '<span class="badge bg-primary ms-2">Active</span>'
+            : "";
 
-      // Check if it's a header line (contains "Shopping List" or ends with ":")
-      if (line.includes("Shopping List") || line.includes("Week")) {
-        html += `<div class="list-group-item bg-light"><strong>${line}</strong></div>`;
-      } else {
-        // It's a regular item - make it checkable
-        const isChecked = checkedItems.includes(line);
-        const checkedAttr = isChecked ? "checked" : "";
-        const strikeStyle = isChecked
-          ? 'style="text-decoration: line-through; opacity: 0.5;"'
-          : "";
+        const collapseId = `collapse-${listId}`;
+        const showClass = listState.collapsed ? "" : "show";
+        const chevron = listState.collapsed ? "▶" : "▼";
 
         html += `
-          <label class="list-group-item">
-            <div class="row align-items-center">
-              <div class="col-auto">
-                <input class="form-check-input m-0" type="checkbox" ${checkedAttr} onchange="toggleItem(this)">
+          <div class="card mb-3">
+            <div class="card-header" style="cursor: pointer;" onclick="toggleShoppingList('${listId}')">
+              <h3 class="card-title">
+                <span id="chevron-${listId}">${chevron}</span> ${
+          list.title
+        }${statusBadge}
+              </h3>
+              ${
+                list.completed_date
+                  ? `<div class="text-muted small">Completed: ${list.completed_date}</div>`
+                  : ""
+              }
+            </div>
+            <div id="${collapseId}" class="collapse ${showClass}">
+              <div class="list-group list-group-flush">
+        `;
+
+        list.items.forEach((item) => {
+          const isChecked = listState.checkedItems.includes(item.name);
+          const checkedAttr = isChecked ? "checked" : "";
+          const strikeStyle = isChecked
+            ? 'style="text-decoration: line-through; opacity: 0.5;"'
+            : "";
+
+          // Format the "for" recipes if present
+          const forRecipes =
+            item.for && item.for.length > 0
+              ? `<span class="text-muted small"> (for ${item.for.join(
+                  ", "
+                )})</span>`
+              : "";
+
+          html += `
+            <label class="list-group-item">
+              <div class="row align-items-center">
+                <div class="col-auto">
+                  <input class="form-check-input m-0" type="checkbox" ${checkedAttr}
+                         onchange="toggleShoppingItem(this, '${listId}', '${item.name.replace(
+            /'/g,
+            "\\'"
+          )}')">
+                </div>
+                <div class="col">
+                  <span class="shopping-item" ${strikeStyle}>${
+            item.name
+          }${forRecipes}</span>
+                </div>
               </div>
-              <div class="col">
-                <span class="shopping-item" ${strikeStyle}>${line}</span>
+            </label>
+          `;
+        });
+
+        html += `
               </div>
             </div>
-          </label>
+          </div>
         `;
+      } catch (err) {
+        console.error(`Error loading shopping list ${listId}:`, err);
       }
-    });
+    }
 
-    html += "</div>";
+    if (html === "") {
+      html = '<div class="alert alert-info">No shopping lists found</div>';
+    }
+
     card.innerHTML = html;
   } catch (error) {
     card.innerHTML =
-      '<div class="alert alert-danger">No shopping list found</div>';
-    console.error("Error loading shopping list:", error);
+      '<div class="alert alert-danger">Error loading shopping lists</div>';
+    console.error("Error loading shopping lists:", error);
   }
 }
 
-// Toggle shopping list item
-function toggleItem(checkbox) {
-  const itemText = checkbox.closest("label").querySelector(".shopping-item");
-  const itemName = itemText.textContent;
+// Toggle shopping list collapse
+function toggleShoppingList(listId) {
+  const collapseEl = document.getElementById(`collapse-${listId}`);
+  const chevronEl = document.getElementById(`chevron-${listId}`);
   const appState = loadAppState();
-  let checkedItems = appState.checkedShoppingItems || [];
+  const stateKey = `shoppingList_${listId}`;
+  const listState = appState[stateKey] || {
+    collapsed: false,
+    checkedItems: [],
+  };
+
+  const isCollapsed = collapseEl.classList.contains("show");
+
+  if (isCollapsed) {
+    collapseEl.classList.remove("show");
+    chevronEl.textContent = "▶";
+    listState.collapsed = true;
+  } else {
+    collapseEl.classList.add("show");
+    chevronEl.textContent = "▼";
+    listState.collapsed = false;
+  }
+
+  saveAppState({ [stateKey]: listState });
+}
+
+// Toggle shopping list item
+function toggleShoppingItem(checkbox, listId, itemName) {
+  const itemText = checkbox.closest("label").querySelector(".shopping-item");
+  const appState = loadAppState();
+  const stateKey = `shoppingList_${listId}`;
+  const listState = appState[stateKey] || {
+    collapsed: false,
+    checkedItems: [],
+  };
 
   if (checkbox.checked) {
     itemText.style.textDecoration = "line-through";
     itemText.style.opacity = "0.5";
-    if (!checkedItems.includes(itemName)) {
-      checkedItems.push(itemName);
+    if (!listState.checkedItems.includes(itemName)) {
+      listState.checkedItems.push(itemName);
     }
   } else {
     itemText.style.textDecoration = "none";
     itemText.style.opacity = "1";
-    checkedItems = checkedItems.filter((item) => item !== itemName);
+    listState.checkedItems = listState.checkedItems.filter(
+      (item) => item !== itemName
+    );
   }
 
-  saveAppState({ checkedShoppingItems: checkedItems });
+  saveAppState({ [stateKey]: listState });
 }
 
 // Initialize

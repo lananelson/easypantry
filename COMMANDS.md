@@ -11,10 +11,32 @@ This file contains reusable commands/workflows for managing the pantry system.
 1. Check `weekly-meals/[current-week].md` for all recipes and their needed ingredients
 2. Cross-reference with `pantry.csv` to identify what's missing
 3. Check `pantry.csv` for items with `quantity=0` AND `stock_requirement="keep in stock"`
-4. Create/update `shopping-lists/[current-week].txt` with:
-   - Recipe ingredients (organized by section: produce, dairy, pantry)
-   - Out-of-stock items that need restocking (at the bottom)
-   - Plain text format, no section headers, no checkboxes (user adds manually in Apple Notes)
+4. Create/update `shopping-lists/[current-week].json` with:
+   - JSON format with metadata (title, week, created date, status)
+   - Items array with name and "for" fields
+   - Status defaults to "active" for new lists
+
+**Shopping List JSON Format:**
+
+```json
+{
+  "title": "Shopping List - Week XX (Date Range)",
+  "week": "YYYY-WXX",
+  "created": "YYYY-MM-DD",
+  "status": "active",
+  "completed_date": null,
+  "items": [{ "name": "Item name", "for": ["recipe 1", "recipe 2"] }]
+}
+```
+
+**Field Descriptions:**
+
+- `for`: Array of recipe names from the meal plan that need this item (can be empty array)
+
+**Status Values:**
+
+- `active`: Current shopping list in use
+- `completed`: Shopping trip completed (list will be collapsed by default on website)
 
 ## Add Recipe from URL
 
