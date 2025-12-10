@@ -254,14 +254,17 @@ async function loadShoppingList() {
         html += `
           <div class="card mb-3">
             <div class="card-header" style="cursor: pointer;" onclick="toggleShoppingList('${listId}')">
-              <h3 class="card-title">
-                <span id="chevron-${listId}">${chevron}</span> ${
+              <div class="d-flex align-items-center justify-content-between">
+                <h3 class="card-title mb-0">
+                  <span id="chevron-${listId}" style="display: inline-block; width: 1em;">${chevron}</span> ${
           list.title
-        }${statusBadge}
-              </h3>
+        }
+                </h3>
+                ${statusBadge}
+              </div>
               ${
                 list.completed_date
-                  ? `<div class="text-muted small">Completed: ${list.completed_date}</div>`
+                  ? `<div class="text-muted small mt-1">Completed: ${list.completed_date}</div>`
                   : ""
               }
             </div>
