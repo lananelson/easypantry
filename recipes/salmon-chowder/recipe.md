@@ -7,8 +7,6 @@ servings: 4-6
 tags: [seafood, salmon, chowder, one-pot]
 ---
 
-# Easy, Creamy One-Pot Salmon Chowder
-
 ## Ingredients
 
 - 1/2 pound salt pork or bacon, cut into 1/2-inch pieces (225g)

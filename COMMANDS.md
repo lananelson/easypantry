@@ -28,3 +28,35 @@ This file contains reusable commands/workflows for managing the pantry system.
 4. Create `recipes/[recipe-name]/media/` folder
 5. Create `recipes/[recipe-name]/recipe.md` with parsed content
 6. Include source URL in References section
+
+**Recipe Template:**
+
+```markdown
+---
+title: Recipe Title
+category:
+prep_time:
+cook_time:
+servings:
+tags: []
+---
+
+## Ingredients
+
+- ingredient 1
+- ingredient 2
+
+## Instructions
+
+1. Step 1
+2. Step 2
+
+## Substitution Notes
+
+- substitution notes here
+
+## References
+
+- Source: [URL]
+- Author: [Author Name]
+```

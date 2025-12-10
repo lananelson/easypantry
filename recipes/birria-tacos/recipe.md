@@ -7,8 +7,6 @@ servings:
 tags: []
 ---
 
-# Birria Tacos
-
 ## Ingredients
 
 - 6 guajillo chiles
