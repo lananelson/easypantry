@@ -228,7 +228,7 @@ async function loadShoppingList() {
     // Load all shopping lists - for now just the one
     const lists = ["2025-W50"];
     let html =
-      '<div class="accordion accordion-inverted" id="shopping-accordion">';
+      '<div class="accordion accordion-inverted accordion-plus" id="shopping-accordion">';
 
     for (const listId of lists) {
       try {
@@ -258,8 +258,14 @@ async function loadShoppingList() {
               <button class="accordion-button ${
                 listState.collapsed ? "collapsed" : ""
               }" type="button" data-bs-toggle="collapse" data-bs-target="#${collapseId}" aria-expanded="${expandedAttr}" onclick="toggleShoppingList('${listId}')">
-                <div class="d-flex align-items-center justify-content-between w-100 me-3">
-                  <span>${list.title}</span>
+                ${list.title}
+                <div class="accordion-button-toggle accordion-button-toggle-plus">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon">
+                    <path d="M12 5l0 14"></path>
+                    <path d="M5 12l14 0"></path>
+                  </svg>
+                </div>
+                <div class="ms-auto me-3">
                   ${statusBadge}
                 </div>
               </button>
