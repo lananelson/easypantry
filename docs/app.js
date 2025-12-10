@@ -227,7 +227,8 @@ async function loadShoppingList() {
   try {
     // Load all shopping lists - for now just the one
     const lists = ["2025-W50"];
-    let html = "";
+    let html =
+      '<div class="accordion accordion-inverted" id="shopping-accordion">';
 
     for (const listId of lists) {
       try {
@@ -249,20 +250,23 @@ async function loadShoppingList() {
 
         const collapseId = `collapse-${listId}`;
         const showClass = listState.collapsed ? "" : "show";
-        const chevron = listState.collapsed ? "▶" : "▼";
+        const expandedAttr = listState.collapsed ? "false" : "true";
 
         html += `
-          <div class="card mb-3">
-            <div class="card-header" style="cursor: pointer;" onclick="toggleShoppingList('${listId}')">
-              <div class="d-flex align-items-center justify-content-between">
-                <h3 class="card-title mb-0">
-                  <span id="chevron-${listId}" style="display: inline-block; width: 1em;">${chevron}</span> ${list.title}
-                </h3>
-                ${statusBadge}
-              </div>
+          <div class="accordion-item">
+            <div class="accordion-header">
+              <button class="accordion-button ${
+                listState.collapsed ? "collapsed" : ""
+              }" type="button" data-bs-toggle="collapse" data-bs-target="#${collapseId}" aria-expanded="${expandedAttr}" onclick="toggleShoppingList('${listId}')">
+                <div class="d-flex align-items-center justify-content-between w-100 me-3">
+                  <span>${list.title}</span>
+                  ${statusBadge}
+                </div>
+              </button>
             </div>
-            <div id="${collapseId}" class="collapse ${showClass}">
-              <div class="list-group list-group-flush">
+            <div id="${collapseId}" class="accordion-collapse collapse ${showClass}" data-bs-parent="#shopping-accordion">
+              <div class="accordion-body p-0">
+                <div class="list-group list-group-flush">
         `;
 
         list.items.forEach((item) => {
@@ -301,6 +305,7 @@ async function loadShoppingList() {
         });
 
         html += `
+                </div>
               </div>
             </div>
           </div>
@@ -310,7 +315,12 @@ async function loadShoppingList() {
       }
     }
 
-    if (html === "") {
+    html += "</div>";
+
+    if (
+      html ===
+      '<div class="accordion accordion-inverted" id="shopping-accordion"></div>'
+    ) {
       html = '<div class="alert alert-info">No shopping lists found</div>';
     }
 
@@ -325,7 +335,6 @@ async function loadShoppingList() {
 // Toggle shopping list collapse
 function toggleShoppingList(listId) {
   const collapseEl = document.getElementById(`collapse-${listId}`);
-  const chevronEl = document.getElementById(`chevron-${listId}`);
   const appState = loadAppState();
   const stateKey = `shoppingList_${listId}`;
   const listState = appState[stateKey] || {
@@ -333,17 +342,9 @@ function toggleShoppingList(listId) {
     checkedItems: [],
   };
 
+  // The accordion button handles the actual collapse, we just track state
   const isCollapsed = collapseEl.classList.contains("show");
-
-  if (isCollapsed) {
-    collapseEl.classList.remove("show");
-    chevronEl.textContent = "▶";
-    listState.collapsed = true;
-  } else {
-    collapseEl.classList.add("show");
-    chevronEl.textContent = "▼";
-    listState.collapsed = false;
-  }
+  listState.collapsed = isCollapsed; // Will be opposite after Bootstrap handles the toggle
 
   saveAppState({ [stateKey]: listState });
 }
