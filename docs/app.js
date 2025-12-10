@@ -30,16 +30,16 @@ function showSection(sectionId) {
     section.classList.remove("active");
   });
 
-  // Remove active from all nav links
-  document.querySelectorAll(".nav-link").forEach((link) => {
-    link.classList.remove("active");
+  // Remove active from all nav items
+  document.querySelectorAll(".nav-item").forEach((item) => {
+    item.classList.remove("active");
   });
 
   // Show selected section
   document.getElementById(sectionId).classList.add("active");
 
-  // Activate nav link
-  event.target.closest(".nav-link").classList.add("active");
+  // Activate nav item
+  event.target.closest(".nav-item").classList.add("active");
 
   // Save active section to state
   saveAppState({ activeSection: sectionId });
@@ -394,12 +394,13 @@ document.addEventListener("DOMContentLoaded", () => {
   });
   document.getElementById(activeSection).classList.add("active");
 
-  // Set the active nav link
-  document.querySelectorAll(".nav-link").forEach((link) => {
-    link.classList.remove("active");
-    const linkHref = link.getAttribute("onclick");
+  // Set the active nav item
+  document.querySelectorAll(".nav-item").forEach((item) => {
+    item.classList.remove("active");
+    const link = item.querySelector(".nav-link");
+    const linkHref = link ? link.getAttribute("onclick") : null;
     if (linkHref && linkHref.includes(`'${activeSection}'`)) {
-      link.classList.add("active");
+      item.classList.add("active");
     }
   });
 
