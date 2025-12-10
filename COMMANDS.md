@@ -2,6 +2,70 @@
 
 This file contains reusable commands/workflows for managing the pantry system.
 
+## Meal Planning Workflow
+
+**Overview:**
+
+Meal planning follows a progressive workflow from ideas to recipes to shopping lists.
+
+**Process:**
+
+1. **Start with Ideas**: Add meal ideas to the "Ideas" section of `weekly-meals/[week].md`
+
+   - Simple list of meal concepts (e.g., "Baked salmon", "Cod chowder")
+   - No details needed at this stage
+
+2. **Develop Recipes**: Move ideas to the "Recipes" section when ready to plan
+
+   - **For recipes with full documentation**: Link to recipe file and list ingredients
+
+     - Format: `### [Recipe Name](../recipes/recipe-name/recipe.md)`
+     - List all ingredients with status: `✓` (have it) or `(need to buy)`
+     - Note substitutions inline (e.g., "use Fontina ✓" instead of "Melting cheese")
+
+   - **For simple recipes**: Add ingredients list without creating recipe file
+     - Format: `### Recipe Name` (no link)
+     - List basic ingredients with status: `✓` (have it) or `(need to buy)`
+     - Do NOT include cooking method in meal plan
+
+3. **Generate Shopping List**: Use "generate shopping list" command
+   - Extracts all "(need to buy)" items from meal plan
+   - Adds out-of-stock pantry staples (quantity=0, stock_requirement="keep in stock")
+   - Creates `shopping-lists/[week].json` with items linked to recipes
+
+**Meal Plan Format:**
+
+```markdown
+---
+week: YYYY-WXX
+date_range: YYYY-MM-DD to YYYY-MM-DD
+---
+
+# Week XX - Month YYYY
+
+## Ideas
+
+- Meal idea 1
+- Meal idea 2
+
+## Recipes
+
+### [Full Recipe Name](../recipes/recipe-name/recipe.md)
+
+**Ingredients needed:**
+
+- Ingredient 1 ✓
+- Ingredient 2 (need to buy)
+- Ingredient 3 (use substitute instead ✓)
+
+### Simple Recipe Name
+
+**Ingredients needed:**
+
+- Ingredient 1 ✓
+- Ingredient 2 ✓
+```
+
 ## Generate Shopping List
 
 **Command:** "generate shopping list" or "regenerate shopping list"
