@@ -242,9 +242,9 @@ async function loadShoppingList() {
 
         const statusBadge =
           list.status === "completed"
-            ? '<span class="badge bg-success ms-2">Completed</span>'
+            ? '<span class="badge bg-green-lt">Completed</span>'
             : list.status === "active"
-            ? '<span class="badge bg-primary ms-2">Active</span>'
+            ? '<span class="badge bg-blue-lt">Active</span>'
             : "";
 
         const collapseId = `collapse-${listId}`;
@@ -254,19 +254,10 @@ async function loadShoppingList() {
         html += `
           <div class="card mb-3">
             <div class="card-header" style="cursor: pointer;" onclick="toggleShoppingList('${listId}')">
-              <div class="d-flex align-items-start justify-content-between">
-                <div>
-                  <h3 class="card-title mb-0">
-                    <span id="chevron-${listId}" style="display: inline-block; width: 1em;">${chevron}</span> ${
-          list.title
-        }
-                  </h3>
-                  ${
-                    list.completed_date
-                      ? `<div class="text-muted small mt-1">Completed: ${list.completed_date}</div>`
-                      : ""
-                  }
-                </div>
+              <div class="d-flex align-items-center justify-content-between">
+                <h3 class="card-title mb-0">
+                  <span id="chevron-${listId}" style="display: inline-block; width: 1em;">${chevron}</span> ${list.title}
+                </h3>
                 ${statusBadge}
               </div>
             </div>
