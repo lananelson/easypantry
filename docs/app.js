@@ -98,15 +98,51 @@ async function loadShoppingList() {
     const response = await fetch("./shopping-lists/2025-W50.txt");
     const text = await response.text();
 
-    const html =
-      '<pre class="m-0" style="white-space: pre-wrap; font-family: inherit; font-size: 0.95rem;">' +
-      text +
-      "</pre>";
+    // Parse the shopping list into sections
+    const lines = text.trim().split("\n");
+    let html = '<div class="list-group list-group-flush">';
+
+    lines.forEach((line, index) => {
+      if (line.trim() === "") return; // Skip empty lines
+
+      // Check if it's a header line (contains "Shopping List" or ends with ":")
+      if (line.includes("Shopping List") || line.includes("Week")) {
+        html += `<div class="list-group-item bg-light"><strong>${line}</strong></div>`;
+      } else {
+        // It's a regular item - make it checkable
+        html += `
+          <label class="list-group-item">
+            <div class="row align-items-center">
+              <div class="col-auto">
+                <input class="form-check-input m-0" type="checkbox" onchange="toggleItem(this)">
+              </div>
+              <div class="col">
+                <span class="shopping-item">${line}</span>
+              </div>
+            </div>
+          </label>
+        `;
+      }
+    });
+
+    html += "</div>";
     card.innerHTML = html;
   } catch (error) {
     card.innerHTML =
       '<div class="alert alert-danger">No shopping list found</div>';
     console.error("Error loading shopping list:", error);
+  }
+}
+
+// Toggle shopping list item
+function toggleItem(checkbox) {
+  const itemText = checkbox.closest("label").querySelector(".shopping-item");
+  if (checkbox.checked) {
+    itemText.style.textDecoration = "line-through";
+    itemText.style.opacity = "0.5";
+  } else {
+    itemText.style.textDecoration = "none";
+    itemText.style.opacity = "1";
   }
 }
 
