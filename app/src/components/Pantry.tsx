@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import type { PantryItem } from "../types.js";
+import { getComparableValue } from "../types.js";
 import { loadPantryData } from "../utils/dataLoader.js";
 import { loadAppState, updateAppState } from "../utils/appState.js";
 
@@ -42,8 +43,8 @@ export default function Pantry() {
   };
 
   const sortedItems = [...items].sort((a, b) => {
-    const aVal = a[sortBy];
-    const bVal = b[sortBy];
+    const aVal = getComparableValue(a, sortBy);
+    const bVal = getComparableValue(b, sortBy);
 
     if (aVal === bVal) return 0;
 
