@@ -29,8 +29,7 @@ export default function ShoppingLists() {
         const collapsed: Record<string, boolean> = {};
 
         loadedLists.forEach((list) => {
-          const stateKey = `shoppingList_${list.week}`;
-          const listState = appState[stateKey] || {
+          const listState = appState.shoppingLists?.[list.week] || {
             collapsed: list.status === "completed",
             checkedItems: [],
           };
@@ -48,6 +47,25 @@ export default function ShoppingLists() {
       });
   }, []);
 
+  const toggleCollapse = (listWeek: string) => {
+    setCollapsedLists((prev) => {
+      const newCollapsed = !prev[listWeek];
+
+      const appState = loadAppState();
+      updateAppState({
+        shoppingLists: {
+          ...appState.shoppingLists,
+          [listWeek]: {
+            collapsed: newCollapsed,
+            checkedItems: checkedItems[listWeek] || [],
+          },
+        },
+      });
+
+      return { ...prev, [listWeek]: newCollapsed };
+    });
+  };
+
   const toggleItem = (listWeek: string, itemName: string) => {
     setCheckedItems((prev) => {
       const listItems = prev[listWeek] || [];
@@ -55,9 +73,15 @@ export default function ShoppingLists() {
         ? listItems.filter((i) => i !== itemName)
         : [...listItems, itemName];
 
-      updateAppState(`shoppingList_${listWeek}`, {
-        collapsed: collapsedLists[listWeek],
-        checkedItems: newItems,
+      const appState = loadAppState();
+      updateAppState({
+        shoppingLists: {
+          ...appState.shoppingLists,
+          [listWeek]: {
+            collapsed: collapsedLists[listWeek],
+            checkedItems: newItems,
+          },
+        },
       });
 
       return { ...prev, [listWeek]: newItems };
@@ -111,6 +135,7 @@ export default function ShoppingLists() {
                     data-bs-target={`#${collapseId}`}
                     aria-expanded={!isCollapsed}
                     aria-controls={collapseId}
+                    onClick={() => toggleCollapse(list.week)}
                   >
                     {list.title}
                     <span

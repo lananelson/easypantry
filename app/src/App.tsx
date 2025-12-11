@@ -1,11 +1,19 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Pantry from "./components/Pantry.js";
 import ShoppingLists from "./components/ShoppingLists.js";
+import { loadAppState, updateAppState } from "./utils/appState.js";
 
 type Section = "pantry" | "shopping" | "meals";
 
 function App() {
-  const [activeSection, setActiveSection] = useState<Section>("pantry");
+  const [activeSection, setActiveSection] = useState<Section>(() => {
+    const state = loadAppState();
+    return state.nav?.active || "pantry";
+  });
+
+  useEffect(() => {
+    updateAppState({ nav: { active: activeSection } });
+  }, [activeSection]);
 
   return (
     <div className="page">

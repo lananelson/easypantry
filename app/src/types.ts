@@ -27,9 +27,17 @@ export interface ShoppingList {
 }
 
 export interface AppState {
-  [key: string]: {
-    collapsed?: boolean;
-    checkedItems?: string[];
+  nav?: {
+    active: "pantry" | "shopping" | "meals";
+  };
+  pantry?: {
+    sortBy: keyof PantryItem;
+    sortOrder: "asc" | "desc";
+  };
+  shoppingLists?: {
+    [listWeek: string]: {
+      collapsed: boolean;
+      checkedItems: string[];
+    };
   };
 }
-

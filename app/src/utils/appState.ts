@@ -11,8 +11,7 @@ export function saveAppState(state: AppState): void {
   localStorage.setItem(APP_STATE_KEY, JSON.stringify(state));
 }
 
-export function updateAppState(key: string, value: any): void {
+export function updateAppState(updates: Partial<AppState>): void {
   const state = loadAppState();
-  state[key] = value;
-  saveAppState(state);
+  saveAppState({ ...state, ...updates });
 }

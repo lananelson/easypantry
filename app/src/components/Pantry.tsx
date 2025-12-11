@@ -1,11 +1,20 @@
 import { useEffect, useState } from "react";
 import type { PantryItem } from "../types.js";
 import { loadPantryData } from "../utils/dataLoader.js";
+import { loadAppState, updateAppState } from "../utils/appState.js";
 
 export default function Pantry() {
   const [items, setItems] = useState<PantryItem[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [sortBy, setSortBy] = useState<keyof PantryItem>(() => {
+    const state = loadAppState();
+    return state.pantry?.sortBy || "name";
+  });
+  const [sortOrder, setSortOrder] = useState<"asc" | "desc">(() => {
+    const state = loadAppState();
+    return state.pantry?.sortOrder || "asc";
+  });
 
   useEffect(() => {
     loadPantryData()
@@ -18,6 +27,29 @@ export default function Pantry() {
         setLoading(false);
       });
   }, []);
+
+  useEffect(() => {
+    updateAppState({ pantry: { sortBy, sortOrder } });
+  }, [sortBy, sortOrder]);
+
+  const handleSort = (column: keyof PantryItem) => {
+    if (sortBy === column) {
+      setSortOrder(sortOrder === "asc" ? "desc" : "asc");
+    } else {
+      setSortBy(column);
+      setSortOrder("asc");
+    }
+  };
+
+  const sortedItems = [...items].sort((a, b) => {
+    const aVal = a[sortBy];
+    const bVal = b[sortBy];
+
+    if (aVal === bVal) return 0;
+
+    const comparison = aVal < bVal ? -1 : 1;
+    return sortOrder === "asc" ? comparison : -comparison;
+  });
 
   if (loading) {
     return (
@@ -58,6 +90,11 @@ export default function Pantry() {
     }
   };
 
+  const getSortIcon = (column: keyof PantryItem) => {
+    if (sortBy !== column) return null;
+    return sortOrder === "asc" ? " ▲" : " ▼";
+  };
+
   return (
     <div className="card">
       <div className="card-header">
@@ -67,16 +104,41 @@ export default function Pantry() {
         <table className="table table-vcenter card-table">
           <thead>
             <tr>
-              <th>Name</th>
-              <th>Category</th>
-              <th>Quantity</th>
-              <th>Location</th>
-              <th>Urgency</th>
+              <th
+                style={{ cursor: "pointer" }}
+                onClick={() => handleSort("name")}
+              >
+                Name{getSortIcon("name")}
+              </th>
+              <th
+                style={{ cursor: "pointer" }}
+                onClick={() => handleSort("category")}
+              >
+                Category{getSortIcon("category")}
+              </th>
+              <th
+                style={{ cursor: "pointer" }}
+                onClick={() => handleSort("quantity")}
+              >
+                Quantity{getSortIcon("quantity")}
+              </th>
+              <th
+                style={{ cursor: "pointer" }}
+                onClick={() => handleSort("location")}
+              >
+                Location{getSortIcon("location")}
+              </th>
+              <th
+                style={{ cursor: "pointer" }}
+                onClick={() => handleSort("urgency")}
+              >
+                Urgency{getSortIcon("urgency")}
+              </th>
               <th>Notes</th>
             </tr>
           </thead>
           <tbody>
-            {items.map((item, index) => (
+            {sortedItems.map((item, index) => (
               <tr key={index}>
                 <td className={getUrgencyClass(item.urgency)}>{item.name}</td>
                 <td>{item.category}</td>
