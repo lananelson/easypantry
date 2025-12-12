@@ -2,6 +2,7 @@ name,category,quantity,unit,container_state,location,perishable,urgency,vendor,s
 Chicken tamales,protein,3,pieces,sealed,fridge,yes,medium,,,
 Chicken tamales,protein,10,pieces,sealed,freezer,yes,low,,,
 Cod fillets,protein,1,large pack,open,fridge,yes,high,,,"Fresh, not frozen"
+Salmon fillets,protein,1,lb,open,fridge,yes,high,,,"Baked; ~1 lb leftover"
 Chanterelles,produce,0.7,lb,open,fridge,yes,high,,,"Wild mushrooms"
 Blueberries,produce,1,small container,open,fridge,yes,high,,,"Fresh, mold-prone"
 Carrots,produce,3,medium,n.a.,fridge,yes,medium,,,"Loose"
@@ -106,7 +107,7 @@ Coconut milk,canned,1,can,sealed,garage,no,low,,,"Standard coconut milk can"
 Organic Italian pasta,grain,2,kg,sealed,garage,no,low,,,"Large box"
 Fettuccine,grain,500,grams,sealed,garage,no,low,,,"Dry pasta"
 Beef tallow (sealed),fat,400,grams,sealed,garage,no,low,,,"Sealed jar; garage storage"
-Lemons,produce,2,each,n.a.,fridge,yes,medium,,,"Medium size"
+Lemons,produce,1,each,n.a.,fridge,yes,medium,,,"Medium size"
 Shallots,produce,2,each,n.a.,fridge,yes,medium,,,"Small shallots"
 Organic sour cream,dairy,1,container,sealed,fridge,yes,medium,,,"Full container"
 Whipping cream,dairy,1,carton,sealed,fridge,yes,high,,,"Use within ~5–7 days"
