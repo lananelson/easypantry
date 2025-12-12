@@ -1,19 +1,43 @@
 import { useState, useEffect } from "react";
 import Pantry from "./components/Pantry.js";
 import ShoppingLists from "./components/ShoppingLists.js";
+import MealPlans from "./components/MealPlans.js";
+import RecipeView from "./components/RecipeView.js";
 import { loadAppState, updateAppState } from "./utils/appState.js";
 
 type Section = "pantry" | "shopping" | "meals";
+
+type Route = { kind: "main" } | { kind: "recipe"; path: string };
+
+function getRouteFromHash(): Route {
+  const hash = window.location.hash || "";
+  const prefix = "#/recipe/";
+  if (hash.startsWith(prefix)) {
+    const path = decodeURIComponent(hash.slice(prefix.length));
+    return { kind: "recipe", path };
+  }
+  return { kind: "main" };
+}
 
 function App() {
   const [activeSection, setActiveSection] = useState<Section>(() => {
     const state = loadAppState();
     return state.nav?.active || "pantry";
   });
+  const [route, setRoute] = useState<Route>(() => getRouteFromHash());
 
   useEffect(() => {
     updateAppState({ nav: { active: activeSection } });
   }, [activeSection]);
+
+  useEffect(() => {
+    const handleHashChange = () => {
+      setRoute(getRouteFromHash());
+    };
+
+    window.addEventListener("hashchange", handleHashChange);
+    return () => window.removeEventListener("hashchange", handleHashChange);
+  }, []);
 
   return (
     <div className="page">
@@ -97,15 +121,14 @@ function App() {
       <div className="page-wrapper">
         <div className="page-body">
           <div className="container-xl">
-            {activeSection === "pantry" && <Pantry />}
-            {activeSection === "shopping" && <ShoppingLists />}
-            {activeSection === "meals" && (
-              <div className="card">
-                <div className="card-body">
-                  <h2>Meal Plans</h2>
-                  <p>Coming soon...</p>
-                </div>
-              </div>
+            {route.kind === "recipe" ? (
+              <RecipeView path={route.path} />
+            ) : (
+              <>
+                {activeSection === "pantry" && <Pantry />}
+                {activeSection === "meals" && <MealPlans />}
+                {activeSection === "shopping" && <ShoppingLists />}
+              </>
             )}
           </div>
         </div>

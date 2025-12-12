@@ -57,6 +57,22 @@ export interface ShoppingList {
   items: ShoppingListItem[];
 }
 
+export interface MealPlanRecipe {
+  name: string;
+  /** Path to recipe markdown relative to public root, e.g. "recipes/birria-tacos/recipe.md" */
+  path?: string;
+}
+
+export interface MealPlan {
+  id: string;
+  week: string;
+  dateRange: string;
+  title: string;
+  ideas: string[];
+  meals: string[];
+  recipes: MealPlanRecipe[];
+}
+
 export interface AppState {
   nav?: {
     active: "pantry" | "shopping" | "meals";
