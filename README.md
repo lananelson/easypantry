@@ -48,10 +48,10 @@ The app is automatically built and deployed to GitHub Pages when changes are pus
 ## Data Management
 
 All data is stored in static files:
+
 - Pantry items: `public/pantry.csv`
 - Shopping lists: `public/shopping-lists/*.json`
 - Recipes: `public/recipes/*/recipe.md`
 - Meal plans: `public/weekly-meals/*.md`
 
 See [COMMANDS.md](COMMANDS.md) for workflows and commands.
-

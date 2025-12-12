@@ -102,6 +102,41 @@ date_range: YYYY-MM-DD to YYYY-MM-DD
 - `active`: Current shopping list in use
 - `completed`: Shopping trip completed (list will be collapsed by default on website)
 
+## Pantry: "What's Going Bad" Check
+
+**Command:** "what's going bad" or "check what's going bad"
+
+**High-level methodology (do not over-formalize):**
+
+1. **Start from current data**
+
+   - Look at `public/pantry.csv`
+   - Focus on rows with `perishable = yes`
+
+2. **Use git history as a rough age signal**
+
+   - Follow the file across renames (e.g., `pantry.csv` → `public/pantry.csv`) using `git log --follow`
+   - Inspect a few historical snapshots (`git show <sha>:pantry.csv` / `public/pantry.csv`) to see when each perishable item first appears and how long it has been around in git
+
+3. **Combine type + age + notes**
+
+   - Consider how fragile the item is (e.g., raw fish, berries, herbs vs. sealed dates or hard cheese)
+   - Use free-text `notes` (e.g., "About a week old", "Expires soon", "mold-prone") to adjust your sense of risk
+
+4. **Classify attention level (roughly)**
+
+   - Very urgent: fragile perishables that have been in the pantry for multiple days/commits or have notes indicating near-term spoilage
+   - Medium: items that keep reasonably well or are sealed but have been around for a while
+   - Low: sealed or frozen items that are new or inherently long-lived
+
+5. **Optionally suggest `urgency` updates**
+   - Suggest bumping `urgency` up for items that clearly need attention soon (e.g., open kombucha in a warm location, old fish, berries, herbs)
+   - Suggest lowering `urgency` for newly added, sealed, or frozen items that are unlikely to go bad soon
+
+This is intentionally high-level: use judgment rather than strict rules, and surface recommendations to the user instead of silently editing `public/pantry.csv`.
+
+**Important:** The "what's going bad" check itself must be read-only. It should _never_ directly edit `public/pantry.csv`; instead, it should propose concrete changes (e.g., updated `urgency` values or notes) and only apply them when explicitly confirmed by the user.
+
 ## Add Recipe from URL
 
 **Command:** "add recipe from [URL]"
