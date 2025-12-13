@@ -25,6 +25,7 @@ function App() {
     return state.nav?.active || "pantry";
   });
   const [route, setRoute] = useState<Route>(() => getRouteFromHash());
+  const isRecipeRoute = route.kind === "recipe";
 
   useEffect(() => {
     updateAppState({ nav: { active: activeSection } });
@@ -42,80 +43,82 @@ function App() {
   return (
     <div className="page">
       {/* Navigation */}
-      <header className="navbar navbar-expand-md d-print-none">
-        <div className="container-xl">
-          {/* BEGIN NAVBAR TOGGLER */}
-          <button
-            className="navbar-toggler"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbar-menu"
-            aria-controls="navbar-menu"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span className="navbar-toggler-icon"></span>
-          </button>
-          {/* END NAVBAR TOGGLER */}
+      {!isRecipeRoute && (
+        <header className="navbar navbar-expand-md d-print-none">
+          <div className="container-xl">
+            {/* BEGIN NAVBAR TOGGLER */}
+            <button
+              className="navbar-toggler"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbar-menu"
+              aria-controls="navbar-menu"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span className="navbar-toggler-icon"></span>
+            </button>
+            {/* END NAVBAR TOGGLER */}
 
-          {/* BEGIN NAVBAR MENU */}
-          <div className="collapse navbar-collapse" id="navbar-menu">
-            <div className="d-flex flex-column flex-md-row flex-fill align-items-stretch align-items-md-center">
-              <ul className="navbar-nav">
-                <li
-                  className={`nav-item ${
-                    activeSection === "pantry" ? "active" : ""
-                  }`}
-                >
-                  <a
-                    className="nav-link"
-                    href="#"
-                    onClick={(e) => {
-                      e.preventDefault();
-                      setActiveSection("pantry");
-                    }}
+            {/* BEGIN NAVBAR MENU */}
+            <div className="collapse navbar-collapse" id="navbar-menu">
+              <div className="d-flex flex-column flex-md-row flex-fill align-items-stretch align-items-md-center">
+                <ul className="navbar-nav">
+                  <li
+                    className={`nav-item ${
+                      activeSection === "pantry" ? "active" : ""
+                    }`}
                   >
-                    <span className="nav-link-title">Pantry</span>
-                  </a>
-                </li>
-                <li
-                  className={`nav-item ${
-                    activeSection === "meals" ? "active" : ""
-                  }`}
-                >
-                  <a
-                    className="nav-link"
-                    href="#"
-                    onClick={(e) => {
-                      e.preventDefault();
-                      setActiveSection("meals");
-                    }}
+                    <a
+                      className="nav-link"
+                      href="#"
+                      onClick={(e) => {
+                        e.preventDefault();
+                        setActiveSection("pantry");
+                      }}
+                    >
+                      <span className="nav-link-title">Pantry</span>
+                    </a>
+                  </li>
+                  <li
+                    className={`nav-item ${
+                      activeSection === "meals" ? "active" : ""
+                    }`}
                   >
-                    <span className="nav-link-title">Meal Plans</span>
-                  </a>
-                </li>
-                <li
-                  className={`nav-item ${
-                    activeSection === "shopping" ? "active" : ""
-                  }`}
-                >
-                  <a
-                    className="nav-link"
-                    href="#"
-                    onClick={(e) => {
-                      e.preventDefault();
-                      setActiveSection("shopping");
-                    }}
+                    <a
+                      className="nav-link"
+                      href="#"
+                      onClick={(e) => {
+                        e.preventDefault();
+                        setActiveSection("meals");
+                      }}
+                    >
+                      <span className="nav-link-title">Meal Plans</span>
+                    </a>
+                  </li>
+                  <li
+                    className={`nav-item ${
+                      activeSection === "shopping" ? "active" : ""
+                    }`}
                   >
-                    <span className="nav-link-title">Shopping Lists</span>
-                  </a>
-                </li>
-              </ul>
+                    <a
+                      className="nav-link"
+                      href="#"
+                      onClick={(e) => {
+                        e.preventDefault();
+                        setActiveSection("shopping");
+                      }}
+                    >
+                      <span className="nav-link-title">Shopping Lists</span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </div>
+            {/* END NAVBAR MENU */}
           </div>
-          {/* END NAVBAR MENU */}
-        </div>
-      </header>
+        </header>
+      )}
 
       {/* Page Content */}
       <div className="page-wrapper">
