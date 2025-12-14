@@ -83,8 +83,8 @@ date_range: YYYY-MM-DD to YYYY-MM-DD
 **Process:**
 
 1. Check `weekly-meals/[current-week].md` for all recipes and their needed ingredients
-2. Cross-reference with `pantry.csv` to identify what's missing
-3. Check `pantry.csv` for items with `quantity=0` AND `stock_requirement="keep in stock"`
+2. Cross-reference with `public/pantry.csv` to identify what's missing
+3. Check `public/pantry.csv` for items with `quantity=0` AND `stock_requirement="keep in stock"`
 4. Create/update `shopping-lists/[current-week].json` with:
    - JSON format with metadata (title, week, created date, status)
    - Items array with name and "for" fields
@@ -114,7 +114,7 @@ date_range: YYYY-MM-DD to YYYY-MM-DD
 
 ## Update Pantry Data
 
-**Command:** "update pantry"
+**Command:** "update pantry", "I ate something", "we are out of"
 
 **High-level approach:**
 
@@ -122,6 +122,9 @@ date_range: YYYY-MM-DD to YYYY-MM-DD
   - Add, remove, or adjust rows and field values (e.g., quantity, location, notes)
   - Do **not** change the CSV schema (header row or column order)
   - Follow the user's instructions literally; don't invent pantry changes that weren't requested
+  - When an item's quantity is reduced to **0**:
+    - If `stock_requirement` is empty/zero, **remove that row from the CSV** (the item is gone)
+    - If `stock_requirement` is non-empty (e.g. `keep in stock`), keep the row with quantity `0` so it still shows up as a keep-in-stock item
   - When the change is clearly tied to a specific meal or recipe (e.g., "we made birria quesadillas" and reduced related ingredients):
     - Look at the current week's `weekly-meals/[week].md`
   - If the recipe exists under `## Recipes`, **suggest** updating the meal plan by:
@@ -149,6 +152,7 @@ date_range: YYYY-MM-DD to YYYY-MM-DD
 2. **Scan pantry history for meal-like changes**
 
    - Use `git log --follow -- public/pantry.csv` (and older `pantry.csv` if needed) to inspect commits for this week.
+   - **Temporary migration quirk (agent bug):** there was a short-lived period where both a root `pantry.csv` and `public/pantry.csv` existed at once. When you're analyzing _that_ week, remember some edits might have landed in the wrong file; prefer `public/pantry.csv` as the intended source of truth. After the cleanup commit that deleted the root `pantry.csv`, you can ignore it and only follow `public/pantry.csv` going forward.
    - Look for rows that are likely **meals** or cooked dishes (e.g., prepared foods, leftovers, items whose names match recipes or ideas) whose quantities dropped or were removed during the week.
 
 3. **Match changes to the weekly meal plan**
@@ -191,6 +195,7 @@ date_range: YYYY-MM-DD to YYYY-MM-DD
 
    - Follow the file across renames (e.g., `pantry.csv` → `public/pantry.csv`) using `git log --follow`
    - Inspect a few historical snapshots (`git show <sha>:pantry.csv` / `public/pantry.csv`) to see when each perishable item first appears and how long it has been around in git
+   - **Migration quirk (agent bug, time-bounded):** for one short period there were _two_ pantry CSVs (`pantry.csv` at the root and `public/pantry.csv`). When you're looking at that window in history, treat the root `pantry.csv` as a flawed parallel copy and prefer `public/pantry.csv` for the real state. After the cleanup that removed the root file, you can stop looking back at the duplicate entirely.
 
 3. **Combine type + age + notes**
 
