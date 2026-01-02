@@ -7,8 +7,6 @@ servings:
 tags: []
 ---
 
-# Chanterelle Cream Pasta
-
 ## Ingredients
 
 - Chanterelles
