@@ -14,7 +14,7 @@ tags: []
 - 4 large eggs
 - 1 cup grated pecorino (preferably Locatelli)
 - 8 to 12 grinds of black pepper
-- 3 cups [seasoned italian bread crumbs](../seasoned-italian-breadcrumbs/recipe.md)
+- 3 cups [seasoned italian bread crumbs](../seasoned-italian-breadcrumbs/recipe.md) ore [home-made sibs](../homemade-sibs/recipe.md)
 - 1/2 bunch fresh flat leaf parsley, roughly chopped
 - 1 1/2 cups grated parmesan
 - Extra virgin olive oil, for frying

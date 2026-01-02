@@ -38,5 +38,5 @@ tags: [seafood, salmon, chowder, one-pot]
 
 ## References
 
-- Source: https://www.seriouseats.com/easy-creamy-one-pot-weeknight-salmon-chowder-recipe
+- Source: <https://www.seriouseats.com/easy-creamy-one-pot-weeknight-salmon-chowder-recipe>
 - Author: J. Kenji López-Alt

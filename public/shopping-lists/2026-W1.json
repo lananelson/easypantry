@@ -1,8 +1,40 @@
 {
-  "title": "Week 1 (Dec 29, 2025–Jan 4, 2026)",
+  "title": "Week 1",
   "week": "2026-W01",
-  "created": "2026-01-02",
+  "created": "2025-12-29",
   "status": "open",
   "completed_date": null,
-  "items": [{ "name": "", "for": [] }]
+  "items": [
+    {
+      "name": "Jumbo or super colossal shrimp (about 2 lb)",
+      "for": ["shrimp parm"]
+    },
+    { "name": "All-purpose flour", "for": ["shrimp parm"] },
+    { "name": "Eggs (1 dozen)", "for": ["shrimp parm"] },
+    {
+      "name": "Pecorino (Locatelli wedge)",
+      "for": ["shrimp parm", "seasoned italian breadcrumbs", "garlic bread"]
+    },
+    {
+      "name": "Seasoned Italian breadcrumbs (large container)",
+      "for": ["shrimp parm"]
+    },
+    { "name": "Flat-leaf parsley (1 bunch)", "for": ["shrimp parm"] },
+    { "name": "Fresh mozzarella (8 oz)", "for": ["shrimp parm"] },
+
+    { "name": "Italian or French bread loaves (2)", "for": ["garlic bread"] },
+
+    { "name": "Onions (2 large)", "for": ["marinara (half batch)"] },
+    {
+      "name": "Garlic (4 bulbs)",
+      "for": [
+        "shrimp parm",
+        "marinara (half batch)",
+        "garlic butter",
+        "garlic bread"
+      ]
+    },
+
+    { "name": "Anchovy fillets (1 tin)", "for": ["garlic butter"] }
+  ]
 }
