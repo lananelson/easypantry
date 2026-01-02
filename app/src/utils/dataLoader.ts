@@ -6,8 +6,13 @@ import type {
   ShoppingList,
 } from "../types.js";
 
+const base = import.meta.env.BASE_URL; // "/" in dev, "/easypantry/" in prod (per vite base)
+
 export async function loadPantryData(): Promise<PantryItem[]> {
-  const response = await fetch("/easypantry/pantry.csv");
+  const response = await fetch(`${base}pantry.csv`);
+  if (!response.ok) {
+    throw new Error(`Failed to load pantry.csv (${response.status})`);
+  }
   const csvText = await response.text();
 
   return new Promise((resolve, reject) => {
@@ -15,33 +20,45 @@ export async function loadPantryData(): Promise<PantryItem[]> {
       header: true,
       skipEmptyLines: true,
       dynamicTyping: true,
-      complete: (results) => {
-        resolve(results.data);
-      },
-      error: (error: Error) => {
-        reject(error);
-      },
+      complete: (results) => resolve(results.data),
+      error: (error: Error) => reject(error),
     });
   });
 }
 
 export async function loadShoppingLists(): Promise<string[]> {
-  // For now, we'll hardcode the list of shopping list IDs
-  // In the future, we could generate an index file
-  return ["2025-W50"];
+  const res = await fetch(`${base}shopping-lists/index.json`);
+  if (!res.ok) {
+    throw new Error(`Failed to load shopping list index (${res.status})`);
+  }
+  return res.json();
 }
 
 export async function loadShoppingList(listId: string): Promise<ShoppingList> {
-  const response = await fetch(`/easypantry/shopping-lists/${listId}.json`);
+  const response = await fetch(`${base}shopping-lists/${listId}.json`);
+  if (!response.ok) {
+    throw new Error(
+      `Failed to load shopping list ${listId} (${response.status})`
+    );
+  }
   return response.json();
 }
 
-const MEAL_PLAN_WEEKS = ["2025-W50"];
-
 export async function loadMealPlans(): Promise<MealPlan[]> {
+  const res = await fetch(`${base}weekly-meals/index.json`);
+  if (!res.ok) {
+    throw new Error(`Failed to load meal plan index (${res.status})`);
+  }
+  const weekIds: string[] = await res.json();
+
   const plans = await Promise.all(
-    MEAL_PLAN_WEEKS.map(async (weekId) => {
-      const response = await fetch(`/easypantry/weekly-meals/${weekId}.md`);
+    weekIds.map(async (weekId) => {
+      const response = await fetch(`${base}weekly-meals/${weekId}.md`);
+      if (!response.ok) {
+        throw new Error(
+          `Failed to load meal plan ${weekId} (${response.status})`
+        );
+      }
       const text = await response.text();
       return parseMealPlanMarkdown(weekId, text);
     })
@@ -56,7 +73,7 @@ function parseMealPlanMarkdown(weekId: string, text: string): MealPlan {
   let dateRange = "";
   let title = "";
 
-  // Extract frontmatter and main title
+  // Extract frontmatter-ish fields and main title
   for (const line of lines) {
     const trimmed = line.trim();
 
@@ -122,15 +139,9 @@ function normalizeRecipePath(rawPath: string): string {
   const trimmed = rawPath.trim();
   if (!trimmed) return "";
 
-  if (trimmed.startsWith("../")) {
-    return trimmed.slice(3);
-  }
-  if (trimmed.startsWith("./")) {
-    return trimmed.slice(2);
-  }
-  if (trimmed.startsWith("/")) {
-    return trimmed.slice(1);
-  }
+  if (trimmed.startsWith("../")) return trimmed.slice(3);
+  if (trimmed.startsWith("./")) return trimmed.slice(2);
+  if (trimmed.startsWith("/")) return trimmed.slice(1);
 
   return trimmed;
 }
@@ -175,9 +186,7 @@ function extractRecipeHeadings(lines: string[]): MealPlanRecipe[] {
               closeParenIndex
             );
             const normalized = normalizeRecipePath(linkTarget);
-            if (normalized) {
-              path = normalized;
-            }
+            if (normalized) path = normalized;
           }
         }
       }
