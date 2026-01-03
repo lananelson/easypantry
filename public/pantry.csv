@@ -1,12 +1,9 @@
 name,category,quantity,unit,container_state,location,perishable,urgency,vendor,stock_requirement,notes
 Chicken tamales,protein,5,pieces,sealed,freezer,yes,low,,,
-Chanterelles,produce,0.7,lb,open,fridge,yes,high,,,"Wild mushrooms"
 Carrots,produce,1,medium,n.a.,fridge,yes,medium,,,"Loose"
 Garlic,produce,0.5,bulb,n.a.,pantry,yes,medium,,,"Half bulb"
-Corn tortillas,pasta,18,tortillas,open,fridge,yes,medium,,,"Refrigerated"
 Tahini,fermented pastes,1,jar,open,fridge,no,low,,,"Sesame paste"
 Miso paste,fermented pastes,1,tbsp,open,fridge,no,low,,,"Small amount left"
-Parmesan cheese,cheese,1,wedge,open,fridge,yes,medium,,,"Hard cheese"
 Olives,preserved vegetables,1,jar,open,fridge,yes,medium,,,"In brine"
 Beef tallow,oils & fats,1,jar,open,fridge,no,low,,,"Cooking fat"
 Dark soy sauce,asian sauces,1,bottle,open,fridge,no,low,,,"Dark style"
@@ -95,3 +92,7 @@ Organic Italian pasta,pasta,2,kg,sealed,garage,no,low,,,"Large box"
 Fettuccine,pasta,500,grams,sealed,garage,no,low,,,"Dry pasta"
 Beef tallow (sealed),oils & fats,400,grams,sealed,garage,no,low,,,"Sealed jar; garage storage"
 Lemons,produce,1,each,n.a.,fridge,yes,medium,,,"Medium size"
+All-purpose flour,baking,2,pounds,open,pantry,no,low,,,"Plain flour"
+Eggs,dairy,18,each,n.a.,fridge,yes,low,,,"Large eggs"
+Anchovy fillets,seafood,0,can,,,no,low,,keep in stock,
+Coriander seeds,spices,0,jar,,pantry,no,low,,,"Whole seeds"
