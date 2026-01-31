@@ -4,7 +4,7 @@ category: main
 prep_time: 3–4 hours soaking
 cook_time: about 50 minutes
 servings: 2
-tags: [pasta, beans]
+tags: []
 ---
 
 ## Ingredients
@@ -36,4 +36,3 @@ tags: [pasta, beans]
 
 - Cooking time for the beans can vary depending on their age; continue simmering until they are creamy inside.
 - Adjust the water during cooking to reach your preferred balance between brothy pasta-and-beans and a thicker saucy dish.
-

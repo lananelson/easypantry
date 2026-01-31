@@ -4,7 +4,7 @@ category: vegetarian main
 prep_time: 10 minutes
 cook_time: 55 minutes
 servings: 4
-tags: [vegetarian, eggplant, baked, cheesy]
+tags: [vegetarian]
 ---
 
 ## Ingredients

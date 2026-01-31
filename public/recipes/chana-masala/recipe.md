@@ -4,7 +4,7 @@ category: main
 prep_time: 10 minutes
 cook_time: 45 minutes
 servings: 6
-tags: [indian, vegetarian, chickpeas]
+tags: [vegetarian]
 ---
 
 ## Ingredients

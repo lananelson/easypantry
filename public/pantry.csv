@@ -84,8 +84,10 @@ San Marzano whole peeled tomatoes,canned goods,0,containers,sealed,garage,no,low
 Coconut milk,canned goods,1,can,sealed,garage,no,low,,,"Standard coconut milk can"
 Organic Italian pasta,pasta,2,kg,sealed,garage,no,low,,,"Large box"
 Fettuccine,pasta,500,grams,sealed,garage,no,low,,,"Dry pasta"
+Organic black pepper barilotti pasta,pasta,1,bag,sealed,pantry,no,low,Trader Joe's,,
 Beef tallow (sealed),oils & fats,400,grams,sealed,garage,no,low,,,"Sealed jar; garage storage"
 All-purpose flour,baking,2,pounds,open,pantry,no,low,,,"Plain flour"
+Dutch process cocoa powder,baking,1,container,open,pantry,no,low,,,"purchased 2021"
 Eggs,dairy,2,each,,fridge,yes,low,,keep in stock,
 Anchovy fillets,seafood,0,can,,,no,low,,keep in stock,
 Coriander seeds,spices,0,jar,,pantry,no,low,,keep in stock,
@@ -110,3 +112,5 @@ Red kidney beans,dried ingredients,2,cups,,pantry,no,low,,,
 Rio Zape beans,dried ingredients,2,cups,,pantry,no,low,,,
 Tondino del Umbria beans,dried ingredients,2,cups,,pantry,no,low,,,
 Zuni Gold beans,dried ingredients,2,cups,,pantry,no,low,,,
+Frozen cod fillets,seafood,3,fillets,frozen,freezer,yes,low,,,
+Chicken drumsticks,poultry,2,pounds,frozen,freezer,yes,low,,,

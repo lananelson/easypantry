@@ -4,7 +4,7 @@ category: pantry staple
 prep_time: 5 minutes
 cook_time:
 servings: about 4 cups
-tags: [breadcrumbs, italian, seasoning, pantry]
+tags: []
 ---
 
 ## Ingredients

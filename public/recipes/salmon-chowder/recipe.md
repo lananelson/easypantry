@@ -4,7 +4,7 @@ category: soup
 prep_time: 15 minutes
 cook_time: 30 minutes
 servings: 4-6
-tags: [seafood, salmon, chowder, one-pot]
+tags: [one-pot]
 ---
 
 ## Ingredients

@@ -4,7 +4,7 @@ category: spice blend
 prep_time: 5 minutes
 cook_time:
 servings: about 1/2 cup
-tags: [spice blend, indian, pantry]
+tags: []
 ---
 
 ## Ingredients

@@ -4,7 +4,7 @@ category: main
 prep_time:
 cook_time: 4 to 6 hours (slow cooker)
 servings: 6-8
-tags: [beans, slow cooker]
+tags: [low & slow]
 ---
 
 ## Ingredients
@@ -41,4 +41,3 @@ tags: [beans, slow cooker]
 
 - Source: <https://food52.com/recipes/9586-rio-zape-beans-with-toasted-chile-sauce>
 - Author: Fairmount_market
-
