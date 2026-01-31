@@ -12,7 +12,7 @@ Fish sauce,asian sauces,1,bottle,open,fridge,no,low,,,"Salty, umami"
 Worcestershire sauce,seasonings,1,bottle,open,fridge,no,low,,,"Seasoning sauce"
 Sesame oil,oils & fats,1,bottle,open,fridge,no,low,,,"Toasted sesame oil"
 Mayonnaise,seasonings,1,jar,open,fridge,yes,medium,,,"Egg-based"
-Sour cream,dairy,0,container,sealed,fridge,yes,medium,,keep in stock,
+Sour cream,dairy,1,container,sealed,fridge,yes,medium,,keep in stock,
 Mirin,asian sauces,1,bottle,open,fridge,no,low,,,
 Shaoxing wine,wine,1,bottle,open,fridge,no,low,,,
 Marsala wine,wine,1,bottle,open,fridge,no,low,,,
@@ -79,7 +79,7 @@ Cornstarch,baking,1,container,open,pantry,no,low,,,"Thickener"
 Coleman's mustard,fermented pastes,1,jar,open,fridge,yes,low,,,"English mustard"
 Avocado oil,oils & fats,67,oz,sealed,pantry,no,low,,,"Costco-size bottle"
 Soy sauce (less-sodium),asian sauces,2,quarts,sealed,garage,no,low,,,"Single 2-quart container"
-Extra virgin olive oil,oils & fats,0,liter,,,no,low,,keep in stock,
+Extra virgin olive oil,oils & fats,1,liter,,,no,low,,keep in stock,
 Premium oyster sauce,asian sauces,32,oz,sealed,garage,no,low,,,"Large bottle"
 San Marzano whole peeled tomatoes,canned goods,0,containers,sealed,garage,no,low,Costco,keep in stock,
 Coconut milk,canned goods,1,can,sealed,garage,no,low,,,"Standard coconut milk can"
@@ -89,9 +89,9 @@ Organic black pepper barilotti pasta,pasta,1,bag,sealed,pantry,no,low,Trader Joe
 Beef tallow (sealed),oils & fats,400,grams,sealed,garage,no,low,,,"Sealed jar; garage storage"
 All-purpose flour,baking,2,pounds,open,pantry,no,low,,,"Plain flour"
 Dutch process cocoa powder,baking,1,container,open,pantry,no,low,,,"purchased 2021"
-Eggs,dairy,2,each,,fridge,yes,low,,keep in stock,
-Anchovy fillets,seafood,0,can,,,no,low,,keep in stock,
-Coriander seeds,spices,0,jar,,pantry,no,low,,keep in stock,
+Eggs,dairy,8,each,,fridge,yes,low,,keep in stock,
+Anchovy fillets,seafood,1,can,,,no,low,,keep in stock,
+Coriander seeds,spices,1,jar,,pantry,no,low,,keep in stock,
 Pecorino,cheese,1,block,,fridge,yes,medium,,,
 Parmesan,cheese,1,block,,fridge,yes,medium,,,
 Onion,produce,1,each,,pantry,yes,medium,,keep in stock,
@@ -115,3 +115,14 @@ Tondino del Umbria beans,dried ingredients,2,cups,,pantry,no,low,,,
 Zuni Gold beans,dried ingredients,2,cups,,pantry,no,low,,,
 Frozen cod fillets,seafood,3,fillets,frozen,freezer,yes,low,,,
 Chicken drumsticks,poultry,2,pounds,frozen,freezer,yes,low,,,
+Melinda hot sauce,seasonings,1,bottle,sealed,fridge,no,low,,,
+Lemons,produce,1,each,n.a.,fridge,yes,medium,,,
+Hass avocados,produce,2,each,n.a.,pantry,yes,medium,,,
+Ground lamb,meat,2,pounds,frozen,freezer,yes,low,,,
+Ground turkey,poultry,1,pounds,frozen,freezer,yes,low,,,
+Organic short white rice,dried ingredients,1,bag,sealed,pantry,no,low,,,
+Whole milk,dairy,1,container,sealed,fridge,yes,medium,,,
+Green cabbage,produce,3.76,lb,n.a.,fridge,yes,medium,,,
+Mint,produce,1,bunch,n.a.,fridge,yes,high,,,
+D'Anjou pears,produce,2,each,n.a.,fridge,yes,medium,,,
+Cherry tomatoes,produce,1,container,n.a.,fridge,yes,medium,,,
