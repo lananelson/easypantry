@@ -31,6 +31,7 @@
       "name": "Anchovy fillets",
       "for": ["restock"]
     },
-    { "name": "Coriander seeds", "for": ["restock"] }
+    { "name": "Coriander seeds", "for": ["restock"] },
+    { "name": "Sour cream", "for": ["restock"] }
   ]
 }
