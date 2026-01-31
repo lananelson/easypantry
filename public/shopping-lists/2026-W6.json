@@ -26,6 +26,9 @@
       "for": ["Minty Lamb Meatballs with Crispy Cabbage & Tahini Sauce"]
     },
 
+    { "name": "Celery (1 stalk)", "for": ["Pasta with Tondini Beans"] },
+    { "name": "Tomato (1)", "for": ["Pasta with Tondini Beans"] },
+
     { "name": "Extra virgin olive oil", "for": ["restock"] },
     {
       "name": "Anchovy fillets",
