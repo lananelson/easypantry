@@ -16,7 +16,7 @@ tags: [vegetarian]
 - 1/3 cup [onion masala](../onion-masala/recipe.md)
 - 2 teaspoons chana masala powder
 - 1 teaspoon salt
-- Juice of 1 lemon
+- 1 lemon
 - 1/4 cup chopped fresh cilantro
 
 ## References
