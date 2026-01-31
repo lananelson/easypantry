@@ -82,9 +82,18 @@ date_range: YYYY-MM-DD to YYYY-MM-DD
 
 **Process:**
 
-1. Check `weekly-meals/[current-week].md` for all recipes and their needed ingredients
-2. Cross-reference with `public/pantry.csv` to identify what's missing
-3. Check `public/pantry.csv` for items with `quantity=0` AND `stock_requirement="keep in stock"`
+1. Check `weekly-meals/[current-week].md` for all recipes and their needed ingredients.
+2. Cross-reference with `public/pantry.csv` to identify what's missing.
+3. Handle `stock_requirement="keep in stock"` items when quantity will be 0 (now or after this week's meals):
+
+   - If the item is **not used** in any recipe this week (pure restock):
+
+     - If `vendor` is blank: add a restock item with `for: ["restock"]`.
+     - If `vendor` is set (e.g. "Costco"): ask "Are you going to [vendor] on this trip?" and only add it (with `for: ["restock"]`) if yes.
+
+   - If the item **is used** in at least one recipe this week:
+     - Treat it as a normal ingredient and add it with `for: [recipe names]` (do not add `"restock"` and do not ask about `vendor`).
+
 4. Create/update `shopping-lists/[current-week].json` with:
    - JSON format with metadata (title, week, created date, status)
    - Items array with name and "for" fields
@@ -105,7 +114,9 @@ date_range: YYYY-MM-DD to YYYY-MM-DD
 
 **Field Descriptions:**
 
-- `for`: Array of recipe names from the meal plan that need this item (can be empty array)
+- `for`: Array of reasons this item is on the list.
+  - Usually recipe names from the meal plan (e.g. `["birria tacos", "cod chowder"]`).
+  - For pure restock items (not used in any recipe this week), use `["restock"]`.
 
 **Status Values:**
 
@@ -222,12 +233,22 @@ This is intentionally high-level: use judgment rather than strict rules, and sur
 
 **Process:**
 
-1. Fetch recipe from URL using `web-fetch`
-2. Parse ingredients and instructions
-3. Create folder: `recipes/[recipe-name]/`
-4. Create `recipes/[recipe-name]/media/` folder
-5. Create `recipes/[recipe-name]/recipe.md` with parsed content
-6. Include source URL in References section
+1. Fetch recipe from URL using `web-fetch`.
+2. Parse ingredients and instructions.
+3. Choose a recipe slug (lowercase, dash-separated).
+4. Create folder: `public/recipes/[recipe-slug]/`.
+5. (Optional) Create `public/recipes/[recipe-slug]/media/` folder for images.
+6. Create `public/recipes/[recipe-slug]/recipe.md` with parsed content and standard frontmatter/headings.
+7. Include source URL in `## References` section.
+
+**Tag rules for new recipes:**
+
+- Frontmatter `tags` must be either `[]` or a subset of the approved tags in `public/approved_tags.csv`.
+
+**Heading structure:**
+
+- Use level-2 headings in this order: `## Ingredients`, `## Instructions`, optional `## Notes`, `## References`.
+- Do not add extra headings outside this structure.
 
 **Recipe Template:**
 
@@ -251,12 +272,24 @@ tags: []
 1. Step 1
 2. Step 2
 
-## Substitution Notes
+## Notes
 
-- substitution notes here
+- notes here
 
 ## References
 
 - Source: [URL]
 - Author: [Author Name]
 ```
+
+## Add Recipe from image
+
+**Command:** "add recipe from image" / "add recipe from photo"
+
+**Process:**
+
+1. Ask the user for the image or screenshot of the recipe.
+2. Create `public/recipes/[recipe-slug]/` (and optional `media/` folder) using the same structure as "Add Recipe from URL".
+3. Manually transcribe the title, ingredients, instructions, and any notes into `recipe.md`, following the same frontmatter, tag rules, and heading structure as above.
+4. Unless previously shared, ask the user where the image came from (e.g., cookbook title, author, website, or personal notes).
+5. In the `## References` section, record that source information explicitly (e.g., book title and author, site name/URL) so the origin of the recipe is clear.

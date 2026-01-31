@@ -1,0 +1,36 @@
+{
+  "title": "Shopping List - Week 6 (2026-02-02 to 2026-02-08)",
+  "week": "2026-W06",
+  "created": "2026-01-31",
+  "status": "active",
+  "completed_date": null,
+  "items": [
+    {
+      "name": "Cabbage (1 medium green or red, ~2 lb)",
+      "for": ["Minty Lamb Meatballs with Crispy Cabbage & Tahini Sauce"]
+    },
+    {
+      "name": "Mint leaves (large bunch / about 2 cups)",
+      "for": ["Minty Lamb Meatballs with Crispy Cabbage & Tahini Sauce"]
+    },
+    {
+      "name": "Lemon (1)",
+      "for": ["Minty Lamb Meatballs with Crispy Cabbage & Tahini Sauce"]
+    },
+    {
+      "name": "Ground lamb (3 lb)",
+      "for": ["Minty Lamb Meatballs with Crispy Cabbage & Tahini Sauce"]
+    },
+    {
+      "name": "Eggs (1 dozen)",
+      "for": ["Minty Lamb Meatballs with Crispy Cabbage & Tahini Sauce"]
+    },
+
+    { "name": "Extra virgin olive oil", "for": ["restock"] },
+    {
+      "name": "Anchovy fillets",
+      "for": ["restock"]
+    },
+    { "name": "Coriander seeds", "for": ["restock"] }
+  ]
+}
