@@ -5,6 +5,7 @@ prep_time:
 cook_time:
 servings: 4
 tags: []
+ayurvedic: [incompatible-eggs-cheese, hard-to-digest, warming, rajasic]
 ---
 
 ## Ingredients

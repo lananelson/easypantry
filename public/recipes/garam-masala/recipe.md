@@ -5,6 +5,7 @@ prep_time: 5 minutes
 cook_time:
 servings: about 1/2 cup
 tags: []
+ayurvedic: [kapha-balancing, warming, digestive-aid, rajasic]
 ---
 
 ## Ingredients

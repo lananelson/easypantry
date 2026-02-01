@@ -5,6 +5,7 @@ prep_time: 10 minutes
 cook_time: 35 minutes
 servings: 6
 tags: [vegetarian]
+ayurvedic: [kapha-balancing, warming, gas-producing, digestive-aid]
 ---
 
 ## Ingredients

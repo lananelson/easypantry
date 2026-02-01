@@ -5,6 +5,7 @@ prep_time:
 cook_time: 4 to 6 hours (slow cooker)
 servings: 6-8
 tags: [low & slow]
+ayurvedic: [incompatible-beans-dairy, warming, gas-producing, vata-aggravating]
 ---
 
 ## Ingredients

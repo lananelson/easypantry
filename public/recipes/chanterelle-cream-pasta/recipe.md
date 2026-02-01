@@ -5,6 +5,7 @@ prep_time:
 cook_time:
 servings:
 tags: []
+ayurvedic: [cooling, kapha-aggravating, tamasic]
 ---
 
 ## Ingredients

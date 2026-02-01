@@ -5,6 +5,7 @@ prep_time:
 cook_time:
 servings:
 tags: []
+ayurvedic: [warming, vata-balancing, grounding, rajasic]
 ---
 
 ## Ingredients

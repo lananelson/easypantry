@@ -5,6 +5,7 @@ prep_time: 10 minutes
 cook_time: 50 minutes
 servings: about 3 cups
 tags: [vegan]
+ayurvedic: [kapha-balancing, warming, tridoshic, digestive-aid]
 ---
 
 ## Ingredients

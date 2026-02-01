@@ -5,6 +5,7 @@ prep_time:
 cook_time:
 servings:
 tags: [low & slow]
+ayurvedic: [warming, pitta-aggravating, rajasic]
 ---
 
 ## Ingredients

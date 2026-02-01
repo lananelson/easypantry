@@ -5,6 +5,7 @@ prep_time:
 cook_time:
 servings:
 tags: []
+ayurvedic: [warming, kapha-balancing, rajasic]
 ---
 
 ## Ingredients

@@ -5,6 +5,7 @@ prep_time: 10 minutes
 cook_time: 55 minutes
 servings: 4
 tags: [vegetarian]
+ayurvedic: [tamasic, hard-to-digest, kapha-aggravating, vata-aggravating]
 ---
 
 ## Ingredients

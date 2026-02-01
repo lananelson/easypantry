@@ -5,6 +5,7 @@ prep_time:
 cook_time:
 servings: 4
 tags: []
+ayurvedic: [hard-to-digest, kapha-aggravating, tamasic]
 ---
 
 ## Ingredients

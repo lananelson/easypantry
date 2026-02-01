@@ -5,6 +5,7 @@ prep_time: 20 minutes
 cook_time: 10 minutes
 servings: 4-6
 tags: []
+ayurvedic: [cooling, pitta-balancing, rajasic]
 ---
 
 ## Ingredients

@@ -268,6 +268,13 @@ This is intentionally high-level: use judgment rather than strict rules, and sur
 - Frontmatter `tags` must be either `[]` or a subset of the approved tags in `public/approved_tags.csv`
 - Do NOT create new tags - only use approved tags or leave empty
 
+**Ayurvedic field rules:**
+
+- Frontmatter `ayurvedic` is a free-form array for Ayurvedic characteristics
+- No pre-approved list needed - add relevant Ayurvedic attributes as appropriate
+- Common attributes include: dosha effects (vata-balancing, pitta-aggravating, etc.), digestive qualities (easy-to-digest, gas-producing, etc.), thermal qualities (warming, cooling), food combining issues (incompatible-fish-dairy, etc.), and qualities (sattvic, rajasic, tamasic)
+- Can be empty `[]` if no specific Ayurvedic considerations
+
 **Heading structure rules:**
 
 - Use ONLY level-2 headings (`##`) - no subsections (`###`)
@@ -286,6 +293,7 @@ prep_time:
 cook_time:
 servings:
 tags: []
+ayurvedic: []
 ---
 
 ## Ingredients

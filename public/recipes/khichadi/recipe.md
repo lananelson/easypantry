@@ -5,6 +5,17 @@ prep_time: 10 minutes
 cook_time: 35 minutes
 servings: 6
 tags: [vegetarian, comfort food]
+ayurvedic:
+  [
+    tridoshic,
+    easy-to-digest,
+    cleansing,
+    sattvic,
+    grounding,
+    vata-balancing,
+    pitta-balancing,
+    kapha-balancing,
+  ]
 ---
 
 ## Ingredients

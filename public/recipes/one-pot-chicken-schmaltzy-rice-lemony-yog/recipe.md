@@ -4,7 +4,8 @@ category: main
 prep_time:
 cook_time:
 servings: 4-6
-tags: [one-pot]
+tags: [one-pot, protein]
+ayurvedic: [vata-balancing, warming, grounding, nourishing]
 ---
 
 ## Ingredients

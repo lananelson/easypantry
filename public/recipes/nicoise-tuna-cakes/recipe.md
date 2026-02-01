@@ -5,6 +5,7 @@ prep_time: 20 minutes
 cook_time: 10 minutes
 servings: 3-6
 tags: []
+ayurvedic: [warming, pitta-aggravating, rajasic]
 ---
 
 ## Ingredients
@@ -44,4 +45,3 @@ tags: []
 
 - Source: [French Revolution Food](https://www.frenchrevolutionfood.com/2010/06/french-in-a-flash-nicoise-tuna-cakes/)
 - Author: Kerry
-

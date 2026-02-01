@@ -5,6 +5,7 @@ prep_time:
 cook_time:
 servings:
 tags: []
+ayurvedic: [incompatible-fish-cheese, ama-producing, hard-to-digest, tamasic]
 ---
 
 ## Ingredients

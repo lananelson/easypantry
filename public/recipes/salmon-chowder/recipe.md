@@ -5,6 +5,7 @@ prep_time: 15 minutes
 cook_time: 30 minutes
 servings: 4-6
 tags: [one-pot]
+ayurvedic: [incompatible-fish-dairy, vata-balancing, warming, grounding]
 ---
 
 ## Ingredients

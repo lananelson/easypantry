@@ -5,6 +5,7 @@ prep_time: 5 minutes
 cook_time: 25 minutes
 servings:
 tags: [condiment]
+ayurvedic: [kapha-balancing, digestive-aid, rajasic]
 ---
 
 ## Ingredients
@@ -23,4 +24,3 @@ tags: [condiment]
 ## References
 
 - Source: Notes in Evernote
-

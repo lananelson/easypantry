@@ -4,7 +4,8 @@ category: main course
 prep_time: 10 minutes
 cook_time: 2 hours 30 minutes
 servings: 4
-tags: [low & slow]
+tags: [low & slow, protein]
+ayurvedic: [vata-balancing, warming, grounding, nourishing]
 ---
 
 ## Ingredients
@@ -34,4 +35,3 @@ tags: [low & slow]
 
 - Source: [French Revolution Food](https://www.frenchrevolutionfood.com/2011/12/french-in-a-flash-fall-apart-lamb-with-prunes-2/)
 - Author: Kerry
-

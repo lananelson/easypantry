@@ -5,6 +5,7 @@ prep_time:
 cook_time:
 servings: 4-6
 tags: []
+ayurvedic: [gas-producing, incompatible-beans-dairy, warming, vata-aggravating]
 ---
 
 ## Ingredients
