@@ -228,6 +228,35 @@ This is intentionally high-level: use judgment rather than strict rules, and sur
 
 **Important:** The "what's going bad" check itself must be read-only. It should _never_ directly edit `public/pantry.csv`; instead, it should propose concrete changes (e.g., updated `urgency` values or notes) and only apply them when explicitly confirmed by the user.
 
+## What Can I Make
+
+**Command:** "what can I make", "recipe suggestions", "what should I cook"
+
+**High-level approach:**
+
+- Use `public/recipe-index.md` (auto-generated ingredient index) instead of reading full recipe files
+- This saves tokens while preserving Claude's ability to reason about substitutions
+
+**Process:**
+
+1. Read `public/recipe-index.md` to see all recipes and their ingredients
+2. Read `public/pantry.csv` to see what's available
+3. For each recipe, assess:
+   - Do I have the key ingredients (or reasonable substitutes)?
+   - Consider similar proteins (cod ↔ salmon ↔ halibut), similar greens, etc.
+   - Common pantry staples (oil, salt, garlic, onion) can be assumed available
+4. Rank recipes by feasibility:
+   - **Ready to cook**: Have all or nearly all ingredients
+   - **Close**: Missing 1-2 items that are easy to substitute or skip
+   - **Needs shopping**: Missing key ingredients
+5. Present top suggestions with notes on any substitutions needed
+
+**Notes:**
+
+- The recipe index is auto-generated from recipe files via git pre-commit hook
+- If user wants full recipe details, load the specific `public/recipes/[slug]/recipe.md` file
+- Consider `urgency` field in pantry.csv - prioritize recipes that use items going bad soon
+
 ## Add Recipe
 
 **Commands:**
@@ -261,8 +290,13 @@ This is intentionally high-level: use judgment rather than strict rules, and sur
    - Follow the template structure below
 
 5. **Document the source:**
+
    - **From URL**: Include source URL in `## References` section
    - **From image or text**: Ask user where the recipe came from (cookbook title, author, website, personal notes) and record in `## References` section
+
+6. **Recipe index update:**
+   - The recipe index (`public/recipe-index.md`) is auto-regenerated on commit via git pre-commit hook
+   - No manual action needed - just commit the new recipe file
 
 **Tag rules:**
 
