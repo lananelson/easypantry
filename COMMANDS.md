@@ -227,28 +227,54 @@ This is intentionally high-level: use judgment rather than strict rules, and sur
 
 **Important:** The "what's going bad" check itself must be read-only. It should _never_ directly edit `public/pantry.csv`; instead, it should propose concrete changes (e.g., updated `urgency` values or notes) and only apply them when explicitly confirmed by the user.
 
-## Add Recipe from URL
+## Add Recipe
 
-**Command:** "add recipe from [URL]"
+**Commands:**
+
+- "add recipe from [URL]"
+- "add recipe from image" / "add recipe from photo"
+- "add recipe" (with text provided by user)
 
 **Process:**
 
-1. Fetch recipe from URL using `web-fetch`.
-2. Parse ingredients and instructions.
-3. Choose a recipe slug (lowercase, dash-separated).
-4. Create folder: `public/recipes/[recipe-slug]/`.
-5. (Optional) Create `public/recipes/[recipe-slug]/media/` folder for images.
-6. Create `public/recipes/[recipe-slug]/recipe.md` with parsed content and standard frontmatter/headings.
-7. Include source URL in `## References` section.
+1. **Get recipe content:**
 
-**Tag rules for new recipes:**
+   - **From URL**: Fetch recipe using `web-fetch` and parse ingredients and instructions
+   - **From image**: Ask user for the image/screenshot, then transcribe the content
+   - **From text**: Use the recipe text provided by the user
 
-- Frontmatter `tags` must be either `[]` or a subset of the approved tags in `public/approved_tags.csv`.
+2. **Choose a recipe slug:**
 
-**Heading structure:**
+   - Lowercase, dash-separated (e.g., "alice-waters-caesar-salad")
+   - Remove apostrophes and special characters
+   - Keep it unique, readable, and descriptive but not too long
 
-- Use level-2 headings in this order: `## Ingredients`, `## Instructions`, optional `## Notes`, `## References`.
-- Do not add extra headings outside this structure.
+3. **Create folder structure:**
+
+   - Create folder: `public/recipes/[recipe-slug]/`
+   - (Optional) Create `public/recipes/[recipe-slug]/media/` folder for images
+
+4. **Create recipe file:**
+
+   - Create `public/recipes/[recipe-slug]/recipe.md` with standard frontmatter and headings
+   - Follow the template structure below
+
+5. **Document the source:**
+   - **From URL**: Include source URL in `## References` section
+   - **From image or text**: Ask user where the recipe came from (cookbook title, author, website, personal notes) and record in `## References` section
+
+**Tag rules:**
+
+- Frontmatter `tags` must be either `[]` or a subset of the approved tags in `public/approved_tags.csv`
+- Do NOT create new tags - only use approved tags or leave empty
+
+**Heading structure rules:**
+
+- Use ONLY level-2 headings (`##`) - no subsections (`###`)
+- Required headings in order: `## Ingredients`, `## Instructions`, `## References`
+- Optional heading: `## Notes` (goes between Instructions and References)
+- Do NOT add extra headings outside this structure
+- For ingredient groupings, use inline notes in parentheses instead of subsections (e.g., "1 1/2 tablespoons olive oil (for croutons)")
 
 **Recipe Template:**
 
@@ -278,18 +304,6 @@ tags: []
 
 ## References
 
-- Source: [URL]
+- Source: [URL or Book Title]
 - Author: [Author Name]
 ```
-
-## Add Recipe from image
-
-**Command:** "add recipe from image" / "add recipe from photo"
-
-**Process:**
-
-1. Ask the user for the image or screenshot of the recipe.
-2. Create `public/recipes/[recipe-slug]/` (and optional `media/` folder) using the same structure as "Add Recipe from URL".
-3. Manually transcribe the title, ingredients, instructions, and any notes into `recipe.md`, following the same frontmatter, tag rules, and heading structure as above.
-4. Unless previously shared, ask the user where the image came from (e.g., cookbook title, author, website, or personal notes).
-5. In the `## References` section, record that source information explicitly (e.g., book title and author, site name/URL) so the origin of the recipe is clear.

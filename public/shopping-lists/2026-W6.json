@@ -2,8 +2,8 @@
   "title": "Shopping List - Week 6 (2026-02-02 to 2026-02-08)",
   "week": "2026-W06",
   "created": "2026-01-31",
-  "status": "active",
-  "completed_date": null,
+  "status": "completed",
+  "completed_date": "2026-01-31",
   "items": [
     {
       "name": "Cabbage (1 medium green or red, ~2 lb)",
