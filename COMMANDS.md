@@ -133,6 +133,7 @@ date_range: YYYY-MM-DD to YYYY-MM-DD
   - Add, remove, or adjust rows and field values (e.g., quantity, location, notes)
   - Do **not** change the CSV schema (header row or column order)
   - Follow the user's instructions literally; don't invent pantry changes that weren't requested
+  - **Never use "n.a." in any field** - leave fields blank instead (empty string between commas)
   - When an item's quantity is reduced to **0**:
     - If `stock_requirement` is empty/zero, **remove that row from the CSV** (the item is gone)
     - If `stock_requirement` is non-empty (e.g. `keep in stock`), keep the row with quantity `0` so it still shows up as a keep-in-stock item
