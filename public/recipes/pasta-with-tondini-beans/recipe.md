@@ -37,3 +37,7 @@ ayurvedic: [cooling, gas-producing, vata-aggravating, sattvic]
 
 - Cooking time for the beans can vary depending on their age; continue simmering until they are creamy inside.
 - Adjust the water during cooking to reach your preferred balance between brothy pasta-and-beans and a thicker saucy dish.
+
+## References
+
+- Source: <https://delcolle.com/en/ricetta/pasta-coi-fagioli-tondini/>

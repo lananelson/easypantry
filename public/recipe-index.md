@@ -228,6 +228,15 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 (14.5-ounce) cans white beans, such as butter, cannellini, or gigante
 - Sour cream or plain whole-milk Greek yogurt, for serving
 
+## kasha-with-tapenade
+**Kasha with Tapenade**
+
+- 2/3 cup ячменная крупа (cracked barley groats)
+- 2 tablespoons butter
+- Salt to taste
+- 0.5 liter broth (Costco chicken bone broth works well)
+- [Olive tapenade](../olive-tapenade/recipe.md) for serving
+
 ## khichadi
 **Khichadi**
 
@@ -309,6 +318,18 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 teaspoon anchovy paste
 - 1 teaspoon olive oil
 - Vegetable oil and olive oil for frying
+
+## olive-tapenade
+**Olive Tapenade**
+
+- 2 cups olives (about 12-14 oz)
+- 1 small bulb garlic (8-10 cloves, peeled)
+- 6-8 anchovy fillets (about half a jar or 2 oz)
+- 1/2 cup minced fresh parsley
+- 1/4 cup extra virgin olive oil
+- 2 tablespoons capers (optional)
+- Zest and juice of 1 lemon
+- Black pepper to taste
 
 ## one-pot-chicken-schmaltzy-rice-lemony-yog
 **One-Pot Chicken & Schmaltzy Rice with Lemony Yog**
