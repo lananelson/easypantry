@@ -41,7 +41,7 @@ Kombu,dried ingredients,1,pack,sealed,pantry,no,low,,,"Dried kelp for dashi"
 Wakame / miso seaweed,dried ingredients,1,pack,sealed,pantry,no,low,,,"Dried seaweed for miso soup"
 Porcini mushrooms (dried),dried ingredients,1,pack,sealed,pantry,no,low,,,"Packed 2023"
 Chicory (drink),beverages,1,pack,sealed,pantry,no,low,,,"From Russian store"
-Kosher salt,seasonings,1,container,open,pantry,no,low,,,"Main salt"
+Kosher salt,seasonings,1,container,open,pantry,no,low,,keep in stock,
 Bay leaves,spices,1,jar,open,pantry,no,low,,,"Dried bay"
 Smoked Spanish paprika,spices,1,jar,open,pantry,no,low,,,"Smoked pimentón"
 Hot Hungarian paprika,spices,1,jar,open,pantry,no,low,,,"Hot paprika"
@@ -79,7 +79,7 @@ Cornstarch,baking,1,container,open,pantry,no,low,,,"Thickener"
 Coleman's mustard,fermented pastes,1,jar,open,fridge,yes,low,,,"English mustard"
 Avocado oil,oils & fats,67,oz,sealed,pantry,no,low,,,"Costco-size bottle"
 Soy sauce (less-sodium),asian sauces,2,quarts,sealed,garage,no,low,,,"Single 2-quart container"
-Extra virgin olive oil,oils & fats,1,liter,,,no,low,,keep in stock,
+Extra virgin olive oil,oils & fats,100,mililiters,,,no,low,,keep in stock,
 Premium oyster sauce,asian sauces,32,oz,sealed,garage,no,low,,,"Large bottle"
 San Marzano whole peeled tomatoes,canned goods,0,containers,sealed,garage,no,low,Costco,keep in stock,
 Coconut milk,canned goods,1,can,sealed,garage,no,low,,,"Standard coconut milk can"
@@ -89,7 +89,7 @@ Organic black pepper barilotti pasta,pasta,1,bag,sealed,pantry,no,low,Trader Joe
 Beef tallow (sealed),oils & fats,400,grams,sealed,garage,no,low,,,"Sealed jar; garage storage"
 All-purpose flour,baking,2,pounds,open,pantry,no,low,,,"Plain flour"
 Dutch process cocoa powder,baking,1,container,open,pantry,no,low,,,"purchased 2021"
-Eggs,dairy,0,each,,fridge,yes,low,,keep in stock,
+Eggs,dairy,12,each,,fridge,yes,low,,keep in stock,
 Anchovy fillets,seafood,0,can,,,no,low,,keep in stock,
 Coriander seeds,spices,1,jar,,pantry,no,low,,keep in stock,
 Pecorino,cheese,1,block,,fridge,yes,medium,,,
@@ -100,7 +100,7 @@ Buckwheat grits,dried ingredients,3,cups,,pantry,no,low,,,
 Red lentils,dried ingredients,3.5,cups,,pantry,no,low,,,
 Pearled barley,dried ingredients,1.5,cups,,pantry,no,low,,,
 Wild rice,dried ingredients,1.5,cups,,pantry,no,low,,,
-Yellow peas,dried ingredients,4.5,cups,,pantry,no,low,,,
+Yellow peas,dried ingredients,3.5,cups,,pantry,no,low,,keep in stock,
 Oats,dried ingredients,0,cups,,pantry,no,low,,keep in stock,
 Ячменная крупа,dried ingredients,0,cups,,pantry,no,low,,keep in stock,"Cracked barley groats for porridge"
 Couscous,dried ingredients,1.5,cups,,pantry,no,low,,,
@@ -119,3 +119,4 @@ Melinda hot sauce,seasonings,1,bottle,sealed,fridge,no,low,,,
 Lamb & turkey meatballs,prepared foods,1.5,lb,frozen,freezer,yes,low,,,
 Organic short white rice,dried ingredients,1,bag,sealed,pantry,no,low,,,
 Cherry tomatoes,produce,1,container,,fridge,yes,medium,,,
+Baby kale,produce,0.5,lb,,fridge,yes,medium,,,"Small salad leaves"

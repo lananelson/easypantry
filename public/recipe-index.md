@@ -467,6 +467,25 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 loaf italian bread, for serving
 - [Garlic butter](../garlic-butter/recipe.md), for serving
 
+## split-pea-soup
+**Split Pea Soup**
+
+- Olive oil
+- Carrots
+- Onion
+- Celery
+- Garlic
+- Yellow split peas (soaked overnight)
+- Chicken stock
+- Water
+- Smoked turkey (wing, drumstick, or other parts) or rotisserie chicken pieces
+- Bay leaves
+- Fresh thyme (optional)
+- Crushed red pepper flakes
+- Kosher salt
+- Fresh parsley (for serving)
+- Potatoes (optional)
+
 ## swiss-chard-frittata
 **Swiss Chard Frittata**
 

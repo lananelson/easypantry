@@ -1,0 +1,25 @@
+{
+  "title": "Shopping List - Week 10 (March 2-8)",
+  "week": "2026-W10",
+  "created": "2026-03-01",
+  "status": "active",
+  "completed_date": null,
+  "items": [
+    {
+      "name": "Extra virgin olive oil",
+      "for": ["restock"]
+    },
+    {
+      "name": "San Marzano whole peeled tomatoes",
+      "for": ["restock"]
+    },
+    {
+      "name": "Oats",
+      "for": ["restock"]
+    },
+    {
+      "name": "Laundry detergent",
+      "for": ["restock"]
+    }
+  ]
+}

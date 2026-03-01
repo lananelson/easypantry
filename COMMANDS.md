@@ -11,14 +11,11 @@ Meal planning follows a progressive workflow from ideas to recipes to shopping l
 **Process:**
 
 1. **Start with Ideas**: Add meal ideas to the "Ideas" section of `weekly-meals/[week].md`
-
    - Simple list of meal concepts (e.g., "Baked salmon", "Cod chowder")
    - No details needed at this stage
 
 2. **Develop Recipes**: Move ideas to the "Recipes" section when ready to plan
-
    - **For recipes with full documentation**: Link to recipe file and list ingredients
-
      - Format: `### [Recipe Name](../recipes/recipe-name/recipe.md)`
      - List all ingredients with status: `✓` (have it) or `(need to buy)`
      - Note substitutions inline (e.g., "use Fontina ✓" instead of "Melting cheese")
@@ -29,7 +26,6 @@ Meal planning follows a progressive workflow from ideas to recipes to shopping l
      - Do NOT include cooking method in meal plan
 
 3. **Log Meals Cooked**: Use a "Meals" section in the weekly file
-
    - After you actually cook something, add an entry under `## Meals` in `weekly-meals/[week].md`
    - Link each meal back to the corresponding recipe heading in the same file (e.g., `[Birria Tacos](#birria-tacos)`)
    - Optionally note what pantry items were used or finished
@@ -78,23 +74,31 @@ date_range: YYYY-MM-DD to YYYY-MM-DD
 
 ## Generate Shopping List
 
-**Command:** "generate shopping list" or "regenerate shopping list"
+**Command:** "generate shopping list" or "regenerate shopping list" or "I'm going to [vendor]"
 
 **Process:**
 
-1. Check `weekly-meals/[current-week].md` for all recipes and their needed ingredients.
-2. Cross-reference with `public/pantry.csv` to identify what's missing.
-3. Handle `stock_requirement="keep in stock"` items when quantity will be 0 (now or after this week's meals):
+1. **Determine target week:**
+   - Look at today's date and determine if this is for current week or next week
+   - If ambiguous (e.g., late in the week), confirm with user
+   - Create empty meal plan file if it doesn't exist for target week
 
+2. **If user mentions a specific vendor (e.g., "I'm going to Costco"):**
+   - Look through ALL out-of-stock items (`quantity=0`) with `stock_requirement="keep in stock"`
+   - Suggest items that are likely available at that vendor
+   - Include these as restock items with `for: ["restock"]`
+
+3. **Check `weekly-meals/[target-week].md` for all recipes and their needed ingredients:**
+   - If the meal plan is empty (no recipes yet), proceed with restock-only mode
+   - Cross-reference with `public/pantry.csv` to identify what's missing
+
+4. **Handle `stock_requirement="keep in stock"` items when quantity will be 0 (now or after this week's meals):**
    - If the item is **not used** in any recipe this week (pure restock):
-
-     - If `vendor` is blank: add a restock item with `for: ["restock"]`.
-     - If `vendor` is set (e.g. "Costco"): ask "Are you going to [vendor] on this trip?" and only add it (with `for: ["restock"]`) if yes.
-
+     - Add with `for: ["restock"]`
    - If the item **is used** in at least one recipe this week:
-     - Treat it as a normal ingredient and add it with `for: [recipe names]` (do not add `"restock"` and do not ask about `vendor`).
+     - Treat it as a normal ingredient and add it with `for: [recipe names]`
 
-4. Create/update `shopping-lists/[current-week].json` with:
+5. Create/update `shopping-lists/[target-week].json` with:
    - JSON format with metadata (title, week, created date, status)
    - Items array with name and "for" fields
    - Status defaults to "active" for new lists
@@ -158,30 +162,25 @@ date_range: YYYY-MM-DD to YYYY-MM-DD
 **Process (loosely):**
 
 1. **Identify the current week**
-
    - Use the `week:` frontmatter in `weekly-meals/[week].md` or the week the user mentions.
 
 2. **Scan pantry history for meal-like changes**
-
    - Use `git log --follow -- public/pantry.csv` (and older `pantry.csv` if needed) to inspect commits for this week.
    - **Temporary migration quirk (agent bug):** there was a short-lived period where both a root `pantry.csv` and `public/pantry.csv` existed at once. When you're analyzing _that_ week, remember some edits might have landed in the wrong file; prefer `public/pantry.csv` as the intended source of truth. After the cleanup commit that deleted the root `pantry.csv`, you can ignore it and only follow `public/pantry.csv` going forward.
    - Look for rows that are likely **meals** or cooked dishes (e.g., prepared foods, leftovers, items whose names match recipes or ideas) whose quantities dropped or were removed during the week.
 
 3. **Match changes to the weekly meal plan**
-
    - Compare those meal-like items and their dates to the `## Ideas` and `## Recipes` sections in `weekly-meals/[week].md`.
    - For each recipe, consider it a **candidate cooked meal** if:
      - A matching prepared item (e.g., "Birria quesadillas") shows consumption in pantry history, or
      - Several of its core ingredients clearly decreased around the same time.
 
 4. **Propose retroactive meal log entries**
-
    - For each candidate recipe, **suggest** a simple entry under `## Meals` that links back to the recipe heading (e.g., `- [Birria Tacos](#birria-tacos)`).
    - Keep notes minimal and high-level (e.g., "logged retroactively" if you want); avoid trying to infer quantities cooked, leftovers, or other fine‑grained details.
    - Present these as suggestions to the user ("It looks like you probably made: ...").
 
 5. **Apply only with confirmation**
-
    - Do not edit `weekly-meals/[week].md` automatically.
    - Only add or modify `## Meals` entries after the user explicitly confirms which suggested meals were actually made.
 
@@ -199,23 +198,19 @@ date_range: YYYY-MM-DD to YYYY-MM-DD
 **High-level methodology (do not over-formalize):**
 
 1. **Start from current data**
-
    - Look at `public/pantry.csv`
    - Focus on rows with `perishable = yes`
 
 2. **Use git history as a rough age signal**
-
    - Follow the file across renames (e.g., `pantry.csv` → `public/pantry.csv`) using `git log --follow`
    - Inspect a few historical snapshots (`git show <sha>:pantry.csv` / `public/pantry.csv`) to see when each perishable item first appears and how long it has been around in git
    - **Migration quirk (agent bug, time-bounded):** for one short period there were _two_ pantry CSVs (`pantry.csv` at the root and `public/pantry.csv`). When you're looking at that window in history, treat the root `pantry.csv` as a flawed parallel copy and prefer `public/pantry.csv` for the real state. After the cleanup that removed the root file, you can stop looking back at the duplicate entirely.
 
 3. **Combine type + age + notes**
-
    - Consider how fragile the item is (e.g., raw fish, berries, herbs vs. sealed dates or hard cheese)
    - Use free-text `notes` (e.g., "About a week old", "Expires soon", "mold-prone") to adjust your sense of risk
 
 4. **Classify attention level (roughly)**
-
    - Very urgent: fragile perishables that have been in the pantry for multiple days/commits or have notes indicating near-term spoilage
    - Medium: items that keep reasonably well or are sealed but have been around for a while
    - Low: sealed or frozen items that are new or inherently long-lived
@@ -268,29 +263,24 @@ This is intentionally high-level: use judgment rather than strict rules, and sur
 **Process:**
 
 1. **Get recipe content:**
-
    - **From URL**: Fetch recipe using `web-fetch` and parse ingredients and instructions
    - **From image**: Ask user for the image/screenshot, then transcribe the content
    - **From text**: Use the recipe text provided by the user
 
 2. **Choose a recipe slug:**
-
    - Lowercase, dash-separated (e.g., "alice-waters-caesar-salad")
    - Remove apostrophes and special characters
    - Keep it unique, readable, and descriptive but not too long
 
 3. **Create folder structure:**
-
    - Create folder: `public/recipes/[recipe-slug]/`
    - (Optional) Create `public/recipes/[recipe-slug]/media/` folder for images
 
 4. **Create recipe file:**
-
    - Create `public/recipes/[recipe-slug]/recipe.md` with standard frontmatter and headings
    - Follow the template structure below
 
 5. **Document the source:**
-
    - **From URL**: Include source URL in `## References` section
    - **From image or text**: Ask user where the recipe came from (cookbook title, author, website, personal notes) and record in `## References` section
 
