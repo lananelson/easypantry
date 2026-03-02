@@ -11,6 +11,7 @@ Meal planning follows a progressive workflow from ideas to recipes to shopping l
 **Process:**
 
 1. **Start with Ideas**: Add meal ideas to the "Ideas" section of `weekly-meals/[week].md`
+   - If the meal plan file doesn't exist yet, create `weekly-meals/YYYY-WXX.md` and add the week ID to `weekly-meals/index.json`
    - Simple list of meal concepts (e.g., "Baked salmon", "Cod chowder")
    - No details needed at this stage
 
@@ -81,14 +82,13 @@ date_range: YYYY-MM-DD to YYYY-MM-DD
 1. **Determine target week:**
    - Look at today's date and determine if this is for current week or next week
    - If ambiguous (e.g., late in the week), confirm with user
-   - Create empty meal plan file if it doesn't exist for target week
 
 2. **If user mentions a specific vendor (e.g., "I'm going to Costco"):**
    - Look through ALL out-of-stock items (`quantity=0`) with `stock_requirement="keep in stock"`
-   - Suggest items that are likely available at that vendor
-   - Include these as restock items with `for: ["restock"]`
+   - Include items that are likely available at that vendor as restock items with `for: ["restock"]`
 
 3. **Check `weekly-meals/[target-week].md` for all recipes and their needed ingredients:**
+   - If the file doesn't exist, see Meal Planning Workflow for how to create it
    - If the meal plan is empty (no recipes yet), proceed with restock-only mode
    - Cross-reference with `public/pantry.csv` to identify what's missing
 
@@ -107,7 +107,7 @@ date_range: YYYY-MM-DD to YYYY-MM-DD
 
 ```json
 {
-  "title": "Shopping List - Week XX (Date Range)",
+  "title": "Week XX (Date Range)",
   "week": "YYYY-WXX",
   "created": "YYYY-MM-DD",
   "status": "active",
@@ -118,6 +118,7 @@ date_range: YYYY-MM-DD to YYYY-MM-DD
 
 **Field Descriptions:**
 
+- `title`: Format as `"Week XX (Mon DD-DD, YYYY)"` (e.g., `"Week 50 (Dec 8-14, 2025)"`)
 - `for`: Array of reasons this item is on the list.
   - Usually recipe names from the meal plan (e.g. `["birria tacos", "cod chowder"]`).
   - For pure restock items (not used in any recipe this week), use `["restock"]`.
@@ -142,7 +143,7 @@ date_range: YYYY-MM-DD to YYYY-MM-DD
     - If `stock_requirement` is empty/zero, **remove that row from the CSV** (the item is gone)
     - If `stock_requirement` is non-empty (e.g. `keep in stock`), keep the row with quantity `0` so it still shows up as a keep-in-stock item
   - When the change is clearly tied to a specific meal or recipe (e.g., "we made birria quesadillas" and reduced related ingredients):
-    - Look at the current week's `weekly-meals/[week].md`
+    - Look at the current week's `weekly-meals/[week].md` (if it doesn't exist, this step doesn't apply)
   - If the recipe exists under `## Recipes`, **suggest** updating the meal plan by:
     - Adding or updating an entry under `## Meals` that links back to the recipe heading (e.g., `[Birria Tacos](#birria-tacos)`)
     - Optionally noting which key pantry items were used or finished
@@ -162,7 +163,8 @@ date_range: YYYY-MM-DD to YYYY-MM-DD
 **Process (loosely):**
 
 1. **Identify the current week**
-   - Use the `week:` frontmatter in `weekly-meals/[week].md` or the week the user mentions.
+   - Use the `week:` frontmatter in `weekly-meals/[week].md` or the week the user mentions
+   - If the meal plan file doesn't exist, see Meal Planning Workflow for how to create it
 
 2. **Scan pantry history for meal-like changes**
    - Use `git log --follow -- public/pantry.csv` (and older `pantry.csv` if needed) to inspect commits for this week.
@@ -291,7 +293,7 @@ This is intentionally high-level: use judgment rather than strict rules, and sur
 **Tag rules:**
 
 - Frontmatter `tags` must be either `[]` or a subset of the approved tags in `public/approved_tags.csv`
-- Do NOT create new tags - only use approved tags or leave empty
+- If a tag you want to use isn't in the approved list, use `[]` and suggest the new tag to the user
 
 **Ayurvedic field rules:**
 

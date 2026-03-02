@@ -1,5 +1,5 @@
 {
-  "title": "Shopping List - Week 10 (March 2-8)",
+  "title": "Week 10 (March 2-8)",
   "week": "2026-W10",
   "created": "2026-03-01",
   "status": "active",
@@ -19,6 +19,10 @@
     },
     {
       "name": "Laundry detergent",
+      "for": ["restock"]
+    },
+    {
+      "name": "Canned tuna",
       "for": ["restock"]
     }
   ]

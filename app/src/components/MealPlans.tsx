@@ -10,7 +10,9 @@ export default function MealPlans() {
   useEffect(() => {
     loadMealPlans()
       .then((data) => {
-        setPlans(data);
+        // Sort meal plans in reverse chronological order (newest first)
+        const sorted = [...data].sort((a, b) => b.week.localeCompare(a.week));
+        setPlans(sorted);
         setLoading(false);
       })
       .catch((err: Error) => {
@@ -92,11 +94,11 @@ export default function MealPlans() {
                   <ul className="list-unstyled mb-0">
                     {plan.meals.map((mealText, index) => {
                       const linkMatch = mealText.match(
-                        /^\[([^\]]+)\]\(([^)]+)\)/
+                        /^\[([^\]]+)\]\(([^)]+)\)/,
                       );
                       const label = linkMatch ? linkMatch[1] : mealText;
                       const recipeForMeal = plan.recipes.find(
-                        (recipe) => recipe.name === label
+                        (recipe) => recipe.name === label,
                       );
                       const href = recipeForMeal?.path
                         ? `#/recipe/${recipeForMeal.path}`
