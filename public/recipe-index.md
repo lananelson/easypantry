@@ -269,6 +269,21 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 tablespoons minced fresh parsley
 - ¼ cup heavy cream
 
+## marinated-kale-chickpea-salad-sumac-onions
+**Marinated Kale and Chickpea Salad With Sumac Onions**
+
+- 1 bunch kale, tough inner stems discarded, leaves roughly torn (about 1 pound)
+- 2 tablespoons olive oil
+- Kosher salt
+- 1 small red onion, thinly sliced
+- 1 teaspoon dried ground sumac berries
+- 1/2 teaspoon toasted sesame seeds
+- 1 tablespoon juice from 1 lemon
+- 1 clove garlic, grated on a microplane grater
+- 2 teaspoons Dijon mustard
+- 1 (14-ounce) can chickpeas or white beans, drained and rinsed
+- Freshly ground black pepper
+
 ## marinated-lentils-spiced-walnuts-lotsa-basil
 **Marinated Lentils with Spiced Walnuts & Lotsa Basil**
 

@@ -2,7 +2,7 @@ name,category,quantity,unit,container_state,location,perishable,urgency,vendor,s
 Carrots,produce,3,medium,,fridge,yes,medium,,keep in stock,
 Garlic,produce,5,bulb,,pantry,yes,medium,,keep in stock,
 Tahini,fermented pastes,0,jar,,fridge,no,low,,keep in stock,"Sesame paste"
-Miso paste,fermented pastes,1,tbsp,open,fridge,no,low,,,"Small amount left"
+Miso paste,fermented pastes,1,container,sealed,fridge,no,low,,,
 Olives,preserved vegetables,1,jar,open,fridge,yes,medium,,,"In brine"
 Beef tallow,oils & fats,1,jar,open,fridge,no,low,,,"Cooking fat"
 Dark soy sauce,asian sauces,1,bottle,open,fridge,no,low,,,"Dark style"
@@ -89,14 +89,15 @@ Fettuccine,pasta,500,grams,sealed,garage,no,low,,,"Dry pasta"
 Organic black pepper barilotti pasta,pasta,1,bag,sealed,pantry,no,low,Trader Joe's,,
 Beef tallow (sealed),oils & fats,400,grams,sealed,garage,no,low,,,"Sealed jar; garage storage"
 All-purpose flour,baking,2,pounds,open,pantry,no,low,,,"Plain flour"
+Breadcrumbs,baking,0.5,cups,open,pantry,no,low,,,
 Dutch process cocoa powder,baking,1,container,open,pantry,no,low,,,"purchased 2021"
 Eggs,dairy,12,each,,fridge,yes,low,,keep in stock,
 Anchovy fillets,seafood,0,can,,,no,low,,keep in stock,
 Coriander seeds,spices,1,jar,,pantry,no,low,,keep in stock,
 Pecorino,cheese,1,block,,fridge,yes,medium,,,
 Parmesan,cheese,1,block,,fridge,yes,medium,,,
-Onion,produce,1,each,,pantry,yes,medium,,keep in stock,
-Potatoes,produce,1,lb,,pantry,yes,medium,,,
+Red onion,produce,2,each,,pantry,yes,medium,,keep in stock,
+
 Buckwheat grits,dried ingredients,3,cups,,pantry,no,low,,,
 Red lentils,dried ingredients,3.5,cups,,pantry,no,low,,,
 Pearled barley,dried ingredients,1.5,cups,,pantry,no,low,,,
