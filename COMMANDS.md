@@ -342,3 +342,54 @@ ayurvedic: []
 - Source: [URL or Book Title]
 - Author: [Author Name]
 ```
+
+## Plan a Gathering
+
+**Command:** "plan a gathering", "plan a party", "let's plan [event]"
+
+**Overview:**
+
+This is an event-driven planning workflow. Unlike regular meal planning (which prioritizes what's already in the pantry), gathering planning starts from what the user wants to serve and works backward into recipes, scaling, and shopping. The agent's role is to **listen and organize**, not suggest menus.
+
+All output uses existing entities — meal plans, recipes, shopping lists, and pantry. No new file formats or sections.
+
+**Process:**
+
+1. **Understand the event:**
+   - Ask the user to describe what they're planning — let them lead
+   - Don't assume structure: don't ask for guest count, dietary needs, or budget unless the user brings it up or it becomes relevant
+   - Just listen and understand what they're going for
+
+2. **Get the menu from the user:**
+   - Ask what they're planning to make — take the full list
+   - Don't suggest dishes or recipes; the user decides the menu
+   - Ask follow-up questions that a smart event planner would ask (e.g., "are you doing drinks too?" or "anything for dessert?" — but only when natural, not as a checklist)
+
+3. **For each dish, check for an existing recipe:**
+   - Search `public/recipes/` for a matching recipe
+   - **If found:** confirm with the user it's the right one
+   - **If not found:** handle recipe creation inline — ask the user for a URL, text, or image, then create the recipe following COMMANDS.md § "Add Recipe" rules (slug, frontmatter, heading structure, tags, etc.)
+   - **If the user wants to wing it:** skip the recipe file and just list ingredients inline in the meal plan (use the simple recipe format with `### Recipe Name` and no link)
+
+4. **Ask about scaling per-recipe:**
+   - For each dish, ask how the user wants to scale it — don't assume a universal multiplier
+   - Different dishes scale differently (a salad for 12 is not just 3x a salad for 4)
+   - Note scaling in parenthetical format after the recipe heading: `### [Recipe Name](../path) (double batch)`
+   - If the user isn't sure, help them think through it based on the recipe's default servings
+
+5. **Build the meal plan:**
+   - Determine the target week and check/create `public/weekly-meals/[week].md`
+   - Add the gathering dishes to `## Recipes` with scaled ingredient lists
+   - Mark each ingredient ✓ or `(need to buy)` by checking against `public/pantry.csv`
+   - Present the full menu to the user and confirm before writing
+
+6. **Do NOT auto-generate a shopping list.**
+   - The user will run `/shopping-list` when they're ready
+   - Mention this at the end so they know the next step
+
+**Key differences from regular meal planning:**
+
+- User drives the menu, not the pantry
+- Recipes may need to be added on the fly (inline, following Add Recipe rules)
+- Scaling varies per-dish and must be discussed individually
+- The conversation should feel like planning with a helpful person, not filling out a form
