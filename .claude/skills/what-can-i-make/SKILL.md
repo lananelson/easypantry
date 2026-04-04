@@ -1,3 +1,9 @@
+---
+name: what-can-i-make
+description: Suggest recipes based on what's currently in the pantry
+argument-hint: "[constraints]"
+---
+
 Suggest recipes based on what's currently in the pantry.
 
 $ARGUMENTS

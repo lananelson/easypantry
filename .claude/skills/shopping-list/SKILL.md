@@ -1,3 +1,9 @@
+---
+name: shopping-list
+description: Generate or regenerate the shopping list for the target week
+argument-hint: "[vendor]"
+---
+
 Generate or regenerate the shopping list for the target week.
 
 $ARGUMENTS

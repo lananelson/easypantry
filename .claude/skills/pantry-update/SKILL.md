@@ -1,3 +1,9 @@
+---
+name: pantry-update
+description: Update pantry inventory based on what was used, bought, or changed
+argument-hint: "[what changed]"
+---
+
 Update pantry inventory in `public/pantry.csv`.
 
 $ARGUMENTS

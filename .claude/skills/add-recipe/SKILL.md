@@ -1,3 +1,9 @@
+---
+name: add-recipe
+description: Add a new recipe from a URL, image, or pasted text
+argument-hint: "[url or description]"
+---
+
 Add a new recipe to the collection.
 
 $ARGUMENTS

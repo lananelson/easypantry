@@ -1,3 +1,8 @@
+---
+name: going-bad
+description: Check which perishable pantry items need to be used soon
+---
+
 Check which perishable pantry items need to be used soon.
 
 This is a read-only check — no files are edited without your confirmation.

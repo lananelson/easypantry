@@ -1,3 +1,9 @@
+---
+name: party
+description: Plan a gathering or event — menu, recipes, and meal plan
+argument-hint: "[event description]"
+---
+
 Plan a gathering or event — menu, recipes, and meal plan.
 
 $ARGUMENTS

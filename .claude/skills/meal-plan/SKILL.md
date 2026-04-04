@@ -1,3 +1,9 @@
+---
+name: meal-plan
+description: Start or update the weekly meal plan
+argument-hint: "[week]"
+---
+
 Start or update the weekly meal plan.
 
 1. Determine the target week from today's date (format: YYYY-WXX). If it's late in the week (Thu/Fri), confirm with the user whether they mean current or next week.

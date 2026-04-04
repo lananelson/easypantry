@@ -1,3 +1,8 @@
+---
+name: log-meals
+description: Retroactively log meals cooked this week by analyzing pantry history
+---
+
 Retroactively log meals cooked this week by analyzing pantry history.
 
 This is a read-only analysis that produces suggestions — no files are edited without your confirmation.
