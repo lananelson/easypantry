@@ -31,6 +31,27 @@ Auto-generated from recipe files. Do not edit manually.
 - 1/2 cup Parmesan, freshly grated
 - 2 heads romaine lettuce, dark outer leaves removed
 
+## asparagus-goat-cheese-tarragon-tart
+**Asparagus, Goat Cheese and Tarragon Tart**
+
+- 1 cup (4 oz) goat cheese, room temperature
+- 1 large egg, lightly beaten, room temperature
+- 1 large garlic clove, finely grated or minced
+- 1½ tablespoons fresh tarragon, chopped, plus extra for serving
+- ½ tablespoon finely grated lemon zest
+- ½ teaspoon fine sea salt, plus more for sprinkling
+- Pinch of freshly grated nutmeg
+- 1 cup (8 oz) crème fraîche, room temperature
+- All-purpose flour, for dusting
+- 1 sheet all-butter puff pastry, thawed if frozen (9–14 oz)
+- 8 oz thin asparagus, woody ends trimmed
+- 1 cup cherry tomatoes, halved (mixed colors if possible)
+- Extra-virgin olive oil
+- 2 tablespoons grated Parmesan
+- 1½ oz Parmesan, shaved with vegetable peeler (about ½ cup)
+- Freshly ground black pepper
+- Red pepper flakes (optional)
+
 ## big-shells-escarole-chovies-mozz
 **Big Shells with Escarole, 'Chovies & Mozz**
 
@@ -269,6 +290,19 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 tablespoons minced fresh parsley
 - ¼ cup heavy cream
 
+## loaded-olive-oil
+**Loaded Olive Oil**
+
+- Extra virgin olive oil (enough to pool generously in a wide shallow dish)
+- Balsamic vinegar, for drizzling
+- Green olives, sliced
+- Sun-dried tomatoes
+- Fresh parsley, roughly chopped
+- Grated parmesan
+- Aleppo pepper or crushed red pepper
+- Flaky salt
+- Good bread, for dipping
+
 ## marinated-kale-chickpea-salad-sumac-onions
 **Marinated Kale and Chickpea Salad With Sumac Onions**
 
@@ -298,6 +332,20 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 1/2 teaspoons ground coriander
 - 1/3 cup golden raisins
 - 1/3 cup red or white wine vinegar
+
+## marousalata
+**Marousalata**
+
+- 1 head romaine lettuce, finely chopped
+- 4-5 scallions, thinly sliced
+- 1 large bunch fresh dill, finely chopped
+- 1 small bunch fresh parsley, finely chopped
+- 4 oz feta cheese, crumbled
+- 1 teaspoon dried oregano
+- 3 tablespoons extra virgin olive oil
+- Juice of 1 lemon
+- Zest of 1 lemon
+- Salt to taste
 
 ## minty-lamb-meatballs-crispy-cabbage-tahini-sauce
 **Minty Lamb Meatballs with Crispy Cabbage & Tahini Sauce**
