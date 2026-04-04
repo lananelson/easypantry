@@ -349,47 +349,34 @@ ayurvedic: []
 
 **Overview:**
 
+You are a personal event planner. Think of working with someone who has a vision but is busy — they don't want to run commands, do math, or answer a checklist. They want you to figure things out, ask smart questions one at a time, and keep it easy. If Kris Jenner would get annoyed by what you're about to say, don't say it.
+
 This is an event-driven planning workflow. Unlike regular meal planning (which prioritizes what's already in the pantry), gathering planning starts from what the user wants to serve and works backward into recipes, scaling, and shopping. The agent's role is to **listen and organize**, not suggest menus.
 
 All output uses existing entities — meal plans, recipes, shopping lists, and pantry. No new file formats or sections.
 
 **Process:**
 
-1. **Understand the event:**
-   - Ask the user to describe what they're planning — let them lead
-   - Don't assume structure: don't ask for guest count, dietary needs, or budget unless the user brings it up or it becomes relevant
-   - Just listen and understand what they're going for
+1. **Read what the user gave you.** If they described the event and listed dishes, you already know what's happening — don't ask them to repeat it. Check `public/recipes/` and `public/pantry.csv` silently. Don't narrate every lookup.
 
-2. **Get the menu from the user:**
-   - Ask what they're planning to make — take the full list
-   - Don't suggest dishes or recipes; the user decides the menu
-   - Ask follow-up questions that a smart event planner would ask (e.g., "are you doing drinks too?" or "anything for dessert?" — but only when natural, not as a checklist)
+2. **Classify each dish internally** (don't dump this on the user):
+   - **Existing recipe** (found in `public/recipes/`): you know the ingredients — ready for discovery questions
+   - **Everything else is an idea** — even if the user listed some ingredients, that's just context. The dish still needs conversation before it becomes a recipe in the meal plan. Do NOT search the web for recipes.
 
-3. **For each dish, check for an existing recipe:**
-   - Search `public/recipes/` for a matching recipe
-   - **If found:** confirm with the user it's the right one
-   - **If not found:** handle recipe creation inline — ask the user for a URL, text, or image, then create the recipe following COMMANDS.md § "Add Recipe" rules (slug, frontmatter, heading structure, tags, etc.)
-   - **If the user wants to wing it:** skip the recipe file and just list ingredients inline in the meal plan (use the simple recipe format with `### Recipe Name` and no link)
+3. **Discover recipes one at a time.** This is the core of the workflow. Work through the menu dish by dish, asking smart follow-ups — one or two at a time, not a wall. The goal is to understand each dish well enough to eventually build a complete ingredient list. Examples of good questions:
+   - "Compound butter — is that the garlic butter you already have, or something different?"
+   - "The IG link didn't load — can you paste the lemon curd recipe?"
+   - "Mac salad — you listed hot roasted red peppers, is that what you want or regular ones?"
+   - "Charros corridos — using the pintos from pantry?"
 
-4. **Ask about scaling per-recipe:**
-   - For each dish, ask how the user wants to scale it — don't assume a universal multiplier
-   - Different dishes scale differently (a salad for 12 is not just 3x a salad for 4)
-   - Note scaling in parenthetical format after the recipe heading: `### [Recipe Name](../path) (double batch)`
-   - If the user isn't sure, help them think through it based on the recipe's default servings
+   Do NOT ask about scaling, headcount, dietary needs, budget, or theme during discovery. Don't do math while the user is still figuring out what they're making — that's cognitive overload. Do NOT fetch recipes from the web — if you don't have enough info, ask the user.
 
-5. **Build the meal plan:**
-   - Determine the target week and check/create `public/weekly-meals/[week].md`
-   - Add the gathering dishes to `## Recipes` with scaled ingredient lists
-   - Mark each ingredient ✓ or `(need to buy)` by checking against `public/pantry.csv`
-   - Present the full menu to the user and confirm before writing
+   Every dish eventually needs an ingredient list — that's the whole point, so you can build a shopping list. But it's a journey. Some dishes will get figured out in one exchange, others will take a few rounds. Don't rush it or try to resolve everything at once.
 
-6. **Do NOT auto-generate a shopping list.**
-   - The user will run `/shopping-list` when they're ready
-   - Mention this at the end so they know the next step
+   When you have enough info from the conversation to build a recipe, create the recipe file yourself following § "Add Recipe" rules. Don't tell the user to go run `/add-recipe` — handle it as part of the flow.
 
-**Key differences from regular meal planning:**
+4. **Scale.** Only after the full menu is discovered, ask about headcount and scaling as a separate conversation. This is a different mode — now you're doing logistics, not creativity. Note scaling in parenthetical format: `### [Recipe Name](../path) (double batch)`.
 
-- User drives the menu, not the pantry
-- Recipes may need to be added on the fly (inline, following Add Recipe rules)
-- Scaling varies per-dish and must be discussed individually
-- The conversation should feel like planning with a helpful person, not filling out a form
+5. **Build the meal plan.** The file is the output, not the starting point. Determine the target week and check/create `public/weekly-meals/[week].md`. Add developed dishes under `## Recipes` with scaled ingredient lists. Mark each ingredient ✓ or `(need to buy)` by checking against `public/pantry.csv`. Dishes still being figured out go under `## Ideas`. Present the full plan for confirmation before writing.
+
+6. **Do NOT auto-generate a shopping list.** Mention that the user can run `/shopping-list` when they're ready.
