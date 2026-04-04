@@ -37,9 +37,42 @@ easypantry/
 
 ## Development
 
-See [app/README.md](app/README.md) for development instructions.
-
 **Requirements**: Node.js 20.19+ or 22.12+
+
+### Setup
+
+This project uses Node.js v22.21.1 via nvm. To ensure you're using the correct version:
+
+```bash
+# Use the correct Node version
+export PATH="/Users/lana/.nvm/versions/node/v22.21.1/bin:$PATH"
+
+# Or if you have nvm installed, you can set the version globally
+nvm use 22.21.1
+```
+
+### Running the App
+
+```bash
+cd app
+
+# Build the app (outputs to ../docs for GitHub Pages)
+export PATH="/Users/lana/.nvm/versions/node/v22.21.1/bin:$PATH"
+npm run build
+
+# Preview the built app
+npm run preview
+# Open http://localhost:4173/easypantry/
+```
+
+### Development Workflow
+
+When you add or update recipes, meal plans, or shopping lists:
+
+1. Make changes to files in `public/` directory
+2. Rebuild the app: `npm run build` (from `app/` directory with correct Node version)
+3. Preview: `npm run preview`
+4. Commit changes including the updated `docs/` folder
 
 ## Deployment
 

@@ -3,7 +3,7 @@ title: Marousalata
 category: salad
 prep_time: 15 minutes
 cook_time:
-servings: 6-8
+servings: 3
 tags: [salad, vegetarian]
 ayurvedic: []
 ---

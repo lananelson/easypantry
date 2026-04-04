@@ -269,24 +269,31 @@ This is intentionally high-level: use judgment rather than strict rules, and sur
    - **From image**: Ask user for the image/screenshot, then transcribe the content
    - **From text**: Use the recipe text provided by the user
 
-2. **Choose a recipe slug:**
+2. **NEVER fabricate instructions:**
+   - If the user provides a source (cookbook, URL, image) but you can only see partial content (e.g., only ingredients list visible in photo), transcribe ONLY what you can see
+   - Leave the `## Instructions` section blank or ask the user to provide the missing instructions
+   - Do NOT make up, infer, or generate instructions based on the recipe title or ingredients
+   - This is a critical rule - violating it undermines trust in the recipe collection
+
+3. **Choose a recipe slug:**
    - Lowercase, dash-separated (e.g., "alice-waters-caesar-salad")
    - Remove apostrophes and special characters
    - Keep it unique, readable, and descriptive but not too long
 
-3. **Create folder structure:**
+4. **Create folder structure:**
    - Create folder: `public/recipes/[recipe-slug]/`
    - (Optional) Create `public/recipes/[recipe-slug]/media/` folder for images
 
-4. **Create recipe file:**
+5. **Create recipe file:**
    - Create `public/recipes/[recipe-slug]/recipe.md` with standard frontmatter and headings
    - Follow the template structure below
 
-5. **Document the source:**
+6. **Document the source:**
    - **From URL**: Include source URL in `## References` section
    - **From image or text**: Ask user where the recipe came from (cookbook title, author, website, personal notes) and record in `## References` section
+   - **For user-created recipes with AI-generated instructions**: Use format `Source: Created by [GitHub username] with [Model Name]` in the `## References` section (e.g., "Created by lananelson with Claude Sonnet 4.5")
 
-6. **Recipe index update:**
+7. **Recipe index update:**
    - The recipe index (`public/recipe-index.md`) is auto-regenerated on commit via git pre-commit hook
    - No manual action needed - just commit the new recipe file
 

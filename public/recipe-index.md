@@ -145,6 +145,27 @@ Auto-generated from recipe files. Do not edit manually.
 - Juice of 1 lemon
 - 1/4 to 3/4 cup water, as needed
 
+## cognac-whipped-cream
+**Cognac Whipped Cream**
+
+- 1 cup heavy whipping cream, cold
+- 2 tablespoons powdered sugar
+- 1 tablespoon cognac
+- 1/2 teaspoon vanilla extract (optional)
+
+## crispy-skinned-salmon-harissa-citrusy-fennel-salad
+**Crispy-Skinned Salmon with Harissa & Citrusy Fennel Salad**
+
+- 1 grapefruit
+- 1 orange
+- 1 lemon
+- 2 medium fennel bulbs
+- 2 tablespoons harissa paste, plus more
+- 1½ teaspoons toasted sesame oil
+- 2 tablespoons extra-virgin olive oil
+- Kosher salt
+- 4 (6-ounce) salmon fillets
+
 ## daube-provencale
 **Daube Provençale (French Beef Stew with Red Wine)**
 
@@ -302,6 +323,21 @@ Auto-generated from recipe files. Do not edit manually.
 - Aleppo pepper or crushed red pepper
 - Flaky salt
 - Good bread, for dipping
+
+## macaroni-salad
+**Macaroni Salad**
+
+- 1 lb macaroni (1 box)
+- 2 medium carrots, grated
+- 8 oz imitation crab, chopped (1 package)
+- 2 tablespoons sesame oil
+- 3 tablespoons rice vinegar
+- 1 medium sweet onion, grated
+- 1 bunch chives, chopped (about 1/4 cup)
+- 1 orange bell pepper, diced
+- 1 jar (12 oz) roasted red peppers, drained and diced (can use hot ones)
+- 1 cup mayonnaise
+- 1/4 cup milk
 
 ## marinated-kale-chickpea-salad-sumac-onions
 **Marinated Kale and Chickpea Salad With Sumac Onions**
@@ -483,6 +519,18 @@ Auto-generated from recipe files. Do not edit manually.
 - Sour cream, for serving
 - Cilantro, for serving
 - 2 tablespoons brown sugar (optional; see notes)
+
+## russian-olivier-salad
+**Russian Olivier Salad**
+
+- 4 medium potatoes, peeled and diced
+- 2 large carrots, peeled and diced
+- half bag of frozen green peas
+- 4 large eggs
+- 8 oz mortadella, diced
+- 1 cup mayonnaise
+- Salt and pepper to taste
+- Fresh dill for garnish (optional)
 
 ## salmon-chowder
 **Easy, Creamy One-Pot Salmon Chowder**

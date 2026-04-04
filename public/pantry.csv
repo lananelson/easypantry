@@ -1,9 +1,10 @@
 name,category,quantity,unit,container_state,location,perishable,urgency,vendor,stock_requirement,notes
-Carrots,produce,3,medium,,fridge,yes,medium,,keep in stock,
+Carrots,produce,0,medium,,fridge,yes,medium,,keep in stock,
+Lemons,produce,6,each,,fridge,yes,medium,,keep in stock,
 Garlic,produce,5,bulb,,pantry,yes,medium,,keep in stock,
 Tahini,fermented pastes,0,jar,,fridge,no,low,,keep in stock,"Sesame paste"
 Miso paste,fermented pastes,1,container,sealed,fridge,no,low,,,
-Olives,preserved vegetables,1,jar,open,fridge,yes,medium,,,"In brine"
+Olives,preserved vegetables,0,jar,open,fridge,yes,medium,,,"In brine"
 Beef tallow,oils & fats,1,jar,open,fridge,no,low,,,"Cooking fat"
 Dark soy sauce,asian sauces,1,bottle,open,fridge,no,low,,,"Dark style"
 Light soy sauce,asian sauces,1,bottle,open,fridge,no,low,,,"Superior light soy"
@@ -11,8 +12,9 @@ Oyster sauce,asian sauces,1,bottle,open,fridge,no,low,,,"Thick, savory"
 Fish sauce,asian sauces,1,bottle,open,fridge,no,low,,,"Salty, umami"
 Worcestershire sauce,seasonings,1,bottle,open,fridge,no,low,,,"Seasoning sauce"
 Sesame oil,oils & fats,1,bottle,open,fridge,no,low,,,"Toasted sesame oil"
-Mayonnaise,seasonings,1,jar,open,fridge,yes,medium,,,"Egg-based"
+Mayonnaise,seasonings,0,jar,open,fridge,yes,medium,,keep in stock,"Egg-based"
 Sour cream,dairy,1,container,sealed,fridge,yes,medium,,keep in stock,
+Milk,dairy,1,container,,fridge,yes,medium,,keep in stock,
 Mirin,asian sauces,1,bottle,open,fridge,no,low,,,
 Shaoxing wine,wine,1,bottle,open,fridge,no,low,,,
 Marsala wine,wine,1,bottle,open,fridge,no,low,,,
@@ -34,6 +36,7 @@ Medjool dates,dried ingredients,1,container,open,pantry,yes,medium,,,"Expired Ap
 Chardonnay vinegar,vinegars,1,bottle,open,pantry,no,low,,,"With mother"
 Apple cider vinegar (sealed),vinegars,64,oz,sealed,pantry,no,low,,,"2 x 32 oz bottles"
 Distilled white vinegar,vinegars,1,bottle,sealed,pantry,no,low,,,"Standard white vinegar"
+Balsamic vinegar,vinegars,1,bottle,open,pantry,no,low,,,"For loaded olive oil"
 Japanese curry mix,dried ingredients,1,box,sealed,pantry,no,low,,,"Curry roux blocks"
 Tomato paste,canned goods,0.5,can,open,fridge,no,high,,,"6 oz can, half used"
 Tomato paste,canned goods,2,cans,sealed,garage,no,low,,,"6 oz each"
@@ -80,7 +83,7 @@ Cornstarch,baking,1,container,open,pantry,no,low,,,"Thickener"
 Coleman's mustard,fermented pastes,1,jar,open,fridge,yes,low,,,"English mustard"
 Avocado oil,oils & fats,67,oz,sealed,pantry,no,low,,,"Costco-size bottle"
 Soy sauce (less-sodium),asian sauces,2,quarts,sealed,garage,no,low,,,"Single 2-quart container"
-Extra virgin olive oil,oils & fats,100,mililiters,,,no,low,,keep in stock,
+Extra virgin olive oil,oils & fats,0,mililiters,,,no,low,,keep in stock,
 Premium oyster sauce,asian sauces,32,oz,sealed,garage,no,low,,,"Large bottle"
 San Marzano whole peeled tomatoes,canned goods,0,containers,sealed,garage,no,low,Costco,keep in stock,
 Coconut milk,canned goods,1,can,sealed,garage,no,low,,,"Standard coconut milk can"
@@ -91,7 +94,7 @@ Beef tallow (sealed),oils & fats,400,grams,sealed,garage,no,low,,,"Sealed jar; g
 All-purpose flour,baking,2,pounds,open,pantry,no,low,,,"Plain flour"
 Breadcrumbs,baking,0.5,cups,open,pantry,no,low,,,
 Dutch process cocoa powder,baking,1,container,open,pantry,no,low,,,"purchased 2021"
-Eggs,dairy,12,each,,fridge,yes,low,,keep in stock,
+Eggs,dairy,7,each,,fridge,yes,low,,keep in stock,
 Anchovy fillets,seafood,0,can,,,no,low,,keep in stock,
 Coriander seeds,spices,1,jar,,pantry,no,low,,keep in stock,
 Pecorino,cheese,1,block,,fridge,yes,medium,,,
@@ -120,5 +123,5 @@ Chicken drumsticks,poultry,2,pounds,frozen,freezer,yes,low,,,
 Melinda hot sauce,seasonings,1,bottle,sealed,fridge,no,low,,,
 Lamb & turkey meatballs,prepared foods,1.5,lb,frozen,freezer,yes,low,,,
 Organic short white rice,dried ingredients,1,bag,sealed,pantry,no,low,,,
-Cherry tomatoes,produce,1,container,,fridge,yes,medium,,,
+Cherry tomatoes,produce,0,container,,fridge,yes,medium,,,
 Baby kale,produce,0.5,lb,,fridge,yes,medium,,,"Small salad leaves"

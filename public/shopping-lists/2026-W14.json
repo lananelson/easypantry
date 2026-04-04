@@ -1,0 +1,96 @@
+{
+  "title": "Week 14 (March 30 - April 5, 2026)",
+  "week": "2026-W14",
+  "created": "2026-04-04",
+  "status": "active",
+  "completed_date": null,
+  "items": [
+    {
+      "name": "Eggs (12-18 count carton)",
+      "for": [
+        "swiss chard frittata",
+        "asparagus tart",
+        "russian olivier salad",
+        "restock"
+      ]
+    },
+    {
+      "name": "Carrots (2 medium + 4 large)",
+      "for": ["macaroni salad", "russian olivier salad"]
+    },
+    {
+      "name": "Mayonnaise (large jar)",
+      "for": ["macaroni salad", "russian olivier salad", "restock"]
+    },
+    {
+      "name": "Extra virgin olive oil (large bottle)",
+      "for": [
+        "swiss chard frittata",
+        "loaded olive oil",
+        "marousalata",
+        "asparagus tart",
+        "salmon",
+        "restock"
+      ]
+    },
+    { "name": "Cherry tomatoes (2 containers)", "for": ["asparagus tart"] },
+    { "name": "Green olives", "for": ["loaded olive oil"] },
+    { "name": "Romaine hearts (6-pack from Costco)", "for": ["marousalata"] },
+    { "name": "Scallions (20-25)", "for": ["marousalata"] },
+    {
+      "name": "Fresh dill (5 bunches)",
+      "for": ["marousalata", "russian olivier salad"]
+    },
+    {
+      "name": "Fresh parsley (5 bunches)",
+      "for": ["marousalata", "loaded olive oil"]
+    },
+    { "name": "Feta cheese (20 oz)", "for": ["marousalata"] },
+    { "name": "Dried oregano", "for": ["marousalata"] },
+    { "name": "Macaroni (1 lb box)", "for": ["macaroni salad"] },
+    { "name": "Imitation crab (8 oz)", "for": ["macaroni salad"] },
+
+    { "name": "Sweet onion (1 medium)", "for": ["macaroni salad"] },
+    { "name": "Chives (1 bunch)", "for": ["macaroni salad"] },
+    { "name": "Orange bell pepper (1)", "for": ["macaroni salad"] },
+
+    { "name": "Goat cheese (8 oz)", "for": ["asparagus tart"] },
+    { "name": "Crème fraîche (16 oz)", "for": ["asparagus tart"] },
+    { "name": "Fresh tarragon (1 bunch)", "for": ["asparagus tart"] },
+    { "name": "Lemon (1 for zest)", "for": ["asparagus tart"] },
+    { "name": "Lemons (1 bag)", "for": ["restock"] },
+    { "name": "All-butter puff pastry (2 sheets)", "for": ["asparagus tart"] },
+    { "name": "Thin asparagus (1 lb)", "for": ["asparagus tart"] },
+    {
+      "name": "Red potatoes (2 for frittata) + regular medium potatoes (8 for Olivier)",
+      "for": ["swiss chard frittata", "russian olivier salad"]
+    },
+    { "name": "Swiss chard (2 bunches)", "for": ["swiss chard frittata"] },
+    {
+      "name": "Sharp cheddar cheese (4 oz block)",
+      "for": ["swiss chard frittata"]
+    },
+    { "name": "Butter (1 stick)", "for": ["swiss chard frittata"] },
+    { "name": "Frozen green peas (1 bag)", "for": ["russian olivier salad"] },
+    {
+      "name": "Mortadella (16 oz / 2 packages)",
+      "for": ["russian olivier salad"]
+    },
+    {
+      "name": "Heavy whipping cream (half pint or small carton)",
+      "for": ["cognac whipped cream"]
+    },
+    { "name": "Vanilla extract (optional)", "for": ["cognac whipped cream"] },
+    { "name": "Fennel bulbs (2)", "for": ["salmon"] },
+    { "name": "Harissa paste (1 small jar)", "for": ["salmon"] },
+    {
+      "name": "Whole salmon fillet (2-3 lbs)",
+      "for": ["salmon"]
+    },
+
+    { "name": "Sun-dried tomatoes", "for": ["loaded olive oil"] },
+    { "name": "Flaky salt", "for": ["loaded olive oil"] },
+    { "name": "Good bread for dipping", "for": ["loaded olive oil"] },
+    { "name": "Cheese crisps (Costco)", "for": ["snacks"] }
+  ]
+}
