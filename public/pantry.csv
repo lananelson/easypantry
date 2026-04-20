@@ -1,7 +1,7 @@
 name,category,quantity,unit,container_state,location,perishable,urgency,vendor,stock_requirement,notes
 Carrots,produce,0,medium,,fridge,yes,medium,,keep in stock,
-Lemons,produce,6,each,,fridge,yes,medium,,keep in stock,
-Garlic,produce,5,bulb,,pantry,yes,medium,,keep in stock,
+Lemons,produce,2,each,,fridge,yes,medium,,keep in stock,
+Garlic,produce,0,bulb,,pantry,yes,medium,,keep in stock,"Old, needs replacement"
 Tahini,fermented pastes,0,jar,,fridge,no,low,,keep in stock,"Sesame paste"
 Miso paste,fermented pastes,1,container,sealed,fridge,no,low,,,
 Olives,preserved vegetables,0,jar,open,fridge,yes,medium,,,"In brine"
@@ -12,9 +12,9 @@ Oyster sauce,asian sauces,1,bottle,open,fridge,no,low,,,"Thick, savory"
 Fish sauce,asian sauces,1,bottle,open,fridge,no,low,,,"Salty, umami"
 Worcestershire sauce,seasonings,1,bottle,open,fridge,no,low,,,"Seasoning sauce"
 Sesame oil,oils & fats,1,bottle,open,fridge,no,low,,,"Toasted sesame oil"
-Mayonnaise,seasonings,0,jar,open,fridge,yes,medium,,keep in stock,"Egg-based"
-Sour cream,dairy,1,container,sealed,fridge,yes,medium,,keep in stock,
-Milk,dairy,1,container,,fridge,yes,medium,,keep in stock,
+Mayonnaise,seasonings,0.5,jar,open,fridge,yes,medium,,keep in stock,"Avocado mayo"
+Sour cream,dairy,0,container,sealed,fridge,yes,medium,,keep in stock,
+Milk,dairy,0,container,,fridge,yes,medium,,keep in stock,
 Mirin,asian sauces,1,bottle,open,fridge,no,low,,,
 Shaoxing wine,wine,1,bottle,open,fridge,no,low,,,
 Marsala wine,wine,1,bottle,open,fridge,no,low,,,
@@ -94,19 +94,19 @@ Beef tallow (sealed),oils & fats,400,grams,sealed,garage,no,low,,,"Sealed jar; g
 All-purpose flour,baking,2,pounds,open,pantry,no,low,,,"Plain flour"
 Breadcrumbs,baking,0.5,cups,open,pantry,no,low,,,
 Dutch process cocoa powder,baking,1,container,open,pantry,no,low,,,"purchased 2021"
-Eggs,dairy,7,each,,fridge,yes,low,,keep in stock,
+Eggs,dairy,0,each,,fridge,yes,low,,keep in stock,
 Anchovy fillets,seafood,0,can,,,no,low,,keep in stock,
 Coriander seeds,spices,1,jar,,pantry,no,low,,keep in stock,
 Pecorino,cheese,1,block,,fridge,yes,medium,,,
 Parmesan,cheese,1,block,,fridge,yes,medium,,,
-Red onion,produce,2,each,,pantry,yes,medium,,keep in stock,
+Red onion,produce,1,each,,pantry,yes,medium,,keep in stock,
 
 Buckwheat grits,dried ingredients,3,cups,,pantry,no,low,,,
 Red lentils,dried ingredients,3.5,cups,,pantry,no,low,,,
 Pearled barley,dried ingredients,1.5,cups,,pantry,no,low,,,
 Wild rice,dried ingredients,1.5,cups,,pantry,no,low,,,
 Yellow peas,dried ingredients,3.5,cups,,pantry,no,low,,keep in stock,
-Oats,dried ingredients,0,cups,,pantry,no,low,,keep in stock,
+Oats,dried ingredients,10,cups,,pantry,no,low,,keep in stock,"Large container from Costco"
 Ячменная крупа,dried ingredients,0,cups,,pantry,no,low,,keep in stock,"Cracked barley groats for porridge"
 Couscous,dried ingredients,1.5,cups,,pantry,no,low,,,
 Dried chickpeas,dried ingredients,2,cups,,pantry,no,low,,,
@@ -124,4 +124,15 @@ Melinda hot sauce,seasonings,1,bottle,sealed,fridge,no,low,,,
 Lamb & turkey meatballs,prepared foods,1.5,lb,frozen,freezer,yes,low,,,
 Organic short white rice,dried ingredients,1,bag,sealed,pantry,no,low,,,
 Cherry tomatoes,produce,0,container,,fridge,yes,medium,,,
-Baby kale,produce,0.5,lb,,fridge,yes,medium,,,"Small salad leaves"
+Asparagus,produce,1,bunch,,fridge,yes,medium,,,"Organic, thin"
+Roasted tomato-pepper purée,prepared foods,16,oz,frozen,freezer,yes,medium,,,"Roasted heirloom tomatoes and peppers, blended"
+Goat cheese,cheese,1,log,sealed,fridge,yes,medium,,,"Goat cheese log"
+Crescenza,cheese,1,container,sealed,fridge,yes,medium,,,"Italian cheese"
+Crème fraîche,dairy,0.9,container,open,fridge,yes,medium,,,"Almost full"
+Imitation crab,seafood,1,package,sealed,fridge,yes,medium,,,"Crab delights"
+Dijon mustard,fermented pastes,1,jar,sealed,pantry,no,low,,,"Grey Poupon"
+Fig spread,preserved foods,0.9,jar,open,fridge,yes,medium,,,"Almost full"
+Sun-dried tomatoes,preserved vegetables,0.8,jar,open,fridge,yes,medium,,,"In oil, most of jar remaining"
+Organic crackers,snacks,1,sleeve,sealed,pantry,no,low,,,"1 sleeve remaining"
+Almond crackers,snacks,1.5,packs,mixed,pantry,no,low,,,"1 sealed pack + half pack open"
+Gluten-free puff pastry,baking,2,packs,frozen,freezer,yes,low,,,"2 packs frozen"
