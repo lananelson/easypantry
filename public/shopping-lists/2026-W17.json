@@ -1,0 +1,15 @@
+{
+  "title": "Week 17 (Apr 20-26, 2026)",
+  "week": "2026-W17",
+  "created": "2026-04-19",
+  "status": "active",
+  "completed_date": null,
+  "items": [
+    { "name": "Eggs", "for": ["Asparagus Goat Cheese Quiche"] },
+    { "name": "Milk", "for": ["Asparagus Goat Cheese Quiche"] },
+    { "name": "Garlic", "for": ["restock"] },
+    { "name": "Tahini", "for": ["restock"] },
+    { "name": "Extra virgin olive oil", "for": ["restock"] },
+    { "name": "Anchovy fillets", "for": ["restock"] }
+  ]
+}
