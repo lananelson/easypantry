@@ -31,6 +31,26 @@ Auto-generated from recipe files. Do not edit manually.
 - 1/2 cup Parmesan, freshly grated
 - 2 heads romaine lettuce, dark outer leaves removed
 
+## asparagus-goat-cheese-quiche
+**Asparagus Goat Cheese Quiche**
+
+- 2 cups (260g) all-purpose flour (crust)
+- 1 tsp salt (crust)
+- 2/3 cup (150g) chilled unsalted butter, cubed (crust)
+- 5 tbsp (75ml) cold water (crust)
+- 1 tbsp (14g) butter (filling)
+- 1 shallot, peeled and diced
+- 1 small bunch (200g) asparagus, stemmed and cut into 1.5-inch pieces
+- 4 large eggs
+- 3/4 cup (180ml) milk (2% or whole)
+- 1/4 cup (60ml) heavy cream
+- 1 tbsp Dijon mustard
+- 1/4 tsp cayenne
+- 1/2 tsp salt
+- 1/2 tsp freshly ground black pepper
+- 1 tbsp chopped parsley
+- 125g soft unripened goat cheese, crumbled
+
 ## asparagus-goat-cheese-tarragon-tart
 **Asparagus, Goat Cheese and Tarragon Tart**
 
