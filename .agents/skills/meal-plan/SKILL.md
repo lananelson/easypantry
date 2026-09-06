@@ -1,10 +1,9 @@
-Skill is valid!
 ---
 name: meal-plan
 description: Start or update an EasyPantry weekly meal plan. Use for meal ideas, developed recipes, ingredient availability, or recording cooked meals for a week.
 ---
 
-Follow the Pantry Keeper posture in [PANTRY_KEEPER.md](../../../PANTRY_KEEPER.md).
+Follow the Pantry Keeper role in [PANTRY_KEEPER.md](../../../PANTRY_KEEPER.md).
 
 Meal planning progresses from ideas to recipes to a shopping list. Preserve those stages and the distinctions below. If the user already supplied meal ideas or recipes, work from what they gave you instead of asking what they want to do.
 
@@ -37,7 +36,7 @@ For a simple recipe:
 For every developed recipe:
 
 - Read `public/pantry.csv` and mark ingredients `✓` when available or `(need to buy)` when missing.
-- If the user says the pantry is stale or incomplete, absence from the file does not mean `(need to buy)`. Confirm uncertain ingredient availability before applying either status.
+- If the user says the pantry is stale or incomplete, absence from the file does not mean `(need to buy)`. Treat common staples as likely available and ask the user to confirm them; ask about other key unknown ingredients before assigning either status.
 - Record substitutions inline, such as `use Fontina ✓` instead of `Melting cheese`.
 
 ## Log meals cooked

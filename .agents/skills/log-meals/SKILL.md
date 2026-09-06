@@ -1,18 +1,29 @@
 ---
 name: log-meals
-description: Suggest retroactive EasyPantry meal-log entries by comparing pantry history with the weekly meal plan.
+description: Retroactively suggest EasyPantry meal-log entries by comparing pantry history with the weekly meal plan.
 ---
 
-Follow the Pantry Keeper posture in [PANTRY_KEEPER.md](../../../PANTRY_KEEPER.md).
+Follow the Pantry Keeper role in [PANTRY_KEEPER.md](../../../PANTRY_KEEPER.md).
 
-This is read-only analysis until the user confirms what was actually cooked. Use the current [Meal plan](../meal-plan/SKILL.md) and pantry history; do not infer quantities, leftovers, or detailed notes.
+Begin the analysis immediately without preliminary questions. This workflow is read-only until the user confirms which meals were actually cooked.
 
-1. Identify the requested week from the meal-plan frontmatter or conversation.
-2. Inspect `git log --follow -- public/pantry.csv`, including the former root `pantry.csv` path when history crosses the migration.
-3. During the short-lived duplicate-file period, prefer `public/pantry.csv`; the root copy was unreliable. After its cleanup commit, ignore the root copy.
-4. Look for consumed prepared foods or coordinated decreases in core recipe ingredients.
-5. Match those signals against `## Ideas` and `## Recipes` in the weekly plan.
-6. Present likely meals as suggestions, linking each to its recipe heading where possible.
-7. Ask whether the user cooked anything else that the history did not reveal.
+## Analyze the week
 
-Only after confirmation, add the selected entries under `## Meals`. Use plain text when no recipe heading exists.
+1. Identify the week from the user's request or the `week:` frontmatter in `public/weekly-meals/<week>.md`. If the meal-plan file does not exist, follow [Meal plan](../meal-plan/SKILL.md) when the user wants one created.
+2. Inspect pantry changes for that week with `git log --follow -- public/pantry.csv`, following the former root `pantry.csv` path when history crosses the rename.
+3. Account for the temporary duplicate-file migration period:
+   - Some changes during that period may have landed in the root `pantry.csv` by mistake.
+   - Prefer `public/pantry.csv` as the intended source of truth.
+   - After the cleanup commit removed the root file, ignore it and follow only `public/pantry.csv`.
+4. Look for meal-like changes: prepared foods or leftovers whose quantities dropped or disappeared, names matching planned meals, or coordinated decreases in several core recipe ingredients.
+5. Compare those changes and their dates with `## Ideas` and `## Recipes` in the weekly meal plan.
+
+## Propose entries
+
+- Treat a recipe as a candidate when a matching prepared item was consumed or several core ingredients clearly decreased around the same time.
+- Present candidates as suggestions, such as “It looks like you probably made…”
+- Suggest a simple entry under `## Meals`, linking to the recipe heading when it exists: `- [Birria Tacos](#birria-tacos)`.
+- Keep notes minimal and high-level. Do not infer quantities cooked, leftovers, or other fine-grained details.
+- Do not edit the meal plan until the user confirms which candidates were actually cooked.
+
+After presenting the candidates, ask whether any other meals were cooked that the history did not reveal. Add confirmed additional meals as linked entries when a recipe heading exists, or plain text when it does not.

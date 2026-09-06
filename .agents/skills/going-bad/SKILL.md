@@ -1,17 +1,24 @@
 ---
 name: going-bad
-description: Assess which perishable EasyPantry items need attention soon using current inventory, notes, food type, and repository history.
+description: Check which perishable EasyPantry items need attention soon and suggest urgency or note updates.
 ---
 
-Follow the Pantry Keeper posture in [PANTRY_KEEPER.md](../../../PANTRY_KEEPER.md).
+Follow the Pantry Keeper role in [PANTRY_KEEPER.md](../../../PANTRY_KEEPER.md).
 
-This check is read-only. Present findings and possible urgency changes; never update `public/pantry.csv` without confirmation.
+Begin the analysis immediately without preliminary questions. This check is read-only: present findings and proposed changes, but never edit `public/pantry.csv` unless the user explicitly confirms them.
+
+## Assess perishables
 
 1. Read `public/pantry.csv` and focus on rows with `perishable=yes`.
-2. Use `git log --follow` and a few relevant historical snapshots to estimate when items appeared.
-3. During the short-lived duplicate-file migration period, prefer `public/pantry.csv` over the flawed root `pantry.csv`. Ignore the root copy after its cleanup commit.
-4. Combine age with food type and notes. Fragile fish, berries, and herbs differ from sealed foods, frozen items, or hard cheese.
-5. Classify attention roughly as very urgent, medium, or low.
-6. Suggest concrete `urgency` or note changes when warranted, explaining the evidence and uncertainty.
+2. Use repository history as a rough age signal:
+   - Follow the file across renames with `git log --follow`.
+   - Inspect a few relevant snapshots with `git show <sha>:pantry.csv` or `git show <sha>:public/pantry.csv` to estimate when each item appeared.
+   - During the temporary duplicate-file period, treat the root `pantry.csv` as a flawed parallel copy and prefer `public/pantry.csv`. Ignore the root copy after its cleanup commit.
+3. Combine estimated age with food type and free-text notes. Fragile fish, berries, and herbs differ from sealed foods, frozen items, or hard cheese; notes such as “about a week old,” “expires soon,” or “mold-prone” should affect the assessment.
+4. Classify attention roughly:
+   - **Very urgent:** fragile perishables present for multiple days or commits, or notes indicating near-term spoilage.
+   - **Medium:** items that keep reasonably well or are sealed but have been present for a while.
+   - **Low:** newly added sealed or frozen items and inherently long-lived foods.
+5. Suggest raising `urgency` for items that clearly need attention and lowering it for newly added, sealed, or frozen items that are unlikely to spoil soon. Suggest useful note changes when warranted.
 
-Do not over-formalize shelf life or silently treat repository age as the purchase date.
+Use judgment rather than a rigid shelf-life formula. Repository age is not necessarily the purchase date, so surface uncertainty instead of silently treating it as fact.

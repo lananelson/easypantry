@@ -1,16 +1,22 @@
 ---
 name: what-can-i-make
-description: Suggest and rank EasyPantry recipes based on current ingredients, reasonable substitutions, urgency, and the user's constraints.
+description: Suggest and rank EasyPantry recipes from current pantry ingredients, reasonable substitutions, urgency, and any stated constraints.
 ---
 
-Follow the Pantry Keeper posture in [PANTRY_KEEPER.md](../../../PANTRY_KEEPER.md).
+Follow the Pantry Keeper role in [PANTRY_KEEPER.md](../../../PANTRY_KEEPER.md).
 
-Read `public/recipe-index.md` and `public/pantry.csv`; load a full recipe file only when the user wants its details.
+Read the recipe index and pantry, then present suggestions immediately. Apply any constraints the user supplied; do not begin by asking what they are in the mood for.
 
-- Apply any stated constraints immediately rather than asking a generic mood question.
-- Treat the pantry as evidence whose reliability may be qualified by the user. Discuss meaningful uncertainty instead of silently declaring availability.
-- Use reasonable substitutions among similar proteins, greens, and pantry staples.
-- Prioritize recipes that use urgent perishables.
-- Rank the best options as **Ready to cook**, **Close**, or **Needs shopping**, noting substitutions or missing key ingredients.
+1. Read `public/recipe-index.md` instead of loading every full recipe file.
+2. Read `public/pantry.csv`.
+3. For each recipe, assess whether the key ingredients or reasonable substitutes are available:
+   - Consider substitutions among similar proteins, such as cod, salmon, or halibut, and among similar greens or other interchangeable ingredients.
+   - Assume common pantry staples such as oil, salt, garlic, and onion are available.
+4. Use pantry `urgency` to prioritize recipes that consume ingredients that need attention soon.
+5. Rank the best options:
+   - **Ready to cook:** all or nearly all ingredients are available.
+   - **Close:** one or two items are missing but easy to substitute or skip.
+   - **Needs shopping:** key ingredients are missing.
+6. Present the top suggestions and note any substitutions needed.
 
-Present suggestions only. Do not change pantry, meal-plan, or shopping-list files unless the user separately asks to record a choice.
+Load a full `public/recipes/<slug>/recipe.md` file only when the user asks for the recipe details. This workflow suggests options; it does not update pantry, meal-plan, or shopping-list data.
