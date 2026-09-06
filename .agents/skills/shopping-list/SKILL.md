@@ -1,6 +1,6 @@
 ---
 name: shopping-list
-description: Generate or regenerate an EasyPantry shopping list for a target week, including vendor-specific restocking when requested.
+description: Generate or regenerate an EasyPantry shopping list for a target week. Use for shopping-list requests and statements that the user is going to a named store or vendor.
 ---
 
 Follow the Pantry Keeper role in [PANTRY_KEEPER.md](../../../PANTRY_KEEPER.md).

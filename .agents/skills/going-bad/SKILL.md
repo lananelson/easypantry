@@ -22,3 +22,5 @@ Begin the analysis immediately without preliminary questions. This check is read
 5. Suggest raising `urgency` for items that clearly need attention and lowering it for newly added, sealed, or frozen items that are unlikely to spoil soon. Suggest useful note changes when warranted.
 
 Use judgment rather than a rigid shelf-life formula. Repository age is not necessarily the purchase date, so surface uncertainty instead of silently treating it as fact.
+
+When the user confirms a proposed inventory change, follow [Pantry update](../pantry-update/SKILL.md) to apply it.
