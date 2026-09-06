@@ -32,7 +32,11 @@ easypantry/
 │   ├── recipes/          # Recipe markdown files
 │   └── weekly-meals/     # Weekly meal plans
 ├── docs/                  # Build output (deployed to GitHub Pages)
-└── COMMANDS.md           # Workflow documentation
+├── PANTRY_KEEPER.md       # Canonical Pantry Keeper role
+├── AGENTS.md              # Codex/Grok link to the canonical posture
+├── CLAUDE.md              # Claude import of the canonical posture
+├── .agents/skills/        # Canonical workflow skills
+└── .claude/skills/        # Claude/Grok links to canonical skills
 ```
 
 ## Development
@@ -87,4 +91,4 @@ All data is stored in static files:
 - Recipes: `public/recipes/*/recipe.md`
 - Meal plans: `public/weekly-meals/*.md`
 
-See [COMMANDS.md](COMMANDS.md) for workflows and commands.
+See [PANTRY_KEEPER.md](PANTRY_KEEPER.md) for the Pantry Keeper role. Detailed workflows live in [`.agents/skills/`](.agents/skills/).
