@@ -139,6 +139,26 @@ Auto-generated from recipe files. Do not edit manually.
 - Lettuce
 - Swiss cheese
 
+## chickpea-sunflower-sandwich
+**Chickpea Sunflower Sandwich**
+
+- 1 (15-ounce) can chickpeas, rinsed and drained
+- 1/4 cup roasted unsalted sunflower seeds
+- 3 tablespoons vegan mayonnaise, or tahini
+- 1/2 teaspoon Dijon or spicy mustard
+- 1 tablespoon maple syrup, or agave or honey if not vegan
+- 1/4 cup chopped red onion
+- 2 tablespoons fresh dill, finely chopped
+- Salt and black pepper, to taste
+- 4 slices rustic bread, lightly toasted
+- Sliced avocado, onion, tomato, and/or lettuce, for serving (optional)
+- 1/4 cup hummus (optional garlic herb sauce)
+- 1/2 medium lemon, juiced (optional garlic herb sauce)
+- 3/4 to 1 teaspoon dried dill (optional garlic herb sauce)
+- 2 cloves garlic, minced (optional garlic herb sauce)
+- Water or unsweetened almond milk, to thin (optional garlic herb sauce)
+- Sea salt, to taste (optional garlic herb sauce)
+
 ## chorizo-chickpea-carbonara
 **Chorizo & Chickpea Carbonara**
 
@@ -684,4 +704,20 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 tsp fresh lemon juice (for vegan mayo)
 - Pinch of salt (for vegan mayo)
 - Pinch of ground mustard or 1/2 tsp prepared mustard (for vegan mayo)
+
+## zucchini-pancakes
+**Zucchini Pancakes**
+
+- 2 medium zucchini, ~450g
+- 1, 16 oz container silken tofu, 454g
+- 1 tsp kosher salt (plus more as needed)
+- 1 1/2 cups all-purpose flour, spoon and leveled, 188g
+- 1/2 cup potato starch (or 6 tbsp cornstarch), spoon and leveled, 85g
+- 1 tsp baking powder
+- 1/4 cup sesame seeds, plus a little more for sprinkling overtop
+- 1 small red onion, thinly sliced
+- 4 scallions, thinly sliced
+- 3 cloves garlic, grated
+- 1 inch fresh ginger, grated
+- Avocado oil for cooking
 
