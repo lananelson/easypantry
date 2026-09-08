@@ -1,0 +1,35 @@
+name: Regenerate recipe index
+
+on:
+  pull_request:
+    paths:
+      - "public/recipes/**"
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate:
+    if: github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Regenerate recipe index
+        run: scripts/generate-recipe-index.sh
+
+      - name: Commit updated index
+        run: |
+          if git diff --quiet -- public/recipe-index.md; then
+            echo "Recipe index is already up to date"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/recipe-index.md
+          git commit -m "Regenerate recipe index"
+          git push
