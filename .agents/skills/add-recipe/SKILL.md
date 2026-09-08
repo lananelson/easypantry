@@ -68,4 +68,6 @@ ayurvedic: []
 
 ## Recipe index
 
-The local pre-commit hook regenerates `public/recipe-index.md`. In an environment that does not run repository hooks, run `scripts/generate-recipe-index.sh` before committing so the same generated update is included.
+Do not edit `public/recipe-index.md` manually when adding or changing a recipe. The `Regenerate recipe index` GitHub Action runs on pull requests that change `public/recipes/**`, executes `scripts/generate-recipe-index.sh`, and commits the generated index back to the PR branch when needed.
+
+The local pre-commit hook may still regenerate the index during local development; that is compatible with the GitHub Action, which will make no commit when the index is already current.
