@@ -216,6 +216,16 @@ Auto-generated from recipe files. Do not edit manually.
 - 4 tablespoons finely grated Parmigiano Reggiano
 - 4 teaspoons pesto or pistou
 
+## easy-vegan-mayonnaise
+**Easy Vegan Mayonnaise (With Aquafaba)**
+
+- 3 tablespoons (45ml) liquid from 1 can of chickpeas, plus 12 whole chickpeas (about 1/2 ounce; 16 g)
+- 2 teaspoons (10 ml) Dijon mustard
+- 1 teaspoon (5 ml) fresh juice from 1 lemon
+- 1 to 2 medium cloves garlic (5 to 10g), minced
+- 1/2 cup (120 ml) vegetable oil
+- Kosher salt and freshly ground black pepper
+
 ## fall-apart-lamb-with-prunes
 **Fall-Apart Lamb with Prunes**
 
@@ -684,4 +694,20 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 tsp fresh lemon juice (for vegan mayo)
 - Pinch of salt (for vegan mayo)
 - Pinch of ground mustard or 1/2 tsp prepared mustard (for vegan mayo)
+
+## zucchini-pancakes
+**Zucchini Pancakes**
+
+- 2 medium zucchini, ~450g
+- 1, 16 oz container silken tofu, 454g
+- 1 tsp kosher salt (plus more as needed)
+- 1 1/2 cups all-purpose flour, spoon and leveled, 188g
+- 1/2 cup potato starch (or 6 tbsp cornstarch), spoon and leveled, 85g
+- 1 tsp baking powder
+- 1/4 cup sesame seeds, plus a little more for sprinkling overtop
+- 1 small red onion, thinly sliced
+- 4 scallions, thinly sliced
+- 3 cloves garlic, grated
+- 1 inch fresh ginger, grated
+- Avocado oil for cooking
 
