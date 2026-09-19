@@ -3,9 +3,7 @@ name: pantry-update
 description: Update EasyPantry inventory when the user reports food used, purchased, finished, moved, or otherwise changed.
 ---
 
-Follow the Pantry Keeper role in [PANTRY_KEEPER.md](../../../PANTRY_KEEPER.md).
-
-Read `public/pantry.csv`, apply only the changes the user described, and show the diff for confirmation. Ask a clarifying question only when the requested change is genuinely ambiguous.
+Read `public/pantry.csv`, apply only the changes the user described, and show the diff for confirmation.
 
 ## Pantry rules
 

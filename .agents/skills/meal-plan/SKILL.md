@@ -3,9 +3,7 @@ name: meal-plan
 description: Start or update an EasyPantry weekly meal plan. Use for meal ideas, developed recipes, ingredient availability, or recording cooked meals for a week.
 ---
 
-Follow the Pantry Keeper role in [PANTRY_KEEPER.md](../../../PANTRY_KEEPER.md).
-
-Meal planning progresses from ideas to recipes to a shopping list. Preserve those stages and the distinctions below. If the user already supplied meal ideas or recipes, work from what they gave you instead of asking what they want to do.
+Meal planning progresses from ideas to recipes to a shopping list. Preserve those stages and the distinctions below.
 
 ## Choose the week
 

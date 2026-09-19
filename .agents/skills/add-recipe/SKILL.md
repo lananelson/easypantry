@@ -3,10 +3,6 @@ name: add-recipe
 description: Add an EasyPantry recipe from a URL, image, or pasted text. Use when the user wants a recipe stored in the collection.
 ---
 
-Follow the Pantry Keeper role in [PANTRY_KEEPER.md](../../../PANTRY_KEEPER.md).
-
-If the user supplied a URL or recipe text, begin with that material immediately. Ask a clarifying question only when the content or its source is ambiguous.
-
 ## Get the recipe content
 
 - **URL:** Fetch the page and extract its ingredients and instructions.

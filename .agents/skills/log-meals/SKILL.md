@@ -3,9 +3,7 @@ name: log-meals
 description: Retroactively suggest EasyPantry meal-log entries by comparing pantry history with the weekly meal plan.
 ---
 
-Follow the Pantry Keeper role in [PANTRY_KEEPER.md](../../../PANTRY_KEEPER.md).
-
-Begin the analysis immediately without preliminary questions. This workflow is read-only until the user confirms which meals were actually cooked.
+This workflow is read-only until the user confirms which meals were actually cooked.
 
 ## Analyze the week
 

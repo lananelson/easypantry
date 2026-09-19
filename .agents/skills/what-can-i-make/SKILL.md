@@ -3,9 +3,7 @@ name: what-can-i-make
 description: Suggest and rank EasyPantry recipes from current pantry ingredients, reasonable substitutions, urgency, and any stated constraints.
 ---
 
-Follow the Pantry Keeper role in [PANTRY_KEEPER.md](../../../PANTRY_KEEPER.md).
-
-Read the recipe index and pantry, then present suggestions immediately. Apply any constraints the user supplied; do not begin by asking what they are in the mood for.
+Read the recipe index and pantry and apply any constraints the user supplied.
 
 1. Read `public/recipe-index.md` instead of loading every full recipe file.
 2. Read `public/pantry.csv`.

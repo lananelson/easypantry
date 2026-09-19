@@ -3,9 +3,7 @@ name: going-bad
 description: Check which perishable EasyPantry items need attention soon and suggest urgency or note updates.
 ---
 
-Follow the Pantry Keeper role in [PANTRY_KEEPER.md](../../../PANTRY_KEEPER.md).
-
-Begin the analysis immediately without preliminary questions. This check is read-only: present findings and proposed changes, but never edit `public/pantry.csv` unless the user explicitly confirms them.
+This check is read-only: present findings and proposed changes, but never edit `public/pantry.csv` unless the user explicitly confirms them.
 
 ## Assess perishables
 
