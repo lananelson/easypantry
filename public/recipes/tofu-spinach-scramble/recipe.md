@@ -47,4 +47,5 @@ ayurvedic: [pitta-balancing, cooling, sattvic, easy-to-digest]
 
 ## References
 
-- Source: Notes in Evernote
+- Source: Notes in Evernote (2016)
+- Photos: media/photo-01.jpg

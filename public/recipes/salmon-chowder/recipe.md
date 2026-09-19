@@ -41,3 +41,4 @@ ayurvedic: [incompatible-fish-dairy, vata-balancing, warming, grounding]
 
 - Source: <https://www.seriouseats.com/easy-creamy-one-pot-weeknight-salmon-chowder-recipe>
 - Author: J. Kenji López-Alt
+- Photos: media/photo-01.jpg, media/photo-02.jpg, media/photo-03.jpg

@@ -58,4 +58,5 @@ ayurvedic: [hard-to-digest, gas-producing, vata-aggravating, rajasic]
 
 ## References
 
-- Source: Notes in Evernote
+- Source: Notes in Evernote (2015)
+- Photos: media/photo-01.jpg

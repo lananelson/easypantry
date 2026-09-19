@@ -30,4 +30,5 @@ ayurvedic: [kapha-aggravating, cooling]
 
 ## References
 
-- Source: Bagel Rising
+- Source: Bagel Rising (personal note in Evernote, 2014)
+- Photos: media/photo-01.jpg, media/photo-02.jpg

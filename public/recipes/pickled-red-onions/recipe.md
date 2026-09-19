@@ -3,7 +3,7 @@ title: Pickled Red Onions
 category: condiment
 prep_time: 5 minutes
 cook_time: 25 minutes
-servings:
+servings: about 1 quart
 tags: [condiment]
 ayurvedic: [kapha-balancing, digestive-aid, rajasic]
 ---
@@ -23,4 +23,6 @@ ayurvedic: [kapha-balancing, digestive-aid, rajasic]
 
 ## References
 
-- Source: Notes in Evernote
+- Source: Serious Eats (saved in Evernote 2012 and 2014)
+- Author: J. Kenji López-Alt
+- Photos: media/photo-01.jpg

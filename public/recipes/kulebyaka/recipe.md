@@ -48,4 +48,5 @@ ayurvedic:
 
 ## References
 
-- Source: Notes in Evernote
+- Source: Notes in Evernote (2017)
+- Photos: media/photo-01.jpg

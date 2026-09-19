@@ -35,3 +35,4 @@ ayurvedic: [tamasic, hard-to-digest, kapha-aggravating, vata-aggravating]
 
 - Source: <https://www.seriouseats.com/easy-awesome-eggplant-tian-recipe>
 - Author: Kerry Saretsky
+- Photos: media/photo-01.jpg
