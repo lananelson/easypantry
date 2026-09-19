@@ -23,9 +23,12 @@
 
 import Papa from "papaparse";
 import type {
+  DishStatus,
   MealPlan,
   MealPlanRecipe,
   PantryItem,
+  RecipeLink,
+  RecipeSummary,
   ShoppingList,
 } from "../types.js";
 
@@ -68,6 +71,26 @@ export async function loadShoppingLists(): Promise<string[]> {
 
 export async function loadShoppingList(listId: string): Promise<ShoppingList> {
   return fetchJson<ShoppingList>(`${base}shopping-lists/${listId}.json`);
+}
+
+let recipeIndexPromise: Promise<RecipeSummary[]> | null = null;
+
+/** Recipe index is small and static; fetch it once per page load. */
+export function loadRecipeIndex(): Promise<RecipeSummary[]> {
+  if (!recipeIndexPromise) {
+    recipeIndexPromise = fetchJson<RecipeSummary[]>(
+      `${base}recipes/index.json`
+    ).catch((err) => {
+      recipeIndexPromise = null;
+      throw err;
+    });
+  }
+  return recipeIndexPromise;
+}
+
+/** URL for a photo stored in a recipe's media folder. */
+export function recipePhotoUrl(slug: string, photo: string): string {
+  return `${base}recipes/${slug}/media/${photo}`;
 }
 
 export async function loadMealPlans(): Promise<MealPlan[]> {
@@ -198,26 +221,82 @@ function extractBulletItemsFromSection(
 }
 
 /**
- * Extract recipe references from the `## Recipes` section.
+ * Extract planned dishes from the `## Recipes` section.
  *
- * Each entry is a `###` heading pointing to a *structured recipe markdown file*
- * (see top-of-file comment for recipe format).
+ * Each dish starts with a `###` heading (optionally linking a recipe file).
+ * Under it, these conventions are recognized:
+ *
+ *   **Status:** planned | made | skipped — optional note
+ *   **Inspired by:** [Name](../recipes/slug/recipe.md), [Other](...)
+ *   - ingredient lines (after **Ingredients needed:**)
+ *   #### Variation name   (followed by its own `- ` ingredient lines)
+ *
+ * Missing status (older plans) means no status is shown.
  */
 function extractRecipeEntriesFromRecipesSection(
   lines: string[]
 ): MealPlanRecipe[] {
   const sectionLines = getLinesUnderH2Section(lines, "Recipes");
   const recipes: MealPlanRecipe[] = [];
+  let current: MealPlanRecipe | null = null;
+  let currentVariation: { name: string; ingredients: string[] } | null = null;
 
   for (const line of sectionLines) {
     const trimmed = line.trim();
-    if (!trimmed.startsWith("### ")) continue;
 
-    const content = trimmed.slice(4).trim();
-    recipes.push(parseRecipeReferenceHeading(content));
+    if (trimmed.startsWith("### ")) {
+      current = {
+        ...parseRecipeReferenceHeading(trimmed.slice(4).trim()),
+        inspiredBy: [],
+        ingredients: [],
+        variations: [],
+      };
+      currentVariation = null;
+      recipes.push(current);
+      continue;
+    }
+    if (!current) continue;
+
+    if (trimmed.startsWith("#### ")) {
+      currentVariation = { name: trimmed.slice(5).trim(), ingredients: [] };
+      current.variations.push(currentVariation);
+      continue;
+    }
+
+    const statusMatch = trimmed.match(/^\*\*Status:\*\*\s*(\w+)\s*(?:[—–-]\s*(.*))?$/i);
+    if (statusMatch) {
+      const value = statusMatch[1].toLowerCase();
+      if (value === "made" || value === "skipped" || value === "planned") {
+        current.status = value as DishStatus;
+      }
+      if (statusMatch[2]) current.statusNote = statusMatch[2].trim();
+      continue;
+    }
+
+    if (/^\*\*Inspired by:\*\*/i.test(trimmed)) {
+      current.inspiredBy = parseMarkdownLinks(trimmed);
+      continue;
+    }
+
+    if (trimmed.startsWith("- ")) {
+      const item = trimmed.slice(2).trim();
+      if (currentVariation) currentVariation.ingredients.push(item);
+      else current.ingredients.push(item);
+    }
   }
 
   return recipes;
+}
+
+/** All `[name](path)` links in a line. */
+function parseMarkdownLinks(text: string): RecipeLink[] {
+  const links: RecipeLink[] = [];
+  const re = /\[([^\]]+)\]\(([^)]+)\)/g;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(text)) !== null) {
+    links.push({ name: m[1], path: normalizeContentPath(m[2]) || undefined });
+  }
+  return links;
 }
 
 /**
@@ -227,7 +306,7 @@ function extractRecipeEntriesFromRecipesSection(
  *
  * This does not parse the recipe itself — only the reference.
  */
-function parseRecipeReferenceHeading(content: string): MealPlanRecipe {
+function parseRecipeReferenceHeading(content: string): RecipeLink {
   let name = content;
   let path: string | undefined;
 

@@ -3,9 +3,17 @@ import Pantry from "./components/Pantry.js";
 import ShoppingLists from "./components/ShoppingLists.js";
 import MealPlans from "./components/MealPlans.js";
 import RecipeView from "./components/RecipeView.js";
+import RecipeBrowser from "./components/RecipeBrowser.js";
 import { loadAppState, updateAppState } from "./utils/appState.js";
 
-type Section = "pantry" | "shopping" | "meals";
+type Section = "pantry" | "shopping" | "meals" | "recipes";
+
+const NAV: { id: Section; label: string }[] = [
+  { id: "recipes", label: "Recipes" },
+  { id: "meals", label: "Meal Plans" },
+  { id: "pantry", label: "Pantry" },
+  { id: "shopping", label: "Shopping Lists" },
+];
 
 type Route = { kind: "main" } | { kind: "recipe"; path: string };
 
@@ -43,7 +51,7 @@ function App() {
   return (
     <div className="page">
       {/* Navigation */}
-      {!isRecipeRoute && (
+      {(
         <header className="navbar navbar-expand-md d-print-none">
           <div className="container-xl">
             {/* BEGIN NAVBAR TOGGLER */}
@@ -64,54 +72,28 @@ function App() {
             <div className="collapse navbar-collapse" id="navbar-menu">
               <div className="d-flex flex-column flex-md-row flex-fill align-items-stretch align-items-md-center">
                 <ul className="navbar-nav">
-                  <li
-                    className={`nav-item ${
-                      activeSection === "pantry" ? "active" : ""
-                    }`}
-                  >
-                    <a
-                      className="nav-link"
-                      href="#"
-                      onClick={(e) => {
-                        e.preventDefault();
-                        setActiveSection("pantry");
-                      }}
+                  {NAV.map((item) => (
+                    <li
+                      key={item.id}
+                      className={`nav-item ${
+                        activeSection === item.id && !isRecipeRoute
+                          ? "active"
+                          : ""
+                      }`}
                     >
-                      <span className="nav-link-title">Pantry</span>
-                    </a>
-                  </li>
-                  <li
-                    className={`nav-item ${
-                      activeSection === "meals" ? "active" : ""
-                    }`}
-                  >
-                    <a
-                      className="nav-link"
-                      href="#"
-                      onClick={(e) => {
-                        e.preventDefault();
-                        setActiveSection("meals");
-                      }}
-                    >
-                      <span className="nav-link-title">Meal Plans</span>
-                    </a>
-                  </li>
-                  <li
-                    className={`nav-item ${
-                      activeSection === "shopping" ? "active" : ""
-                    }`}
-                  >
-                    <a
-                      className="nav-link"
-                      href="#"
-                      onClick={(e) => {
-                        e.preventDefault();
-                        setActiveSection("shopping");
-                      }}
-                    >
-                      <span className="nav-link-title">Shopping Lists</span>
-                    </a>
-                  </li>
+                      <a
+                        className="nav-link"
+                        href="#"
+                        onClick={(e) => {
+                          e.preventDefault();
+                          setActiveSection(item.id);
+                          if (isRecipeRoute) window.location.hash = "";
+                        }}
+                      >
+                        <span className="nav-link-title">{item.label}</span>
+                      </a>
+                    </li>
+                  ))}
                 </ul>
               </div>
             </div>
@@ -125,12 +107,13 @@ function App() {
         <div className="page-body">
           <div className="container-xl">
             {route.kind === "recipe" ? (
-              <RecipeView path={route.path} />
+              <RecipeView key={route.path} path={route.path} />
             ) : (
               <>
                 {activeSection === "pantry" && <Pantry />}
                 {activeSection === "meals" && <MealPlans />}
                 {activeSection === "shopping" && <ShoppingLists />}
+                {activeSection === "recipes" && <RecipeBrowser />}
               </>
             )}
           </div>

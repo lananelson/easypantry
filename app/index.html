@@ -33,6 +33,147 @@
       .list-group-item:focus {
         font-weight: normal;
       }
+      /* Recipe browser */
+      .recipe-search {
+        width: min(100%, 26rem);
+      }
+      .recipe-card {
+        overflow: hidden;
+        color: inherit;
+        transition: transform 0.15s ease, box-shadow 0.15s ease;
+      }
+      .recipe-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+      }
+      .recipe-card-img {
+        width: 100%;
+        aspect-ratio: 4 / 3;
+        object-fit: cover;
+        display: block;
+      }
+      .recipe-card-img-small {
+        object-fit: contain;
+        padding: 0.75rem;
+      }
+      .recipe-card-placeholder {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 3rem;
+        color: rgba(0, 0, 0, 0.25);
+      }
+      .recipe-card-title {
+        font-weight: 600;
+        line-height: 1.3;
+      }
+      /* Recipe page */
+      .recipe-view {
+        max-width: 52rem;
+        margin: 0 auto;
+      }
+      .recipe-hero {
+        width: 100%;
+        max-height: 26rem;
+        object-fit: cover;
+        cursor: zoom-in;
+      }
+      .recipe-body {
+        padding: 1.75rem 2rem;
+      }
+      .recipe-title {
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 2rem;
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+      }
+      /* Small lead photos: natural size, beside the text on wide screens */
+      .recipe-lead-small {
+        float: right;
+        max-width: min(45%, 100%);
+        height: auto;
+        margin: 0 0 1rem 1.5rem;
+        border-radius: 6px;
+        cursor: zoom-in;
+      }
+      @media (max-width: 576px) {
+        .recipe-lead-small {
+          float: none;
+          display: block;
+          max-width: 100%;
+          margin: 0 auto 1rem;
+        }
+      }
+      .recipe-body::after {
+        content: "";
+        display: block;
+        clear: both;
+      }
+      .my-notes {
+        background: #fbf6ec;
+        border-left: 3px solid #d9b77a;
+        border-radius: 4px;
+        padding: 0.25rem 1.25rem 0.5rem;
+        margin: 1.25rem 0;
+        font-family: Georgia, "Times New Roman", serif;
+      }
+      .my-notes ul {
+        list-style: none;
+        padding-left: 0;
+      }
+      .my-notes li + li {
+        margin-top: 0.4rem;
+      }
+      .recipe-gallery {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(8rem, 1fr));
+        gap: 0.5rem;
+      }
+      .recipe-gallery img {
+        width: 100%;
+        aspect-ratio: 1;
+        object-fit: cover;
+        border-radius: 4px;
+        cursor: zoom-in;
+      }
+      .recipe-lightbox {
+        position: fixed;
+        inset: 0;
+        z-index: 2000;
+        background: rgba(0, 0, 0, 0.85);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 1rem;
+        cursor: zoom-out;
+      }
+      .recipe-lightbox img {
+        max-width: 100%;
+        max-height: 88vh;
+        object-fit: contain;
+      }
+      .recipe-lightbox-count {
+        color: #ddd;
+        margin-top: 0.75rem;
+        font-size: 0.85rem;
+      }
+      /* Meal plan dishes */
+      .planned-dish {
+        border-left: 3px solid #e6e7e9;
+        padding-left: 0.6rem;
+      }
+      .planned-dish-name {
+        font-weight: 500;
+      }
+      .planned-dish-skipped .planned-dish-name {
+        text-decoration: line-through;
+        color: #868e96;
+      }
+      .planned-dish details summary {
+        cursor: pointer;
+      }
     </style>
   </head>
   <body>

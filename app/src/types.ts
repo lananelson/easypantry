@@ -57,10 +57,47 @@ export interface ShoppingList {
   items: ShoppingListItem[];
 }
 
-export interface MealPlanRecipe {
+export interface RecipeLink {
   name: string;
   /** Path to recipe markdown relative to public root, e.g. "recipes/birria-tacos/recipe.md" */
   path?: string;
+}
+
+/** planned → made, or skipped when it didn't happen. */
+export type DishStatus = "planned" | "made" | "skipped";
+
+export interface DishVariation {
+  name: string;
+  ingredients: string[];
+}
+
+export interface MealPlanRecipe extends RecipeLink {
+  /** Absent in plans written before statuses existed; no badge is shown then. */
+  status?: DishStatus;
+  /** Free text after the status, e.g. "zucchini went bad". */
+  statusNote?: string;
+  /** Recipes this dish borrows from (hybrids reference several). */
+  inspiredBy: RecipeLink[];
+  ingredients: string[];
+  variations: DishVariation[];
+}
+
+export interface RecipePhoto {
+  file: string;
+  /** Pixel size; 0 when the generator couldn't read it. */
+  width: number;
+  height: number;
+}
+
+/** One entry of public/recipes/index.json (built by scripts/generate-indexes.mjs). */
+export interface RecipeSummary {
+  slug: string;
+  title: string;
+  category: string;
+  tags: string[];
+  photos: RecipePhoto[];
+  ingredients: string[];
+  hasInstructions: boolean;
 }
 
 export interface MealPlan {
@@ -75,7 +112,7 @@ export interface MealPlan {
 
 export interface AppState {
   nav?: {
-    active: "pantry" | "shopping" | "meals";
+    active: "pantry" | "shopping" | "meals" | "recipes";
   };
   pantry?: {
     sortBy: keyof PantryItem;
