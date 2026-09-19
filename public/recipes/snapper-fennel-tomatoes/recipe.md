@@ -1,10 +1,10 @@
 ---
 title: Snapper with Fennel and Tomatoes
-category: main course
+category:
 prep_time: 15 minutes
 cook_time: 20 minutes
 servings: 4
-tags: [protein]
+tags: [pescatarian]
 ayurvedic: [pitta-balancing-fennel, light, contains-alcohol]
 ---
 

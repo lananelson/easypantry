@@ -1,10 +1,10 @@
 ---
 title: Thai Peanut (Satay) Sauce
-category: sauce
+category:
 prep_time: 8 minutes
 cook_time: 5 minutes
 servings: 3.5 cups
-tags: [vegan, vegetarian, condiment]
+tags: [condiment]
 ayurvedic: [heavy, sweet, vata-balancing, kapha-aggravating]
 ---
 

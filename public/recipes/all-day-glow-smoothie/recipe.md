@@ -1,6 +1,6 @@
 ---
 title: All Day Glow Smoothie
-category: drink
+category:
 prep_time: 5 minutes
 cook_time:
 servings:

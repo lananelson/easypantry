@@ -1,10 +1,10 @@
 ---
 title: Chouquettes
-category: dessert
+category:
 prep_time: 15 minutes
 cook_time: 50 minutes
 servings:
-tags: [vegetarian]
+tags: [vegetarian, dessert]
 ayurvedic: [vata-balancing, sweet, heavy]
 ---
 

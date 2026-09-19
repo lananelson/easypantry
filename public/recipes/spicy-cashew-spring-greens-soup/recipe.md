@@ -1,6 +1,6 @@
 ---
 title: Spicy Cashew Spring Greens Soup
-category: soup
+category:
 prep_time: 15 minutes (plus 1-4 hours soaking cashews)
 cook_time: 25 minutes
 servings: 6-8

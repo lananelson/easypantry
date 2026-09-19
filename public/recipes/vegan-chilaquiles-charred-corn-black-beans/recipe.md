@@ -1,6 +1,6 @@
 ---
 title: Vegan Chilaquiles with Pepitas, Charred Corn, and Black Beans
-category: main course
+category:
 prep_time: 30 minutes
 cook_time: 45 minutes
 servings: 4

@@ -1,10 +1,10 @@
 ---
 title: Easy Skillet Braised Chicken with Peppers and Paprika
-category: main course
+category:
 prep_time: 20 minutes
 cook_time: 45 minutes
 servings: 4-6
-tags: [protein, one-pot, comfort food]
+tags: [one-pot]
 ayurvedic: [warming, vata-balancing, pitta-aggravating]
 ---
 

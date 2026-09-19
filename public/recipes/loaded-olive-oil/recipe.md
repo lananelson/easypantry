@@ -4,7 +4,7 @@ category: condiment
 prep_time: 5 minutes
 cook_time:
 servings: 6-8
-tags: [condiment, vegetarian]
+tags: [vegetarian, condiment]
 ayurvedic: []
 ---
 

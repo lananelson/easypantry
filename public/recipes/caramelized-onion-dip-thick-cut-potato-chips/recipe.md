@@ -1,6 +1,6 @@
 ---
 title: Caramelized Onion Dip with Thick-Cut Potato Chips
-category: appetizer
+category:
 prep_time: 15 minutes (plus 2 hours chilling)
 cook_time: 45 minutes
 servings: about 2 cups dip

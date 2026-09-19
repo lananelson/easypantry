@@ -1,10 +1,10 @@
 ---
 title: Green Goddess Egg Salad
-category: salad
+category:
 prep_time: 20 minutes
 cook_time: 12 minutes
 servings: 4
-tags: [vegetarian, protein, breakfast]
+tags: [vegetarian, salad]
 ayurvedic: [heavy, vata-balancing, kapha-aggravating]
 ---
 

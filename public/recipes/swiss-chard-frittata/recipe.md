@@ -4,7 +4,7 @@ category: breakfast
 prep_time: 15 minutes
 cook_time: 30 minutes
 servings: 4
-tags: [breakfast, vegetarian, protein]
+tags: [vegetarian, breakfast]
 ayurvedic: [incompatible-eggs-cheese, kapha-aggravating, warming]
 ---
 
@@ -29,9 +29,12 @@ ayurvedic: [incompatible-eggs-cheese, kapha-aggravating, warming]
 3. In a large bowl, whisk the eggs with the salt and cheeses, then stir in the chard and onion mixture and the potatoes.
 4. Heat the butter in a medium skillet or small pan over medium heat until foaming, then add the egg mixture. Cook until the bottom and sides begin to set, then transfer to the oven and continue cooking until the center is solid, 5-15 minutes depending on the shape of the pan. Allow to cool somewhat before serving.
 
+## My Notes
+
+- Added fresh baby arugula in step 3.
+
 ## Notes
 
-- Personal note: added fresh baby arugula in step 3.
 - A small pan makes a taller frittata with a crusty, caramelized edge. It can also be spread out in a larger skillet and finished under the broiler to speed things along.
 
 ## References

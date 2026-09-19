@@ -1,10 +1,10 @@
 ---
 title: Beef Stroganoff
-category: main course
+category:
 prep_time: 10 minutes
 cook_time: 25 minutes
 servings: 4
-tags: [protein, comfort food]
+tags: []
 ayurvedic: [heavy, tamasic, incompatible-meat-dairy, vata-balancing]
 ---
 

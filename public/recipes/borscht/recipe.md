@@ -1,10 +1,10 @@
 ---
 title: Борщ — Borscht
-category: soup
+category:
 prep_time:
 cook_time:
 servings:
-tags: [vegetarian, one-pot, comfort food]
+tags: [vegan, vegetarian, one-pot]
 ayurvedic: [grounding, vata-balancing, sweet, pitta-balancing-beets]
 ---
 

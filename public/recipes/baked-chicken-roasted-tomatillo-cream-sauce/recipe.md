@@ -1,10 +1,10 @@
 ---
 title: Baked Chicken with Roasted Tomatillo Cream Sauce
-category: main course
+category:
 prep_time: 10 minutes
 cook_time: 35 minutes
 servings: 4
-tags: [protein]
+tags: []
 ayurvedic: [heating, pitta-aggravating, heavy]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Kolokithokeftedes (Greek Zucchini Fritters) with Tzatziki
-category: appetizer
+category:
 prep_time: 40 minutes
 cook_time: 10 minutes
 servings: 6
@@ -33,9 +33,9 @@ ayurvedic: [pitta-balancing, cooling-herbs, heavy-with-cheese, incompatible-dair
 3. Put drained zucchini in a large bowl with dill, scallions, nutmeg, and feta. Mix to combine. Stir in eggs. Season with salt and pepper. Stir in flour until dough comes together, adding slightly more flour if dough is too wet to form patties. Form dough into 3-4 inch patties.
 4. Heat olive oil in a large skillet over medium high heat. Fry patties until golden brown on both sides and cooked through but still moist, about 2-3 minutes per side. Serve hot with tzatziki alongside.
 
-## Notes
+## My Notes
 
-- Personal note on the tzatziki: make half.
+- Tzatziki: make half.
 
 ## References
 

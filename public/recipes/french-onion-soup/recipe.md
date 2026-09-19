@@ -1,10 +1,10 @@
 ---
 title: French Onion Soup
-category: soup
+category:
 prep_time: 15 minutes
 cook_time: 2 hours 30 minutes
 servings: 4
-tags: [comfort food, low & slow]
+tags: [low & slow]
 ayurvedic: [heavy, tamasic, heating, vata-balancing]
 ---
 

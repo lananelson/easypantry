@@ -4,7 +4,7 @@ category:
 prep_time:
 cook_time:
 servings:
-tags: []
+tags: [vegetarian]
 ayurvedic: [warming, kapha-balancing, rajasic]
 ---
 

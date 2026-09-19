@@ -1,10 +1,10 @@
 ---
 title: Marcella Hazan's Tomato Sauce with Onion and Butter
-category: sauce
+category:
 prep_time: 10 minutes
 cook_time: 45 minutes
 servings: 6 (sauces 1 to 1 1/2 pounds pasta)
-tags: [vegetarian, condiment]
+tags: [vegetarian]
 ayurvedic: [pitta-aggravating, sour, grounding]
 ---
 

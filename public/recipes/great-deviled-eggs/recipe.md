@@ -1,10 +1,10 @@
 ---
 title: Great Deviled Eggs
-category: appetizer
+category:
 prep_time: 10 minutes
 cook_time: 10 minutes
 servings: 16 halves
-tags: [vegetarian, protein]
+tags: [vegetarian]
 ayurvedic: [heavy, heating, vata-balancing, kapha-aggravating]
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Banana Sour Cream Bread
-category: baked goods
+category:
 prep_time: 10 minutes
 cook_time: 1 hour
 servings: 4 small loaves
-tags: [vegetarian, comfort food]
+tags: [vegetarian, dessert]
 ayurvedic: [vata-balancing, heavy, sweet, kapha-aggravating]
 ---
 

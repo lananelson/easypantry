@@ -1,10 +1,10 @@
 ---
 title: Yellow Split Pea Dal
-category: main course
+category:
 prep_time: 10 minutes
 cook_time: 50 minutes
 servings: 6
-tags: [vegan, vegetarian, protein, one-pot]
+tags: [vegan, vegetarian, one-pot]
 ayurvedic: [kapha-balancing, digestive-spices, vata-aggravating-legumes, sattvic]
 ---
 

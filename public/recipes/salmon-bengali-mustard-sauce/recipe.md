@@ -1,10 +1,10 @@
 ---
 title: Salmon in a Bengali Mustard Sauce
-category: main course
+category:
 prep_time: 10 minutes (plus 30 minutes to 10 hours marinating)
 cook_time: 10 minutes
 servings: 2-3
-tags: [protein]
+tags: [pescatarian]
 ayurvedic: [heating, pitta-aggravating, kapha-balancing, stimulates-agni]
 ---
 

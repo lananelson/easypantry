@@ -1,10 +1,10 @@
 ---
 title: Leek and Goat Cheese Omelet
-category: breakfast
+category:
 prep_time: 10 minutes
 cook_time: 20 minutes
 servings: 1
-tags: [vegetarian, breakfast, protein]
+tags: [vegetarian, breakfast]
 ayurvedic: [vata-balancing, heating, incompatible-eggs-cheese]
 ---
 

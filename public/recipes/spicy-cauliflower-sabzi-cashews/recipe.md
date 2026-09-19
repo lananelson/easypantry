@@ -1,6 +1,6 @@
 ---
 title: Spicy Cauliflower Sabzi with Cashews
-category: main course
+category:
 prep_time: 15 minutes
 cook_time: 25 minutes
 servings: 4

@@ -1,10 +1,10 @@
 ---
 title: Chickpea, Potato, and Spinach Jalfrezi with Cilantro Chutney
-category: main course
+category:
 prep_time: 15 minutes
 cook_time: 30 minutes
 servings: 4
-tags: [vegan, vegetarian, protein]
+tags: [vegan, vegetarian]
 ayurvedic: [heating, kapha-balancing, digestive-spices, pitta-aggravating]
 ---
 

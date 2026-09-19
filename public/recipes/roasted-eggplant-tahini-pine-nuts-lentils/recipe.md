@@ -1,10 +1,10 @@
 ---
 title: Roasted Eggplant with Tahini, Pine Nuts, and Lentils
-category: main course
+category:
 prep_time: 20 minutes
 cook_time: 45 minutes
 servings:
-tags: [vegan, vegetarian, protein]
+tags: [vegan, vegetarian]
 ayurvedic: [grounding, heating, vata-balancing, pitta-aggravating-eggplant]
 ---
 

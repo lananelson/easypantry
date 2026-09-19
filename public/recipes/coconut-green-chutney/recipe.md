@@ -4,7 +4,7 @@ category: condiment
 prep_time: 25 minutes
 cook_time:
 servings: about 1 cup
-tags: [vegan, condiment]
+tags: [vegan, vegetarian, condiment]
 ayurvedic: [pitta-balancing, cooling, digestive-aid, sattvic]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Penne with Roasted Broccoli and Pistachio Gremolata
-category: main course
+category:
 prep_time: 10 minutes
 cook_time: 25 minutes
 servings: 4

@@ -1,10 +1,10 @@
 ---
 title: Pressure Cooker Black Beans with Chorizo
-category: main course
+category:
 prep_time: 5 minutes
 cook_time: 50 minutes
 servings:
-tags: [protein, one-pot]
+tags: [one-pot]
 ayurvedic: [heavy, vata-aggravating-beans, kapha-balancing, heating]
 ---
 

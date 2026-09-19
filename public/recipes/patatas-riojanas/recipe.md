@@ -1,10 +1,10 @@
 ---
 title: Patatas Riojanas (Potatoes with Chorizo)
-category: main course
+category:
 prep_time: 10 minutes
 cook_time: 30 minutes
 servings: 2
-tags: [protein, one-pot, comfort food]
+tags: [one-pot]
 ayurvedic: [heating, heavy, vata-balancing, pitta-aggravating]
 ---
 

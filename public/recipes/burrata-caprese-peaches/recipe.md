@@ -1,10 +1,10 @@
 ---
 title: Burrata Caprese with Peaches
-category: salad
+category:
 prep_time: 15 minutes
 cook_time: 5 minutes
 servings:
-tags: [vegetarian]
+tags: [vegetarian, salad]
 ayurvedic: [incompatible-fruit-dairy, incompatible-tomato-cheese, cooling, heavy]
 ---
 
@@ -28,5 +28,7 @@ ayurvedic: [incompatible-fruit-dairy, incompatible-tomato-cheese, cooling, heavy
 
 ## References
 
-- Source: Cup of Jo (August 2017) — https://cupofjo.com/2017/08/09/burrata-caprese-salad-peaches/
+- Source: Dinner: Changing the Game by Melissa Clark (Clarkson Potter, 2017)
+- Author: Melissa Clark
+- Online: Cup of Jo (August 2017) — https://cupofjo.com/2017/08/09/burrata-caprese-salad-peaches/
 - Photos: media/photo-01.jpg

@@ -1,10 +1,10 @@
 ---
 title: Suddenly Stew (Kale, Chickpea & Brown Rice)
-category: main course
+category:
 prep_time: 20 minutes
 cook_time: 40 minutes
 servings: 8
-tags: [vegetarian, one-pot, comfort food]
+tags: [vegetarian, one-pot]
 ayurvedic: [grounding, nourishing, kapha-balancing]
 ---
 

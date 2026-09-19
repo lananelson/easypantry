@@ -4,7 +4,7 @@ category: main
 prep_time: 10 minutes
 cook_time: 35 minutes
 servings: 6
-tags: [vegetarian, comfort food]
+tags: [vegetarian, one-pot]
 ayurvedic:
   [
     tridoshic,

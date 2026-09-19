@@ -1,10 +1,10 @@
 ---
 title: Spicy Cucumber Avocado Onion Salad
-category: salad
+category:
 prep_time: 10 minutes (plus 1 hour marinating)
 cook_time:
 servings:
-tags: [vegan, vegetarian]
+tags: [vegan, vegetarian, salad]
 ayurvedic: [cooling, pitta-balancing, kapha-aggravating-avocado]
 ---
 

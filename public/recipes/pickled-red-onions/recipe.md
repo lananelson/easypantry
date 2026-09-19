@@ -4,7 +4,7 @@ category: condiment
 prep_time: 5 minutes
 cook_time: 25 minutes
 servings: about 1 quart
-tags: [condiment]
+tags: [vegan, vegetarian, condiment]
 ayurvedic: [kapha-balancing, digestive-aid, rajasic]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Garlic Dill Pickles
-category: condiment
+category:
 prep_time: 30 minutes
 cook_time: 10 minutes (plus 1 week resting)
 servings: 2 quarts

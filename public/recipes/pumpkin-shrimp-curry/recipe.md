@@ -1,10 +1,10 @@
 ---
 title: Pumpkin-Shrimp Curry
-category: main course
+category:
 prep_time: 15 minutes
 cook_time: 45 minutes
 servings: 4
-tags: [protein, one-pot]
+tags: [pescatarian, one-pot]
 ayurvedic: [vata-balancing, warming, grounding]
 ---
 

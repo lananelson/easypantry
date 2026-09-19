@@ -1,10 +1,10 @@
 ---
 title: Буйабес — Bouillabaisse (Simple Marseille Version)
-category: soup
+category:
 prep_time: 30 minutes
 cook_time: 1 hour 30 minutes
 servings: about 15
-tags: [protein, one-pot]
+tags: [pescatarian]
 ayurvedic: [heating, heavy, pitta-aggravating, contains-alcohol, rajasic]
 ---
 

@@ -4,7 +4,7 @@ category:
 prep_time:
 cook_time:
 servings:
-tags: []
+tags: [low & slow]
 ayurvedic: [warming, vata-balancing, grounding, rajasic]
 ---
 

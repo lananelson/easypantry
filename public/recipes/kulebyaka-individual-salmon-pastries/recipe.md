@@ -1,10 +1,10 @@
 ---
 title: Kulebyaka (Individual Salmon Pastries)
-category: main course
+category:
 prep_time: 1 hour
 cook_time: 30 minutes
 servings: 4
-tags: [protein]
+tags: [pescatarian]
 ayurvedic: [heavy, incompatible-fish-eggs, kapha-aggravating]
 ---
 

@@ -4,7 +4,7 @@ category: breakfast
 prep_time: 10 minutes
 cook_time: 15 minutes
 servings: 2
-tags: [breakfast, vegan]
+tags: [vegan, vegetarian, breakfast]
 ayurvedic: [pitta-balancing, cooling, sattvic, easy-to-digest]
 ---
 

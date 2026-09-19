@@ -1,10 +1,10 @@
 ---
 title: Roasted Oyster Mushroom and Watercress Salad
-category: salad
+category:
 prep_time: 15 minutes
 cook_time: 20 minutes
 servings:
-tags: [vegetarian]
+tags: [vegetarian, salad]
 ayurvedic: [kapha-balancing, heating-watercress, light]
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Roasted Spring Garlic
-category: appetizer
+category:
 prep_time: 5 minutes
 cook_time: 50 minutes
 servings:
-tags: [vegan, vegetarian, condiment]
+tags: [vegan, vegetarian]
 ayurvedic: [heating, rajasic, vata-balancing, kapha-balancing]
 ---
 

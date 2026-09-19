@@ -33,7 +33,7 @@ ayurvedic: [incompatible-fish-dairy, vata-balancing, warming, grounding]
 
 3. Serve immediately, garnish with minced fresh herbs, hot sauce, and crackers.
 
-## Substitution Notes
+## My Notes
 
 - dont use pork or bacon, use butter instead or some other animal fat
 

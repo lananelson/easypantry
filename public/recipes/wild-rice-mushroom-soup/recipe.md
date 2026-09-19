@@ -1,10 +1,10 @@
 ---
 title: Minnesota Wild Rice & Mushroom Soup
-category: soup
+category:
 prep_time: 15 minutes
 cook_time: 1 hour 15 minutes
 servings: 6
-tags: [vegetarian, comfort food]
+tags: [vegetarian]
 ayurvedic: [grounding, vata-balancing, heavy]
 ---
 

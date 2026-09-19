@@ -1,10 +1,10 @@
 ---
 title: Walnut Faux-Cream of Mushroom Soup
-category: soup
+category:
 prep_time: 10 minutes
 cook_time: 15 minutes
 servings:
-tags: [vegetarian]
+tags: []
 ayurvedic: [vata-balancing, grounding, heavy]
 ---
 

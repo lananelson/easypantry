@@ -1,10 +1,10 @@
 ---
 title: Alice Waters' Swiss Chard Gratin
-category: side dish
+category:
 prep_time: 20 minutes
 cook_time: 25 minutes
 servings: 4
-tags: [vegetarian, comfort food]
+tags: [vegetarian]
 ayurvedic: [vata-balancing, grounding, heavy]
 ---
 

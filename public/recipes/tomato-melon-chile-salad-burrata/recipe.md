@@ -1,10 +1,10 @@
 ---
 title: Tomato, Melon, and Hot Chile Salad with Burrata
-category: salad
+category:
 prep_time: 15 minutes
 cook_time:
 servings: 4
-tags: [vegetarian]
+tags: [vegetarian, salad]
 ayurvedic: [incompatible-melon-with-anything, incompatible-fruit-dairy, cooling, pitta-aggravating-chile]
 ---
 

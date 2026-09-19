@@ -1,10 +1,10 @@
 ---
 title: Bigos (Polish Hunter's Stew)
-category: main course
+category:
 prep_time: 20 minutes
 cook_time: 2 hours
 servings:
-tags: [protein, low & slow, comfort food, one-pot]
+tags: [low & slow]
 ayurvedic: [heavy, tamasic, sour, kapha-aggravating, vata-balancing]
 ---
 
@@ -29,9 +29,9 @@ ayurvedic: [heavy, tamasic, sour, kapha-aggravating, vata-balancing]
 2. Meanwhile brown meats except kielbasa and set aside. In the meat fat sauté onions, garlic, shredded carrot and mushrooms. Add crushed pepper, salt, allspice.
 3. Cut kielbasa and mix it with cabbage along with all sautéed ingredients. Add bay leaves and simmer for another hour.
 
-## Notes
+## My Notes
 
-- Personal note on the veal: sub for something less fatty next time.
+- Veal: sub for something less fatty next time.
 
 ## References
 

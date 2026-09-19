@@ -4,7 +4,7 @@ category: main
 prep_time:
 cook_time:
 servings: 4
-tags: [protein]
+tags: []
 ayurvedic: [warming, grounding, gas-producing]
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Savory Vegan Lasagna
-category: main course
+category:
 prep_time: 30 minutes
 cook_time: 1 hour
 servings:
-tags: [vegan, vegetarian, comfort food]
+tags: [vegan, vegetarian]
 ayurvedic: [heavy, grounding, pitta-aggravating-tomato]
 ---
 

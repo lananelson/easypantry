@@ -1,10 +1,10 @@
 ---
 title: Oven-Roasted Tomato Sauce with Salami, Olives, and Pecorino
-category: main course
+category:
 prep_time: 15 minutes
 cook_time: 1 hour 15 minutes
 servings: 4
-tags: [protein]
+tags: []
 ayurvedic: [heating, sour, salty, pitta-aggravating, rajasic]
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Chinese Scrambled Eggs with Garlic Chives
-category: main course
+category:
 prep_time: 5 minutes
 cook_time: 5 minutes
 servings: 2
-tags: [vegetarian, protein, breakfast]
+tags: [vegetarian]
 ayurvedic: [heating, vata-balancing, rajasic]
 ---
 

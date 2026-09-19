@@ -1,10 +1,10 @@
 ---
 title: Sesame Ginger Dressing
-category: condiment
+category:
 prep_time: 5 minutes
 cook_time:
 servings:
-tags: [condiment, vegetarian]
+tags: [vegan, vegetarian, condiment]
 ayurvedic: [heating, vata-balancing, digestive-ginger]
 ---
 

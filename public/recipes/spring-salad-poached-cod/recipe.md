@@ -1,10 +1,10 @@
 ---
 title: Fresh Spring Salad with Poached Cod
-category: main course
+category:
 prep_time: 15 minutes
 cook_time: 10 minutes
 servings: 2
-tags: [protein]
+tags: [pescatarian, salad]
 ayurvedic: [pitta-balancing, light, cooling]
 ---
 

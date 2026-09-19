@@ -1,10 +1,10 @@
 ---
 title: Creamy Fingerling Potato Salad (Vegan)
-category: side dish
+category:
 prep_time: 10 minutes
 cook_time: 20 minutes
 servings: 4-6
-tags: [vegan, vegetarian]
+tags: [vegan, vegetarian, salad]
 ayurvedic: [vata-aggravating, sour, grounding]
 ---
 

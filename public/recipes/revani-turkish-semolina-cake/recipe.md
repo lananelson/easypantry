@@ -1,10 +1,10 @@
 ---
 title: Revani (Turkish Semolina Cake)
-category: dessert
+category:
 prep_time: 20 minutes (plus several hours chilling)
 cook_time: 40 minutes
 servings:
-tags: [vegetarian]
+tags: [vegetarian, dessert]
 ayurvedic: [sweet, heavy, vata-balancing, kapha-aggravating]
 ---
 
@@ -33,9 +33,9 @@ ayurvedic: [sweet, heavy, vata-balancing, kapha-aggravating]
 3. Pour the batter into a greased 10 x 12 inch baking tray. Bake at 350°F / 175°C until the top is nicely browned and a toothpick inserted in the center comes out clean.
 4. Let the cake rest for about five minutes out of the oven. Cut into portion-sized squares or rectangles while still in the pan. Using a large spoon, slowly drizzle the cool syrup all over the cake and let it soak in. When all the syrup is used, cover with foil and refrigerate for several hours. Garnish with ground nuts and coconut flakes.
 
-## Notes
+## My Notes
 
-- Personal notes: I didn't use flour. I added herbs — fresh thyme and rosemary — to the batter in the pan.
+- I didn't use flour. I added herbs — fresh thyme and rosemary — to the batter in the pan.
 
 ## References
 

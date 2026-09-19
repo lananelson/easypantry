@@ -1,6 +1,6 @@
 ---
 title: Kale, White Bean Purée & Mushrooms
-category: main course
+category:
 prep_time:
 cook_time:
 servings:
@@ -19,9 +19,12 @@ ayurvedic: [kapha-balancing, grounding, light]
 
 ## Instructions
 
+## My Notes
+
+- "Lemon and garlic white bean purée topped with mushrooms sautéed with kale and shallot."
+
 ## Notes
 
-- Original note: "Lemon and garlic white bean purée topped with mushrooms sautéed with kale and shallot."
 - Only the description and a photo of the finished dish were saved; no quantities or method.
 
 ## References

@@ -1,10 +1,10 @@
 ---
 title: Penne with Tuna and Spicy Mustard
-category: main course
+category:
 prep_time: 5 minutes
 cook_time: 15 minutes
 servings: 4
-tags: [protein]
+tags: [pescatarian]
 ayurvedic: [heating, rajasic, kapha-balancing]
 ---
 

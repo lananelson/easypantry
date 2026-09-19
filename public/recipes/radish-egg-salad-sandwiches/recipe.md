@@ -1,10 +1,10 @@
 ---
 title: Radish and Egg Salad Sandwiches
-category: main course
+category:
 prep_time: 15 minutes
 cook_time: 12 minutes
 servings: 4
-tags: [vegetarian, protein, breakfast]
+tags: [vegetarian]
 ayurvedic: [heating-radish, vata-balancing, incompatible-eggs-yogurt]
 ---
 

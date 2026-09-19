@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Curry with Chickpeas
-category: main course
+category:
 prep_time: 10 minutes
 cook_time: 20 minutes
 servings:
@@ -30,9 +30,9 @@ ayurvedic: [vata-balancing, pitta-balancing-coconut, grounding, sweet]
 2. Stir the pumpkin or squash into the pan and coat in the paste, then pour in the stock and coconut milk. Bring everything to a simmer, add the chickpeas, then cook for about 10 mins until the pumpkin is tender. The curry can now be cooled and frozen for up to 1 month.
 3. Squeeze the juice of one lime into the curry, then cut the other lime into wedges to serve alongside. Just before serving, tear over mint leaves, then bring to the table with the lime wedges and warm naan breads.
 
-## Notes
+## My Notes
 
-- Personal note: can substitute half teaspoon of ground cardamom, and red curry paste.
+- Can substitute half teaspoon of ground cardamom, and red curry paste.
 
 ## References
 

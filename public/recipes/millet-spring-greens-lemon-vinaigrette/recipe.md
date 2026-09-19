@@ -1,6 +1,6 @@
 ---
 title: Millet with Steamed Spring Greens and Lemon Vinaigrette
-category: main course
+category:
 prep_time: 15 minutes
 cook_time: 25 minutes
 servings: 4

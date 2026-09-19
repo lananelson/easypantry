@@ -1,10 +1,10 @@
 ---
 title: Five-Ingredient Smoked Salmon and Potato Salad
-category: salad
+category:
 prep_time: 10 minutes
 cook_time: 15 minutes
 servings: 4-6
-tags: [protein]
+tags: [pescatarian, salad]
 ayurvedic: [incompatible-fish-dairy, heavy, vata-balancing]
 ---
 

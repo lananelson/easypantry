@@ -1,10 +1,10 @@
 ---
 title: Julia Child's Bouillabaisse with Rouille
-category: soup
+category:
 prep_time: 30 minutes
 cook_time: 45 minutes
 servings:
-tags: [protein, one-pot]
+tags: [pescatarian]
 ayurvedic: [heating, pitta-aggravating, heavy]
 ---
 

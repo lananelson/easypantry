@@ -1,10 +1,10 @@
 ---
 title: Genius Chickpea Tofu
-category: main course
+category:
 prep_time: 12 hours soaking
 cook_time: 40 minutes (plus 8 hours setting)
 servings: a large batch
-tags: [vegan, vegetarian, protein]
+tags: [vegan, vegetarian]
 ayurvedic: [kapha-balancing, drying, vata-aggravating, sattvic]
 ---
 

@@ -4,7 +4,7 @@ category: spice blend
 prep_time: 5 minutes
 cook_time:
 servings: about 1/2 cup
-tags: []
+tags: [vegan, vegetarian]
 ayurvedic: [kapha-balancing, warming, digestive-aid, rajasic]
 ---
 

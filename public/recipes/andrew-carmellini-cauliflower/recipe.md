@@ -1,6 +1,6 @@
 ---
 title: Andrew Carmellini's Cauliflower with Brown Butter, Pear, Sage & Hazelnuts
-category: side dish
+category:
 prep_time: 10 minutes
 cook_time: 30 minutes
 servings: 4

@@ -1,10 +1,10 @@
 ---
 title: Beef Tagine with Butternut Squash
-category: main course
+category:
 prep_time: 15 minutes
 cook_time: 30 minutes
 servings: 4
-tags: [protein, one-pot]
+tags: [one-pot]
 ayurvedic: [vata-balancing, warming, grounding]
 ---
 

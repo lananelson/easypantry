@@ -1,10 +1,10 @@
 ---
 title: Расстегаи — Rasstegai (Russian Open-Top Fish Pies)
-category: baked goods
+category:
 prep_time: 1 hour 30 minutes (including rising)
 cook_time: 30 minutes
 servings: 12 pies
-tags: [protein]
+tags: [pescatarian]
 ayurvedic: [heavy, grounding, incompatible-fish-dairy, kapha-aggravating]
 ---
 

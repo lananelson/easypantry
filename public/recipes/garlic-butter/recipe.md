@@ -4,7 +4,7 @@ category: condiment
 prep_time: 20 minutes
 cook_time: 1 1/2 hours
 servings: about 1 1/2 quarts
-tags: [condiment]
+tags: [pescatarian, condiment]
 ayurvedic: [warming, kapha-balancing, rajasic]
 ---
 

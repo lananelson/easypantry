@@ -4,7 +4,7 @@ category:
 prep_time:
 cook_time:
 servings:
-tags: []
+tags: [pescatarian]
 ayurvedic: [incompatible-fish-cheese, ama-producing, hard-to-digest, tamasic]
 ---
 

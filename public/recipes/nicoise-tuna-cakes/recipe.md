@@ -4,7 +4,7 @@ category: main course
 prep_time: 20 minutes
 cook_time: 10 minutes
 servings: 3-6
-tags: []
+tags: [pescatarian]
 ayurvedic: [warming, pitta-aggravating, rajasic]
 ---
 

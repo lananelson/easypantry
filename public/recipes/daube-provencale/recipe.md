@@ -4,7 +4,7 @@ category: main course
 prep_time: 20 minutes (plus 12-24 hours marinating)
 cook_time: 3 hours
 servings: 8
-tags: [low & slow, protein]
+tags: [low & slow]
 ayurvedic: [vata-balancing, warming, grounding, nourishing]
 ---
 

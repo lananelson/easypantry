@@ -1,10 +1,10 @@
 ---
 title: Italian Egg-Drop Soup
-category: soup
+category:
 prep_time: 5 minutes
 cook_time: 20 minutes
 servings: 6
-tags: [protein, one-pot]
+tags: [one-pot]
 ayurvedic: [light, nourishing, vata-balancing]
 ---
 

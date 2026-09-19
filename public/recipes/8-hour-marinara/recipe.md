@@ -4,7 +4,7 @@ category:
 prep_time:
 cook_time:
 servings:
-tags: [low & slow]
+tags: [vegan, vegetarian, low & slow]
 ayurvedic: [warming, pitta-aggravating, rajasic]
 ---
 

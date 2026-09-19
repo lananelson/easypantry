@@ -4,7 +4,7 @@ category: soup
 prep_time: 8-12 hours soaking + 15 minutes
 cook_time: 1 hour
 servings: 6
-tags: []
+tags: [one-pot]
 ayurvedic: [warming, grounding, vata-balancing, gas-producing]
 ---
 

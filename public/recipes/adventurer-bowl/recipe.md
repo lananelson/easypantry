@@ -1,6 +1,6 @@
 ---
 title: Adventurer Bowl with Tahini-Ginger Dressing
-category: main course
+category:
 prep_time:
 cook_time:
 servings:

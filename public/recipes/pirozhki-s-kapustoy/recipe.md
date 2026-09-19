@@ -1,10 +1,10 @@
 ---
 title: Пирожки с капустой — Pirozhki (Russian Cabbage Hand Pies)
-category: baked goods
+category:
 prep_time: 1 hour 30 minutes (plus rising, or overnight)
 cook_time: 35 minutes
 servings:
-tags: [vegetarian, comfort food]
+tags: [vegetarian]
 ayurvedic: [heavy, grounding, vata-balancing, kapha-aggravating]
 ---
 

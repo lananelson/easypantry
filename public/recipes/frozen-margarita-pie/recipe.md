@@ -1,10 +1,10 @@
 ---
 title: Frozen Margarita Pie
-category: dessert
+category:
 prep_time: 20 minutes
 cook_time: 7 minutes (plus at least 2 hours freezing)
 servings: 1 (9-inch) pie
-tags: [vegetarian]
+tags: [vegetarian, dessert]
 ayurvedic: [cold, heavy, sweet, contains-alcohol, kapha-aggravating]
 ---
 
