@@ -19,6 +19,7 @@ Never fabricate instructions. If the available source contains only part of the 
 4. Use the required frontmatter and heading structure below.
 5. Record the source in `## References`:
    - For a URL, include the source URL.
+   - When a web page reprints a recipe from a cookbook, cite the original book and author as `Source:` and keep the page as `Online:`, so both the original and an accessible copy are recorded.
    - For an image or pasted text, ask where it came from when that information was not supplied, then record the cookbook, author, website, creator, or personal notes.
    - For a user-created recipe with AI-generated instructions, use `Source: Created by <GitHub username> with <Model Name>`.
 
@@ -29,7 +30,7 @@ Never fabricate instructions. If the available source contains only part of the 
 
 ## Required format
 
-Use only level-2 headings. Required headings, in order, are `## Ingredients`, `## Instructions`, and `## References`. Optional `## Notes` belongs between Instructions and References. Use inline parenthetical notes for ingredient groupings instead of subsections.
+Use only level-2 headings. Required headings, in order, are `## Ingredients`, `## Instructions`, and `## References`. Optional `## My Notes` and `## Notes` belong between Instructions and References, in that order. `## My Notes` holds only the user's own words: tweaks, memories, where they first had it. Add other text there only when the user asks for it. `## Notes` holds notes that came with the source. Use inline parenthetical notes for ingredient groupings instead of subsections.
 
 ```markdown
 ---
@@ -52,9 +53,13 @@ ayurvedic: []
 1. Step 1
 2. Step 2
 
+## My Notes
+
+- the user's own notes
+
 ## Notes
 
-- notes here
+- notes from the source
 
 ## References
 

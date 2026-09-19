@@ -11,6 +11,8 @@ Read `public/pantry.csv`, apply only the changes the user described, and show th
 - Add, remove, or adjust rows and fields such as quantity, location, urgency, and notes as directed.
 - Do not invent additional consumption, purchases, or other pantry changes.
 - Never write `n.a.`. Leave an unavailable field empty.
+- Notes hold only lasting facts about an item. Do not add dates, and do not describe when or how the information was learned.
+- When a quantity or other detail is unknown, ask the user, one question at a time, instead of leaving an explanatory note. If the user says it doesn't matter, leave the field empty.
 - When an item's quantity becomes `0`:
   - Remove the row when `stock_requirement` is empty or zero.
   - Keep the row at quantity `0` when `stock_requirement` is non-empty, such as `keep in stock`.

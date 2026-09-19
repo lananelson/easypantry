@@ -37,6 +37,25 @@ For every developed recipe:
 - If the user says the pantry is stale or incomplete, absence from the file does not mean `(need to buy)`. Treat common staples as likely available and ask the user to confirm them; ask about other key unknown ingredients before assigning either status.
 - Record substitutions inline, such as `use Fontina ✓` instead of `Melting cheese`.
 
+## Hybrid dishes and variations
+
+A planned dish may borrow from several recipes instead of following one.
+
+- Use an unlinked `### Dish Name` heading and add `**Inspired by:**` with links to every recipe it draws on.
+- List the planned ingredients under `**Ingredients needed:**` as usual. Rough is fine; this is a plan, not a recipe.
+- When the dish will be made in more than one way (for example a vegan batch and a regular batch), add a `#### Variation name` subheading per variation with only the ingredients that differ.
+- Keep open questions ("maybe add grated potato?") as ingredient lines marked `(optional)` or `(maybe)` rather than deciding for the user.
+
+## Dish status
+
+Every new dish under `## Recipes` gets a status line directly under its heading. Plans written before statuses existed have none; leave them alone.
+
+- `**Status:** planned` — when the dish is first added.
+- `**Status:** made` — the user confirmed it was cooked.
+- `**Status:** skipped — reason` — it did not happen; record the reason only if the user gave one.
+
+Update the status only when the user says so. Do not infer skipped dishes from the calendar.
+
 ## Log meals cooked
 
 - After the user says a meal was cooked, add it under `## Meals`.
@@ -81,4 +100,17 @@ date_range: YYYY-MM-DD to YYYY-MM-DD
 
 - Ingredient ✓
 - Ingredient (need to buy)
+
+### Hybrid Dish Name
+
+**Status:** planned
+**Inspired by:** [Recipe A](../recipes/recipe-a/recipe.md), [Recipe B](../recipes/recipe-b/recipe.md)
+
+**Ingredients needed:**
+
+- Shared ingredient ✓
+
+#### Variation name
+
+- Ingredient specific to this variation (need to buy)
 ```

@@ -1,6 +1,6 @@
 name,category,quantity,unit,container_state,location,perishable,urgency,vendor,stock_requirement,notes
 Carrots,produce,0,medium,,fridge,yes,medium,,,
-Lemons,produce,2,each,,fridge,yes,medium,,keep in stock,
+Lemons,produce,0,each,,fridge,yes,medium,,keep in stock,
 Garlic,produce,0,bulb,,pantry,yes,medium,,keep in stock,"Old, needs replacement"
 Tahini,fermented pastes,0,jar,,fridge,no,low,,keep in stock,"Sesame paste"
 Miso paste,fermented pastes,1,container,sealed,fridge,no,low,,,
@@ -94,7 +94,7 @@ Beef tallow (sealed),oils & fats,400,grams,sealed,garage,no,low,,,"Sealed jar; g
 All-purpose flour,baking,2,pounds,open,pantry,no,low,,,"Plain flour"
 Breadcrumbs,baking,0.5,cups,open,pantry,no,low,,,
 Dutch process cocoa powder,baking,1,container,open,pantry,no,low,,,"purchased 2021"
-Eggs,dairy,0,each,,fridge,yes,low,,keep in stock,
+Eggs,dairy,9,each,,fridge,yes,low,,keep in stock,
 Anchovy fillets,seafood,0,can,,,no,low,,keep in stock,
 Coriander seeds,spices,1,jar,,pantry,no,low,,keep in stock,
 Pecorino,cheese,1,block,,fridge,yes,medium,,,
@@ -138,3 +138,10 @@ Sun-dried tomatoes,preserved vegetables,0.8,jar,open,fridge,yes,medium,,,"In oil
 Organic crackers,snacks,1,sleeve,sealed,pantry,no,low,,,"1 sleeve remaining"
 Almond crackers,snacks,1.5,packs,mixed,pantry,no,low,,,"1 sealed pack + half pack open"
 Gluten-free puff pastry,baking,2,packs,frozen,freezer,yes,low,,,"2 packs frozen"
+Zucchini,produce,1,each,,fridge,yes,medium,,,Giant
+Cilantro,produce,,bunch,,fridge,yes,medium,,,
+Dill,produce,,bunch,,fridge,yes,medium,,,
+Potatoes,produce,3,each,,pantry,yes,low,,,
+Dubliner cheese,cheese,0.67,block,opened,fridge,yes,medium,Costco,,
+Onion,produce,1,each,,pantry,yes,low,,,Large
+Granulated sugar,sweeteners,3,cups,,pantry,no,low,,,
