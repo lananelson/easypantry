@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import type { ReactNode } from "react";
 import type { MealPlan, MealPlanRecipe } from "../types.js";
 import { loadMealPlans } from "../utils/dataLoader.js";
 
@@ -147,12 +148,35 @@ const STATUS_BADGE: Record<NonNullable<MealPlanRecipe["status"]>, string> = {
   skipped: "bg-secondary-lt",
 };
 
+/** Render `[name](path)` links inside an ingredient line; recipe paths open in-app. */
+function withLinks(text: string): ReactNode[] {
+  const parts: ReactNode[] = [];
+  const re = /\[([^\]]+)\]\(([^)]+)\)/g;
+  let last = 0;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(text)) !== null) {
+    if (m.index > last) parts.push(text.slice(last, m.index));
+    const target = m[2].trim();
+    const href = /^https?:\/\//.test(target)
+      ? target
+      : `#/recipe/${target.replace(/^(\.\.\/|\.\/|\/)/, "")}`;
+    parts.push(
+      <a key={m.index} href={href}>
+        {m[1]}
+      </a>
+    );
+    last = m.index + m[0].length;
+  }
+  if (last < text.length) parts.push(text.slice(last));
+  return parts;
+}
+
 function IngredientLine({ text }: { text: string }) {
   const needToBuy = /\(need to buy\)/i.test(text);
   const have = text.includes("✓");
   return (
     <li className={needToBuy ? "text-orange" : have ? "" : "text-muted"}>
-      {text}
+      {withLinks(text)}
     </li>
   );
 }
