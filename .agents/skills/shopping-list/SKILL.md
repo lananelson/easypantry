@@ -3,9 +3,7 @@ name: shopping-list
 description: Generate or regenerate an EasyPantry shopping list for a target week. Use for shopping-list requests and statements that the user is going to a named store or vendor.
 ---
 
-Follow the Pantry Keeper role in [PANTRY_KEEPER.md](../../../PANTRY_KEEPER.md).
-
-Generate the list immediately from the meal plan and pantry data. Confirm only when the target week is ambiguous, such as late in the current week. Show the generated list for confirmation before writing it.
+Build the list from the meal plan and pantry data. Show the generated list for confirmation before writing it.
 
 ## Build the list
 
