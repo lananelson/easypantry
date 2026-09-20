@@ -461,6 +461,26 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 clove garlic (chutney)
 - 1 small green Thai bird chile (chutney)
 
+## chickpea-sunflower-sandwich
+**Chickpea Sunflower Sandwich**
+
+- 1 (15-ounce) can chickpeas, rinsed and drained
+- 1/4 cup roasted unsalted sunflower seeds
+- 3 tablespoons vegan mayonnaise, or tahini
+- 1/2 teaspoon Dijon or spicy mustard
+- 1 tablespoon maple syrup, or agave or honey if not vegan
+- 1/4 cup chopped red onion
+- 2 tablespoons fresh dill, finely chopped
+- Salt and black pepper, to taste
+- 4 slices rustic bread, lightly toasted
+- Sliced avocado, onion, tomato, and/or lettuce, for serving (optional)
+- 1/4 cup hummus (optional garlic herb sauce)
+- 1/2 medium lemon, juiced (optional garlic herb sauce)
+- 3/4 to 1 teaspoon dried dill (optional garlic herb sauce)
+- 2 cloves garlic, minced (optional garlic herb sauce)
+- Water or unsweetened almond milk, to thin (optional garlic herb sauce)
+- Sea salt, to taste (optional garlic herb sauce)
+
 ## chinese-scrambled-eggs-garlic-chives
 **Chinese Scrambled Eggs with Garlic Chives**
 
@@ -1092,6 +1112,21 @@ Auto-generated from recipe files. Do not edit manually.
 - 1/2 cup (50 grams) finely grated parmesan cheese
 - 4 ounces (115 grams) mozzarella, cut into small cubes
 - 3 tablespoons chopped fresh flat-leaf parsley
+
+## neapolitan-escarole-bean-soup
+**Neapolitan Escarole Bean Soup**
+
+- 1 pound (454 g) dried white beans, such as cannellini (for canned bean instructions, see notes)
+- 4 tablespoons (36 g) kosher salt, plus more for seasoning
+- 2 teaspoons (10 g) baking soda
+- 3 bay leaves
+- 6 medium cloves garlic, 1 left whole and 5 thinly sliced, divided
+- 1/4 cup (60 ml) extra-virgin olive oil, plus more for drizzling
+- 1 large pinch red pepper flakes
+- 1 1/2 pounds (680 g) escarole (about 1 large head), stem end trimmed, wilted leaves discarded, and washed very well in multiple changes of water
+- Toasted croutons, for serving (see notes)
+- Freshly ground black pepper
+- Grated Parmigiano-Reggiano, for serving (optional)
 
 ## nicoise-tuna-cakes
 **Niçoise Tuna Cakes**
