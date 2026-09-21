@@ -36,7 +36,7 @@ Granulated garlic,spices,5,oz,open,pantry,no,low,,,"Garlic powder-style"
 Medjool dates,dried ingredients,1,container,open,pantry,yes,medium,,,"Expired April this year; inspect at opening"
 Chardonnay vinegar,vinegars,1,bottle,open,pantry,no,low,,,"With mother"
 Apple cider vinegar (sealed),vinegars,64,oz,sealed,pantry,no,low,,,"2 x 32 oz bottles"
-Distilled white vinegar,vinegars,1,bottle,sealed,pantry,no,low,,,"Standard white vinegar"
+Distilled white vinegar,vinegars,8,fl oz,open,pantry,no,low,,,"16 oz bottle; about 1 dry measuring cup used"
 Balsamic vinegar,vinegars,1,bottle,open,pantry,no,low,,,"For loaded olive oil"
 Japanese curry mix,dried ingredients,1,box,sealed,pantry,no,low,,,"Curry roux blocks"
 Tomato paste,canned goods,0.5,can,open,fridge,no,high,,,"6 oz can, half used"
@@ -75,7 +75,7 @@ Homemade garam masala,spices,1,jar,open,pantry,no,low,,,"Homemade"
 Chana masala powder,spices,1,jar,,pantry,no,low,,,
 Fennel seed,spices,1,jar,open,pantry,no,low,,,"Whole seeds"
 White pepper powder,spices,1,jar,open,pantry,no,low,,,"Ground white pepper"
-Thai dried chilies,dried chiles,1,small jar,open,pantry,no,low,,,"Home-dried Thai chilies"
+Thai dried chilies,dried chiles,,few,open,pantry,no,low,,,"Home-dried Thai chilies"
 Guajillo chiles,dried chiles,6,oz,sealed,pantry,no,low,,,"Two packs total"
 Morito chiles,dried chiles,5,whole pods,open,pantry,no,low,,,"Mild Spanish smoked peppers"
 Achiote powder,spices,1,jar,open,pantry,no,low,,,"Annatto powder"
@@ -141,4 +141,5 @@ Dubliner cheese,cheese,0.67,block,opened,fridge,yes,medium,Costco,,
 Tempeh,prepared foods,2,blocks,,fridge,yes,medium,,,
 Sauerkraut,preserved vegetables,1,container,,fridge,yes,low,,,
 Onion,produce,1,each,,pantry,yes,low,,,Large
-Granulated sugar,sweeteners,3,cups,,pantry,no,low,,,
+Granulated sugar,sweeteners,2,cups,,pantry,no,low,,,
+Pickled red onions,preserved vegetables,1.5,cups,,fridge,yes,medium,,,"Homemade 2026-09-20"
