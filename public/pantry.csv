@@ -136,11 +136,11 @@ Pistachios,nuts,30,oz,,pantry,no,low,,,"Roasted, salted"
 Zucchini,produce,1,each,,fridge,yes,medium,,,Giant
 Cilantro,produce,,bunch,,fridge,yes,medium,,,
 Dill,produce,,bunch,,fridge,yes,medium,,,
-Potatoes,produce,3,each,,pantry,yes,low,,,
-Dubliner cheese,cheese,0.67,block,opened,fridge,yes,medium,Costco,,
+Potatoes,produce,0,each,,pantry,yes,low,,,
+Dubliner cheese,cheese,0.33,block,opened,fridge,yes,medium,Costco,,
 Tempeh,prepared foods,2,blocks,,fridge,yes,medium,,,
 Sauerkraut,preserved vegetables,1,container,,fridge,yes,low,,,
-Onion,produce,1,each,,pantry,yes,low,,,Large
+Onion,produce,0,each,,pantry,yes,low,,,Large
 Granulated sugar,sweeteners,2,cups,,pantry,no,low,,,
 Pickled red onions,preserved vegetables,1.5,cups,,fridge,yes,medium,,,"Homemade 2026-09-20"
 Scuccuzzù pasta,pasta,500,grams,sealed,pantry,no,low,Italian Harvest,,"Organic Ligurian pasta; Alta Valle Scrivia; 15-minute cooking time"
