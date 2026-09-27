@@ -5,7 +5,7 @@ prep_time: 5 minutes
 cook_time:
 servings: 1
 tags: [vegetarian, breakfast]
-ayurvedic: [pitta-balancing, cooling, light]
+ayurvedic: [cooling, pitta-balancing, vata-aggravating]
 ---
 
 ## Ingredients
