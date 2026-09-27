@@ -5,7 +5,7 @@ prep_time:
 cook_time:
 servings: 8 biscuits
 tags: [breakfast, vegetarian]
-ayurvedic: [heavy, grounding, kapha-aggravating, incompatible-fruit-dairy]
+ayurvedic: [heavy, grounding, kapha-aggravating]
 ---
 
 ## Ingredients
