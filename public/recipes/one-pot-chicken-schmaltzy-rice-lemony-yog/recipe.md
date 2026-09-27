@@ -5,7 +5,7 @@ prep_time:
 cook_time:
 servings: 4-6
 tags: [one-pot]
-ayurvedic: [vata-balancing, warming, grounding, nourishing]
+ayurvedic: [vata-balancing, warming, grounding, nourishing, heavy, incompatible-meat-dairy]
 ---
 
 ## Ingredients
