@@ -5,7 +5,7 @@ prep_time: 30 minutes
 cook_time: 1 hour
 servings:
 tags: [vegan, vegetarian]
-ayurvedic: [heavy, grounding, pitta-aggravating-tomato]
+ayurvedic: [heavy, grounding, gas-producing, kapha-aggravating, pitta-aggravating, tamasic]
 ---
 
 ## Ingredients
