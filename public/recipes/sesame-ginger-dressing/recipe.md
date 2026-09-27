@@ -5,7 +5,7 @@ prep_time: 5 minutes
 cook_time:
 servings:
 tags: [vegan, vegetarian, condiment]
-ayurvedic: [heating, vata-balancing, digestive-ginger]
+ayurvedic: [warming, vata-balancing, pitta-aggravating, rajasic]
 ---
 
 ## Ingredients
