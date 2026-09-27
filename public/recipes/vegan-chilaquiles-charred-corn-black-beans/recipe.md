@@ -5,7 +5,7 @@ prep_time: 30 minutes
 cook_time: 45 minutes
 servings: 4
 tags: [vegan, vegetarian]
-ayurvedic: [heating, dry, kapha-balancing, pitta-aggravating]
+ayurvedic: [heating, dry, gas-producing, kapha-balancing, pitta-aggravating]
 ---
 
 ## Ingredients
