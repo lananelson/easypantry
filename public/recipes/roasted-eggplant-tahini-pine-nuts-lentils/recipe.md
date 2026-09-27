@@ -5,7 +5,7 @@ prep_time: 20 minutes
 cook_time: 45 minutes
 servings:
 tags: [vegan, vegetarian]
-ayurvedic: [grounding, heating, vata-balancing, pitta-aggravating-eggplant]
+ayurvedic: [warming, grounding, gas-producing, vata-aggravating, pitta-aggravating]
 ---
 
 ## Ingredients
