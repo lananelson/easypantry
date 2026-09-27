@@ -5,7 +5,7 @@ prep_time: 20 minutes
 cook_time: 40 minutes
 servings: 6
 tags: []
-ayurvedic: [heating, heavy, pitta-aggravating, incompatible-seafood-cheese]
+ayurvedic: [warming, heavy, pitta-aggravating, hard-to-digest, tamasic]
 ---
 
 ## Ingredients
