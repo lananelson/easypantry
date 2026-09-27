@@ -5,7 +5,7 @@ prep_time: 5 minutes
 cook_time: 20 minutes
 servings: 1
 tags: []
-ayurvedic: []
+ayurvedic: [warming, grounding, vata-balancing, nourishing]
 ---
 
 ## Ingredients
