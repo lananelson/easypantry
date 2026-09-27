@@ -5,7 +5,7 @@ prep_time: 20 minutes (plus 2 hours chilling)
 cook_time: 40 minutes
 servings: 4-6
 tags: [vegetarian]
-ayurvedic: [heavy, incompatible-tomato-cheese, pitta-aggravating]
+ayurvedic: [heavy, grounding, pitta-aggravating, kapha-aggravating]
 ---
 
 ## Ingredients
