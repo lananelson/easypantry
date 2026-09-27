@@ -5,7 +5,7 @@ prep_time: 15 minutes
 cook_time: 30 minutes
 servings: 4
 tags: [one-pot]
-ayurvedic: [vata-balancing, warming, grounding]
+ayurvedic: [warming, grounding, nourishing, vata-balancing, heavy, tamasic]
 ---
 
 ## Ingredients
