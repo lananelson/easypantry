@@ -5,7 +5,7 @@ prep_time: 15 minutes
 cook_time: 15 minutes
 servings: 4
 tags: [pescatarian]
-ayurvedic: []
+ayurvedic: [warming, pitta-aggravating, rajasic]
 ---
 
 ## Ingredients
