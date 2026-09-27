@@ -5,7 +5,7 @@ prep_time: 5 minutes
 cook_time:
 servings: about 4 cups
 tags: [vegetarian]
-ayurvedic: []
+ayurvedic: [dry, warming, vata-aggravating, rajasic]
 ---
 
 ## Ingredients
