@@ -5,7 +5,7 @@ prep_time:
 cook_time:
 servings:
 tags: [vegetarian]
-ayurvedic: [cooling, kapha-aggravating, tamasic]
+ayurvedic: [heavy, grounding, kapha-aggravating, tamasic]
 ---
 
 ## Ingredients
