@@ -5,7 +5,7 @@ prep_time: 5 minutes
 cook_time: 0 minutes
 servings: 1
 tags: [vegetarian, breakfast]
-ayurvedic: [kapha-aggravating, cooling]
+ayurvedic: [cooling, heavy, kapha-aggravating, vata-aggravating]
 ---
 
 ## Ingredients
