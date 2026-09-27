@@ -5,7 +5,7 @@ prep_time: 10 minutes
 cook_time: 20 minutes
 servings:
 tags: [vegan, vegetarian, one-pot]
-ayurvedic: [vata-balancing, pitta-balancing-coconut, grounding, sweet]
+ayurvedic: [warming, grounding, gas-producing]
 ---
 
 ## Ingredients
