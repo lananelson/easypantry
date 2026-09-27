@@ -5,7 +5,7 @@ prep_time: 15 minutes
 cook_time: 12 minutes
 servings: 4
 tags: [vegetarian]
-ayurvedic: [heating-radish, vata-balancing, incompatible-eggs-yogurt]
+ayurvedic: [warming, heavy, vata-aggravating, kapha-aggravating]
 ---
 
 ## Ingredients
