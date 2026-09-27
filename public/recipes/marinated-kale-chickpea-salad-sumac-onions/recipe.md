@@ -5,7 +5,7 @@ prep_time: 5 minutes
 cook_time: 10 minutes active + 75 minutes resting
 servings: 4
 tags: [vegan, vegetarian, salad]
-ayurvedic: [vata-balancing, cooling, easy-to-digest]
+ayurvedic: [cooling, gas-producing, vata-aggravating]
 ---
 
 ## Ingredients
