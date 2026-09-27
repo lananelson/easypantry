@@ -5,7 +5,7 @@ prep_time: 3–4 hours soaking
 cook_time: about 50 minutes
 servings: 2
 tags: [vegan, vegetarian]
-ayurvedic: [cooling, gas-producing, vata-aggravating, sattvic]
+ayurvedic: [warming, grounding, gas-producing, vata-aggravating]
 ---
 
 ## Ingredients
