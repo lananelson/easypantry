@@ -5,7 +5,7 @@ prep_time: 5 minutes
 cook_time: 50 minutes
 servings:
 tags: [one-pot]
-ayurvedic: [heavy, vata-aggravating-beans, kapha-balancing, heating]
+ayurvedic: [warming, heavy, gas-producing, vata-aggravating, tamasic]
 ---
 
 ## Ingredients
