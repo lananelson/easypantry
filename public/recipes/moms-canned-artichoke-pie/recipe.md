@@ -5,7 +5,7 @@ prep_time:
 cook_time: 1 hour
 servings: 1 9-inch pie
 tags: [vegetarian]
-ayurvedic: [heavy, grounding, kapha-aggravating, incompatible-eggs-cheese]
+ayurvedic: [heavy, grounding, hard-to-digest, kapha-aggravating]
 ---
 
 ## Ingredients
