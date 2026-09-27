@@ -5,7 +5,7 @@ prep_time: 5 minutes
 cook_time: 0 minutes
 servings: 6-8
 tags: [vegetarian, condiment, dessert]
-ayurvedic: []
+ayurvedic: [cold, heavy, sweet, kapha-aggravating, contains-alcohol]
 ---
 
 ## Ingredients
