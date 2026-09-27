@@ -5,7 +5,7 @@ prep_time: 15 minutes (plus 1-4 hours soaking cashews)
 cook_time: 25 minutes
 servings: 6-8
 tags: [vegan, vegetarian]
-ayurvedic: [vata-balancing, warming, nourishing, heavy-cashews]
+ayurvedic: [warming, nourishing, heavy, vata-balancing, pitta-aggravating]
 ---
 
 ## Ingredients
