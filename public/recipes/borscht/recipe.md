@@ -5,7 +5,7 @@ prep_time:
 cook_time:
 servings:
 tags: [vegan, vegetarian, one-pot]
-ayurvedic: [grounding, vata-balancing, sweet, pitta-balancing-beets]
+ayurvedic: [warming, grounding, vata-balancing, gas-producing]
 ---
 
 ## Ingredients
