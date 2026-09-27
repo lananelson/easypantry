@@ -5,7 +5,7 @@ prep_time: 1 hour 30 minutes (including rising)
 cook_time: 30 minutes
 servings: 12 pies
 tags: [pescatarian]
-ayurvedic: [heavy, grounding, incompatible-fish-dairy, kapha-aggravating]
+ayurvedic: [heavy, grounding, hard-to-digest, kapha-aggravating]
 ---
 
 ## Ingredients
