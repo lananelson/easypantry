@@ -5,7 +5,7 @@ prep_time: 10 minutes (plus 10-60 minutes marinating)
 cook_time: 20 minutes
 servings: 2
 tags: []
-ayurvedic: [heating, pitta-aggravating, incompatible-meat-dairy]
+ayurvedic: [warming, heavy, pitta-aggravating, rajasic, tamasic]
 ---
 
 ## Ingredients
