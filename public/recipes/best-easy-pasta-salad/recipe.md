@@ -5,7 +5,7 @@ prep_time: 10 minutes
 cook_time: 20 minutes
 servings:
 tags: [vegetarian, salad]
-ayurvedic: [heavy, incompatible-tomato-cheese, pitta-aggravating]
+ayurvedic: [cooling, heavy, vata-aggravating, pitta-aggravating]
 ---
 
 ## Ingredients
