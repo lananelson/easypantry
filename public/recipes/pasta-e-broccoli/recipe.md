@@ -5,7 +5,7 @@ prep_time: 5 minutes
 cook_time: 20 minutes
 servings: 4
 tags: [vegetarian]
-ayurvedic: [kapha-balancing, light, vata-aggravating-broccoli]
+ayurvedic: [warming, gas-producing, vata-aggravating, kapha-aggravating]
 ---
 
 ## Ingredients
