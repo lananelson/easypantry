@@ -5,7 +5,7 @@ prep_time:
 cook_time:
 servings:
 tags: [low & slow]
-ayurvedic: [warming, vata-balancing, grounding, rajasic]
+ayurvedic: [warming, grounding, heavy, pitta-aggravating, rajasic, tamasic]
 ---
 
 ## Ingredients
