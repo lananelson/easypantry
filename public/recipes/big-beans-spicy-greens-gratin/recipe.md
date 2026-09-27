@@ -5,7 +5,7 @@ prep_time:
 cook_time:
 servings: 4-6
 tags: [one-pot, vegetarian]
-ayurvedic: [heavy, gas-producing, incompatible-beans-dairy, kapha-aggravating, warming]
+ayurvedic: [warming, heavy, hard-to-digest, gas-producing, vata-aggravating, kapha-aggravating]
 ---
 
 ## Ingredients
