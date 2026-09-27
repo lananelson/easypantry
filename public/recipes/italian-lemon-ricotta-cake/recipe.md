@@ -5,7 +5,7 @@ prep_time: 20 minutes
 cook_time: 1 hour
 servings:
 tags: [vegetarian, dessert]
-ayurvedic: [heavy, sweet, kapha-aggravating, pitta-balancing]
+ayurvedic: [heavy, sweet, grounding, kapha-aggravating]
 ---
 
 ## Ingredients
