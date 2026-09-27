@@ -5,7 +5,7 @@ prep_time:
 cook_time:
 servings: 4-6
 tags: [pescatarian]
-ayurvedic: [gas-producing, vata-aggravating, warming, pitta-aggravating, incompatible-fish-cheese, heavy]
+ayurvedic: [warming, heavy, gas-producing, vata-aggravating, pitta-aggravating]
 ---
 
 ## Ingredients
