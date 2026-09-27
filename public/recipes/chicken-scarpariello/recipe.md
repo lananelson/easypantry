@@ -5,7 +5,7 @@ prep_time:
 cook_time:
 servings: 4-6
 tags: []
-ayurvedic: []
+ayurvedic: [warming, heavy, pitta-aggravating, rajasic, tamasic]
 ---
 
 ## Ingredients
