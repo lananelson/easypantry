@@ -5,7 +5,7 @@ prep_time: 10 minutes
 cook_time: 15 minutes
 servings:
 tags: []
-ayurvedic: [vata-balancing, grounding, heavy]
+ayurvedic: [grounding, heavy, kapha-aggravating, tamasic]
 ---
 
 ## Ingredients
