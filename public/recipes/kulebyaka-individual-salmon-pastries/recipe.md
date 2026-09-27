@@ -5,7 +5,7 @@ prep_time: 1 hour
 cook_time: 30 minutes
 servings: 4
 tags: [pescatarian]
-ayurvedic: [heavy, incompatible-fish-eggs, kapha-aggravating]
+ayurvedic: [heavy, grounding, hard-to-digest, kapha-aggravating, tamasic]
 ---
 
 ## Ingredients
