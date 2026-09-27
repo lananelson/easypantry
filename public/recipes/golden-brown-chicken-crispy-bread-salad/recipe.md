@@ -49,4 +49,4 @@ ayurvedic: []
 - Page: 74
 - Companion video — Butter Baste: https://mollybaz.com/techniques/butter-baste/
 - Companion video — Carve a Chix Breast: https://mollybaz.com/techniques/carve-a-chix-breast/
-- Photo: media/photo-01.jpeg
+- Photo: media/chicken_recipe_photo.jpg
