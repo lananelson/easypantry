@@ -5,7 +5,7 @@ prep_time: 15 mins
 cook_time: 1 hr 30 mins
 servings: 6
 tags: [vegetarian, one-pot]
-ayurvedic: []
+ayurvedic: [warming, grounding, gas-producing, vata-aggravating]
 ---
 
 ## Ingredients
