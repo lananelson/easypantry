@@ -5,7 +5,7 @@ prep_time:
 cook_time:
 servings: 2 large loaves
 tags: [vegetarian]
-ayurvedic: [warming, kapha-balancing, rajasic]
+ayurvedic: [warming, heavy, kapha-aggravating, rajasic]
 ---
 
 ## Ingredients
