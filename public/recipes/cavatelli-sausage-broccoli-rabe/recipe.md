@@ -5,7 +5,7 @@ prep_time:
 cook_time:
 servings: 4
 tags: []
-ayurvedic: [warming, heavy, kapha-aggravating, pitta-aggravating, incompatible-meat-dairy, incompatible-fish-cheese, tamasic]
+ayurvedic: [warming, heavy, hard-to-digest, kapha-aggravating, pitta-aggravating, tamasic]
 ---
 
 ## Ingredients
