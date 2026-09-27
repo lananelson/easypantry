@@ -5,7 +5,7 @@ prep_time: 10 minutes
 cook_time: 50 minutes
 servings: 6
 tags: [vegan, vegetarian, one-pot]
-ayurvedic: [kapha-balancing, digestive-spices, vata-aggravating-legumes, sattvic]
+ayurvedic: [warming, gas-producing, vata-aggravating, kapha-balancing]
 ---
 
 ## Ingredients
