@@ -5,7 +5,7 @@ prep_time: 25 minutes
 cook_time:
 servings: about 1 cup
 tags: [vegan, vegetarian, condiment]
-ayurvedic: [pitta-balancing, cooling, digestive-aid, sattvic]
+ayurvedic: [warming, pitta-aggravating, rajasic]
 ---
 
 ## Ingredients
