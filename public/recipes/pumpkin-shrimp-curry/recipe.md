@@ -5,7 +5,7 @@ prep_time: 15 minutes
 cook_time: 45 minutes
 servings: 4
 tags: [pescatarian, one-pot]
-ayurvedic: [vata-balancing, warming, grounding]
+ayurvedic: [warming, grounding, nourishing, pitta-aggravating]
 ---
 
 ## Ingredients
