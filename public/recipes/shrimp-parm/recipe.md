@@ -5,7 +5,7 @@ prep_time:
 cook_time:
 servings: 2
 tags: [pescatarian]
-ayurvedic: [incompatible-fish-cheese, ama-producing, hard-to-digest, kapha-aggravating, tamasic]
+ayurvedic: [warming, heavy, hard-to-digest, kapha-aggravating, pitta-aggravating, tamasic]
 ---
 
 ## Ingredients
