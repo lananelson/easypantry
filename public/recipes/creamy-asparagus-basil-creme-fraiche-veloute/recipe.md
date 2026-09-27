@@ -5,7 +5,7 @@ prep_time: 5 minutes
 cook_time: 15 minutes
 servings: 2
 tags: [vegetarian]
-ayurvedic: [pitta-balancing, light, sattvic]
+ayurvedic: [light, warming, vata-balancing]
 ---
 
 ## Ingredients
