@@ -5,7 +5,7 @@ prep_time: 15 minutes
 cook_time: 2 hours 30 minutes
 servings: 4
 tags: [low & slow]
-ayurvedic: [heavy, tamasic, heating, vata-balancing]
+ayurvedic: [heavy, warming, vata-balancing, kapha-aggravating, tamasic]
 ---
 
 ## Ingredients
