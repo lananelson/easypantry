@@ -5,7 +5,7 @@ prep_time: 8 minutes
 cook_time: 5 minutes
 servings: 3.5 cups
 tags: [condiment]
-ayurvedic: [heavy, sweet, vata-balancing, kapha-aggravating]
+ayurvedic: [warming, heavy, sweet, kapha-aggravating]
 ---
 
 ## Ingredients
