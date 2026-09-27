@@ -5,7 +5,7 @@ prep_time: 10 minutes
 cook_time: 25 minutes
 servings: 4
 tags: []
-ayurvedic: [heavy, tamasic, incompatible-meat-dairy, vata-balancing]
+ayurvedic: [heavy, grounding, vata-balancing, kapha-aggravating, tamasic]
 ---
 
 ## Ingredients
