@@ -5,7 +5,7 @@ prep_time: 15 minutes
 cook_time: 1 hour 15 minutes
 servings: 4
 tags: []
-ayurvedic: [heating, sour, salty, pitta-aggravating, rajasic]
+ayurvedic: [heating, sour, salty, pitta-aggravating, rajasic, heavy, tamasic]
 ---
 
 ## Ingredients
