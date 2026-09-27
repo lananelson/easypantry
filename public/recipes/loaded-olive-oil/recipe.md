@@ -5,7 +5,7 @@ prep_time: 5 minutes
 cook_time:
 servings: 6-8
 tags: [vegetarian, condiment]
-ayurvedic: []
+ayurvedic: [warming, heavy, pitta-aggravating, rajasic]
 ---
 
 ## Ingredients
