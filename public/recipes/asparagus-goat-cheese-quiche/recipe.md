@@ -5,7 +5,7 @@ prep_time: 20 minutes
 cook_time: 55 minutes
 servings: 8
 tags: [vegetarian, breakfast]
-ayurvedic: []
+ayurvedic: [heavy, grounding, kapha-aggravating]
 ---
 
 ## Ingredients
