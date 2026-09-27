@@ -5,7 +5,7 @@ prep_time:
 cook_time:
 servings: 4
 tags: []
-ayurvedic: [warming, grounding, gas-producing]
+ayurvedic: [warming, grounding, heavy, gas-producing, pitta-aggravating, tamasic]
 ---
 
 ## Ingredients
