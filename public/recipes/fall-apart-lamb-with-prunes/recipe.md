@@ -5,7 +5,7 @@ prep_time: 10 minutes
 cook_time: 2 hours 30 minutes
 servings: 4
 tags: [low & slow]
-ayurvedic: [vata-balancing, warming, grounding, nourishing]
+ayurvedic: [warming, grounding, nourishing, vata-balancing, heavy, tamasic]
 ---
 
 ## Ingredients
