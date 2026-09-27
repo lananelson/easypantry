@@ -5,7 +5,7 @@ prep_time:
 cook_time:
 servings:
 tags: [vegan, vegetarian]
-ayurvedic: [kapha-balancing, grounding, light]
+ayurvedic: [grounding, gas-producing, vata-aggravating, tamasic]
 ---
 
 ## Ingredients
