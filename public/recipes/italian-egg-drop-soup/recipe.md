@@ -5,7 +5,7 @@ prep_time: 5 minutes
 cook_time: 20 minutes
 servings: 6
 tags: [one-pot]
-ayurvedic: [light, nourishing, vata-balancing]
+ayurvedic: [warming, nourishing, grounding, gas-producing]
 ---
 
 ## Ingredients
