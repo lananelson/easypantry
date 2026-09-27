@@ -5,8 +5,7 @@ prep_time: 30 minutes
 cook_time: 45 minutes
 servings: 6-8
 tags: [pescatarian]
-ayurvedic:
-  [
+ayurvedic: [heavy, grounding, hard-to-digest, kapha-aggravating, tamasic]
     incompatible-fish-cheese,
     incompatible-fish-eggs,
     ama-producing,
