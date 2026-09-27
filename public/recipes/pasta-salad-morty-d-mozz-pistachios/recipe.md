@@ -5,7 +5,7 @@ prep_time:
 cook_time:
 servings: 4-6
 tags: [salad]
-ayurvedic: []
+ayurvedic: [heavy, kapha-aggravating, vata-aggravating, hard-to-digest, tamasic]
 ---
 
 ## Ingredients
