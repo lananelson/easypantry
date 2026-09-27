@@ -5,7 +5,7 @@ prep_time: 30 minutes
 cook_time: 20 minutes
 servings: 4
 tags: [salad]
-ayurvedic: []
+ayurvedic: [cooling, heavy, kapha-aggravating, hard-to-digest]
 ---
 
 ## Ingredients
