@@ -5,7 +5,7 @@ prep_time: 20 minutes
 cook_time: 40 minutes
 servings: 8
 tags: [vegetarian, one-pot]
-ayurvedic: [grounding, nourishing, kapha-balancing]
+ayurvedic: [warming, grounding, nourishing, gas-producing]
 ---
 
 ## Ingredients
