@@ -5,7 +5,7 @@ prep_time: 30 minutes
 cook_time:
 servings: 2 sandwiches
 tags: [vegan, vegetarian]
-ayurvedic: []
+ayurvedic: [cooling, heavy, gas-producing, vata-aggravating]
 ---
 
 ## Ingredients
