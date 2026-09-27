@@ -5,7 +5,7 @@ prep_time: 15 minutes
 cook_time: 10 minutes
 servings: 2
 tags: [pescatarian, salad]
-ayurvedic: [pitta-balancing, light, cooling]
+ayurvedic: [cooling, light, vata-aggravating]
 ---
 
 ## Ingredients
