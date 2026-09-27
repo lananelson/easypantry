@@ -5,7 +5,7 @@ prep_time: 15 minutes
 cook_time: 30 minutes
 servings: 4
 tags: [vegetarian, breakfast]
-ayurvedic: [incompatible-eggs-cheese, kapha-aggravating, warming]
+ayurvedic: [warming, heavy, grounding, kapha-aggravating]
 ---
 
 ## Ingredients
