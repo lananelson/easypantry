@@ -5,7 +5,7 @@ prep_time: 15 minutes
 cook_time:
 servings: 3
 tags: [vegetarian, salad]
-ayurvedic: []
+ayurvedic: [cooling, light, vata-aggravating, pitta-aggravating]
 ---
 
 ## Ingredients
