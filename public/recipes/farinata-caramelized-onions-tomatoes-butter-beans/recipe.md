@@ -4,7 +4,7 @@ category: main
 prep_time:
 cook_time:
 servings: 4-6
-tags: [vegetarian]
+tags: [pescatarian]
 ayurvedic: [gas-producing, vata-aggravating, warming, pitta-aggravating, incompatible-fish-cheese, heavy]
 ---
 
