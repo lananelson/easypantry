@@ -5,7 +5,7 @@ prep_time: 15 minutes
 cook_time: 20 minutes
 servings:
 tags: [vegetarian, salad]
-ayurvedic: [kapha-balancing, heating-watercress, light]
+ayurvedic: [warming, pitta-aggravating, tamasic]
 ---
 
 ## Ingredients
