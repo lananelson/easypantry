@@ -45,11 +45,13 @@ ayurvedic: []
 
 ## Notes
 
-- The farinata base follows Daniel Gritzer's Serious Eats method: a 3:1 water-to-chickpea-flour ratio by weight, a long rest for hydration, and very high heat for a custardy center with browned edges.
-- The tomato, butter bean, anchovy, herb, caramelized red onion, basil, and cheese topping is the adaptation specified from the TikTok recipe.
-- Topping quantities were not provided, so they are intentionally left flexible rather than invented.
+- This recipe is based on the TikTok video linked below.
+- The TikTok video supplies the topping direction and ingredient set: butter beans, Roma tomatoes, anchovies, rosemary, thyme, garlic, caramelized red onions with balsamic, basil, and Parmesan or pecorino.
+- The exact farinata-base ingredient quantities were not available from the TikTok, so the chickpea flour, water, olive oil, salt, black pepper, and rosemary quantities are sourced from the Serious Eats farinata recipe.
+- The TikTok video is also saved locally on the user's phone.
+- Topping quantities were not available, so they are intentionally left flexible rather than invented.
 
 ## References
 
-- Serious Eats: https://www.seriouseats.com/farinata-italian-chickpea-pancake-recipe
-- TikTok inspiration: https://www.tiktok.com/t/ZTySnUhJp/
+- TikTok recipe: https://www.tiktok.com/t/ZTySnUhJp/
+- Serious Eats farinata base: https://www.seriouseats.com/farinata-italian-chickpea-pancake-recipe
