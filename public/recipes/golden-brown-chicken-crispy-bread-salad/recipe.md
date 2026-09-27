@@ -5,7 +5,7 @@ prep_time:
 cook_time:
 servings: 4
 tags: [salad]
-ayurvedic: []
+ayurvedic: [warming, grounding, heavy, kapha-aggravating, rajasic]
 ---
 
 ## Ingredients
