@@ -5,7 +5,7 @@ prep_time: 15 minutes
 cook_time: 20 minutes
 servings: 4
 tags: [pescatarian]
-ayurvedic: [pitta-balancing-fennel, light, contains-alcohol]
+ayurvedic: [warming, light, pitta-aggravating, contains-alcohol]
 ---
 
 ## Ingredients
