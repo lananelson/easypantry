@@ -100,7 +100,7 @@ Eggs,dairy,0,each,,fridge,yes,medium,,keep in stock,
 Anchovy fillets,seafood,1,jar,,,no,low,,keep in stock,
 Coriander seeds,spices,1,jar,,pantry,no,low,,keep in stock,
 Parmesan,cheese,10.6,oz,open,fridge,yes,medium,,,"Wedge; quantity confirmed from package"
-Red onion,produce,1,each,,pantry,yes,medium,,keep in stock,
+Red onion,produce,0,each,,pantry,yes,medium,,keep in stock,
 Butter,dairy,1,pack,open,fridge,yes,low,,keep in stock,
 Butter (frozen),dairy,2,packs,sealed,freezer,yes,low,,,Sticks
 
@@ -134,8 +134,8 @@ Harissa,fermented pastes,1,jar,sealed,pantry,no,low,,,"Tunisian harissa"
 Fig spread,preserved foods,0.9,jar,open,fridge,yes,medium,,,"Almost full"
 Pistachios,nuts,30,oz,,pantry,no,low,,,"Roasted, salted"
 Zucchini,produce,0,each,,fridge,yes,medium,,,
-Cilantro,produce,,bunch,,fridge,yes,medium,,,
-Dill,produce,,bunch,,fridge,yes,medium,,,
+Cilantro,produce,0,bunch,,fridge,yes,medium,,,
+Dill,produce,0,bunch,,fridge,yes,medium,,,
 Potatoes,produce,0,each,,pantry,yes,low,,,
 Dubliner cheese,cheese,0,block,opened,fridge,yes,medium,Costco,,
 Tempeh,prepared foods,2,blocks,,fridge,yes,medium,,,
