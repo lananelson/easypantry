@@ -5,7 +5,7 @@ prep_time: 10 minutes
 cook_time: 15 minutes
 servings: 4-6
 tags: [pescatarian, salad]
-ayurvedic: [incompatible-fish-dairy, heavy, vata-balancing]
+ayurvedic: [cooling, heavy, grounding, kapha-aggravating]
 ---
 
 ## Ingredients
