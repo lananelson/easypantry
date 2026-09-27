@@ -5,7 +5,7 @@ prep_time: 10 mins
 cook_time:
 servings: 8
 tags: [vegan, vegetarian, condiment]
-ayurvedic: ["rich and oily", "garlic and mustard are heating and pungent"]
+ayurvedic: [heavy, oily, warming, pitta-aggravating]
 ---
 
 ## Ingredients
