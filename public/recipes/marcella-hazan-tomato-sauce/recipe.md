@@ -5,7 +5,7 @@ prep_time: 10 minutes
 cook_time: 45 minutes
 servings: 6 (sauces 1 to 1 1/2 pounds pasta)
 tags: [vegetarian]
-ayurvedic: [pitta-aggravating, sour, grounding]
+ayurvedic: [warming, grounding, pitta-aggravating]
 ---
 
 ## Ingredients
