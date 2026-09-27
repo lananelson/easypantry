@@ -5,7 +5,7 @@ prep_time: 20 minutes
 cook_time: 10 minutes
 servings: 8-10
 tags: [pescatarian, salad]
-ayurvedic: []
+ayurvedic: [cooling, heavy, kapha-aggravating, hard-to-digest]
 ---
 
 ## Ingredients
