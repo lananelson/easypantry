@@ -5,7 +5,7 @@ prep_time: 40 minutes
 cook_time: 10 minutes
 servings: 6
 tags: [vegetarian]
-ayurvedic: [pitta-balancing, cooling-herbs, heavy-with-cheese, incompatible-dairy-eggs]
+ayurvedic: [cooling, heavy, grounding, kapha-aggravating]
 ---
 
 ## Ingredients
