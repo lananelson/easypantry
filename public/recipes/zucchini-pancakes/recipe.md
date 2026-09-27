@@ -5,7 +5,7 @@ prep_time: 25 minutes
 cook_time: 45 minutes
 servings: 3 large pancakes
 tags: [vegan, vegetarian]
-ayurvedic: []
+ayurvedic: [warming, grounding, heavy]
 ---
 
 ## Ingredients
