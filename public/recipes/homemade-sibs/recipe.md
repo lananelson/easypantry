@@ -5,7 +5,7 @@ prep_time: 10 minutes
 cook_time:
 servings: at least 1 quart
 tags: [vegetarian]
-ayurvedic: []
+ayurvedic: [dry, warming, vata-aggravating, rajasic]
 ---
 
 ## Ingredients
