@@ -5,7 +5,7 @@ prep_time:
 cook_time:
 servings: 4-6
 tags: [vegetarian]
-ayurvedic: []
+ayurvedic: [gas-producing, vata-aggravating, warming, pitta-aggravating, incompatible-fish-cheese, heavy]
 ---
 
 ## Ingredients
