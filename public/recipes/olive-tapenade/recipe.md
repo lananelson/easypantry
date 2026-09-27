@@ -5,7 +5,7 @@ prep_time: 10 minutes
 cook_time: 0 minutes
 servings: 2 cups
 tags: [pescatarian, condiment]
-ayurvedic: []
+ayurvedic: [warming, salty, pitta-aggravating, rajasic]
 ---
 
 ## Ingredients
