@@ -2,7 +2,7 @@ name,category,quantity,unit,container_state,location,perishable,urgency,vendor,s
 Carrots,produce,0,medium,,fridge,yes,medium,,,
 Lemons,produce,1,each,,fridge,yes,medium,,keep in stock,
 Garlic,produce,0.5,bulb,,pantry,yes,medium,,keep in stock,
-Tahini,fermented pastes,1,jar,,fridge,no,low,,keep in stock,"Sesame paste"
+Tahini,fermented pastes,1,jar,open,fridge,no,low,,keep in stock,"Sesame paste"
 Miso paste,fermented pastes,1,container,sealed,fridge,no,low,,,
 Beef tallow,oils & fats,1,jar,open,fridge,no,low,,,"Cooking fat"
 Dark soy sauce,asian sauces,1,bottle,open,fridge,no,low,,,"Dark style"
@@ -85,7 +85,7 @@ Cornstarch,baking,1,container,open,pantry,no,low,,,"Thickener"
 Coleman's mustard,fermented pastes,1,jar,open,fridge,yes,low,,,"English mustard"
 Avocado oil,oils & fats,67,oz,sealed,pantry,no,low,,,"Costco-size bottle"
 Soy sauce (less-sodium),asian sauces,2,quarts,sealed,garage,no,low,,,"Single 2-quart container"
-Extra virgin olive oil,oils & fats,1,bottle,,,no,low,,keep in stock,
+Extra virgin olive oil,oils & fats,0,bottle,,,no,low,,keep in stock,
 Premium oyster sauce,asian sauces,32,oz,sealed,garage,no,low,,,"Large bottle"
 San Marzano whole peeled tomatoes,canned goods,2,containers,sealed,garage,no,low,Costco,keep in stock,
 Coconut milk,canned goods,1,can,sealed,garage,no,low,,,"Standard coconut milk can"
@@ -97,11 +97,11 @@ All-purpose flour,baking,2,pounds,open,pantry,no,low,,,"Plain flour"
 Dried bread cubes,baking,,,,pantry,no,low,,,
 Dutch process cocoa powder,baking,1,container,open,pantry,no,low,,,"purchased 2021"
 Eggs,dairy,12,each,,fridge,yes,medium,,keep in stock,
-Anchovy fillets,seafood,1,jar,,,no,low,,keep in stock,
+Anchovy fillets,seafood,1,jar,open,,no,low,,keep in stock,
 Coriander seeds,spices,1,jar,,pantry,no,low,,keep in stock,
-Parmesan,cheese,10.6,oz,open,fridge,yes,medium,,,"Wedge; quantity confirmed from package"
+Parmesan,cheese,0,oz,open,fridge,yes,medium,,,
 Red onion,produce,0,each,,pantry,yes,medium,,keep in stock,
-Butter,dairy,1,pack,open,fridge,yes,low,,keep in stock,
+Butter,dairy,2,sticks,open,fridge,yes,low,,keep in stock,
 Butter (frozen),dairy,2,packs,sealed,freezer,yes,low,,,Sticks
 
 Buckwheat grits,dried ingredients,3,cups,,pantry,no,low,,,
@@ -139,7 +139,7 @@ Dill,produce,0,bunch,,fridge,yes,medium,,,
 Potatoes,produce,0,each,,pantry,yes,low,,,
 Dubliner cheese,cheese,0,block,opened,fridge,yes,medium,Costco,,
 Tempeh,prepared foods,2,blocks,,fridge,yes,medium,,,
-Vegan sausage,prepared foods,8,oz,,fridge,yes,medium,,,
+Vegan sausage,prepared foods,8,oz,open,fridge,yes,medium,,,
 Sauerkraut,preserved vegetables,1,container,,fridge,yes,low,,,
 Onion,produce,0,each,,pantry,yes,low,,,Large
 Granulated sugar,sweeteners,2,cups,,pantry,no,low,,,
