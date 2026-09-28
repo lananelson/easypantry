@@ -1,7 +1,7 @@
 name,category,quantity,unit,container_state,location,perishable,urgency,vendor,stock_requirement,notes
 Carrots,produce,0,medium,,fridge,yes,medium,,,
 Lemons,produce,1,each,,fridge,yes,medium,,keep in stock,
-Garlic,produce,0,bulb,,pantry,yes,medium,,keep in stock,"Old, needs replacement"
+Garlic,produce,0.5,bulb,,pantry,yes,medium,,keep in stock,
 Tahini,fermented pastes,1,jar,,fridge,no,low,,keep in stock,"Sesame paste"
 Miso paste,fermented pastes,1,container,sealed,fridge,no,low,,,
 Beef tallow,oils & fats,1,jar,open,fridge,no,low,,,"Cooking fat"
@@ -13,7 +13,7 @@ Worcestershire sauce,seasonings,1,bottle,open,fridge,no,low,,,"Seasoning sauce"
 Sesame oil,oils & fats,1,bottle,open,fridge,no,low,,,"Toasted sesame oil"
 Mayonnaise,seasonings,0.5,jar,open,fridge,yes,medium,,keep in stock,"Avocado mayo"
 Sour cream,dairy,0,container,sealed,fridge,yes,medium,,,
-Milk,dairy,0.9,container,open,fridge,yes,medium,,keep in stock,
+Milk,dairy,1,pint,sealed,fridge,yes,medium,,keep in stock,
 Mirin,asian sauces,1,bottle,open,fridge,no,low,,,
 Yellow curry paste,asian sauces,1,container,,fridge,yes,low,,,Mae Ploy
 Shaoxing wine,wine,1,bottle,open,fridge,no,low,,,
@@ -89,14 +89,14 @@ Extra virgin olive oil,oils & fats,1,bottle,,,no,low,,keep in stock,
 Premium oyster sauce,asian sauces,32,oz,sealed,garage,no,low,,,"Large bottle"
 San Marzano whole peeled tomatoes,canned goods,2,containers,sealed,garage,no,low,Costco,keep in stock,
 Coconut milk,canned goods,1,can,sealed,garage,no,low,,,"Standard coconut milk can"
-Di Bari Organic Pasta From Italy assortment,pasta,5,bags,open,garage,no,low,,,"Regional pasta assortment; 5 of 6 bags remaining; includes orecchiette"
+Di Bari Organic Pasta From Italy assortment,pasta,4,bags,open,garage,no,low,,,"Regional pasta assortment; 4 of 6 bags remaining"
 Fettuccine,pasta,500,grams,sealed,garage,no,low,,,"Dry pasta"
 Organic black pepper barilotti pasta,pasta,1,bag,sealed,pantry,no,low,Trader Joe's,,
 Beef tallow (sealed),oils & fats,400,grams,sealed,garage,no,low,,,"Sealed jar; garage storage"
 All-purpose flour,baking,2,pounds,open,pantry,no,low,,,"Plain flour"
 Dried bread cubes,baking,,,,pantry,no,low,,,
 Dutch process cocoa powder,baking,1,container,open,pantry,no,low,,,"purchased 2021"
-Eggs,dairy,0,each,,fridge,yes,medium,,keep in stock,
+Eggs,dairy,12,each,,fridge,yes,medium,,keep in stock,
 Anchovy fillets,seafood,1,jar,,,no,low,,keep in stock,
 Coriander seeds,spices,1,jar,,pantry,no,low,,keep in stock,
 Parmesan,cheese,10.6,oz,open,fridge,yes,medium,,,"Wedge; quantity confirmed from package"
@@ -139,6 +139,7 @@ Dill,produce,0,bunch,,fridge,yes,medium,,,
 Potatoes,produce,0,each,,pantry,yes,low,,,
 Dubliner cheese,cheese,0,block,opened,fridge,yes,medium,Costco,,
 Tempeh,prepared foods,2,blocks,,fridge,yes,medium,,,
+Vegan sausage,prepared foods,8,oz,,fridge,yes,medium,,,
 Sauerkraut,preserved vegetables,1,container,,fridge,yes,low,,,
 Onion,produce,0,each,,pantry,yes,low,,,Large
 Granulated sugar,sweeteners,2,cups,,pantry,no,low,,,
