@@ -85,7 +85,7 @@ Cornstarch,baking,1,container,open,pantry,no,low,,,"Thickener"
 Coleman's mustard,fermented pastes,1,jar,open,fridge,yes,low,,,"English mustard"
 Avocado oil,oils & fats,67,oz,sealed,pantry,no,low,,,"Costco-size bottle"
 Soy sauce (less-sodium),asian sauces,2,quarts,sealed,garage,no,low,,,"Single 2-quart container"
-Extra virgin olive oil,oils & fats,0,bottle,,,no,low,,keep in stock,
+Extra virgin olive oil,oils & fats,1,bottle,sealed,pantry,no,low,Graza,keep in stock,"Sizzle"
 Premium oyster sauce,asian sauces,32,oz,sealed,garage,no,low,,,"Large bottle"
 San Marzano whole peeled tomatoes,canned goods,2,containers,sealed,garage,no,low,Costco,keep in stock,
 Coconut milk,canned goods,1,can,sealed,garage,no,low,,,"Standard coconut milk can"
@@ -148,3 +148,8 @@ Scuccuzzù pasta,pasta,500,grams,sealed,pantry,no,low,Italian Harvest,,"Organic 
 
 Roasted white sesame seeds,nuts & seeds,8,oz,open,pantry,no,low,,,"Best by May 22 2023; tasted fine Sep 27 2026"
 Organic coconut chips,dried ingredients,1,container,open,pantry,no,low,Berkeley Bowl West,,,"Packed May 17 2025; mostly full"
+Rye bread,bakery,1,loaf,sealed,pantry,yes,medium,Beckmann's,,,
+Coconut water,beverages,1,container,sealed,pantry,no,low,Harmless Harvest,,,
+Bartlett pears,produce,0.9,lb,,pantry,yes,medium,,,
+Prepared horseradish,condiments,1,jar,sealed,fridge,yes,medium,Bubbies,,,
+Smoked provolone slices,cheese,1,package,sealed,fridge,yes,medium,Violife,,,
