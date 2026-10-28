@@ -15,7 +15,7 @@ Never fabricate instructions. If the available source contains only part of the 
 
 1. Read `public/approved_tags.csv`.
 2. Choose a unique, readable, lowercase, dash-separated slug. Remove apostrophes and special characters, and keep the slug reasonably short.
-3. Create `public/recipes/<slug>/recipe.md`. Create `public/recipes/<slug>/media/` only when the recipe has media to store.
+3. Create `public/recipes/<slug>/recipe.md`. Create `public/recipes/<slug>/media/` only when the recipe has media to store. Process photos may be placed directly inside the recipe flow with standard Markdown image syntax on their own line, for example `![Dough after folding](media/photo-02.jpg)`. Inline photos are rendered at that exact point in the recipe and are excluded from the separate lead/gallery photo set.
 4. Use the required frontmatter and heading structure below.
 5. Record the source in `## References`:
    - For a URL, include the source URL.

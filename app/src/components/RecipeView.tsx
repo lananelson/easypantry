@@ -70,7 +70,9 @@ export default function RecipeView({ path }: RecipeViewProps) {
   const title = deriveRecipeTitle(path, content);
 
   const photoUrl = (photo: RecipePhoto) => recipePhotoUrl(slug ?? "", photo.file);
-  const lead = photos[0];
+  const inlinePhotoFiles = extractInlineRecipePhotoFiles(content ?? "");
+  const displayPhotos = photos.filter((photo) => !inlinePhotoFiles.has(photo.file));
+  const lead = displayPhotos[0];
   const leadIsHero =
     !!lead &&
     lead.width >= HERO_MIN_WIDTH &&
@@ -96,7 +98,9 @@ export default function RecipeView({ path }: RecipeViewProps) {
             className="recipe-hero"
             src={photoUrl(lead)}
             alt=""
-            onClick={() => setLightbox(0)}
+            onClick={() =>
+              setLightbox(photos.findIndex((p) => p.file === lead.file))
+            }
           />
         )}
         <div className="card-body recipe-body">
@@ -110,7 +114,9 @@ export default function RecipeView({ path }: RecipeViewProps) {
                   ? `${Math.min(lead.width, SIDE_PHOTO_MAX_WIDTH)}px`
                   : undefined,
               }}
-              onClick={() => setLightbox(0)}
+              onClick={() =>
+              setLightbox(photos.findIndex((p) => p.file === lead.file))
+            }
             />
           )}
           <h1 className="recipe-title">{title}</h1>
@@ -127,20 +133,24 @@ export default function RecipeView({ path }: RecipeViewProps) {
             </div>
           )}
           {!loading && !error && content && (
-            <div className="markdown-body">{renderMarkdownRecipe(content)}</div>
+            <div className="markdown-body">
+              {renderMarkdownRecipe(content, slug ?? "", photos, setLightbox)}
+            </div>
           )}
 
-          {photos.length > 1 && (
+          {displayPhotos.length > 1 && (
             <>
               <h3 className="mt-4 mb-2">Photos</h3>
               <div className="recipe-gallery">
-                {photos.map((photo, index) => (
+                {displayPhotos.map((photo) => (
                   <img
                     key={photo.file}
                     src={photoUrl(photo)}
                     alt=""
                     loading="lazy"
-                    onClick={() => setLightbox(index)}
+                    onClick={() =>
+                      setLightbox(photos.findIndex((p) => p.file === photo.file))
+                    }
                   />
                 ))}
               </div>
@@ -193,7 +203,12 @@ function deriveRecipeTitle(path: string, content: string | null): string {
   return slug.replace(/[-_]+/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 }
 
-function renderMarkdownRecipe(text: string) {
+function renderMarkdownRecipe(
+  text: string,
+  slug: string,
+  photos: RecipePhoto[],
+  setLightbox: (index: number | null) => void
+) {
   const lines = text.split("\n");
   let i = 0;
 
@@ -291,6 +306,37 @@ function renderMarkdownRecipe(text: string) {
       continue;
     }
 
+    const imageMatch = trimmed.match(/^!\[([^\]]*)\]\((?:\.\/)?media\/([^)]+)\)$/);
+    if (imageMatch) {
+      flushParagraph();
+      flushList();
+
+      const alt = imageMatch[1];
+      const file = imageMatch[2];
+      const photoIndex = photos.findIndex((photo) => photo.file === file);
+
+      out.push(
+        <img
+          key={`img-${key++}`}
+          src={recipePhotoUrl(slug, file)}
+          alt={alt}
+          loading="lazy"
+          style={{
+            display: "block",
+            maxWidth: "100%",
+            height: "auto",
+            margin: "1rem auto",
+            borderRadius: "0.5rem",
+            cursor: photoIndex >= 0 ? "zoom-in" : undefined,
+          }}
+          onClick={() => {
+            if (photoIndex >= 0) setLightbox(photoIndex);
+          }}
+        />
+      );
+      continue;
+    }
+
     // Photos are shown as a gallery; the reference line is just bookkeeping.
     if (/^[-*]\s+Photos:/.test(trimmed)) continue;
 
@@ -328,6 +374,18 @@ function renderMarkdownRecipe(text: string) {
   }
 
   return <div>{elements}</div>;
+}
+
+function extractInlineRecipePhotoFiles(text: string): Set<string> {
+  const files = new Set<string>();
+  const imageRegex = /^!\[[^\]]*\]\((?:\.\/)?media\/([^)]+)\)$/gm;
+  let match: RegExpExecArray | null;
+
+  while ((match = imageRegex.exec(text)) !== null) {
+    files.add(match[1]);
+  }
+
+  return files;
 }
 
 function renderInline(text: string) {
