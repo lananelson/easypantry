@@ -24,6 +24,12 @@ ayurvedic: []
 
 ## Instructions
 
+1. Blitz the roasted seasoned seaweed and sesame seeds in a food processor or blender until finely ground.
+2. Transfer to a large bowl and mix in 4 tablespoons soy sauce, sesame oil, garlic, and egg yolks.
+3. Cook the spaghetti according to package directions, using the 1/2 cup soy sauce in the pasta water instead of salt.
+4. Cook the scallops or shrimp with the chili oil, if using, until cooked through and lightly golden.
+5. Transfer the cooked pasta directly to the seaweed mixture. Toss immediately, adding 1 to 2 cups reserved pasta water as needed to loosen the sauce.
+6. Top with the seafood and add salt to taste, if desired.
 
 ## References
 
