@@ -5,6 +5,7 @@ cook_time: 55 minutes
 servings: 8
 tags: [vegetarian, breakfast]
 ayurvedic: [heavy, grounding, kapha-aggravating]
+photo_url: https://i0.wp.com/www.pardonyourfrench.com/wp-content/uploads/2021/03/asparagus-goat-cheese-quiche-1.jpg?fit=1170%2C1753&ssl=1
 ---
 
 ## Ingredients
