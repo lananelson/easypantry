@@ -1,0 +1,82 @@
+name: Cache Borek images
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/cache-borek-images.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  cache:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download Borek photos
+        shell: bash
+        run: |
+          set -euo pipefail
+          dir="public/recipes/borek-armenian-spinach-cheese-turnovers/media"
+          mkdir -p "$dir"
+          ua="Mozilla/5.0"
+
+          curl -L --fail --retry 3 -A "$ua"             "https://www.seriouseats.com/thmb/j_yack8KHQugoCesiaesEWYWtoI%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29%3Aformat%28webp%29/20210511-Boreg-Andrew-Janjigian-seriouseats-25-a496890d995a4517a8fdd55b014d7b98.jpg"             -o "$dir/photo-01.jpg"
+
+          curl -L --fail --retry 3 -A "$ua"             "https://www.seriouseats.com/thmb/fbWgwfnWm-MqQAMWL-p3mKS_k28%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29%3Aformat%28webp%29/20210511-Boreg-Andrew-Janjigian-seriouseats-579d623f689c418d98aede7e044dd2b0.jpg"             -o "$dir/photo-02.jpg"
+
+          curl -L --fail --retry 3 -A "$ua"             "https://www.seriouseats.com/thmb/ZiFP1lGMeIrL1O6pQ5_Fs6-KyPE%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29%3Aformat%28webp%29/20210511-Boreg-Andrew-Janjigian-seriouseats-step3-7c30681e2b3f4f1a8916b0d400ddc22a.jpg"             -o "$dir/photo-03.jpg"
+
+          curl -L --fail --retry 3 -A "$ua"             "https://www.seriouseats.com/thmb/nqj3N-iysd4762N7OutxjN9hkZA%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29%3Aformat%28webp%29/20210511-Boreg-Andrew-Janjigian-seriouseats-step5-ee0caf27a6064cdab430fcd8b1785b70.jpg"             -o "$dir/photo-04.jpg"
+
+          curl -L --fail --retry 3 -A "$ua"             "https://www.seriouseats.com/thmb/Rkjd7_pgn4fc7l-uFqtlmvaPbVw%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29%3Aformat%28webp%29/20210511-Boreg-Andrew-Janjigian-seriouseats-step6-17a9aac030304a379c5f6e4bd6e1f619.jpg"             -o "$dir/photo-05.jpg"
+
+          curl -L --fail --retry 3 -A "$ua"             "https://www.seriouseats.com/thmb/mYDmkubWfAoXS671oBlrOqayY3g%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29%3Aformat%28webp%29/20210511-Boreg-Andrew-Janjigian-seriouseats-23-6320cf27a90a46cc9d90c76b25724be2.jpg"             -o "$dir/photo-06.jpg"
+
+          file "$dir"/*
+
+      - name: Point recipe at local photos
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path("public/recipes/borek-armenian-spinach-cheese-turnovers/recipe.md")
+          s = p.read_text()
+          lines = s.splitlines()
+          lines = [line for line in lines if not line.startswith("photo_url:")]
+          s = "\n".join(lines) + "\n"
+
+          replacements = {
+            "![Herb and cheese filling ingredients](https://www.seriouseats.com/thmb/fbWgwfnWm-MqQAMWL-p3mKS_k28%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29%3Aformat%28webp%29/20210511-Boreg-Andrew-Janjigian-seriouseats-579d623f689c418d98aede7e044dd2b0.jpg)":
+              "![Herb and cheese filling ingredients](media/photo-02.jpg)",
+            "![Phyllo sheets cut and kept covered](https://www.seriouseats.com/thmb/ZiFP1lGMeIrL1O6pQ5_Fs6-KyPE%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29%3Aformat%28webp%29/20210511-Boreg-Andrew-Janjigian-seriouseats-step3-7c30681e2b3f4f1a8916b0d400ddc22a.jpg)":
+              "![Phyllo sheets cut and kept covered](media/photo-03.jpg)",
+            "![Buttering and folding a phyllo sheet](https://www.seriouseats.com/thmb/nqj3N-iysd4762N7OutxjN9hkZA%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29%3Aformat%28webp%29/20210511-Boreg-Andrew-Janjigian-seriouseats-step5-ee0caf27a6064cdab430fcd8b1785b70.jpg)":
+              "![Buttering and folding a phyllo sheet](media/photo-04.jpg)",
+            "![Folding the filled phyllo into a triangle](https://www.seriouseats.com/thmb/Rkjd7_pgn4fc7l-uFqtlmvaPbVw%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29%3Aformat%28webp%29/20210511-Boreg-Andrew-Janjigian-seriouseats-step6-17a9aac030304a379c5f6e4bd6e1f619.jpg)":
+              "![Folding the filled phyllo into a triangle](media/photo-05.jpg)",
+            "![Assembled boreks before baking](https://www.seriouseats.com/thmb/mYDmkubWfAoXS671oBlrOqayY3g%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29%3Aformat%28webp%29/20210511-Boreg-Andrew-Janjigian-seriouseats-23-6320cf27a90a46cc9d90c76b25724be2.jpg)":
+              "![Assembled boreks before baking](media/photo-06.jpg)",
+          }
+          for old, new in replacements.items():
+              if old not in s:
+                  raise SystemExit(f"Expected image reference not found: {old[:80]}")
+              s = s.replace(old, new)
+          p.write_text(s)
+          PY
+
+      - name: Commit cached photos
+        shell: bash
+        run: |
+          if git diff --quiet && [ -z "$(git status --porcelain --untracked-files=all)" ]; then
+            echo "Nothing to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/recipes/borek-armenian-spinach-cheese-turnovers
+          git commit -m "Cache Borek photos locally"
+          git push
