@@ -5,84 +5,19 @@
   "status": "active",
   "completed_date": null,
   "items": [
-    {
-      "name": "Shrimp or scallops (12–16 oz)",
-      "for": [
-        "Seaweed Sesame Pasta"
-      ]
-    },
-    {
-      "name": "Roasted seasoned seaweed (0.6 oz; Costco packets)",
-      "for": [
-        "Seaweed Sesame Pasta"
-      ]
-    },
-    {
-      "name": "Fresh garlic (1 tbsp minced)",
-      "for": [
-        "Seaweed Sesame Pasta"
-      ]
-    },
-    {
-      "name": "Frozen chopped spinach (10 oz)",
-      "for": [
-        "Borek (Armenian Spinach and Cheese Turnovers)"
-      ]
-    },
-    {
-      "name": "Greek feta (8 oz)",
-      "for": [
-        "Borek (Armenian Spinach and Cheese Turnovers)"
-      ]
-    },
-    {
-      "name": "Fresh goat cheese (2.5 oz)",
-      "for": [
-        "Borek (Armenian Spinach and Cheese Turnovers)"
-      ]
-    },
-    {
-      "name": "Mixed tender fresh herbs (2 oz)",
-      "for": [
-        "Borek (Armenian Spinach and Cheese Turnovers)"
-      ]
-    },
-    {
-      "name": "Scallions (8)",
-      "for": [
-        "Borek (Armenian Spinach and Cheese Turnovers)",
-        "Kabocha Squash Miso Soup (Traditional & Vegan Option)"
-      ]
-    },
-    {
-      "name": "Phyllo dough (9 large sheets)",
-      "for": [
-        "Borek (Armenian Spinach and Cheese Turnovers)"
-      ]
-    },
-    {
-      "name": "Kabocha squash (about 200 g)",
-      "for": [
-        "Kabocha Squash Miso Soup (Traditional & Vegan Option)"
-      ]
-    },
-    {
-      "name": "Shiitake mushrooms (3)",
-      "for": [
-        "Kabocha Squash Miso Soup (Traditional & Vegan Option)"
-      ]
-    },
-    {
-      "name": "Silken tofu (½ lb)",
-      "for": [
-        "Kabocha Squash Miso Soup (Traditional & Vegan Option)"
-      ]
-    },
-    {
-      "name": "Onion (1)",
-      "for": [
-        "Kabocha Squash Miso Soup (Traditional & Vegan Option)"
-      ]
-    }
+    { "name": "Shrimp or scallops (12–16 oz)", "for": ["Seaweed Sesame Pasta"] },
+    { "name": "Roasted seasoned seaweed", "for": ["Seaweed Sesame Pasta"] },
+    { "name": "Garlic", "for": ["Seaweed Sesame Pasta"] },
+    { "name": "Greek feta (1 lb)", "for": ["Borek (Armenian Spinach and Cheese Turnovers)"] },
+    { "name": "Monterey Jack or Muenster (4 oz)", "for": ["Borek (Armenian Spinach and Cheese Turnovers)"] },
+    { "name": "Fresh goat cheese (5 oz)", "for": ["Borek (Armenian Spinach and Cheese Turnovers)"] },
+    { "name": "Frozen chopped spinach (10 oz)", "for": ["Borek (Armenian Spinach and Cheese Turnovers)"] },
+    { "name": "Fresh herbs (dill, parsley, mint, cilantro)", "for": ["Borek (Armenian Spinach and Cheese Turnovers)"] },
+    { "name": "Phyllo dough (1 box)", "for": ["Borek (Armenian Spinach and Cheese Turnovers)"] },
+    { "name": "Kabocha squash (small)", "for": ["Kabocha Squash Miso Soup (Traditional & Vegan Option)"] },
+    { "name": "Shiitake mushrooms", "for": ["Kabocha Squash Miso Soup (Traditional & Vegan Option)"] },
+    { "name": "Silken tofu (½ lb)", "for": ["Kabocha Squash Miso Soup (Traditional & Vegan Option)"] },
+    { "name": "Onion", "for": ["Kabocha Squash Miso Soup (Traditional & Vegan Option)"] },
+    { "name": "Scallions (2 bunches)", "for": ["Borek (Armenian Spinach and Cheese Turnovers)", "Kabocha Squash Miso Soup (Traditional & Vegan Option)"] }
   ]
 }
