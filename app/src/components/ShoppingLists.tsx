@@ -3,6 +3,13 @@ import type { ShoppingList } from "../types.js";
 import { loadShoppingLists, loadShoppingList } from "../utils/dataLoader.js";
 import { loadAppState, updateAppState } from "../utils/appState.js";
 
+// Order weeks newest-first using the ISO year and week number, e.g. "2026-W44".
+function weekSortKey(week: string): number {
+  const m = week.match(/^(\d+)-W(\d+)$/);
+  if (!m) return 0;
+  return parseInt(m[1], 10) * 100 + parseInt(m[2], 10);
+}
+
 export default function ShoppingLists() {
   const [lists, setLists] = useState<ShoppingList[]>([]);
   const [loading, setLoading] = useState(true);
@@ -22,6 +29,13 @@ export default function ShoppingLists() {
         const loadedLists = await Promise.all(
           listIds.map((id) => loadShoppingList(id))
         );
+        // Active lists first, then most recent week down to oldest.
+        loadedLists.sort((a, b) => {
+          const aActive = a.status !== "completed" ? 1 : 0;
+          const bActive = b.status !== "completed" ? 1 : 0;
+          if (aActive !== bActive) return bActive - aActive;
+          return weekSortKey(b.week) - weekSortKey(a.week);
+        });
         setLists(loadedLists);
 
         // Initialize state from localStorage
