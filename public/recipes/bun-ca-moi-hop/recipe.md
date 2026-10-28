@@ -9,28 +9,28 @@ ayurvedic: []
 
 ## Ingredients
 
-- 1 shallot (broth)
-- 6 garlic cloves (broth)
-- 4 Roma tomatoes (broth)
-- 4 quarts water (broth)
-- 1/3 cup dried shrimp (broth)
-- 1 yellow onion (broth)
-- 2-inch nub ginger (broth)
-- 2 lemongrass stalks (broth)
-- 15 oz pineapple chunks (broth)
-- 2 tbsp fish sauce (broth)
-- 1-inch nub rock sugar (broth)
-- 1/2 tbsp MSG (broth)
-- Salt and pepper to taste (broth)
-- 1 tbsp oil (broth)
+- 1 shallot
+- 6 garlic cloves
+- 4 Roma tomatoes
+- 4 quarts water
+- 1/3 cup dried shrimp
+- 1 yellow onion
+- 2-inch nub ginger
+- 2 lemongrass stalks
+- 15 oz pineapple chunks
+- 2 tbsp fish sauce
+- 1-inch nub rock sugar
+- 1/2 tbsp MSG
+- Salt and pepper to taste
+- 1 tbsp oil
 - 30 oz canned sardines in tomato sauce
-- 1 tbsp oil (sardines)
-- 1 tbsp minced shallots (sardines)
-- 1 tbsp minced garlic (sardines)
+- 1 tbsp oil
+- 1 tbsp minced shallots
+- 1 tbsp minced garlic
 - 1 lb rice vermicelli
-- 3 quarts water (noodles)
-- 1/2 tbsp salt (noodles)
-- 1 tbsp oil (noodles)
+- 3 quarts water
+- 1/2 tbsp salt
+- 1 tbsp oil
 - 16 oz fish balls
 - Cabbage
 - Lettuce
