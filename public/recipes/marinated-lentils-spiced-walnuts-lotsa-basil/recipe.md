@@ -1,6 +1,5 @@
 ---
 title: Marinated Lentils with Spiced Walnuts & Lotsa Basil
-category: main
 prep_time:
 cook_time:
 servings: 4

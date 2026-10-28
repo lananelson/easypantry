@@ -1,6 +1,5 @@
 ---
 title: French Onion Soup
-category:
 prep_time: 15 minutes
 cook_time: 2 hours 30 minutes
 servings: 4

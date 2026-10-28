@@ -1,6 +1,5 @@
 ---
 title: Golden Brown & Delicious Chicken Breasts with Crispy Bread Salad
-category: main
 prep_time:
 cook_time:
 servings: 4

@@ -1,6 +1,5 @@
 ---
 title: Fresh Spring Salad with Poached Cod
-category:
 prep_time: 15 minutes
 cook_time: 10 minutes
 servings: 2

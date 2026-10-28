@@ -1,6 +1,5 @@
 ---
 title: Tofu Spinach Scramble with Avocado
-category: breakfast
 prep_time: 10 minutes
 cook_time: 15 minutes
 servings: 2

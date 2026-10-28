@@ -1,6 +1,5 @@
 ---
 title: Birria Tacos
-category:
 prep_time:
 cook_time:
 servings:

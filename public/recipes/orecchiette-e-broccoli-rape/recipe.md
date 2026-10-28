@@ -1,6 +1,5 @@
 ---
 title: Orecchiette e Broccoli Rape
-category: pasta
 prep_time:
 cook_time:
 servings: 4 as a first course, 2-3 as a main course

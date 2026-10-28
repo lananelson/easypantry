@@ -1,6 +1,5 @@
 ---
 title: Chicken Scarpariello
-category: main
 prep_time:
 cook_time:
 servings: 4-6

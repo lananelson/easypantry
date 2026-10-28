@@ -1,6 +1,5 @@
 ---
 title: Brussels Sprout Fried Rice with Crispy Cauliflower
-category:
 prep_time: 5 minutes
 cook_time: 15 minutes
 servings: 2

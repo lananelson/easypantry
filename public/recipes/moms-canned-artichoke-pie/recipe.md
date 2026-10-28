@@ -1,6 +1,5 @@
 ---
 title: Mom's Canned Artichoke Pie
-category: main
 prep_time:
 cook_time: 1 hour
 servings: 1 9-inch pie

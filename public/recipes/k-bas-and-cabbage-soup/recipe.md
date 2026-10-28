@@ -1,6 +1,5 @@
 ---
 title: K-bas & Cabbage Soup
-category: soup
 prep_time:
 cook_time:
 servings: 4-6

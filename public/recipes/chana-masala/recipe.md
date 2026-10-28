@@ -1,6 +1,5 @@
 ---
 title: Chana Masala
-category: main
 prep_time: 10 minutes
 cook_time: 45 minutes
 servings: 6

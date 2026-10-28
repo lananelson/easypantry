@@ -1,6 +1,5 @@
 ---
 title: Onion Masala
-category: base sauce
 prep_time: 10 minutes
 cook_time: 50 minutes
 servings: about 3 cups

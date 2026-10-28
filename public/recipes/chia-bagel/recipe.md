@@ -1,6 +1,5 @@
 ---
 title: Chia Bagel
-category: breakfast
 prep_time: 5 minutes
 cook_time: 0 minutes
 servings: 1

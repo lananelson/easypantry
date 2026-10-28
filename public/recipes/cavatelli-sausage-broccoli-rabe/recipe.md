@@ -1,6 +1,5 @@
 ---
 title: Cavatelli Sausage & Broccoli Rabe
-category: main
 prep_time:
 cook_time:
 servings: 4

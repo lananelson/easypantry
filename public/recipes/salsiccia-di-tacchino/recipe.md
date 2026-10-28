@@ -1,6 +1,5 @@
 ---
 title: Salsiccia di Tacchino
-category: main
 prep_time:
 cook_time: 45 minutes
 servings: 10-12

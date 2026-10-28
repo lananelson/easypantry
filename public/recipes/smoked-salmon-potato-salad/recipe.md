@@ -1,6 +1,5 @@
 ---
 title: Five-Ingredient Smoked Salmon and Potato Salad
-category:
 prep_time: 10 minutes
 cook_time: 15 minutes
 servings: 4-6

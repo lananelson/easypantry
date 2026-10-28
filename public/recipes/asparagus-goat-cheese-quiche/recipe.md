@@ -1,6 +1,5 @@
 ---
 title: Asparagus Goat Cheese Quiche
-category: quiche
 prep_time: 20 minutes
 cook_time: 55 minutes
 servings: 8

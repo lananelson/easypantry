@@ -1,6 +1,5 @@
 ---
 title: Pasta with Fried Lemons and Chile Flakes
-category:
 prep_time: 10 minutes
 cook_time: 20 minutes
 servings: 4

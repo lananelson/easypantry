@@ -1,6 +1,5 @@
 ---
 title: Creamy Avocado & Almond Milk Smoothie with Raw Cacao and Raspberries
-category:
 prep_time: 5 minutes
 cook_time: 5 minutes
 servings: 1-2

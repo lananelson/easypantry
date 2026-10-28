@@ -1,6 +1,5 @@
 ---
 title: Snapper with Fennel and Tomatoes
-category:
 prep_time: 15 minutes
 cook_time: 20 minutes
 servings: 4

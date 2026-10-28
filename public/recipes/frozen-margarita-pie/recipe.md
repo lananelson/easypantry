@@ -1,6 +1,5 @@
 ---
 title: Frozen Margarita Pie
-category:
 prep_time: 20 minutes
 cook_time: 7 minutes (plus at least 2 hours freezing)
 servings: 1 (9-inch) pie

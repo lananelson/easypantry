@@ -1,6 +1,5 @@
 ---
 title: Banana Sour Cream Bread
-category:
 prep_time: 10 minutes
 cook_time: 1 hour
 servings: 4 small loaves

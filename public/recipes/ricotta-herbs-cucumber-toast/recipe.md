@@ -1,6 +1,5 @@
 ---
 title: Ricotta, Herbs, and Cucumber Toast
-category:
 prep_time: 5 minutes
 cook_time:
 servings: 1

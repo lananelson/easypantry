@@ -1,6 +1,5 @@
 ---
 title: Kale, White Bean Purée & Mushrooms
-category:
 prep_time:
 cook_time:
 servings:

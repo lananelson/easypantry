@@ -1,6 +1,5 @@
 ---
 title: Patatas Riojanas (Potatoes with Chorizo)
-category:
 prep_time: 10 minutes
 cook_time: 30 minutes
 servings: 2

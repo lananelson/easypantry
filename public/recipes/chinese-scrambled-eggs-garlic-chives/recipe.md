@@ -1,6 +1,5 @@
 ---
 title: Chinese Scrambled Eggs with Garlic Chives
-category:
 prep_time: 5 minutes
 cook_time: 5 minutes
 servings: 2

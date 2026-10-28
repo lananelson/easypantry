@@ -1,6 +1,5 @@
 ---
 title: Radish and Egg Salad Sandwiches
-category:
 prep_time: 15 minutes
 cook_time: 12 minutes
 servings: 4

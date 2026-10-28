@@ -1,6 +1,5 @@
 ---
 title: Marinated Kale and Chickpea Salad With Sumac Onions
-category: salad
 prep_time: 5 minutes
 cook_time: 10 minutes active + 75 minutes resting
 servings: 4

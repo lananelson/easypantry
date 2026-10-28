@@ -1,6 +1,5 @@
 ---
 title: Poblanos Stuffed with Chorizo, Shrimp and Rice
-category:
 prep_time: 20 minutes
 cook_time: 40 minutes
 servings: 6

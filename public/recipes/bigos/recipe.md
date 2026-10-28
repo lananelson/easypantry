@@ -1,6 +1,5 @@
 ---
 title: Bigos (Polish Hunter's Stew)
-category:
 prep_time: 20 minutes
 cook_time: 2 hours
 servings:

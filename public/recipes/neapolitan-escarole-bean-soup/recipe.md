@@ -1,6 +1,5 @@
 ---
 title: Neapolitan Escarole Bean Soup
-category: soup
 prep_time: 15 mins
 cook_time: 1 hr 30 mins
 servings: 6

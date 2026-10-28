@@ -1,6 +1,5 @@
 ---
 title: Coconut Green Chutney
-category: condiment
 prep_time: 25 minutes
 cook_time:
 servings: about 1 cup

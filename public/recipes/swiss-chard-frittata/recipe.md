@@ -1,6 +1,5 @@
 ---
 title: Swiss Chard Frittata
-category: breakfast
 prep_time: 15 minutes
 cook_time: 30 minutes
 servings: 4

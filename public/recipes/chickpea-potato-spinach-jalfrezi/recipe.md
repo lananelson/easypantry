@@ -1,6 +1,5 @@
 ---
 title: Chickpea, Potato, and Spinach Jalfrezi with Cilantro Chutney
-category:
 prep_time: 15 minutes
 cook_time: 30 minutes
 servings: 4

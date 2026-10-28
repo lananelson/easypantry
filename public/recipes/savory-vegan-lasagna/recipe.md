@@ -1,6 +1,5 @@
 ---
 title: Savory Vegan Lasagna
-category:
 prep_time: 30 minutes
 cook_time: 1 hour
 servings:

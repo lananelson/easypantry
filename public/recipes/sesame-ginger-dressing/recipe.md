@@ -1,6 +1,5 @@
 ---
 title: Sesame Ginger Dressing
-category:
 prep_time: 5 minutes
 cook_time:
 servings:

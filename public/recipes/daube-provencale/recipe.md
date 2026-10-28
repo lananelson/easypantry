@@ -1,6 +1,5 @@
 ---
 title: Daube Provençale (French Beef Stew with Red Wine)
-category: main course
 prep_time: 20 minutes (plus 12-24 hours marinating)
 cook_time: 3 hours
 servings: 8

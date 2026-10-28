@@ -1,6 +1,5 @@
 ---
 title: Alice Waters' Swiss Chard Gratin
-category:
 prep_time: 20 minutes
 cook_time: 25 minutes
 servings: 4

@@ -1,6 +1,5 @@
 ---
 title: Genius Chickpea Tofu
-category:
 prep_time: 12 hours soaking
 cook_time: 40 minutes (plus 8 hours setting)
 servings: a large batch

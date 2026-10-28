@@ -1,6 +1,5 @@
 ---
 title: Kulebyaka (Individual Salmon Pastries)
-category:
 prep_time: 1 hour
 cook_time: 30 minutes
 servings: 4

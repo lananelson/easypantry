@@ -1,6 +1,5 @@
 ---
 title: Kolokithokeftedes (Greek Zucchini Fritters) with Tzatziki
-category:
 prep_time: 40 minutes
 cook_time: 10 minutes
 servings: 6

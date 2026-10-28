@@ -1,6 +1,5 @@
 ---
 title: Pasta with Broccoli, Goat Cheese, and Oregano
-category:
 prep_time: 5 minutes
 cook_time: 15 minutes
 servings: 4

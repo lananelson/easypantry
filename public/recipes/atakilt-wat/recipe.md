@@ -1,6 +1,5 @@
 ---
 title: Atakilt Wat (Ethiopian Cabbage, Potato & Carrots)
-category:
 prep_time: 10 minutes
 cook_time: 40 minutes
 servings: 2-3

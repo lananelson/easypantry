@@ -1,6 +1,5 @@
 ---
 title: Crème Fraîche Galette with Heirloom Tomatoes
-category:
 prep_time: 20 minutes (plus 2 hours chilling)
 cook_time: 40 minutes
 servings: 4-6

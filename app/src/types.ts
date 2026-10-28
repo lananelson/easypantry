@@ -14,7 +14,6 @@ export const PERISHABLE_ORDER: Record<Perishable, number> = {
 
 export interface PantryItem {
   name: string;
-  category: string;
   quantity: number;
   unit: string;
   container_state: string;

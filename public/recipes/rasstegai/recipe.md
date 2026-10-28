@@ -1,6 +1,5 @@
 ---
 title: Расстегаи — Rasstegai (Russian Open-Top Fish Pies)
-category:
 prep_time: 1 hour 30 minutes (including rising)
 cook_time: 30 minutes
 servings: 12 pies

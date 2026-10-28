@@ -1,6 +1,5 @@
 ---
 title: Italian Lemon-Ricotta Cake
-category:
 prep_time: 20 minutes
 cook_time: 1 hour
 servings:

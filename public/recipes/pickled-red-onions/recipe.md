@@ -1,6 +1,5 @@
 ---
 title: Pickled Red Onions
-category: condiment
 prep_time: 5 minutes
 cook_time: 25 minutes
 servings: about 1 quart

@@ -1,6 +1,5 @@
 ---
 title: Lentil Soup with Gremolata
-category:
 prep_time: 15 minutes
 cook_time: 1 hour 15 minutes
 servings:

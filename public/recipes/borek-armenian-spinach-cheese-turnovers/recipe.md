@@ -1,10 +1,9 @@
 ---
 title: Borek (Armenian Spinach and Cheese Turnovers)
-category:
 prep_time: 45 minutes
 cook_time: 1 hour
 servings: 16
-tags: [vegetarian]
+tags: [breakfast, vegetarian, frozen meal prep]
 ayurvedic: []
 ---
 
@@ -45,6 +44,14 @@ ayurvedic: []
 
 - You can substitute a variety of tender, fresh greens, such as spinach, watercress, arugula, Swiss chard, or beet greens, for the frozen spinach. To do so, wash 10 gently packed cups chopped mixed fresh greens and tender stems (about 15 ounces; 430 g) and place in a medium microwave-safe bowl along with 1/4 cup (60 ml) water. Cover and microwave on high power until greens have wilted and decreased in volume by about half, 3 to 5 minutes. Keep covered for 1 minute, then uncover and let cool slightly. Once cool enough to handle, chop fine, and squeeze dry in a clean kitchen towel. You will need 7 to 8 ounces (200–225 g) cooked, drained greens for the filling; set aside any excess for another use.
 - Each borek calls for about 3 tablespoons (40 g) of filling. Use a spoon and a 1/4 cup measure to transfer the filling to the strip of dough.
+- Rewarm the butter as needed to keep it melted so it's easy to brush onto phyllo.
+- You can make 22 to 24 slightly smaller boreks with this recipe, too. Just cut the full-sized sheets of phyllo into thirds, lengthwise, to form twenty-seven 13- by 6-inch strips, and use 2 scant tablespoons of filling for each borek.
+
+## Make-Ahead and Storage
+
+The filling can be made up to 24 hours in advance and refrigerated. Stir well before using.
+
+Uncooked boreks freeze wonderfully. Place them in an airtight container separated by sheets of waxed paper or parchment and freeze for up to 3 weeks. Bake directly from frozen, increasing the total bake time by 5 to 10 minutes. Leftover baked boreks can be reheated on a wire rack set inside a rimmed baking sheet in a 400°F (200°C) oven for 15 minutes.
 
 ## References
 

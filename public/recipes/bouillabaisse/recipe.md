@@ -1,6 +1,5 @@
 ---
 title: Буйабес — Bouillabaisse (Simple Marseille Version)
-category:
 prep_time: 30 minutes
 cook_time: 1 hour 30 minutes
 servings: about 15

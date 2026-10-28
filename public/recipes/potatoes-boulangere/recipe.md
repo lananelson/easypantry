@@ -1,6 +1,5 @@
 ---
 title: Potatoes à la Boulangère
-category:
 prep_time: 15 minutes
 cook_time: 1 hour 20 minutes
 servings:

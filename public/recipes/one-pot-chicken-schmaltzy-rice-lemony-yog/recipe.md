@@ -1,6 +1,5 @@
 ---
 title: One-Pot Chicken & Schmaltzy Rice with Lemony Yog
-category: main
 prep_time:
 cook_time:
 servings: 4-6

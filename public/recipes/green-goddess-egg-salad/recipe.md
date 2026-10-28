@@ -1,6 +1,5 @@
 ---
 title: Green Goddess Egg Salad
-category:
 prep_time: 20 minutes
 cook_time: 12 minutes
 servings: 4

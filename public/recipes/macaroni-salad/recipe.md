@@ -1,6 +1,5 @@
 ---
 title: Macaroni Salad
-category: salad
 prep_time: 20 minutes
 cook_time: 10 minutes
 servings: 8-10

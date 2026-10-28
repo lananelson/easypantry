@@ -1,6 +1,5 @@
 ---
 title: Топлёное молоко — Baked Milk
-category:
 prep_time: 5 minutes
 cook_time: 8-12 hours (slow cooker) or about 2 hours plus keep-warm (pressure cooker)
 servings: 2 quarts

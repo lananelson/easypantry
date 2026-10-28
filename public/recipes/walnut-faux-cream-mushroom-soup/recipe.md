@@ -1,6 +1,5 @@
 ---
 title: Walnut Faux-Cream of Mushroom Soup
-category:
 prep_time: 10 minutes
 cook_time: 15 minutes
 servings:

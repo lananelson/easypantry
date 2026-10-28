@@ -1,6 +1,5 @@
 ---
 title: Best Easy Pasta Salad
-category:
 prep_time: 10 minutes
 cook_time: 20 minutes
 servings:

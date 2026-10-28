@@ -1,6 +1,5 @@
 ---
 title: Chanterelle Cream Pasta
-category:
 prep_time:
 cook_time:
 servings:

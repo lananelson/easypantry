@@ -1,6 +1,5 @@
 ---
 title: Farro, Butternut Squash & Radicchio Salad
-category: salad
 prep_time:
 cook_time:
 servings:

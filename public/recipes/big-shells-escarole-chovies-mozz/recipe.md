@@ -1,6 +1,5 @@
 ---
 title: Big Shells with Escarole, 'Chovies & Mozz
-category: main
 prep_time:
 cook_time:
 servings: 4

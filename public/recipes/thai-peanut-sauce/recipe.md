@@ -1,6 +1,5 @@
 ---
 title: Thai Peanut (Satay) Sauce
-category:
 prep_time: 8 minutes
 cook_time: 5 minutes
 servings: 3.5 cups

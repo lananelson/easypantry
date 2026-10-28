@@ -1,6 +1,5 @@
 ---
 title: Shrimp Parm
-category: main
 prep_time:
 cook_time:
 servings: 2

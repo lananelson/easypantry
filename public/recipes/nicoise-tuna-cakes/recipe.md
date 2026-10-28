@@ -1,6 +1,5 @@
 ---
 title: Niçoise Tuna Cakes
-category: main course
 prep_time: 20 minutes
 cook_time: 10 minutes
 servings: 3-6

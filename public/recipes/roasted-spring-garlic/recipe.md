@@ -1,6 +1,5 @@
 ---
 title: Roasted Spring Garlic
-category:
 prep_time: 5 minutes
 cook_time: 50 minutes
 servings:

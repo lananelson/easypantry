@@ -1,6 +1,5 @@
 ---
 title: Melanzane nel Ragù con Marsala
-category: main
 prep_time:
 cook_time:
 servings: 4 as a main course, 6 as a side dish

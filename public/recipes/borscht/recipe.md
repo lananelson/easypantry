@@ -1,6 +1,5 @@
 ---
 title: Борщ — Borscht
-category:
 prep_time:
 cook_time:
 servings:

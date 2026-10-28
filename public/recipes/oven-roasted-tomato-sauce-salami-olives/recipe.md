@@ -1,6 +1,5 @@
 ---
 title: Oven-Roasted Tomato Sauce with Salami, Olives, and Pecorino
-category:
 prep_time: 15 minutes
 cook_time: 1 hour 15 minutes
 servings: 4

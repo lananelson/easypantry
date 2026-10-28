@@ -1,6 +1,5 @@
 ---
 title: Harissa and Yogurt-Marinated Chicken
-category:
 prep_time: 10 minutes (plus 10-60 minutes marinating)
 cook_time: 20 minutes
 servings: 2

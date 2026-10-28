@@ -1,6 +1,5 @@
 ---
 title: Big Beans & Spicy Greens Gratin
-category: main
 prep_time:
 cook_time:
 servings: 4-6

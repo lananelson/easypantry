@@ -1,6 +1,5 @@
 ---
 title: Crispy-Skinned Salmon with Harissa & Citrusy Fennel Salad
-category: main
 prep_time: 15 minutes
 cook_time: 15 minutes
 servings: 4

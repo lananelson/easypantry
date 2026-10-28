@@ -1,6 +1,5 @@
 ---
 title: Vegan Tempeh Reuben
-category: sandwich
 prep_time: 1 hour 15 minutes
 cook_time: 15 minutes
 servings: 2

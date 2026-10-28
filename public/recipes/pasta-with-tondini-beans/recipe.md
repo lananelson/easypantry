@@ -1,6 +1,5 @@
 ---
 title: Pasta with Tondini Beans
-category: main
 prep_time: 3–4 hours soaking
 cook_time: about 50 minutes
 servings: 2

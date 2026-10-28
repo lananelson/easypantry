@@ -2,7 +2,6 @@
   {
     "slug": "8-hour-marinara",
     "title": "8-hour Marinara",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian",
@@ -25,7 +24,6 @@
   {
     "slug": "adventurer-bowl",
     "title": "Adventurer Bowl with Tahini-Ginger Dressing",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -53,7 +51,6 @@
   {
     "slug": "alice-waters-caesar-salad",
     "title": "Alice Waters' Caesar Salad",
-    "category": "salad",
     "tags": [
       "pescatarian",
       "salad"
@@ -78,7 +75,6 @@
   {
     "slug": "alice-waters-swiss-chard-gratin",
     "title": "Alice Waters' Swiss Chard Gratin",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -104,7 +100,6 @@
   {
     "slug": "all-day-glow-smoothie",
     "title": "All Day Glow Smoothie",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian",
@@ -129,7 +124,6 @@
   {
     "slug": "andrew-carmellini-cauliflower",
     "title": "Andrew Carmellini's Cauliflower with Brown Butter, Pear, Sage & Hazelnuts",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -154,7 +148,6 @@
   {
     "slug": "asparagus-goat-cheese-quiche",
     "title": "Asparagus Goat Cheese Quiche",
-    "category": "quiche",
     "tags": [
       "vegetarian",
       "breakfast"
@@ -183,7 +176,6 @@
   {
     "slug": "asparagus-goat-cheese-tarragon-tart",
     "title": "Asparagus, Goat Cheese and Tarragon Tart",
-    "category": "appetizer",
     "tags": [
       "vegetarian"
     ],
@@ -212,7 +204,6 @@
   {
     "slug": "atakilt-wat",
     "title": "Atakilt Wat (Ethiopian Cabbage, Potato & Carrots)",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian",
@@ -248,7 +239,6 @@
   {
     "slug": "baked-chicken-roasted-tomatillo-cream-sauce",
     "title": "Baked Chicken with Roasted Tomatillo Cream Sauce",
-    "category": "",
     "tags": [],
     "photos": [
       {
@@ -271,7 +261,6 @@
   {
     "slug": "banana-sour-cream-bread",
     "title": "Banana Sour Cream Bread",
-    "category": "",
     "tags": [
       "vegetarian",
       "dessert"
@@ -303,7 +292,6 @@
   {
     "slug": "beef-stroganoff",
     "title": "Beef Stroganoff",
-    "category": "",
     "tags": [],
     "photos": [
       {
@@ -330,7 +318,6 @@
   {
     "slug": "beef-tagine-butternut-squash",
     "title": "Beef Tagine with Butternut Squash",
-    "category": "",
     "tags": [
       "one-pot"
     ],
@@ -362,7 +349,6 @@
   {
     "slug": "best-easy-pasta-salad",
     "title": "Best Easy Pasta Salad",
-    "category": "",
     "tags": [
       "vegetarian",
       "salad"
@@ -390,7 +376,6 @@
   {
     "slug": "big-shells-escarole-chovies-mozz",
     "title": "Big Shells with Escarole, 'Chovies & Mozz",
-    "category": "main",
     "tags": [
       "pescatarian"
     ],
@@ -414,7 +399,6 @@
   {
     "slug": "bigos",
     "title": "Bigos (Polish Hunter's Stew)",
-    "category": "",
     "tags": [
       "low & slow"
     ],
@@ -438,7 +422,6 @@
   {
     "slug": "birria-tacos",
     "title": "Birria Tacos",
-    "category": "",
     "tags": [
       "low & slow"
     ],
@@ -461,7 +444,6 @@
   {
     "slug": "brussels-sprout-fried-rice-crispy-cauliflower",
     "title": "Brussels Sprout Fried Rice with Crispy Cauliflower",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian"
@@ -491,7 +473,6 @@
   {
     "slug": "burrata-caprese-peaches",
     "title": "Burrata Caprese with Peaches",
-    "category": "",
     "tags": [
       "vegetarian",
       "salad"
@@ -519,7 +500,6 @@
   {
     "slug": "caramelized-onion-dip-thick-cut-potato-chips",
     "title": "Caramelized Onion Dip with Thick-Cut Potato Chips",
-    "category": "",
     "tags": [
       "vegetarian",
       "condiment"
@@ -549,7 +529,6 @@
   {
     "slug": "carrot-cake",
     "title": "Carrot Cake",
-    "category": "",
     "tags": [
       "vegetarian",
       "dessert"
@@ -586,7 +565,6 @@
   {
     "slug": "chana-masala",
     "title": "Chana Masala",
-    "category": "main",
     "tags": [
       "vegetarian"
     ],
@@ -607,7 +585,6 @@
   {
     "slug": "chanterelle-cream-pasta",
     "title": "Chanterelle Cream Pasta",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -627,7 +604,6 @@
   {
     "slug": "chia-bagel",
     "title": "Chia Bagel",
-    "category": "breakfast",
     "tags": [
       "vegetarian",
       "breakfast"
@@ -658,7 +634,6 @@
   {
     "slug": "chickpea-potato-spinach-jalfrezi",
     "title": "Chickpea, Potato, and Spinach Jalfrezi with Cilantro Chutney",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian"
@@ -697,7 +672,6 @@
   {
     "slug": "chinese-scrambled-eggs-garlic-chives",
     "title": "Chinese Scrambled Eggs with Garlic Chives",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -715,7 +689,6 @@
   {
     "slug": "chorizo-chickpea-carbonara",
     "title": "Chorizo & Chickpea Carbonara",
-    "category": "main",
     "tags": [],
     "photos": [],
     "ingredients": [
@@ -735,7 +708,6 @@
   {
     "slug": "chouquettes",
     "title": "Chouquettes",
-    "category": "",
     "tags": [
       "vegetarian",
       "dessert"
@@ -787,7 +759,6 @@
   {
     "slug": "coconut-green-chutney",
     "title": "Coconut Green Chutney",
-    "category": "condiment",
     "tags": [
       "vegan",
       "vegetarian",
@@ -809,7 +780,6 @@
   {
     "slug": "cognac-whipped-cream",
     "title": "Cognac Whipped Cream",
-    "category": "condiment",
     "tags": [
       "vegetarian",
       "condiment",
@@ -827,7 +797,6 @@
   {
     "slug": "creamy-asparagus-basil-creme-fraiche-veloute",
     "title": "Creamy Asparagus, Basil, and Crème Fraîche Velouté",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -853,7 +822,6 @@
   {
     "slug": "avocado-almond-milk-cacao-smoothie",
     "title": "Creamy Avocado & Almond Milk Smoothie with Raw Cacao and Raspberries",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian",
@@ -881,7 +849,6 @@
   {
     "slug": "creamy-fingerling-potato-salad",
     "title": "Creamy Fingerling Potato Salad (Vegan)",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian",
@@ -913,7 +880,6 @@
   {
     "slug": "creme-fraiche-galette-heirloom-tomatoes",
     "title": "Crème Fraîche Galette with Heirloom Tomatoes",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -943,7 +909,6 @@
   {
     "slug": "crispy-skinned-salmon-harissa-citrusy-fennel-salad",
     "title": "Crispy-Skinned Salmon with Harissa & Citrusy Fennel Salad",
-    "category": "main",
     "tags": [
       "pescatarian"
     ],
@@ -964,7 +929,6 @@
   {
     "slug": "daube-provencale",
     "title": "Daube Provençale (French Beef Stew with Red Wine)",
-    "category": "main course",
     "tags": [
       "low & slow"
     ],
@@ -995,7 +959,6 @@
   {
     "slug": "easy-awesome-eggplant-tian",
     "title": "Easy Awesome Eggplant Tian",
-    "category": "vegetarian main",
     "tags": [
       "vegetarian"
     ],
@@ -1023,7 +986,6 @@
   {
     "slug": "skillet-braised-chicken-peppers-paprika",
     "title": "Easy Skillet Braised Chicken with Peppers and Paprika",
-    "category": "",
     "tags": [
       "one-pot"
     ],
@@ -1054,7 +1016,6 @@
   {
     "slug": "easy-vegan-mayonnaise",
     "title": "Easy Vegan Mayonnaise (With Aquafaba)",
-    "category": "condiment",
     "tags": [
       "vegan",
       "vegetarian",
@@ -1074,7 +1035,6 @@
   {
     "slug": "salmon-chowder",
     "title": "Easy, Creamy One-Pot Salmon Chowder",
-    "category": "soup",
     "tags": [
       "one-pot"
     ],
@@ -1116,7 +1076,6 @@
   {
     "slug": "fall-apart-lamb-with-prunes",
     "title": "Fall-Apart Lamb with Prunes",
-    "category": "main course",
     "tags": [
       "low & slow"
     ],
@@ -1138,7 +1097,6 @@
   {
     "slug": "smoked-salmon-potato-salad",
     "title": "Five-Ingredient Smoked Salmon and Potato Salad",
-    "category": "",
     "tags": [
       "pescatarian",
       "salad"
@@ -1164,7 +1122,6 @@
   {
     "slug": "french-onion-soup",
     "title": "French Onion Soup",
-    "category": "",
     "tags": [
       "low & slow"
     ],
@@ -1195,7 +1152,6 @@
   {
     "slug": "spring-salad-poached-cod",
     "title": "Fresh Spring Salad with Poached Cod",
-    "category": "",
     "tags": [
       "pescatarian",
       "salad"
@@ -1228,7 +1184,6 @@
   {
     "slug": "frozen-margarita-pie",
     "title": "Frozen Margarita Pie",
-    "category": "",
     "tags": [
       "vegetarian",
       "dessert"
@@ -1259,7 +1214,6 @@
   {
     "slug": "garam-masala",
     "title": "Garam Masala",
-    "category": "spice blend",
     "tags": [
       "vegan",
       "vegetarian"
@@ -1279,7 +1233,6 @@
   {
     "slug": "garlic-bread",
     "title": "Garlic Bread",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -1299,7 +1252,6 @@
   {
     "slug": "garlic-butter",
     "title": "Garlic Butter",
-    "category": "condiment",
     "tags": [
       "pescatarian",
       "condiment"
@@ -1319,7 +1271,6 @@
   {
     "slug": "garlic-dill-pickles",
     "title": "Garlic Dill Pickles",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian",
@@ -1347,7 +1298,6 @@
   {
     "slug": "genius-chickpea-tofu",
     "title": "Genius Chickpea Tofu",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian"
@@ -1382,7 +1332,6 @@
   {
     "slug": "great-deviled-eggs",
     "title": "Great Deviled Eggs",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -1411,7 +1360,6 @@
   {
     "slug": "green-goddess-egg-salad",
     "title": "Green Goddess Egg Salad",
-    "category": "",
     "tags": [
       "vegetarian",
       "salad"
@@ -1454,7 +1402,6 @@
   {
     "slug": "harissa-yogurt-marinated-chicken",
     "title": "Harissa and Yogurt-Marinated Chicken",
-    "category": "",
     "tags": [],
     "photos": [
       {
@@ -1476,7 +1423,6 @@
   {
     "slug": "creme-fraiche",
     "title": "Homemade Crème Fraîche",
-    "category": "",
     "tags": [
       "vegetarian",
       "condiment"
@@ -1497,7 +1443,6 @@
   {
     "slug": "homemade-sibs",
     "title": "Homemade Seasoned Italian Breadcrumbs (SIBS)",
-    "category": "pantry staple",
     "tags": [
       "vegetarian"
     ],
@@ -1515,7 +1460,6 @@
   {
     "slug": "italian-egg-drop-soup",
     "title": "Italian Egg-Drop Soup",
-    "category": "",
     "tags": [
       "one-pot"
     ],
@@ -1544,7 +1488,6 @@
   {
     "slug": "italian-lemon-ricotta-cake",
     "title": "Italian Lemon-Ricotta Cake",
-    "category": "",
     "tags": [
       "vegetarian",
       "dessert"
@@ -1572,7 +1515,6 @@
   {
     "slug": "julia-child-bouillabaisse-rouille",
     "title": "Julia Child's Bouillabaisse with Rouille",
-    "category": "",
     "tags": [
       "pescatarian"
     ],
@@ -1608,7 +1550,6 @@
   {
     "slug": "k-bas-and-cabbage-soup",
     "title": "K-bas & Cabbage Soup",
-    "category": "soup",
     "tags": [],
     "photos": [],
     "ingredients": [
@@ -1630,7 +1571,6 @@
   {
     "slug": "kale-white-bean-mushroom",
     "title": "Kale, White Bean Purée & Mushrooms",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian"
@@ -1655,7 +1595,6 @@
   {
     "slug": "kasha-with-tapenade",
     "title": "Kasha with Tapenade",
-    "category": "breakfast",
     "tags": [],
     "photos": [],
     "ingredients": [
@@ -1670,7 +1609,6 @@
   {
     "slug": "khichadi",
     "title": "Khichadi",
-    "category": "main",
     "tags": [
       "vegetarian",
       "one-pot"
@@ -1692,7 +1630,6 @@
   {
     "slug": "kolokithokeftedes-greek-zucchini-fritters",
     "title": "Kolokithokeftedes (Greek Zucchini Fritters) with Tzatziki",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -1725,7 +1662,6 @@
   {
     "slug": "kulebyaka",
     "title": "Kulebyaka",
-    "category": "main course",
     "tags": [
       "pescatarian"
     ],
@@ -1758,7 +1694,6 @@
   {
     "slug": "kulebyaka-individual-salmon-pastries",
     "title": "Kulebyaka (Individual Salmon Pastries)",
-    "category": "",
     "tags": [
       "pescatarian"
     ],
@@ -1789,7 +1724,6 @@
   {
     "slug": "leek-goat-cheese-omelet",
     "title": "Leek and Goat Cheese Omelet",
-    "category": "",
     "tags": [
       "vegetarian",
       "breakfast"
@@ -1836,7 +1770,6 @@
   {
     "slug": "lentil-soup-gremolata",
     "title": "Lentil Soup with Gremolata",
-    "category": "",
     "tags": [
       "one-pot"
     ],
@@ -1881,7 +1814,6 @@
   {
     "slug": "loaded-olive-oil",
     "title": "Loaded Olive Oil",
-    "category": "condiment",
     "tags": [
       "vegetarian",
       "condiment"
@@ -1903,7 +1835,6 @@
   {
     "slug": "macaroni-salad",
     "title": "Macaroni Salad",
-    "category": "salad",
     "tags": [
       "pescatarian",
       "salad"
@@ -1927,7 +1858,6 @@
   {
     "slug": "marcella-hazan-tomato-sauce",
     "title": "Marcella Hazan's Tomato Sauce with Onion and Butter",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -1960,7 +1890,6 @@
   {
     "slug": "marinated-kale-chickpea-salad-sumac-onions",
     "title": "Marinated Kale and Chickpea Salad With Sumac Onions",
-    "category": "salad",
     "tags": [
       "vegan",
       "vegetarian",
@@ -1985,7 +1914,6 @@
   {
     "slug": "marinated-lentils-spiced-walnuts-lotsa-basil",
     "title": "Marinated Lentils with Spiced Walnuts & Lotsa Basil",
-    "category": "main",
     "tags": [
       "vegetarian"
     ],
@@ -2008,7 +1936,6 @@
   {
     "slug": "marousalata",
     "title": "Marousalata",
-    "category": "salad",
     "tags": [
       "vegetarian",
       "salad"
@@ -2031,7 +1958,6 @@
   {
     "slug": "millet-spring-greens-lemon-vinaigrette",
     "title": "Millet with Steamed Spring Greens and Lemon Vinaigrette",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -2062,7 +1988,6 @@
   {
     "slug": "wild-rice-mushroom-soup",
     "title": "Minnesota Wild Rice & Mushroom Soup",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -2106,7 +2031,6 @@
   {
     "slug": "minty-lamb-meatballs-crispy-cabbage-tahini-sauce",
     "title": "Minty Lamb Meatballs with Crispy Cabbage & Tahini Sauce",
-    "category": "main",
     "tags": [],
     "photos": [],
     "ingredients": [
@@ -2127,7 +2051,6 @@
   {
     "slug": "mushroom-marsala-pasta-bake",
     "title": "Mushroom Marsala Pasta Bake",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -2172,7 +2095,6 @@
   {
     "slug": "nicoise-tuna-cakes",
     "title": "Niçoise Tuna Cakes",
-    "category": "main course",
     "tags": [
       "pescatarian"
     ],
@@ -2212,7 +2134,6 @@
   {
     "slug": "olive-tapenade",
     "title": "Olive Tapenade",
-    "category": "condiment",
     "tags": [
       "pescatarian",
       "condiment"
@@ -2233,7 +2154,6 @@
   {
     "slug": "one-pot-chicken-schmaltzy-rice-lemony-yog",
     "title": "One-Pot Chicken & Schmaltzy Rice with Lemony Yog",
-    "category": "main",
     "tags": [
       "one-pot"
     ],
@@ -2257,7 +2177,6 @@
   {
     "slug": "onion-masala",
     "title": "Onion Masala",
-    "category": "base sauce",
     "tags": [
       "vegan",
       "vegetarian"
@@ -2283,7 +2202,6 @@
   {
     "slug": "oven-roasted-tomato-sauce-salami-olives",
     "title": "Oven-Roasted Tomato Sauce with Salami, Olives, and Pecorino",
-    "category": "",
     "tags": [],
     "photos": [
       {
@@ -2315,7 +2233,6 @@
   {
     "slug": "brussels-sprouts-crostini",
     "title": "Parmesan Brussels Sprouts Crostini",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -2377,7 +2294,6 @@
   {
     "slug": "pasta-e-broccoli",
     "title": "Pasta e Broccoli",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -2402,7 +2318,6 @@
   {
     "slug": "pasta-broccoli-goat-cheese-oregano",
     "title": "Pasta with Broccoli, Goat Cheese, and Oregano",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -2428,7 +2343,6 @@
   {
     "slug": "pasta-fried-lemons-chile-flakes",
     "title": "Pasta with Fried Lemons and Chile Flakes",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -2458,7 +2372,6 @@
   {
     "slug": "pasta-with-tondini-beans",
     "title": "Pasta with Tondini Beans",
-    "category": "main",
     "tags": [
       "vegan",
       "vegetarian"
@@ -2479,7 +2392,6 @@
   {
     "slug": "patatas-riojanas",
     "title": "Patatas Riojanas (Potatoes with Chorizo)",
-    "category": "",
     "tags": [
       "one-pot"
     ],
@@ -2509,7 +2421,6 @@
   {
     "slug": "penne-roasted-broccoli-pistachio-gremolata",
     "title": "Penne with Roasted Broccoli and Pistachio Gremolata",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian"
@@ -2537,7 +2448,6 @@
   {
     "slug": "penne-tuna-spicy-mustard",
     "title": "Penne with Tuna and Spicy Mustard",
-    "category": "",
     "tags": [
       "pescatarian"
     ],
@@ -2559,7 +2469,6 @@
   {
     "slug": "pickled-red-onions",
     "title": "Pickled Red Onions",
-    "category": "condiment",
     "tags": [
       "vegan",
       "vegetarian",
@@ -2585,7 +2494,6 @@
   {
     "slug": "poblano-stuffed-chorizo-shrimp-rice",
     "title": "Poblanos Stuffed with Chorizo, Shrimp and Rice",
-    "category": "",
     "tags": [],
     "photos": [],
     "ingredients": [
@@ -2610,7 +2518,6 @@
   {
     "slug": "potatoes-boulangere",
     "title": "Potatoes à la Boulangère",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -2666,7 +2573,6 @@
   {
     "slug": "pressure-cooker-black-beans-chorizo",
     "title": "Pressure Cooker Black Beans with Chorizo",
-    "category": "",
     "tags": [
       "one-pot"
     ],
@@ -2688,7 +2594,6 @@
   {
     "slug": "pumpkin-chickpea-curry",
     "title": "Pumpkin Curry with Chickpeas",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian",
@@ -2721,7 +2626,6 @@
   {
     "slug": "pumpkin-shrimp-curry",
     "title": "Pumpkin-Shrimp Curry",
-    "category": "",
     "tags": [
       "pescatarian",
       "one-pot"
@@ -2755,7 +2659,6 @@
   {
     "slug": "punjabi-lobia",
     "title": "Punjabi Lobia",
-    "category": "main",
     "tags": [
       "vegan",
       "vegetarian"
@@ -2782,7 +2685,6 @@
   {
     "slug": "radish-egg-salad-sandwiches",
     "title": "Radish and Egg Salad Sandwiches",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -2808,7 +2710,6 @@
   {
     "slug": "revani-turkish-semolina-cake",
     "title": "Revani (Turkish Semolina Cake)",
-    "category": "",
     "tags": [
       "vegetarian",
       "dessert"
@@ -2842,7 +2743,6 @@
   {
     "slug": "ricotta-herbs-cucumber-toast",
     "title": "Ricotta, Herbs, and Cucumber Toast",
-    "category": "",
     "tags": [
       "vegetarian",
       "breakfast"
@@ -2867,7 +2767,6 @@
   {
     "slug": "rio-zape-beans-with-toasted-chile-sauce",
     "title": "Rio Zape Beans with Toasted Chile Sauce",
-    "category": "main",
     "tags": [
       "vegetarian",
       "low & slow"
@@ -2893,7 +2792,6 @@
   {
     "slug": "roasted-eggplant-tahini-pine-nuts-lentils",
     "title": "Roasted Eggplant with Tahini, Pine Nuts, and Lentils",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian"
@@ -2935,7 +2833,6 @@
   {
     "slug": "roasted-oyster-mushroom-watercress-salad",
     "title": "Roasted Oyster Mushroom and Watercress Salad",
-    "category": "",
     "tags": [
       "vegetarian",
       "salad"
@@ -2966,7 +2863,6 @@
   {
     "slug": "roasted-spring-garlic",
     "title": "Roasted Spring Garlic",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian"
@@ -2993,7 +2889,6 @@
   {
     "slug": "russian-olivier-salad",
     "title": "Russian Olivier Salad",
-    "category": "salad",
     "tags": [
       "salad"
     ],
@@ -3013,7 +2908,6 @@
   {
     "slug": "salmon-bengali-mustard-sauce",
     "title": "Salmon in a Bengali Mustard Sauce",
-    "category": "",
     "tags": [
       "pescatarian"
     ],
@@ -3044,7 +2938,6 @@
   {
     "slug": "savory-vegan-lasagna",
     "title": "Savory Vegan Lasagna",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian"
@@ -3074,7 +2967,6 @@
   {
     "slug": "seasoned-italian-breadcrumbs",
     "title": "Seasoned Italian Breadcrumbs",
-    "category": "pantry staple",
     "tags": [
       "vegetarian"
     ],
@@ -3092,7 +2984,6 @@
   {
     "slug": "sesame-ginger-dressing",
     "title": "Sesame Ginger Dressing",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian",
@@ -3121,7 +3012,6 @@
   {
     "slug": "shrimp-parm",
     "title": "Shrimp Parm",
-    "category": "",
     "tags": [
       "pescatarian"
     ],
@@ -3147,7 +3037,6 @@
   {
     "slug": "snapper-fennel-tomatoes",
     "title": "Snapper with Fennel and Tomatoes",
-    "category": "",
     "tags": [
       "pescatarian"
     ],
@@ -3183,7 +3072,6 @@
   {
     "slug": "spicy-cashew-spring-greens-soup",
     "title": "Spicy Cashew Spring Greens Soup",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian"
@@ -3216,7 +3104,6 @@
   {
     "slug": "spicy-cauliflower-sabzi-cashews",
     "title": "Spicy Cauliflower Sabzi with Cashews",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian"
@@ -3246,7 +3133,6 @@
   {
     "slug": "spicy-cucumber-avocado-onion-salad",
     "title": "Spicy Cucumber Avocado Onion Salad",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian",
@@ -3273,7 +3159,6 @@
   {
     "slug": "spicy-vegan-white-pizza-broccoli-rabe",
     "title": "Spicy Vegan White Pizza with Broccoli Rabe & Truffle Cream",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian"
@@ -3310,7 +3195,6 @@
   {
     "slug": "split-pea-soup",
     "title": "Split Pea Soup",
-    "category": "soup",
     "tags": [
       "one-pot"
     ],
@@ -3337,7 +3221,6 @@
   {
     "slug": "suddenly-stew",
     "title": "Suddenly Stew (Kale, Chickpea & Brown Rice)",
-    "category": "",
     "tags": [
       "vegetarian",
       "one-pot"
@@ -3370,7 +3253,6 @@
   {
     "slug": "swiss-chard-frittata",
     "title": "Swiss Chard Frittata",
-    "category": "breakfast",
     "tags": [
       "vegetarian",
       "breakfast"
@@ -3400,7 +3282,6 @@
   {
     "slug": "thai-peanut-sauce",
     "title": "Thai Peanut (Satay) Sauce",
-    "category": "",
     "tags": [
       "condiment"
     ],
@@ -3430,7 +3311,6 @@
   {
     "slug": "tofu-spinach-scramble",
     "title": "Tofu Spinach Scramble with Avocado",
-    "category": "breakfast",
     "tags": [
       "vegan",
       "vegetarian",
@@ -3466,7 +3346,6 @@
   {
     "slug": "tom-yum-goong",
     "title": "Tom Yum Goong (ต้มยำกุ้ง) — Thai Hot & Sour Shrimp Soup",
-    "category": "",
     "tags": [
       "pescatarian",
       "one-pot"
@@ -3501,7 +3380,6 @@
   {
     "slug": "tomato-melon-chile-salad-burrata",
     "title": "Tomato, Melon, and Hot Chile Salad with Burrata",
-    "category": "",
     "tags": [
       "vegetarian",
       "salad"
@@ -3533,7 +3411,6 @@
   {
     "slug": "tunisian-sweet-potato-stew",
     "title": "Tunisian Sweet Potato Stew",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian",
@@ -3569,7 +3446,6 @@
   {
     "slug": "vegan-chilaquiles-charred-corn-black-beans",
     "title": "Vegan Chilaquiles with Pepitas, Charred Corn, and Black Beans",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian"
@@ -3601,7 +3477,6 @@
   {
     "slug": "vegan-tempeh-reuben",
     "title": "Vegan Tempeh Reuben",
-    "category": "sandwich",
     "tags": [
       "vegan",
       "vegetarian"
@@ -3649,7 +3524,6 @@
   {
     "slug": "walnut-faux-cream-mushroom-soup",
     "title": "Walnut Faux-Cream of Mushroom Soup",
-    "category": "",
     "tags": [],
     "photos": [
       {
@@ -3673,7 +3547,6 @@
   {
     "slug": "yellow-split-pea-dal",
     "title": "Yellow Split Pea Dal",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian",
@@ -3705,7 +3578,6 @@
   {
     "slug": "zucchini-pancakes",
     "title": "Zucchini Pancakes",
-    "category": "Side Dish",
     "tags": [
       "vegan",
       "vegetarian"
@@ -3730,7 +3602,6 @@
   {
     "slug": "zucchini-pancakes-dill-ricotta",
     "title": "Zucchini Pancakes with Dill and Fresh Ricotta",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -3758,7 +3629,6 @@
   {
     "slug": "borscht",
     "title": "Борщ — Borscht",
-    "category": "",
     "tags": [
       "vegan",
       "vegetarian",
@@ -3787,7 +3657,6 @@
   {
     "slug": "bouillabaisse",
     "title": "Буйабес — Bouillabaisse (Simple Marseille Version)",
-    "category": "",
     "tags": [
       "pescatarian"
     ],
@@ -4028,7 +3897,6 @@
   {
     "slug": "pirozhki-s-kapustoy",
     "title": "Пирожки с капустой — Pirozhki (Russian Cabbage Hand Pies)",
-    "category": "",
     "tags": [
       "vegetarian"
     ],
@@ -4114,7 +3982,6 @@
   {
     "slug": "rasstegai",
     "title": "Расстегаи — Rasstegai (Russian Open-Top Fish Pies)",
-    "category": "",
     "tags": [
       "pescatarian"
     ],
@@ -4214,7 +4081,6 @@
   {
     "slug": "toplyonoye-moloko-baked-milk",
     "title": "Топлёное молоко — Baked Milk",
-    "category": "",
     "tags": [
       "vegetarian"
     ],

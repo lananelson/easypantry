@@ -1,6 +1,5 @@
 ---
 title: Easy Awesome Eggplant Tian
-category: vegetarian main
 prep_time: 10 minutes
 cook_time: 55 minutes
 servings: 4

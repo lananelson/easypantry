@@ -1,6 +1,5 @@
 ---
 title: Olive Tapenade
-category: condiment
 prep_time: 10 minutes
 cook_time: 0 minutes
 servings: 2 cups

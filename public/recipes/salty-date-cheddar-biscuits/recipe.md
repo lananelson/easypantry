@@ -1,6 +1,5 @@
 ---
 title: Salty Date & Cheddar Biscuits
-category: breakfast
 prep_time:
 cook_time:
 servings: 8 biscuits

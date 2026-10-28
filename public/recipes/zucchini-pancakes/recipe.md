@@ -1,6 +1,5 @@
 ---
 title: Zucchini Pancakes
-category: Side Dish
 prep_time: 25 minutes
 cook_time: 45 minutes
 servings: 3 large pancakes

@@ -1,6 +1,5 @@
 ---
 title: Baked Chicken with Roasted Tomatillo Cream Sauce
-category:
 prep_time: 10 minutes
 cook_time: 35 minutes
 servings: 4

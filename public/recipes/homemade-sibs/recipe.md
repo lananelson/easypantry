@@ -1,6 +1,5 @@
 ---
 title: Homemade Seasoned Italian Breadcrumbs (SIBS)
-category: pantry staple
 prep_time: 10 minutes
 cook_time:
 servings: at least 1 quart

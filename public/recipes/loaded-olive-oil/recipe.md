@@ -1,6 +1,5 @@
 ---
 title: Loaded Olive Oil
-category: condiment
 prep_time: 5 minutes
 cook_time:
 servings: 6-8

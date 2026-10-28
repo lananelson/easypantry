@@ -1,6 +1,5 @@
 ---
 title: Alice Waters' Caesar Salad
-category: salad
 prep_time: 20 minutes
 cook_time: 10 minutes
 servings: 4-6

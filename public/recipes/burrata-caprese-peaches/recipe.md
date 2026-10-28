@@ -1,6 +1,5 @@
 ---
 title: Burrata Caprese with Peaches
-category:
 prep_time: 15 minutes
 cook_time: 5 minutes
 servings:

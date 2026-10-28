@@ -1,6 +1,5 @@
 ---
 title: Revani (Turkish Semolina Cake)
-category:
 prep_time: 20 minutes (plus several hours chilling)
 cook_time: 40 minutes
 servings:

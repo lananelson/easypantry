@@ -1,6 +1,5 @@
 ---
 title: Roasted Oyster Mushroom and Watercress Salad
-category:
 prep_time: 15 minutes
 cook_time: 20 minutes
 servings:

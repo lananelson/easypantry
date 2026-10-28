@@ -1,6 +1,5 @@
 ---
 title: Mushroom Marsala Pasta Bake
-category:
 prep_time: 30 minutes
 cook_time: 30 minutes
 servings: 4-6

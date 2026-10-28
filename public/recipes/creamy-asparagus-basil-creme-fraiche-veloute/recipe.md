@@ -1,6 +1,5 @@
 ---
 title: Creamy Asparagus, Basil, and Crème Fraîche Velouté
-category:
 prep_time: 5 minutes
 cook_time: 15 minutes
 servings: 2

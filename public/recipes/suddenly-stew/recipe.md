@@ -1,6 +1,5 @@
 ---
 title: Suddenly Stew (Kale, Chickpea & Brown Rice)
-category:
 prep_time: 20 minutes
 cook_time: 40 minutes
 servings: 8

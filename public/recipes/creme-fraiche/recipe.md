@@ -1,6 +1,5 @@
 ---
 title: Homemade Crème Fraîche
-category:
 prep_time: 1 minute
 cook_time: 12 hours (resting)
 servings: 2 cups

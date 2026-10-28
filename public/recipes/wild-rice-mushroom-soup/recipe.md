@@ -1,6 +1,5 @@
 ---
 title: Minnesota Wild Rice & Mushroom Soup
-category:
 prep_time: 15 minutes
 cook_time: 1 hour 15 minutes
 servings: 6

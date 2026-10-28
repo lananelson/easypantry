@@ -1,6 +1,5 @@
 ---
 title: Pisarei e Fasoi
-category: pasta
 prep_time:
 cook_time:
 servings: 6 as a first course, 4 as a main course

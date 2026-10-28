@@ -1,6 +1,5 @@
 ---
 title: Minestrone alla Genovese
-category: soup
 prep_time:
 cook_time: 2 hours 30 minutes
 servings: 4-6

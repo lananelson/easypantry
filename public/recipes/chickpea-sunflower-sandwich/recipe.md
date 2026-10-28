@@ -1,6 +1,5 @@
 ---
 title: Chickpea Sunflower Sandwich
-category: lunch
 prep_time: 30 minutes
 cook_time:
 servings: 2 sandwiches

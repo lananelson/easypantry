@@ -1,6 +1,5 @@
 ---
 title: Kulebyaka
-category: main course
 prep_time: 30 minutes
 cook_time: 45 minutes
 servings: 6-8

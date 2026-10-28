@@ -99,7 +99,6 @@ async function buildRecipeIndex() {
       // no media folder
     }
 
-    const category = frontmatterValue(md, "category");
     const tagsRaw = frontmatterValue(md, "tags").replace(/^\[|\]$/g, "");
     const ingredients = sectionLines(md, "Ingredients")
       .filter((l) => l.trim().startsWith("- "))
@@ -111,7 +110,6 @@ async function buildRecipeIndex() {
     recipes.push({
       slug,
       title: frontmatterValue(md, "title") || slug,
-      category,
       tags: tagsRaw
         .split(",")
         .map((t) => t.trim())

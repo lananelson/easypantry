@@ -1,6 +1,5 @@
 ---
 title: Salmon in a Bengali Mustard Sauce
-category:
 prep_time: 10 minutes (plus 30 minutes to 10 hours marinating)
 cook_time: 10 minutes
 servings: 2-3

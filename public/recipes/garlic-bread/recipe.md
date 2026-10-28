@@ -1,6 +1,5 @@
 ---
 title: Garlic Bread
-category:
 prep_time:
 cook_time:
 servings: 2 large loaves

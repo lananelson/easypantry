@@ -1,6 +1,5 @@
 ---
 title: Black Sesame Shortbread
-category: dessert
 prep_time:
 cook_time:
 servings: 16 cookies

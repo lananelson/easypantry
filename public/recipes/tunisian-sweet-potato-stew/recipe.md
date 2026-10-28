@@ -1,6 +1,5 @@
 ---
 title: Tunisian Sweet Potato Stew
-category:
 prep_time: 20 minutes
 cook_time: 40 minutes
 servings: 6-8

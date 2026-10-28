@@ -1,6 +1,5 @@
 ---
 title: Spicy Vegan White Pizza with Broccoli Rabe & Truffle Cream
-category:
 prep_time: 20 minutes
 cook_time: 15 minutes
 servings:

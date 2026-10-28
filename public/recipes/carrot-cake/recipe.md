@@ -1,6 +1,5 @@
 ---
 title: Carrot Cake
-category:
 prep_time: 40 minutes (plus 1 hour inactive)
 cook_time: 1 hour 10 minutes
 servings: 1 (9-inch) cake

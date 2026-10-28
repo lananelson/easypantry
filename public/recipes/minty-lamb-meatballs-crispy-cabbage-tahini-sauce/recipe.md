@@ -1,6 +1,5 @@
 ---
 title: Minty Lamb Meatballs with Crispy Cabbage & Tahini Sauce
-category: main
 prep_time:
 cook_time:
 servings: 4

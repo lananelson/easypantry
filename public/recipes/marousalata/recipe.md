@@ -1,6 +1,5 @@
 ---
 title: Marousalata
-category: salad
 prep_time: 15 minutes
 cook_time:
 servings: 3

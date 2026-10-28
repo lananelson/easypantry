@@ -1,6 +1,5 @@
 ---
 title: Russian Olivier Salad
-category: salad
 prep_time: 30 minutes
 cook_time: 20 minutes
 servings: 4

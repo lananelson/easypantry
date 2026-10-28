@@ -1,6 +1,5 @@
 ---
 title: Easy Vegan Mayonnaise (With Aquafaba)
-category: condiment
 prep_time: 10 mins
 cook_time:
 servings: 8

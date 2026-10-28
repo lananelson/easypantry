@@ -1,6 +1,5 @@
 ---
 title: Asparagus, Goat Cheese and Tarragon Tart
-category: appetizer
 prep_time: 15 minutes
 cook_time: 30 minutes
 servings: 6-8

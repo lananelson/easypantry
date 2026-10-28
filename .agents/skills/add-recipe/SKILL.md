@@ -16,7 +16,7 @@ Never fabricate instructions. If the available source contains only part of the 
 1. Read `public/approved_tags.csv`.
 2. Choose a unique, readable, lowercase, dash-separated slug. Remove apostrophes and special characters, and keep the slug reasonably short.
 3. Create `public/recipes/<slug>/recipe.md`. Create `public/recipes/<slug>/media/` only when the recipe has media to store. Process photos may be placed directly inside the recipe flow with standard Markdown image syntax on their own line, for example `![Dough after folding](media/photo-02.jpg)`. Inline photos are rendered at that exact point in the recipe and are excluded from the separate lead/gallery photo set.
-4. Use the required frontmatter and heading structure below.
+4. Use the required frontmatter and heading structure below. Recipes do not use categories; classification is handled only by approved tags.
 5. Record the source in `## References`:
    - For a URL, include the source URL.
    - When a web page reprints a recipe from a cookbook, cite the original book and author as `Source:` and keep the page as `Online:`, so both the original and an accessible copy are recorded.
@@ -30,12 +30,11 @@ Never fabricate instructions. If the available source contains only part of the 
 
 ## Required format
 
-Use only level-2 headings. Required headings, in order, are `## Ingredients`, `## Instructions`, and `## References`. Optional `## My Notes` and `## Notes` belong between Instructions and References, in that order. `## My Notes` holds only the user's own words: tweaks, memories, where they first had it. Add other text there only when the user asks for it. `## Notes` holds notes that came with the source. Use inline parenthetical notes for ingredient groupings instead of subsections.
+Use only level-2 headings. Required headings, in order, are `## Ingredients`, `## Instructions`, and `## References`. Optional `## My Notes` and `## Notes` belong between Instructions and References, in that order. Preserve additional source-authored level-2 sections such as `## Make-Ahead and Storage` when they are part of the source. `## My Notes` holds only the user's own words: tweaks, memories, where they first had it. Add other text there only when the user asks for it. `## Notes` holds notes that came with the source. Use inline parenthetical notes for ingredient groupings instead of subsections.
 
 ```markdown
 ---
 title: Recipe Title
-category:
 prep_time:
 cook_time:
 servings:

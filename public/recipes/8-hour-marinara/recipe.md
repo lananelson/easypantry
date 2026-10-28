@@ -1,6 +1,5 @@
 ---
 title: 8-hour Marinara
-category: condiment
 prep_time:
 cook_time: 8 hours
 servings: about 3 1/4 quarts

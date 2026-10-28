@@ -1,6 +1,5 @@
 ---
 title: Penne with Tuna and Spicy Mustard
-category:
 prep_time: 5 minutes
 cook_time: 15 minutes
 servings: 4

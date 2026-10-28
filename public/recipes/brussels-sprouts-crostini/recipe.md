@@ -1,6 +1,5 @@
 ---
 title: Parmesan Brussels Sprouts Crostini
-category:
 prep_time: 10 minutes (plus 1 hour if roasting garlic)
 cook_time: 20 minutes
 servings: 25-30 pieces

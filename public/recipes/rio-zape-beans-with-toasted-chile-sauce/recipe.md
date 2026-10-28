@@ -1,6 +1,5 @@
 ---
 title: Rio Zape Beans with Toasted Chile Sauce
-category: main
 prep_time:
 cook_time: 4 to 6 hours (slow cooker)
 servings: 6-8

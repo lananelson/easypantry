@@ -1,6 +1,5 @@
 ---
 title: Easy Skillet Braised Chicken with Peppers and Paprika
-category:
 prep_time: 20 minutes
 cook_time: 45 minutes
 servings: 4-6

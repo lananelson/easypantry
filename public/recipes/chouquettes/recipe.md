@@ -1,6 +1,5 @@
 ---
 title: Chouquettes
-category:
 prep_time: 15 minutes
 cook_time: 50 minutes
 servings:

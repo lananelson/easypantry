@@ -1,6 +1,5 @@
 ---
 title: Tom Yum Goong (ต้มยำกุ้ง) — Thai Hot & Sour Shrimp Soup
-category:
 prep_time: 10 minutes
 cook_time: 20 minutes
 servings: 3-5

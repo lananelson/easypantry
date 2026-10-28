@@ -1,6 +1,5 @@
 ---
 title: Great Deviled Eggs
-category:
 prep_time: 10 minutes
 cook_time: 10 minutes
 servings: 16 halves

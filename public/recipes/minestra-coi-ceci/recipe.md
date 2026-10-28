@@ -1,6 +1,5 @@
 ---
 title: Minestra coi Ceci
-category: soup
 prep_time: 12 hours
 cook_time: 2 hours
 servings: 6-8

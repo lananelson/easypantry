@@ -1,6 +1,5 @@
 ---
 title: Pumpkin-Shrimp Curry
-category:
 prep_time: 15 minutes
 cook_time: 45 minutes
 servings: 4

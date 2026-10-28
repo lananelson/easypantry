@@ -1,6 +1,5 @@
 ---
 title: Farinata with Caramelized Red Onions, Tomatoes & Butter Beans
-category: main
 prep_time:
 cook_time:
 servings: 4-6
