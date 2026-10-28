@@ -5,15 +5,16 @@ Auto-generated from recipe files. Do not edit manually.
 ## 8-hour-marinara
 **8-hour Marinara**
 
-- 2 cups extra virgin olive oil
+- 2 cups extra-virgin olive oil
 - 2 onions
+- 1 large carrot
 - 12 garlic cloves
 - 1 (10-pound) can peeled tomatoes
-- 1 tbsp crushed red chili flakes
-- 2.25 ounces (1/2 of 4.5 ounce tube) tomato paste
-- 1 tbsp kosher salt
-- 2 tbsp freshly ground black pepper
-- 1 tsp to 1 tbsp sugar
+- 1 tablespoon crushed red chile flakes
+- 2.25 ounces (1/2 of a 4.5-ounce tube) tomato paste
+- 1 tablespoon kosher salt
+- 2 tablespoons freshly ground black pepper
+- 1 teaspoon to 1 tablespoon sugar
 
 ## adventurer-bowl
 **Adventurer Bowl with Tahini-Ginger Dressing**
@@ -236,6 +237,21 @@ Auto-generated from recipe files. Do not edit manually.
 - Balsamic vinegar
 - 1/2 package farfalle
 
+## big-beans-spicy-greens-gratin
+**Big Beans & Spicy Greens Gratin**
+
+- 8 garlic cloves
+- 1 large white onion
+- 1 bunch broccoli rabe (about 1 pound)
+- 1 bunch kale, Swiss chard, spinach, or mustard greens (about 1 pound)
+- 8 ounces sharp provolone, cheddar, or Gruyère cheese
+- 2 cups heavy cream
+- 1/4 cup plus 3 tablespoons extra-virgin olive oil
+- 1 cup panko bread crumbs
+- Kosher salt
+- 3 (14.5-ounce) cans butter beans, gigante beans, or other white beans
+- 1 teaspoon red pepper flakes
+
 ## big-shells-escarole-chovies-mozz
 **Big Shells with Escarole, 'Chovies & Mozz**
 
@@ -282,6 +298,40 @@ Auto-generated from recipe files. Do not edit manually.
 - Cilantro (for serving)
 - Corn tortillas
 - Melting cheese
+
+## black-sesame-shortbread
+**Black Sesame Shortbread**
+
+- 10 tablespoons (1 1/4 sticks / 142 g) unsalted butter
+- 1 1/2 cups (180 g) all-purpose flour
+- 2/3 cup (75 g) powdered sugar
+- 1 1/2 teaspoons (4 g) kosher salt
+- 1/4 cup (35 g) black or white sesame seeds
+- 1/3 cup (80 g) tahini
+- Granulated sugar, for sprinkling
+
+## borek-armenian-spinach-cheese-turnovers
+**Borek (Armenian Spinach and Cheese Turnovers)**
+
+- 8 ounces (225 g) Greek feta, crumbled (herb and cheese filling)
+- 4 ounces (115 g) Muenster or Monterey Jack cheese, shredded (herb and cheese filling)
+- 2 1/2 ounces (70 g) fresh goat cheese, crumbled (herb and cheese filling)
+- 1/2 cup chopped mixed tender herbs and tender stems (about 2 ounces; 60 g), such as dill, parsley, mint, and cilantro (herb and cheese filling)
+- 4 scallions (2 ounces; 60 g), thinly sliced (1/2 cup) (herb and cheese filling)
+- 2 large eggs (110 g), lightly beaten (herb and cheese filling)
+- 1/4 teaspoon freshly ground black pepper (herb and cheese filling)
+- 10 ounces (285 g) frozen chopped spinach, thawed (spinach filling)
+- 8 ounces (225 g) Greek feta, crumbled (spinach filling)
+- 2 1/2 ounces (70 g) fresh goat cheese, crumbled (spinach filling)
+- 2 ounces (1 packed cup; 60 g) chopped mixed tender herbs and tender stems, such as dill, parsley, mint, and cilantro (about 2 packed cups picked herbs before chopping) (spinach filling)
+- 4 scallions (2 ounces; 60 g), thinly sliced (1/2 cup) (spinach filling)
+- 2 large eggs (110 g), lightly beaten (spinach filling)
+- 1/4 teaspoon Diamond Crystal kosher salt; for table salt use half as much by volume (spinach filling)
+- 1/4 teaspoon freshly ground black pepper (spinach filling)
+- 9 (13- by 18-inch) sheets phyllo dough, thawed and rested at room temperature for 30 minutes (to assemble)
+- 10 tablespoons (5 ounces; 140 g) unsalted butter (to assemble)
+- 1 tablespoon hulled sesame seeds (to assemble)
+- 1 teaspoon nigella seeds (optional; see notes) (to assemble)
 
 ## borscht
 **Борщ — Borscht**
@@ -351,6 +401,40 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 tablespoons freshly grated parmesan cheese
 - shaved parmesan cheese for topping
 
+## bun-ca-moi-hop
+**Bún Cá Mòi Hộp (Canned Sardine Noodle Soup)**
+
+- 1 shallot
+- 6 garlic cloves
+- 4 Roma tomatoes
+- 4 quarts water
+- 1/3 cup dried shrimp
+- 1 yellow onion
+- 2-inch nub ginger
+- 2 lemongrass stalks
+- 15 oz pineapple chunks
+- 2 tbsp fish sauce
+- 1-inch nub rock sugar
+- 1/2 tbsp MSG
+- Salt and pepper to taste
+- 1 tbsp oil
+- 30 oz canned sardines in tomato sauce
+- 1 tbsp oil
+- 1 tbsp minced shallots
+- 1 tbsp minced garlic
+- 1 lb rice vermicelli
+- 3 quarts water
+- 1/2 tbsp salt
+- 1 tbsp oil
+- 16 oz fish balls
+- Cabbage
+- Lettuce
+- Green onions
+- Cilantro
+- Limes
+- Fried shallots
+- Black pepper
+
 ## burrata-caprese-peaches
 **Burrata Caprese with Peaches**
 
@@ -401,6 +485,20 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 teaspoon vanilla extract (frosting)
 - 9 ounces powdered sugar, sifted, approximately 2 cups (frosting)
 
+## cavatelli-sausage-broccoli-rabe
+**Cavatelli Sausage & Broccoli Rabe**
+
+- 2 1/4 cups extra-virgin olive oil
+- 8 ounces sweet sausage links, casings removed
+- 8 ounces hot sausage links, casings removed
+- 5 garlic cloves, sliced
+- 1 teaspoon to 1 tablespoon chile flakes, to taste
+- 2 anchovies
+- 2 bunches broccoli rabe, stems smashed, then roughly chopped
+- 1 pound cavatelli (store-bought or homemade)
+- 2 cups grated Parmesan
+- 4 tablespoons (1/2 stick) salted butter
+
 ## chana-masala
 **Chana Masala**
 
@@ -436,6 +534,24 @@ Auto-generated from recipe files. Do not edit manually.
 - Honey mustard
 - Lettuce
 - Swiss cheese
+
+## chicken-scarpariello
+**Chicken Scarpariello**
+
+- 4 bone-in, skin-on chicken thighs and 4 chicken drumsticks (or equivalent chicken parts)
+- Kosher salt and freshly ground black pepper
+- 4 tablespoons extra-virgin olive oil, or more as needed
+- About 1 pound Italian sausages (sweet or spicy), cut into chunks
+- 2 large shallots, minced
+- 1 (8-ounce) jar pickled sweet or hot cherry peppers with the vinegar
+- 6 garlic cloves, crushed
+- 2 cups dry white wine
+- 1 quart chicken broth
+- 2 tablespoons fresh lemon juice, plus additional lemon halves
+- 1 teaspoon red pepper flakes (optional)
+- 4 tablespoons (1/2 stick) unsalted butter
+- 1/4 cup chopped fresh flat-leaf parsley
+- Crusty bread, roasted potatoes, or pasta, for serving
 
 ## chickpea-potato-spinach-jalfrezi
 **Chickpea, Potato, and Spinach Jalfrezi with Cilantro Chutney**
@@ -655,6 +771,39 @@ Auto-generated from recipe files. Do not edit manually.
 - 20 pitted prunes
 - Fresh mint and parsley to serve
 
+## farinata-caramelized-onions-tomatoes-butter-beans
+**Farinata with Caramelized Red Onions, Tomatoes & Butter Beans**
+
+- 8 ounces (2 cups / 226 g) finely ground chickpea flour
+- 1 teaspoon Diamond Crystal kosher salt
+- 710 ml water
+- 60 ml extra-virgin olive oil
+- 1 teaspoon freshly ground black pepper
+- 1 teaspoon rosemary
+- Jarred butter beans, drained
+- Roma tomatoes
+- Anchovies
+- Fresh rosemary
+- Fresh thyme
+- Garlic
+- Red onions
+- Balsamic vinegar
+- Fresh basil
+- Parmesan or pecorino
+
+## farro-butternut-squash-radicchio-salad
+**Farro, Butternut Squash & Radicchio Salad**
+
+- [Pickled Red Onions](../pickled-red-onions/recipe.md), about 1/2 red onion's worth, plus some of the pickling brine
+- 1/2 cup (~100 g) dried farro or emmer
+- 1 small butternut squash, or 1/2 of a larger one, peeled, deseeded, and cut into large cubes
+- Olive oil
+- Salt
+- 1 to 2 handfuls pine nuts
+- Radicchio leaves, cut or torn into bite-size pieces
+- Feta, crumbled, as much as desired
+- Dried oregano
+
 ## french-onion-soup
 **French Onion Soup**
 
@@ -702,14 +851,14 @@ Auto-generated from recipe files. Do not edit manually.
 ## garlic-bread
 **Garlic Bread**
 
-- 3 cups extra virgin olive oil (24 oz)
+- 3 cups (24 ounces) extra-virgin olive oil
 - 40 garlic cloves, peeled
 - 1 pound (4 sticks) unsalted butter, at room temperature
-- 3 oz sharp pecorino (preferably Locatelli), grated
-- 1 tbsp dried sicillian oregano
-- 2 tsp kosher salt
-- 1 tbsp freshly ground black pepper
-- 2 loaves italian or french bread (e.g. bastone, baguette)
+- 3 ounces sharp pecorino (preferably Locatelli), grated
+- 1 tablespoon dried Sicilian oregano
+- 2 teaspoons kosher salt
+- 1 tablespoon freshly ground black pepper
+- 2 semolina bastone (Italian bread, or French baguette)
 
 ## garlic-butter
 **Garlic Butter**
@@ -743,6 +892,38 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 ½ tsp. fine grain sea salt
 - 1 Tbsp. ground turmeric (optional)
 - 1 tsp. garlic powder (optional)
+
+## golden-brown-chicken-crispy-bread-salad
+**Golden Brown & Delicious Chicken Breasts with Crispy Bread Salad**
+
+- 1 medium head radicchio (about 8 ounces)
+- 3 garlic cloves, unpeeled
+- 2 ounces Piave, Parmesan, or pecorino cheese
+- 3 tablespoons unsalted butter
+- 2 large bone-in, skin-on chicken breasts (about 2 pounds)
+- Kosher salt and freshly ground black pepper
+- 5 tablespoons extra-virgin olive oil
+- 1 cup Castelvetrano olives
+- 1/4 baguette (about 3 ounces)
+- 3 oil-packed anchovy fillets
+- 3 tablespoons sherry vinegar
+- Honey, for drizzling
+
+## golden-brown-delicious-chicken-breasts-crispy-bread-salad
+**Golden Brown & Delicious Chicken Breasts with Crispy Bread Salad**
+
+- 1 medium head radicchio (about 8 ounces)
+- 3 garlic cloves, unpeeled
+- 2 ounces Piave, Parmesan, or pecorino cheese
+- 3 tablespoons unsalted butter
+- 2 large bone-in, skin-on chicken breasts (about 2 pounds)
+- Kosher salt and freshly ground black pepper
+- 5 tablespoons extra-virgin olive oil
+- 1 cup Castelvetrano olives
+- 1/4 baguette (about 3 ounces)
+- 3 oil-packed anchovy fillets
+- 3 tablespoons sherry vinegar
+- Honey, for drizzling
 
 ## great-deviled-eggs
 **Great Deviled Eggs**
@@ -868,6 +1049,17 @@ Auto-generated from recipe files. Do not edit manually.
 - 3 tablespoons tomato paste
 - 2 (14.5-ounce) cans white beans, such as butter, cannellini, or gigante
 - Sour cream or plain whole-milk Greek yogurt, for serving
+
+## kabocha-squash-miso-soup
+**Kabocha Squash Miso Soup (Traditional & Vegan Option)**
+
+- ⅓ small kabocha squash, cubed (about 200 g or ¼ medium kabocha squash)
+- 1 dashi packet (traditional or vegan blend; use 2 for extra flavor)
+- ½ onion, sliced
+- 3 shiitake mushrooms, sliced (about ½ cup; other mushrooms such as maitake, shimeji, or king oyster also work)
+- ½ lb silken tofu, cubed
+- 2 tablespoons white miso (up to 4 tablespoons, to taste)
+- 4 scallions, thinly sliced
 
 ## kale-white-bean-mushroom
 **Kale, White Bean Purée & Mushrooms**
@@ -1065,6 +1257,18 @@ Auto-generated from recipe files. Do not edit manually.
 - Zest of 1 lemon
 - Salt to taste
 
+## melanzane-nel-ragu-con-marsala
+**Melanzane nel Ragù con Marsala**
+
+- 1 1/2 cups extra-virgin olive oil
+- 2 globe eggplants, firm and glossy
+- 1/2 red onion, diced
+- 3/4 cup Salsa di Pomodoro Siciliana (page 430), with the addition of 3/4 cup chopped or torn fresh basil leaves
+- 1/3 cup dry Marsala or red wine
+- 2 cups water
+- 1/2 teaspoon sea salt
+- Pinch of sugar, optional
+
 ## millet-spring-greens-lemon-vinaigrette
 **Millet with Steamed Spring Greens and Lemon Vinaigrette**
 
@@ -1082,6 +1286,38 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 tablespoons chopped basil, dill and parsley (vinaigrette)
 - Ricotta salata and prosciutto, optional
 
+## minestra-coi-ceci
+**Minestra coi Ceci**
+
+- 2 1/2 cups (1 pound) dried chickpeas
+- 2 teaspoons baking soda
+- 3 tablespoons extra-virgin olive oil
+- 1 medium onion, diced
+- 2 garlic cloves, minced
+- 2 branches fresh rosemary
+- 1 tablespoon tomato paste, dissolved in a little warm water
+- Salt
+- Freshly ground black pepper
+- 4 cups chicken broth, or 4 chicken bouillon cubes dissolved in 4 cups hot water
+- 4 quarts water
+- 1 tablespoon coarse sea salt
+- 12 ounces quadrucci, pastine, or other tiny pasta
+- Freshly grated pecorino romano or Parmigiano-Reggiano cheese
+
+## minestrone-alla-genovese
+**Minestrone alla Genovese**
+
+- 350 g potatoes, peeled weight
+- 250 g young chard or other tender greens
+- 200 g dried beans
+- 150 g pumpkin, peeled weight
+- 1 small bunch borage, tender leaves
+- 30 g dried porcini mushrooms
+- 2 medium onions
+- 200 g pasta (scuccuzzù, ditalini, or broken spaghetti)
+- 3 heaping tablespoons pesto alla Genovese, preferably without pine nuts
+- Salt, to taste
+
 ## minty-lamb-meatballs-crispy-cabbage-tahini-sauce
 **Minty Lamb Meatballs with Crispy Cabbage & Tahini Sauce**
 
@@ -1096,6 +1332,18 @@ Auto-generated from recipe files. Do not edit manually.
 - 1/3 cup panko bread crumbs
 - 1/2 cup plus 2 tablespoons tahini
 - 1 1/2 teaspoons ground cumin
+
+## moms-canned-artichoke-pie
+**Mom's Canned Artichoke Pie**
+
+- 1 small onion, diced
+- Extra-virgin olive oil, for cooking
+- 2 (14-ounce) cans artichokes in water, drained and excess moisture pressed out in a clean, lint-free dishtowel
+- 7 large eggs
+- 1 pound regular-milk mozzarella, diced
+- 2 cups grated Parmesan
+- Garlic powder, for dusting
+- 2 store-bought disks refrigerated pie dough
 
 ## mushroom-marsala-pasta-bake
 **Mushroom Marsala Pasta Bake**
@@ -1199,6 +1447,21 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 cup chopped tomato
 - 1/4 cup water
 
+## orecchiette-e-broccoli-rape
+**Orecchiette e Broccoli Rape**
+
+- 1 to 1 1/2 pounds broccoli rabe
+- At least 4 quarts water
+- 1 tablespoon coarse sea salt
+- 1 pound orecchiette
+- 3 tablespoons extra-virgin olive oil
+- 3 large garlic cloves, minced
+- 6 anchovy fillets under oil, drained and minced; or 2 to 3 anchovies under salt, rinsed and minced
+- 1/4 teaspoon red pepper flakes or 1 fresh hot red pepper, minced
+- Salt
+- 3 to 4 tablespoons best-quality extra-virgin olive oil
+- 2 to 3 ounces ricotta salata cheese
+
 ## oven-roasted-tomato-sauce-salami-olives
 **Oven-Roasted Tomato Sauce with Salami, Olives, and Pecorino**
 
@@ -1257,6 +1520,22 @@ Auto-generated from recipe files. Do not edit manually.
 - ½ cup celery leaves, coarsely chopped (optional)
 - ⅓ cup parsley, coarsely chopped (optional)
 - Flaky sea salt, for garnish
+
+## pasta-salad-morty-d-mozz-pistachios
+**Pasta Salad with Morty-d, Mozz & Pistachios**
+
+- 2 lemons
+- 1 garlic clove
+- 1 cup basil leaves
+- 1 (1 1/2-ounce) piece Parmesan cheese (about 1/3 cup grated)
+- 12 ounces fresh buffalo mozzarella or burrata cheese
+- 8 ounces sliced mortadella, soppressata, or prosciutto
+- Kosher salt
+- 1 1/2 cups Castelvetrano olives
+- Freshly ground black pepper
+- 2/3 cup extra-virgin olive oil
+- 1 pound dried rigatoni
+- 2/3 cup roasted, salted pistachios
 
 ## pasta-with-tondini-beans
 **Pasta with Tondini Beans**
@@ -1333,6 +1612,26 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 луковицы, по 100 г (начинка)
 - 50 г сливочного масла (начинка)
 - яйцо для смазывания
+
+## pisarei-e-fasoi
+**Pisarei e Fasoi**
+
+- 2 cups (1 pound) dried borlotti or cranberry beans, or 1 (19-ounce) can Italian borlotti or cranberry beans, undrained (for bean sauce)
+- 10 cups water (for bean sauce)
+- 4 tablespoons unsalted butter (for bean sauce)
+- 1 small white onion, sliced extremely fine (for bean sauce)
+- 1/3 cup (2 ounces) minced pancetta, salt pork, or bacon (for bean sauce)
+- 1 cup meat broth, or 1 meat bouillon cube dissolved in 1 cup hot water (for bean sauce)
+- 2 teaspoons tomato paste, just enough to add color (for bean sauce)
+- 8 leaves fresh basil (for bean sauce)
+- 2 European bay leaves, preferably fresh; use only 1 bay leaf if using dried California bay (for bean sauce)
+- Substantial grindings of fresh black pepper (for bean sauce)
+- 1/2 scant cup fine dry bread crumbs (for pisarei)
+- About 3/4 cup very hot water (for pisarei)
+- 2 cups (10 ounces) unbleached all-purpose flour (for pisarei)
+- 1 egg (for pisarei)
+- At least 4 quarts water (for cooking)
+- 2 teaspoons salt (for cooking)
 
 ## poblano-stuffed-chorizo-shrimp-rice
 **Poblanos Stuffed with Chorizo, Shrimp and Rice**
@@ -1609,6 +1908,42 @@ Auto-generated from recipe files. Do not edit manually.
 - Hot sauce, for serving
 - Crackers, for serving
 
+## salsiccia-di-tacchino
+**Salsiccia di Tacchino**
+
+- 1 medium onion, diced
+- 2 medium garlic cloves, minced
+- 2 tablespoons extra-virgin olive oil
+- 3 pounds ground turkey
+- 4 ounces ground pork
+- 7 ounces ground veal
+- 1 scant cup (4 ounces) freshly grated Parmigiano-Reggiano cheese
+- 3 eggs, well beaten
+- 2 tablespoons finely chopped flat-leaf parsley
+- Grated zest of 1 1/2 lemons
+- 1 small carrot, diced
+- 50 pistachio nuts, shelled and toasted for 5 minutes in a 350°F oven
+- 4 ounces best-quality mortadella, cut in 1/4-inch-thick slices and diced
+- 2 teaspoons sea salt
+- Freshly ground black pepper
+- 3/4 teaspoon freshly grated nutmeg
+
+## salty-date-cheddar-biscuits
+**Salty Date & Cheddar Biscuits**
+
+- 1/2 cup (1 stick / 113 g) cold unsalted butter, plus more for serving
+- 6 ounces extra-sharp cheddar cheese
+- 1 cup plus 3 tablespoons sour cream
+- 1 egg
+- 6 ounces Medjool dates (about 1 cup)
+- 2 cups (240 g) all-purpose flour, plus more as needed
+- 2 tablespoons (24 g) sugar
+- 2 teaspoons (6 g) kosher salt
+- 1 1/2 teaspoons (6 g) baking powder
+- 1/2 teaspoon (3 g) baking soda
+- Freshly ground black pepper
+- Flaky sea salt
+
 ## savory-vegan-lasagna
 **Savory Vegan Lasagna**
 
@@ -1640,6 +1975,22 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 heaping tablespoon freshly ground black pepper
 - 1 heaping tablespoon onion powder
 
+## seaweed-sesame-pasta
+**Seaweed Sesame Pasta**
+
+- 1 lb spaghetti
+- 12–16 oz scallops or shrimp
+- 1/2 cup soy sauce (to add to pasta water)
+- 3 tbsp chili oil to cook seafood in (optional)
+- 1/8 tsp salt (optional; add to taste)
+- 0.6 oz roasted and seasoned seaweed
+- 5 tbsp roasted sesame seeds
+- 4 tbsp soy sauce
+- 6 tbsp sesame oil
+- 1 tbsp minced garlic
+- 2 egg yolks
+- 2 cups reserved pasta water
+
 ## sesame-ginger-dressing
 **Sesame Ginger Dressing**
 
@@ -1656,20 +2007,20 @@ Auto-generated from recipe files. Do not edit manually.
 ## shrimp-parm
 **Shrimp Parm**
 
-- 6 super colossal shrimp or 18 to 24 jumbo shrimp
-- 1 cup all purpose flour
+- 6 super-colossal shrimp or 18 to 24 jumbo shrimp
+- 1 cup all-purpose flour
 - 4 large eggs
 - 1 cup grated pecorino (preferably Locatelli)
-- 8 to 12 grinds of black pepper
-- 3 cups [seasoned italian bread crumbs](../seasoned-italian-breadcrumbs/recipe.md) ore [home-made sibs](../homemade-sibs/recipe.md)
-- 1/2 bunch fresh flat leaf parsley, roughly chopped
-- 1 1/2 cups grated parmesan
-- Extra virgin olive oil, for frying
-- 1 pint [8-hour marinara sauce](../8-hour-marinara/recipe.md)
+- 8 to 12 grinds freshly ground black pepper
+- 3 cups [seasoned Italian breadcrumbs](../seasoned-italian-breadcrumbs/recipe.md) or [homemade SIBS](../homemade-sibs/recipe.md)
+- 1/2 bunch fresh flat-leaf parsley, roughly chopped
+- 1 1/2 cups grated Parmesan
+- Extra-virgin olive oil, for frying
+- 1 pint [8-Hour Marinara Sauce](../8-hour-marinara/recipe.md)
 - 1 (8-ounce) ball fresh mozzarella
-- 2 tbsp dried sicillian oregano
-- 1 loaf italian bread, for serving
-- [Garlic butter](../garlic-butter/recipe.md), for serving
+- 2 tablespoons dried Sicilian oregano
+- 1 loaf Italian bread, for serving
+- [Garlic Butter](../garlic-butter/recipe.md), for serving
 
 ## skillet-braised-chicken-peppers-paprika
 **Easy Skillet Braised Chicken with Peppers and Paprika**
