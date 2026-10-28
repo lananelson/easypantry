@@ -95,6 +95,7 @@ export interface RecipeSummary {
   category: string;
   tags: string[];
   photos: RecipePhoto[];
+  photoUrl?: string;
   ingredients: string[];
   hasInstructions: boolean;
 }

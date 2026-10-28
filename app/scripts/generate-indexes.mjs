@@ -99,6 +99,7 @@ async function buildRecipeIndex() {
       // no media folder
     }
 
+    const photoUrl = frontmatterValue(md, "photo_url");
     const tagsRaw = frontmatterValue(md, "tags").replace(/^\[|\]$/g, "");
     const ingredients = sectionLines(md, "Ingredients")
       .filter((l) => l.trim().startsWith("- "))
@@ -115,6 +116,7 @@ async function buildRecipeIndex() {
         .map((t) => t.trim())
         .filter(Boolean),
       photos,
+      photoUrl: photoUrl || undefined,
       ingredients,
       hasInstructions,
     });

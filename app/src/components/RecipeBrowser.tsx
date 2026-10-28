@@ -134,15 +134,21 @@ export default function RecipeBrowser() {
                 className="card card-link recipe-card h-100"
                 href={`#/recipe/recipes/${r.slug}/recipe.md`}
               >
-                {r.photos.length > 0 ? (
+                {r.photos.length > 0 || r.photoUrl ? (
                   <img
                     className={`recipe-card-img ${
-                      r.photos[0].width > 0 && r.photos[0].width < SMALL_CARD_PHOTO
+                      r.photos.length > 0 &&
+                      r.photos[0].width > 0 &&
+                      r.photos[0].width < SMALL_CARD_PHOTO
                         ? "recipe-card-img-small"
                         : ""
                     }`}
                     style={{ background: tintFor(r.slug) }}
-                    src={recipePhotoUrl(r.slug, r.photos[0].file)}
+                    src={
+                      r.photos.length > 0
+                        ? recipePhotoUrl(r.slug, r.photos[0].file)
+                        : r.photoUrl
+                    }
                     alt=""
                     loading="lazy"
                   />

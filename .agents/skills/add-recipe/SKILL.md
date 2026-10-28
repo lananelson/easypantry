@@ -15,7 +15,7 @@ Never fabricate instructions. If the available source contains only part of the 
 
 1. Read `public/approved_tags.csv`.
 2. Choose a unique, readable, lowercase, dash-separated slug. Remove apostrophes and special characters, and keep the slug reasonably short.
-3. Create `public/recipes/<slug>/recipe.md`. Create `public/recipes/<slug>/media/` only when the recipe has media to store. Process photos may be placed directly inside the recipe flow with standard Markdown image syntax on their own line, for example `![Dough after folding](media/photo-02.jpg)`. Inline photos are rendered at that exact point in the recipe and are excluded from the separate lead/gallery photo set.
+3. Create `public/recipes/<slug>/recipe.md`. Create `public/recipes/<slug>/media/` only when the recipe has media to store. Process photos may be placed directly inside the recipe flow with standard Markdown image syntax on their own line, for example `![Dough after folding](media/photo-02.jpg)`. Source-hosted `https://...` image URLs are also supported when the image comes directly from the cited recipe source. Inline photos are rendered at that exact point in the recipe and local inline photos are excluded from the separate lead/gallery photo set. When a source provides a photographer credit, put `Credit: Name` on the line immediately after the image.
 4. Use the required frontmatter and heading structure below. Recipes do not use categories; classification is handled only by approved tags.
 5. Record the source in `## References`:
    - For a URL, include the source URL.
@@ -40,6 +40,9 @@ cook_time:
 servings:
 tags: []
 ayurvedic: []
+# Optional source-hosted lead photo and shared photo credit:
+# photo_url: https://...
+# photo_credit: Photographer Name
 ---
 
 ## Ingredients
