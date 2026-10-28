@@ -5,7 +5,6 @@ cook_time: 1 hour
 servings: 16
 tags: [breakfast, vegetarian, frozen meal prep]
 ayurvedic: []
-photo_url: https://www.seriouseats.com/thmb/j_yack8KHQugoCesiaesEWYWtoI%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29%3Aformat%28webp%29/20210511-Boreg-Andrew-Janjigian-seriouseats-25-a496890d995a4517a8fdd55b014d7b98.jpg
 photo_credit: Andrew Janjigian
 ---
 
@@ -35,29 +34,29 @@ photo_credit: Andrew Janjigian
 
 1. For the herb and cheese filling: In a medium bowl, combine feta, Muenster, goat cheese, herbs, scallions, eggs, and pepper, and toss gently to combine. Cover and set aside.
 
-![Herb and cheese filling ingredients](https://www.seriouseats.com/thmb/fbWgwfnWm-MqQAMWL-p3mKS_k28%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29%3Aformat%28webp%29/20210511-Boreg-Andrew-Janjigian-seriouseats-579d623f689c418d98aede7e044dd2b0.jpg)
+![Herb and cheese filling ingredients](media/photo-02.jpg)
 Credit: Andrew Janjigian
 
 2. For the spinach, herb, and cheese filling: Wrap spinach in a clean kitchen towel or double layer of paper towels and squeeze to remove excess moisture (you should end up with about 6 ounces (170 g) spinach). Transfer to a medium bowl, along with feta, goat cheese, herbs, scallions, eggs, salt, and pepper, and toss gently to combine. Cover and set aside.
 3. For the boreks: Adjust oven rack to middle position and preheat oven to 350°F (190°C). Using a sharp knife, cut stack of phyllo sheets in half to form eighteen 13- by 9-inch sheets. Stack together and cover with a sheet of parchment and a clean kitchen towel.
 
-![Phyllo sheets cut and kept covered](https://www.seriouseats.com/thmb/ZiFP1lGMeIrL1O6pQ5_Fs6-KyPE%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29%3Aformat%28webp%29/20210511-Boreg-Andrew-Janjigian-seriouseats-step3-7c30681e2b3f4f1a8916b0d400ddc22a.jpg)
+![Phyllo sheets cut and kept covered](media/photo-03.jpg)
 Credit: Andrew Janjigian
 
 4. In a small saucepan, melt butter over medium heat and cook, swirling pan frequently and taking care not to let butter solids brown (lower heat as needed to medium-low if butter begins to pop and brown), until foaming subsides (an indication that water has been driven off), about 5 to 7 minutes. Remove from heat.
 5. Remove one phyllo sheet from stack and transfer to clean work surface, with the long end of the sheet running parallel to edge of counter. Working lengthwise, brush half of phyllo sheet that is closest to you lightly but evenly with butter. Fold sheet in half toward you lengthwise, covering the buttered portion of dough. Rotate sheet 90 degrees so short side now faces you, and brush entire surface of sheet lightly but evenly with butter.
 
-![Buttering and folding a phyllo sheet](https://www.seriouseats.com/thmb/nqj3N-iysd4762N7OutxjN9hkZA%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29%3Aformat%28webp%29/20210511-Boreg-Andrew-Janjigian-seriouseats-step5-ee0caf27a6064cdab430fcd8b1785b70.jpg)
+![Buttering and folding a phyllo sheet](media/photo-04.jpg)
 Credit: Andrew Janjigian
 
 6. Using a 1/4 cup measure, place a scant 3 tablespoons (40 g) filling on the bottom left-hand corner of sheet, about one inch from the bottom edge. Using a spoon, form filling into a rough triangle with its long edge (hypotenuse) facing the bottom right edge of the phyllo. Lift the bottom right corner of the phyllo and fold it over the filling and gently press to form a right triangle. Continue folding up and over, like folding a flag, until you reach the end of phyllo strip. Using a sharp knife, trim off any overhanging phyllo. Brush top of triangle with butter and transfer to a parchment-lined rimmed baking sheet, seam side down. Sprinkle with about 1/4 teaspoon seed mixture.
 
-![Folding the filled phyllo into a triangle](https://www.seriouseats.com/thmb/Rkjd7_pgn4fc7l-uFqtlmvaPbVw%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29%3Aformat%28webp%29/20210511-Boreg-Andrew-Janjigian-seriouseats-step6-17a9aac030304a379c5f6e4bd6e1f619.jpg)
+![Folding the filled phyllo into a triangle](media/photo-05.jpg)
 Credit: Andrew Janjigian
 
 7. Repeat borek-forming process with remaining phyllo and filling, arranging boreks in pairs with long edges facing each other, so that they form two rows of eight boreks.
 
-![Assembled boreks before baking](https://www.seriouseats.com/thmb/mYDmkubWfAoXS671oBlrOqayY3g%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29%3Aformat%28webp%29/20210511-Boreg-Andrew-Janjigian-seriouseats-23-6320cf27a90a46cc9d90c76b25724be2.jpg)
+![Assembled boreks before baking](media/photo-06.jpg)
 Credit: Andrew Janjigian
 
 8. Bake until golden and crisp, 20 to 23 minutes, rotating baking sheet halfway through baking. Transfer baking sheet to wire rack and let boreks cool at least 5 minutes before serving. Serve.
