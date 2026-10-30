@@ -5,7 +5,7 @@
     "source": "Parm to Table",
     "sourceKind": "book",
     "author": "Christian Petroni",
-    "references": "Source: *Parm to Table* Author: Christian Petroni Page: 16 Photo: media/8_hour_marinara_sauce_photo.jpg",
+    "references": "Source: *Parm to Table* Author: Christian Petroni Page: 16 Online: https://www.goodmorningamerica.com/food/story/christian-petroni-recipes-parm-table-cookbook-125705017 Photo: media/8_hour_marinara_sauce_photo.jpg",
     "tags": [
       "vegan",
       "vegetarian",
@@ -15,8 +15,8 @@
     "photos": [
       {
         "file": "8_hour_marinara_sauce_photo.jpg",
-        "width": 1080,
-        "height": 1440
+        "width": 992,
+        "height": 1240
       }
     ],
     "ingredients": [
@@ -2966,6 +2966,36 @@
       "1/2 cup (50 grams) finely grated parmesan cheese",
       "4 ounces (115 grams) mozzarella, cut into small cubes",
       "3 tablespoons chopped fresh flat-leaf parsley"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "neapolitan-eggplant-parm",
+    "title": "Neapolitan Eggplant Parm",
+    "source": "Parm to Table",
+    "sourceKind": "book",
+    "author": "Christian Petroni",
+    "references": "Source: *Parm to Table* Author: Christian Petroni Online: https://www.goodmorningamerica.com/food/story/christian-petroni-recipes-parm-table-cookbook-125705017",
+    "tags": [
+      "vegetarian"
+    ],
+    "photos": [
+      {
+        "file": "neapolitan_eggplant_parm_photo.jpg",
+        "width": 992,
+        "height": 1213
+      }
+    ],
+    "ingredients": [
+      "3 large eggplants",
+      "1 cup kosher salt, for sprinkling",
+      "Extra-virgin olive oil, for frying, plus more for drizzling",
+      "3/4 cup all-purpose flour",
+      "2 tablespoons freshly ground pepper",
+      "1 quart [8-hour Marinara](../8-hour-marinara/recipe.md)",
+      "1 chunk Parmigiano-Reggiano (the size of a large orange)",
+      "1 basil plant from the supermarket",
+      "Special equipment: a deep-fry thermometer"
     ],
     "hasInstructions": true
   },

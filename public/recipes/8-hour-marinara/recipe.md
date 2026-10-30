@@ -5,6 +5,7 @@ cook_time: 8 hours
 servings: about 3 1/4 quarts
 tags: [vegan, vegetarian, low & slow, condiment]
 ayurvedic: [warming, pitta-aggravating, rajasic]
+photo_credit: Tom McGovern
 ---
 
 ## Ingredients
@@ -41,4 +42,5 @@ ayurvedic: [warming, pitta-aggravating, rajasic]
 - Source: *Parm to Table*
 - Author: Christian Petroni
 - Page: 16
+- Online: https://www.goodmorningamerica.com/food/story/christian-petroni-recipes-parm-table-cookbook-125705017
 - Photo: media/8_hour_marinara_sauce_photo.jpg

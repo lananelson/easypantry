@@ -488,9 +488,10 @@ function extractInlineRecipePhotoFiles(text: string): Set<string> {
 }
 
 function renderInline(text: string) {
-  // Enough inline Markdown for recipe text: [label](url), bare URLs, **bold**, *italic*.
+  // Enough inline Markdown for recipe text: [label](url), links to other recipes
+  // as [label](../slug/recipe.md), bare URLs, **bold**, *italic*.
   const inlineRegex =
-    /\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)|(https?:\/\/[^\s<>()]*[^\s<>().,;:!?])|\*\*([^*]+)\*\*|\*([^*\s][^*]*)\*/g;
+    /\[([^\]]+)\]\((https?:\/\/[^)\s]+|\.\.\/[a-z0-9-]+\/recipe\.md)\)|(https?:\/\/[^\s<>()]*[^\s<>().,;:!?])|\*\*([^*]+)\*\*|\*([^*\s][^*]*)\*/g;
   const parts: (string | ReactNode)[] = [];
   let lastIndex = 0;
   let match: RegExpExecArray | null;
@@ -501,7 +502,14 @@ function renderInline(text: string) {
     }
     const key = `inline-${match.index}`;
     const [, label, labelUrl, bareUrl, bold, italic] = match;
-    if (labelUrl || bareUrl) {
+    const recipeSlug = labelUrl?.match(/^\.\.\/([a-z0-9-]+)\/recipe\.md$/)?.[1];
+    if (recipeSlug) {
+      parts.push(
+        <a key={key} href={`#/recipe/recipes/${recipeSlug}/recipe.md`}>
+          {label}
+        </a>
+      );
+    } else if (labelUrl || bareUrl) {
       parts.push(
         <a key={key} href={labelUrl || bareUrl} target="_blank" rel="noopener noreferrer">
           {label || bareUrl}

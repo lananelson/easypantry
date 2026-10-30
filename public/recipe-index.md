@@ -1379,6 +1379,19 @@ Auto-generated from recipe files. Do not edit manually.
 - 4 ounces (115 grams) mozzarella, cut into small cubes
 - 3 tablespoons chopped fresh flat-leaf parsley
 
+## neapolitan-eggplant-parm
+**Neapolitan Eggplant Parm**
+
+- 3 large eggplants
+- 1 cup kosher salt, for sprinkling
+- Extra-virgin olive oil, for frying, plus more for drizzling
+- 3/4 cup all-purpose flour
+- 2 tablespoons freshly ground pepper
+- 1 quart [8-hour Marinara](../8-hour-marinara/recipe.md)
+- 1 chunk Parmigiano-Reggiano (the size of a large orange)
+- 1 basil plant from the supermarket
+- Special equipment: a deep-fry thermometer
+
 ## neapolitan-escarole-bean-soup
 **Neapolitan Escarole Bean Soup**
 
