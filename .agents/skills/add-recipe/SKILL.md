@@ -15,7 +15,7 @@ Never fabricate instructions. If the available source contains only part of the 
 
 1. Read `public/approved_tags.csv`.
 2. Choose a unique, readable, lowercase, dash-separated slug. Remove apostrophes and special characters, and keep the slug reasonably short.
-3. Create `public/recipes/<slug>/recipe.md`. Create `public/recipes/<slug>/media/` only when the recipe has media to store. Process photos may be placed directly inside the recipe flow with standard Markdown image syntax on their own line, for example `![Dough after folding](media/photo-02.jpg)`. Source-hosted `https://...` image URLs are also supported when the image comes directly from the cited recipe source. Inline photos are rendered at that exact point in the recipe and local inline photos are excluded from the separate lead/gallery photo set. When a source provides a photographer credit, put `Credit: Name` on the line immediately after the image.
+3. Create `public/recipes/<slug>/recipe.md`. Create `public/recipes/<slug>/media/` only when the recipe has media to store. Process photos may be placed directly inside the recipe flow with standard Markdown image syntax on their own line, for example `![Dough after folding](media/photo-02.jpg)`. Store every photo locally in the recipe's `media/` folder and reference it by that local path. **Do not hotlink or embed an image from a third-party website — including the source recipe's own image CDN.** Hotlinking or scraping another site's images is an anti-pattern: the URLs are unstable, frequently hotlink-protected, and are often reachable only by spoofing headers or otherwise circumventing a bot check, which is off-limits. When a recipe needs photos and none are stored locally, **ask the user to provide them** (they can save the images and drop them into the recipe's `media/` folder); do not fetch them from another site. Inline photos are rendered at that exact point in the recipe and local inline photos are excluded from the separate lead/gallery photo set. When a source provides a photographer credit, put `Credit: Name` on the line immediately after the image.
 4. Use the required frontmatter and heading structure below. Recipes do not use categories; classification is handled only by approved tags.
 5. Record the source in `## References`:
    - For a URL, include the source URL.
@@ -30,7 +30,7 @@ Never fabricate instructions. If the available source contains only part of the 
 
 ## Required format
 
-Use only level-2 headings. Required headings, in order, are `## Ingredients`, `## Instructions`, and `## References`. Optional `## My Notes` and `## Notes` belong between Instructions and References, in that order. Preserve additional source-authored level-2 sections such as `## Make-Ahead and Storage` when they are part of the source. `## My Notes` holds only the user's own words: tweaks, memories, where they first had it. Add other text there only when the user asks for it. `## Notes` holds notes that came with the source. Use inline parenthetical notes for ingredient groupings instead of subsections.
+Use only level-2 headings. Required headings, in order, are `## Ingredients`, `## Instructions`, and `## References`. Optional `## My Notes` and `## Notes` belong between Instructions and References, in that order. Preserve additional source-authored level-2 sections such as `## Make-Ahead and Storage` when they are part of the source. `## My Notes` holds only the user's own words: tweaks, memories, where they first had it. Add other text there only when the user asks for it. `## Notes` holds notes that came with the source. List ingredients as one plain list in the source's order. Do not label which component each ingredient is for — no parenthetical notes such as `(for the sauce)` or `(filling)` and no `Group:` prefixes; they add noise, and the instructions already say what goes where.
 
 ```markdown
 ---
@@ -40,8 +40,7 @@ cook_time:
 servings:
 tags: []
 ayurvedic: []
-# Optional source-hosted lead photo and shared photo credit:
-# photo_url: https://...
+# Optional shared photo credit for photos stored locally in media/:
 # photo_credit: Photographer Name
 ---
 
