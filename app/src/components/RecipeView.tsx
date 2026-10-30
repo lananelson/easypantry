@@ -1,5 +1,5 @@
 import { recipeVideo } from "../utils/recipeVideo";
-import { RecipeVideoPlayer } from "./RecipeVideo";
+import { RecipeVideoPlayer, RecipeVideoModal } from "./RecipeVideo";
 import { useEffect, useState } from "react";
 import type { ReactNode } from "react";
 import { loadRecipeIndex, recipePhotoUrl } from "../utils/dataLoader.js";
@@ -22,6 +22,7 @@ export default function RecipeView({ path }: RecipeViewProps) {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [photos, setPhotos] = useState<RecipePhoto[]>([]);
+  const [watching, setWatching] = useState(false);
   const [lightbox, setLightbox] = useState<number | null>(null);
 
   const slug = path.match(/^recipes\/([^/]+)\//)?.[1];
@@ -82,6 +83,9 @@ export default function RecipeView({ path }: RecipeViewProps) {
     lead.width >= HERO_MIN_WIDTH &&
     lead.height > 0 &&
     lead.width / lead.height >= HERO_MIN_ASPECT;
+  const hasVideo = !!recipeVideo(slug ?? "");
+  const hasPhoto = !!lead || !!remoteLeadUrl;
+  const inlineVideo = hasVideo && !hasPhoto;
   const sidePhoto = (!!lead && !leadIsHero) || (!lead && !!remoteLeadUrl);
 
   const servings = frontmatterValue(content, "servings");
@@ -100,6 +104,7 @@ export default function RecipeView({ path }: RecipeViewProps) {
 
   return (
     <div className="recipe-view">
+      {watching && slug && <RecipeVideoModal slug={slug} onClose={() => setWatching(false)} />}
       <a
         href="#"
         className="text-muted d-inline-block mb-3"
@@ -138,6 +143,7 @@ export default function RecipeView({ path }: RecipeViewProps) {
                   ))}
                 </div>
               )}
+              {hasVideo && hasPhoto && <button className="shop-link recipe-watch-button" onClick={() => setWatching(true)}>▶ Watch recipe</button>}
               {tags.length > 0 && (
                 <div className="recipe-tags">
                   {tags.map((tag) => (
@@ -195,9 +201,9 @@ export default function RecipeView({ path }: RecipeViewProps) {
             </div>
           )}
           {!loading && !error && content && (
-            <div className={recipeVideo(slug ?? "") ? "recipe-with-video" : ""}>
+            <div className={inlineVideo ? "recipe-with-video" : ""}>
               <div className="markdown-body">{renderMarkdownRecipe(content, slug ?? "", photos, setLightbox)}</div>
-              {recipeVideo(slug ?? "") && <aside className="recipe-video-aside"><h3>Watch recipe</h3><RecipeVideoPlayer slug={slug!}/></aside>}
+              {inlineVideo && <aside className="recipe-video-aside"><h3>Watch recipe</h3><RecipeVideoPlayer slug={slug!}/></aside>}
             </div>
           )}
 

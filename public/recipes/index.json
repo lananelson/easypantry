@@ -39,11 +39,17 @@
     "source": "Personal & clippings",
     "sourceKind": "personal",
     "author": "",
-    "references": "Source: Personal note in Evernote (2018)",
+    "references": "Source: Personal note in Evernote (2018) Photo: media/photo-01.webp (provided by Lana)",
     "tags": [
       "vegetarian"
     ],
-    "photos": [],
+    "photos": [
+      {
+        "file": "photo-01.webp",
+        "width": 0,
+        "height": 0
+      }
+    ],
     "ingredients": [
       "Beets",
       "Kale",
@@ -2212,7 +2218,7 @@
     "source": "Yoko's Kitchen",
     "sourceKind": "web",
     "author": "Yoko Segawa",
-    "references": "Source: https://yokoskitchen.com/kabocha-squash-miso-soup/ Author: Yoko Segawa Video saved in camera roll.",
+    "references": "Source: https://yokoskitchen.com/kabocha-squash-miso-soup/ Author: Yoko Segawa Video saved in camera roll. TikTok recipe: https://www.tiktok.com/@yokoskitchen/video/7700324050664459533",
     "tags": [
       "one-pot",
       "pescatarian"
@@ -2862,7 +2868,7 @@
     "source": "BOSH!",
     "sourceKind": "web",
     "author": "BOSH! (Henry Firth and Ian Theasby)",
-    "references": "Source: https://bosh.tv/recipes/miso-mushroom-pie Author: BOSH! (Henry Firth and Ian Theasby) Video saved in camera roll.",
+    "references": "Source: https://bosh.tv/recipes/miso-mushroom-pie Author: BOSH! (Henry Firth and Ian Theasby) Video saved in camera roll. TikTok recipe: https://www.tiktok.com/@bosh.tv/video/7554691925974994198",
     "tags": [
       "vegan",
       "vegetarian"
@@ -4686,13 +4692,13 @@
     ],
     "photos": [
       {
-        "file": "photo-01.jpg",
-        "width": 612,
+        "file": "photo-02.jpg",
+        "width": 1200,
         "height": 1600
       },
       {
-        "file": "photo-02.jpg",
-        "width": 1200,
+        "file": "photo-01.jpg",
+        "width": 612,
         "height": 1600
       }
     ],
@@ -4896,7 +4902,7 @@
     "source": "Plant-Based RD",
     "sourceKind": "web",
     "author": "Catherine Perez",
-    "references": "Source: https://plantbasedrdblog.com/2026/09/zucchini-pancakes/ Author: Catherine Perez",
+    "references": "Source: https://plantbasedrdblog.com/2026/09/zucchini-pancakes/ Author: Catherine Perez TikTok recipe: https://www.tiktok.com/@plantbasedrd/video/7681871082306948366",
     "tags": [
       "vegan",
       "vegetarian"
@@ -5419,20 +5425,15 @@
   },
   {
     "slug": "toplyonoye-moloko-baked-milk",
-    "title": "Топлёное молоко — Baked Milk",
+    "title": "Топлёное молоко (Baked Milk)",
     "source": "Lyukum Cooking Lab",
     "sourceKind": "web",
     "author": "Katya Lyukum",
-    "references": "Source: Lyukum Cooking Lab (July 2017) — https://lyukum.net/recipe/baked-milk-pryazhene-moloko-toplyonoye-moloko/ Author: Katya Lyukum Photos: media/photo-01.jpg … media/photo-07.jpg (from the blog); media/photo-08.jpg (your own)",
+    "references": "Source: Lyukum Cooking Lab (July 2017) — https://lyukum.net/recipe/baked-milk-pryazhene-moloko-toplyonoye-moloko/ Author: Katya Lyukum Photos: media/photo-02.jpg … media/photo-07.jpg (from the blog); media/photo-08.jpg (your own)",
     "tags": [
       "vegetarian"
     ],
     "photos": [
-      {
-        "file": "photo-01.jpg",
-        "width": 300,
-        "height": 144
-      },
       {
         "file": "photo-02.jpg",
         "width": 600,

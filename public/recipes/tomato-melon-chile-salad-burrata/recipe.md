@@ -1,5 +1,6 @@
 ---
 title: Tomato, Melon, and Hot Chile Salad with Burrata
+thumbnail: photo-02.jpg
 prep_time: 15 minutes
 cook_time:
 servings: 4

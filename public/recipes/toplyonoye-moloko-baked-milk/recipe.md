@@ -1,5 +1,5 @@
 ---
-title: Топлёное молоко — Baked Milk
+title: Топлёное молоко (Baked Milk)
 prep_time: 5 minutes
 cook_time: 8-12 hours (slow cooker) or about 2 hours plus keep-warm (pressure cooker)
 servings: 2 quarts
@@ -34,4 +34,4 @@ ayurvedic: [vata-balancing, pitta-balancing, nourishing, heavy, sweet]
 
 - Source: Lyukum Cooking Lab (July 2017) — https://lyukum.net/recipe/baked-milk-pryazhene-moloko-toplyonoye-moloko/
 - Author: Katya Lyukum
-- Photos: media/photo-01.jpg … media/photo-07.jpg (from the blog); media/photo-08.jpg (your own)
+- Photos: media/photo-02.jpg … media/photo-07.jpg (from the blog); media/photo-08.jpg (your own)

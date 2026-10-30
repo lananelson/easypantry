@@ -38,3 +38,5 @@ ayurvedic: [tridoshic-base, grounding, digestive-ginger]
 ## References
 
 - Source: Personal note in Evernote (2018)
+
+- Photo: media/photo-01.webp (provided by Lana)

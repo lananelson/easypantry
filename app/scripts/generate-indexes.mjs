@@ -196,6 +196,9 @@ async function buildRecipeIndex() {
       // no media folder
     }
 
+    const thumbnail = frontmatterValue(md, "thumbnail");
+    if (thumbnail) photos.sort((a, b) => Number(b.file === thumbnail) - Number(a.file === thumbnail));
+
     const photoUrl = frontmatterValue(md, "photo_url");
     const tagsRaw = frontmatterValue(md, "tags").replace(/^\[|\]$/g, "");
     const ingredients = sectionLines(md, "Ingredients")

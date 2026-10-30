@@ -1,9 +1,18 @@
 interface RecipeVideo {
   id: string;
   author: string;
-  coverFile: string;
+  coverFile?: string;
 }
 const videos: Record<string, RecipeVideo> = {
+  'miso-mushroom-pie': {
+    id: '7554691925974994198', author: '@bosh.tv',
+  },
+  'kabocha-squash-miso-soup': {
+    id: '7700324050664459533', author: '@yokoskitchen', coverFile: 'kabocha-squash-miso-soup.jpg',
+  },
+  'zucchini-pancakes': {
+    id: '7681871082306948366', author: '@plantbasedrd', coverFile: 'zucchini-pancakes.jpg',
+  },
   'farinata-caramelized-onions-tomatoes-butter-beans': {
     id: '7689796740723084566', author: '@adip_food', coverFile: 'farinata.jpg',
   },
@@ -20,6 +29,6 @@ export function recipeVideo(slug: string) {
   return {
     ...video,
     url: `https://www.tiktok.com/${video.author}/video/${video.id}`,
-    cover: `${import.meta.env.BASE_URL}video-covers/${video.coverFile}`,
+    cover: video.coverFile ? `${import.meta.env.BASE_URL}video-covers/${video.coverFile}` : undefined,
   };
 }

@@ -28,3 +28,5 @@ ayurvedic: [warming, grounding, heavy]
 
 - Source: https://plantbasedrdblog.com/2026/09/zucchini-pancakes/
 - Author: Catherine Perez
+
+- TikTok recipe: https://www.tiktok.com/@plantbasedrd/video/7681871082306948366
