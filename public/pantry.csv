@@ -1,7 +1,7 @@
 name,category,quantity,unit,container_state,location,perishable,urgency,vendor,stock_requirement,notes
 Carrots,produce,0,medium,,fridge,yes,medium,,,
 Lemons,produce,1,each,,fridge,yes,medium,,keep in stock,
-Garlic,produce,0.5,bulb,,pantry,yes,medium,,keep in stock,
+Garlic,produce,0,bulb,,pantry,yes,medium,,keep in stock,
 Tahini,fermented pastes,1,jar,open,fridge,no,low,,keep in stock,"Sesame paste"
 Miso paste,fermented pastes,1,container,sealed,fridge,no,low,,,
 Beef tallow,oils & fats,1,jar,open,fridge,no,low,,,"Cooking fat"
