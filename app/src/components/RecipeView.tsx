@@ -488,28 +488,31 @@ function extractInlineRecipePhotoFiles(text: string): Set<string> {
 }
 
 function renderInline(text: string) {
-  // Very small helper to auto-link bare URLs like https://...
-  const urlRegex = /(https?:\/\/[^\s]+)/g;
+  // Enough inline Markdown for recipe text: [label](url), bare URLs, **bold**, *italic*.
+  const inlineRegex =
+    /\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)|(https?:\/\/[^\s<>()]*[^\s<>().,;:!?])|\*\*([^*]+)\*\*|\*([^*\s][^*]*)\*/g;
   const parts: (string | ReactNode)[] = [];
   let lastIndex = 0;
   let match: RegExpExecArray | null;
 
-  while ((match = urlRegex.exec(text)) !== null) {
-    const url = match[1];
+  while ((match = inlineRegex.exec(text)) !== null) {
     if (match.index > lastIndex) {
       parts.push(text.slice(lastIndex, match.index));
     }
-    parts.push(
-      <a
-        key={`link-${lastIndex}-${match.index}`}
-        href={url}
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        {url}
-      </a>
-    );
-    lastIndex = match.index + url.length;
+    const key = `inline-${match.index}`;
+    const [, label, labelUrl, bareUrl, bold, italic] = match;
+    if (labelUrl || bareUrl) {
+      parts.push(
+        <a key={key} href={labelUrl || bareUrl} target="_blank" rel="noopener noreferrer">
+          {label || bareUrl}
+        </a>
+      );
+    } else if (bold) {
+      parts.push(<strong key={key}>{bold}</strong>);
+    } else {
+      parts.push(<em key={key}>{italic}</em>);
+    }
+    lastIndex = match.index + match[0].length;
   }
 
   if (lastIndex < text.length) {

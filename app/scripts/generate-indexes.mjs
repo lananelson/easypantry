@@ -69,6 +69,103 @@ function sectionLines(md, name) {
   return out;
 }
 
+/** Friendly names for sites whose domain doesn't read well on its own. */
+const SITE_NAMES = {
+  "seriouseats.com": "Serious Eats",
+  "bosh.tv": "BOSH!",
+  "yokoskitchen.com": "Yoko's Kitchen",
+  "feedthepudge.com": "Feed the Pudge",
+  "happybaes.com": "Happy Baes",
+  "minimalistbaker.com": "Minimalist Baker",
+  "thekitchn.com": "The Kitchn",
+  "thefirstmess.com": "The First Mess",
+  "veganricha.com": "Vegan Richa",
+  "shesimmers.com": "She Simmers",
+  "frenchrevolutionfood.com": "French Revolution Food",
+  "pardonyourfrench.com": "Pardon Your French",
+  "plantbasedrdblog.com": "Plant-Based RD",
+  "veganamericanprincess.com": "Vegan American Princess",
+  "caffecolcioccolato.blogspot.com": "Caffè col Cioccolato",
+  "simplyrecipes.com": "Simply Recipes",
+  "blue-kitchen.com": "Blue Kitchen",
+  "smittenkitchen.com": "Smitten Kitchen",
+  "belonika.livejournal.com": "Belonika (LiveJournal)",
+};
+const WEBSITE_NAMES = new Set([
+  ...Object.values(SITE_NAMES),
+  "NYT Cooking",
+  "BBC Good Food",
+  "Letty's Kitchen",
+  "Cooking Light",
+  "Food Network",
+  "Food Network Magazine",
+  "Bon Appétit",
+  "Food52",
+]);
+const PERSONAL = "Personal & clippings";
+
+/** Short display name: no "Adapted from", dates, notes, or long subtitles. */
+function cleanSourceName(name) {
+  let s = name.replace(/^(adapted from|from)\s+/i, "").split(/\s+\(|,\s/)[0].trim();
+  const colon = s.indexOf(": ");
+  // "Cook This Book: Techniques…" -> "Cook This Book", but keep "Dinner: Changing the Game"
+  if (colon > 0 && s.slice(0, colon).trim().split(/\s+/).length >= 2) s = s.slice(0, colon);
+  return s.trim();
+}
+
+function kindOf(name, fallback) {
+  return WEBSITE_NAMES.has(name) ? "web" : fallback;
+}
+
+function referenceValue(md, key) {
+  const line = sectionLines(md, "References").find((l) =>
+    l.trim().startsWith(`- ${key}:`)
+  );
+  return line ? line.trim().slice(key.length + 3).trim() : "";
+}
+
+function siteName(host) {
+  host = host.replace(/^www\./, "").toLowerCase();
+  if (SITE_NAMES[host]) return SITE_NAMES[host];
+  const base = host.split(".")[0];
+  return base.charAt(0).toUpperCase() + base.slice(1);
+}
+
+/**
+ * One short, filterable source per recipe ("Cook This Book", "Serious Eats",
+ * "Personal & clippings"), derived from the free-text References "Source:" line.
+ */
+function deriveSource(md) {
+  let s = referenceValue(md, "Source")
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1") // [Name](url) -> Name
+    .replace(/[<>]/g, "");
+  if (!s) return { source: "", sourceKind: "" };
+
+  const italic = s.match(/\*([^*]+)\*/);
+  if (italic) return { source: cleanSourceName(italic[1]), sourceKind: "book" };
+  if (/serious\s*eats/i.test(s)) return { source: "Serious Eats", sourceKind: "web" };
+  if (/tiktok/i.test(s)) return { source: "TikTok", sourceKind: "web" };
+  if (/instagram/i.test(s)) return { source: "Instagram", sourceKind: "web" };
+
+  const url = s.match(/https?:\/\/([^/\s)]+)/);
+  if (/^https?:\/\//.test(s)) return { source: siteName(url[1]), sourceKind: "web" };
+  const named = s.match(/^(.+?)\s+—\s+https?:\/\//);
+  if (named) return { source: cleanSourceName(named[1]), sourceKind: "web" };
+
+  if (/^(personal|user recipe|traditional|classic recipe|created by)|clipping|evernote \(\d{4}\)$/i.test(s) &&
+      !/\bby\b/.test(s) && !/^smitten|^six seasons|^seriously/i.test(s)) {
+    return { source: PERSONAL, sourceKind: "personal" };
+  }
+
+  const byAuthor = s.match(/^(.+?)\s+by\s+[A-Z]/);
+  if (byAuthor) return { source: cleanSourceName(byAuthor[1]), sourceKind: "book" };
+
+  const base = cleanSourceName(s);
+  if (/^[\w.-]+\.[a-z]{2,}$/i.test(base)) return { source: siteName(base), sourceKind: "web" };
+  if (/^bagel rising$/i.test(base)) return { source: base, sourceKind: "personal" };
+  return { source: base, sourceKind: kindOf(base, "book") };
+}
+
 /** One entry per recipe folder: enough for browsing, searching and photos. */
 async function buildRecipeIndex() {
   const recipesDir = path.join(PUBLIC_DIR, "recipes");
@@ -108,9 +205,18 @@ async function buildRecipeIndex() {
       /^\d+\./.test(l.trim())
     );
 
+    const { source, sourceKind } = deriveSource(md);
+
     recipes.push({
       slug,
       title: frontmatterValue(md, "title") || slug,
+      source,
+      sourceKind,
+      author: referenceValue(md, "Author"),
+      references: sectionLines(md, "References")
+        .filter((l) => l.trim().startsWith("- "))
+        .map((l) => l.trim().slice(2))
+        .join(" "),
       tags: tagsRaw
         .split(",")
         .map((t) => t.trim())

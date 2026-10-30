@@ -93,6 +93,12 @@ export interface RecipePhoto {
 export interface RecipeSummary {
   slug: string;
   title: string;
+  /** Short source derived from References, e.g. "Cook This Book", "Serious Eats". */
+  source?: string;
+  sourceKind?: "book" | "web" | "personal" | "";
+  author?: string;
+  /** All References lines joined, for search. */
+  references?: string;
   tags: string[];
   photos: RecipePhoto[];
   photoUrl?: string;

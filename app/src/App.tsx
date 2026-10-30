@@ -122,7 +122,9 @@ function App() {
             ) : (
               <>
                 {activeSection === "pantry" && <Pantry />}
-                {activeSection === "meals" && <MealPlans />}
+                {activeSection === "meals" && (
+                  <MealPlans onOpenShopping={() => setActiveSection("shopping")} />
+                )}
                 {activeSection === "shopping" && <ShoppingLists />}
                 {activeSection === "recipes" && <RecipeBrowser />}
               </>
