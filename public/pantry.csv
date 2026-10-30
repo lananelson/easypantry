@@ -1,7 +1,7 @@
 name,category,quantity,unit,container_state,location,perishable,urgency,vendor,stock_requirement,notes
-Carrots,produce,0,medium,,fridge,yes,medium,,,
+Carrots,produce,0.78,lb,,fridge,yes,medium,,,
 Lemons,produce,1,each,,fridge,yes,medium,,keep in stock,
-Garlic,produce,0,bulb,,pantry,yes,medium,,keep in stock,
+Garlic,produce,1,bulb,,pantry,yes,medium,,keep in stock,
 Tahini,fermented pastes,1,jar,open,fridge,no,low,,keep in stock,"Sesame paste"
 Miso paste,fermented pastes,1,container,sealed,fridge,no,low,,,
 Beef tallow,oils & fats,1,jar,open,fridge,no,low,,,"Cooking fat"
@@ -88,7 +88,7 @@ Soy sauce (less-sodium),asian sauces,2,quarts,sealed,garage,no,low,,,"Single 2-q
 Extra virgin olive oil,oils & fats,1,bottle,sealed,pantry,no,low,Graza,keep in stock,"Sizzle"
 Premium oyster sauce,asian sauces,32,oz,sealed,garage,no,low,,,"Large bottle"
 San Marzano whole peeled tomatoes,canned goods,2,containers,sealed,garage,no,low,Costco,keep in stock,
-Coconut milk,canned goods,1,can,sealed,garage,no,low,,,"Standard coconut milk can"
+Coconut milk,canned goods,7,cans,sealed,garage,no,low,,,Standard coconut milk can
 Di Bari Organic Pasta From Italy assortment,pasta,4,bags,open,garage,no,low,,,"Regional pasta assortment; 4 of 6 bags remaining"
 Fettuccine,pasta,500,grams,sealed,garage,no,low,,,"Dry pasta"
 Organic black pepper barilotti pasta,pasta,1,bag,sealed,pantry,no,low,Trader Joe's,,
@@ -96,7 +96,7 @@ Beef tallow (sealed),oils & fats,400,grams,sealed,garage,no,low,,,"Sealed jar; g
 All-purpose flour,baking,2,pounds,open,pantry,no,low,,,"Plain flour"
 Dried bread cubes,baking,,,,pantry,no,low,,,
 Dutch process cocoa powder,baking,1,container,open,pantry,no,low,,,"purchased 2021"
-Eggs,dairy,12,each,,fridge,yes,medium,,keep in stock,
+Eggs,dairy,24,each,,fridge,yes,medium,,keep in stock,
 Anchovy fillets,seafood,1,jar,open,,no,low,,keep in stock,
 Coriander seeds,spices,1,jar,,pantry,no,low,,keep in stock,
 Parmesan,cheese,0,oz,open,fridge,yes,medium,,,
@@ -134,14 +134,14 @@ Harissa,fermented pastes,1,jar,sealed,pantry,no,low,,,"Tunisian harissa"
 Fig spread,preserved foods,0.9,jar,open,fridge,yes,medium,,,"Almost full"
 Pistachios,nuts,30,oz,,pantry,no,low,,,"Roasted, salted"
 Zucchini,produce,0,each,,fridge,yes,medium,,,
-Cilantro,produce,0,bunch,,fridge,yes,medium,,,
-Dill,produce,0,bunch,,fridge,yes,medium,,,
-Potatoes,produce,0,each,,pantry,yes,low,,,
-Dubliner cheese,cheese,0,block,opened,fridge,yes,medium,Costco,,
+Cilantro,produce,1,bunch,,fridge,yes,medium,,,
+Dill,produce,1,bunch,,fridge,yes,medium,,,
+Red potatoes,produce,10,lb,,pantry,yes,low,Costco,,
+Dubliner cheese,cheese,1,block,sealed,fridge,yes,low,Costco,,
 Tempeh,prepared foods,2,blocks,,fridge,yes,medium,,,
 Vegan sausage,prepared foods,8,oz,open,fridge,yes,medium,,,
 Sauerkraut,preserved vegetables,1,container,,fridge,yes,low,,,
-Onion,produce,0,each,,pantry,yes,low,,,Large
+Onion,produce,0.9,lb,,pantry,yes,low,,,Yellow
 Granulated sugar,sweeteners,2,cups,,pantry,no,low,,,
 Pickled red onions,preserved vegetables,1.5,cups,,fridge,yes,medium,,,"Homemade 2026-09-20"
 Scuccuzzù pasta,pasta,500,grams,sealed,pantry,no,low,Italian Harvest,,"Organic Ligurian pasta; Alta Valle Scrivia; 15-minute cooking time"
@@ -153,3 +153,28 @@ Coconut water,beverages,1,container,sealed,pantry,no,low,Harmless Harvest,,
 Bartlett pears,produce,0.9,lb,,pantry,yes,medium,,,
 Prepared horseradish,condiments,1,jar,sealed,fridge,yes,medium,Bubbies,,
 Smoked provolone slices,cheese,1,package,sealed,fridge,yes,medium,Violife,,
+Whole milk,dairy,0.5,gallon,sealed,fridge,yes,medium,Berkeley Bowl,,Clover Sonoma organic
+Fish sauce (premium),asian sauces,1,bottle,sealed,pantry,no,low,Berkeley Bowl,,Son
+Chicken thighs (boneless skinless),poultry,1,pack,sealed,fridge,yes,medium,Costco,,Organic
+Turkey breast (oven-browned),poultry,1,breast,sealed,fridge,yes,medium,Costco,,Fully cooked
+Petrale sole,seafood,1,package,sealed,fridge,yes,high,Costco,,
+Whole milk yogurt,dairy,2,containers,sealed,fridge,yes,medium,Costco,,Bellwether Farms organic a2; 32 oz each
+Feta,cheese,14,oz,sealed,fridge,yes,low,Costco,,Valbreso French sheep's milk
+Silken tofu,prepared foods,1,package,sealed,fridge,yes,medium,Berkeley Bowl,,
+Shiitake mushrooms,produce,1,container,,fridge,yes,medium,Costco,,Organic
+Summer squash,produce,3.5,lb,,fridge,yes,medium,Costco,,Organic
+Grape tomatoes,produce,2,lb,,fridge,yes,medium,Costco,,
+Arugula,produce,10,oz,,fridge,yes,high,Costco,,Organic
+Raspberries,produce,1,container,,fridge,yes,high,Costco,,Organic
+Asian pears,produce,3.5,lb,,fridge,yes,medium,Costco,,
+Guava,produce,0.66,lb,,fridge,yes,medium,Berkeley Bowl,,
+Green onions,produce,1,bunch,,fridge,yes,medium,Berkeley Bowl,,
+Argentine red shrimp,seafood,2,lb,frozen,freezer,yes,low,Costco,,"Kirkland; raw, peeled, tail-off"
+Frozen cut spinach,produce,3,lb,frozen,freezer,yes,low,Berkeley Bowl,,Woodstock organic
+Fillo sheets,baking,1,box,frozen,freezer,yes,low,Berkeley Bowl,,Organic
+Kabocha squash,produce,3.48,lb,,pantry,yes,low,Berkeley Bowl,,
+Shallots,produce,2,lb,,pantry,yes,low,Costco,,
+Avocado,produce,1,each,,pantry,yes,medium,Berkeley Bowl,,
+Sardines,canned goods,6,cans,sealed,pantry,no,low,Costco,,Wild Planet in olive oil; 4.4 oz each
+Rice vermicelli,pasta,1,package,sealed,pantry,no,low,Berkeley Bowl,,
+Roasted seaweed snacks,dried ingredients,10,packs,sealed,pantry,no,low,Berkeley Bowl,,Organic

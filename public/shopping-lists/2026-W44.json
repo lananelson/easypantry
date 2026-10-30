@@ -2,8 +2,8 @@
   "title": "Week 44 (Oct 26-Nov 1, 2026)",
   "week": "2026-W44",
   "created": "2026-10-28",
-  "status": "active",
-  "completed_date": null,
+  "status": "completed",
+  "completed_date": "2026-10-30",
   "items": [
     { "name": "Shrimp or scallops (12–16 oz)", "for": ["Seaweed Sesame Pasta"] },
     { "name": "Roasted seasoned seaweed", "for": ["Seaweed Sesame Pasta"] },
