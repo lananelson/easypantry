@@ -25,10 +25,6 @@ ayurvedic: []
 4. Use a small sieve and chopsticks to stir miso into the soup. Taste and add more miso to your liking. Rewarm gently if necessary. Do not boil after adding miso.
 5. Divide into serving bowls and top with scallions.
 
-## My Notes
-
-- Video saved in camera roll.
-
 ## Notes
 
 - The source offers traditional or vegan dashi packets. Vegetable broth can replace dashi if unavailable.
@@ -39,3 +35,4 @@ ayurvedic: []
 
 - Source: https://yokoskitchen.com/kabocha-squash-miso-soup/
 - Author: Yoko Segawa
+- Video saved in camera roll.

@@ -313,25 +313,25 @@ Auto-generated from recipe files. Do not edit manually.
 ## borek-armenian-spinach-cheese-turnovers
 **Borek (Armenian Spinach and Cheese Turnovers)**
 
-- 8 ounces (225 g) Greek feta, crumbled (herb and cheese filling)
-- 4 ounces (115 g) Muenster or Monterey Jack cheese, shredded (herb and cheese filling)
-- 2 1/2 ounces (70 g) fresh goat cheese, crumbled (herb and cheese filling)
-- 1/2 cup chopped mixed tender herbs and tender stems (about 2 ounces; 60 g), such as dill, parsley, mint, and cilantro (herb and cheese filling)
-- 4 scallions (2 ounces; 60 g), thinly sliced (1/2 cup) (herb and cheese filling)
-- 2 large eggs (110 g), lightly beaten (herb and cheese filling)
-- 1/4 teaspoon freshly ground black pepper (herb and cheese filling)
-- 10 ounces (285 g) frozen chopped spinach, thawed (spinach filling)
-- 8 ounces (225 g) Greek feta, crumbled (spinach filling)
-- 2 1/2 ounces (70 g) fresh goat cheese, crumbled (spinach filling)
-- 2 ounces (1 packed cup; 60 g) chopped mixed tender herbs and tender stems, such as dill, parsley, mint, and cilantro (about 2 packed cups picked herbs before chopping) (spinach filling)
-- 4 scallions (2 ounces; 60 g), thinly sliced (1/2 cup) (spinach filling)
-- 2 large eggs (110 g), lightly beaten (spinach filling)
-- 1/4 teaspoon Diamond Crystal kosher salt; for table salt use half as much by volume (spinach filling)
-- 1/4 teaspoon freshly ground black pepper (spinach filling)
-- 9 (13- by 18-inch) sheets phyllo dough, thawed and rested at room temperature for 30 minutes (to assemble)
-- 10 tablespoons (5 ounces; 140 g) unsalted butter (to assemble)
-- 1 tablespoon hulled sesame seeds (to assemble)
-- 1 teaspoon nigella seeds (optional; see notes) (to assemble)
+- 8 ounces (225 g) Greek feta, crumbled
+- 4 ounces (115 g) Muenster or Monterey Jack cheese, shredded
+- 2 1/2 ounces (70 g) fresh goat cheese, crumbled
+- 1/2 cup chopped mixed tender herbs and tender stems (about 2 ounces; 60 g), such as dill, parsley, mint, and cilantro
+- 4 scallions (2 ounces; 60 g), thinly sliced (1/2 cup)
+- 2 large eggs (110 g), lightly beaten
+- 1/4 teaspoon freshly ground black pepper
+- 10 ounces (285 g) frozen chopped spinach, thawed
+- 8 ounces (225 g) Greek feta, crumbled
+- 2 1/2 ounces (70 g) fresh goat cheese, crumbled
+- 2 ounces (1 packed cup; 60 g) chopped mixed tender herbs and tender stems, such as dill, parsley, mint, and cilantro (about 2 packed cups picked herbs before chopping)
+- 4 scallions (2 ounces; 60 g), thinly sliced (1/2 cup)
+- 2 large eggs (110 g), lightly beaten
+- 1/4 teaspoon Diamond Crystal kosher salt; for table salt use half as much by volume
+- 1/4 teaspoon freshly ground black pepper
+- 9 (13- by 18-inch) sheets phyllo dough, thawed and rested at room temperature for 30 minutes
+- 10 tablespoons (5 ounces; 140 g) unsalted butter
+- 1 tablespoon hulled sesame seeds
+- 1 teaspoon nigella seeds (optional; see notes)
 
 ## borscht
 **Борщ — Borscht**
@@ -1332,6 +1332,24 @@ Auto-generated from recipe files. Do not edit manually.
 - 1/3 cup panko bread crumbs
 - 1/2 cup plus 2 tablespoons tahini
 - 1 1/2 teaspoons ground cumin
+
+## miso-mushroom-pie
+**Miso Mushroom Pie**
+
+- 3 tbsp olive oil
+- 1 leek
+- 300g shiitake mushrooms
+- 500g chestnut mushrooms
+- 500g oyster mushrooms
+- 6 cloves of garlic
+- 8 sprigs of thyme
+- 1 tbsp soy sauce
+- Salt and pepper to taste
+- 150g cashew nuts
+- 200ml plant-based milk
+- 2 tbsp miso paste
+- 750g puff pastry
+- 15ml plant-based milk
 
 ## moms-canned-artichoke-pie
 **Mom's Canned Artichoke Pie**

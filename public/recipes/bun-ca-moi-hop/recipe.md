@@ -50,11 +50,8 @@ ayurvedic: []
 6. Boil rice vermicelli in 3 quarts salted water according to package instructions. Drain, rinse with cold water and toss with oil.
 7. Serve noodles with cabbage, lettuce, broth, fish balls and sardines. Garnish with green onions, cilantro, fried shallots, pepper and lime.
 
-## My Notes
-
-- TikTok video saved in camera roll.
-
 ## References
 
 - Source: https://feedthepudge.com/bun-ca-moi-hop-canned-sardine-noodle-soup/
 - Author: Ken Tran
+- TikTok video saved in camera roll.

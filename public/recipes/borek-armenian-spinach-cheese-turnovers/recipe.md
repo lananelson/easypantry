@@ -10,25 +10,25 @@ photo_credit: Andrew Janjigian
 
 ## Ingredients
 
-- 8 ounces (225 g) Greek feta, crumbled (herb and cheese filling)
-- 4 ounces (115 g) Muenster or Monterey Jack cheese, shredded (herb and cheese filling)
-- 2 1/2 ounces (70 g) fresh goat cheese, crumbled (herb and cheese filling)
-- 1/2 cup chopped mixed tender herbs and tender stems (about 2 ounces; 60 g), such as dill, parsley, mint, and cilantro (herb and cheese filling)
-- 4 scallions (2 ounces; 60 g), thinly sliced (1/2 cup) (herb and cheese filling)
-- 2 large eggs (110 g), lightly beaten (herb and cheese filling)
-- 1/4 teaspoon freshly ground black pepper (herb and cheese filling)
-- 10 ounces (285 g) frozen chopped spinach, thawed (spinach filling)
-- 8 ounces (225 g) Greek feta, crumbled (spinach filling)
-- 2 1/2 ounces (70 g) fresh goat cheese, crumbled (spinach filling)
-- 2 ounces (1 packed cup; 60 g) chopped mixed tender herbs and tender stems, such as dill, parsley, mint, and cilantro (about 2 packed cups picked herbs before chopping) (spinach filling)
-- 4 scallions (2 ounces; 60 g), thinly sliced (1/2 cup) (spinach filling)
-- 2 large eggs (110 g), lightly beaten (spinach filling)
-- 1/4 teaspoon Diamond Crystal kosher salt; for table salt use half as much by volume (spinach filling)
-- 1/4 teaspoon freshly ground black pepper (spinach filling)
-- 9 (13- by 18-inch) sheets phyllo dough, thawed and rested at room temperature for 30 minutes (to assemble)
-- 10 tablespoons (5 ounces; 140 g) unsalted butter (to assemble)
-- 1 tablespoon hulled sesame seeds (to assemble)
-- 1 teaspoon nigella seeds (optional; see notes) (to assemble)
+- 8 ounces (225 g) Greek feta, crumbled
+- 4 ounces (115 g) Muenster or Monterey Jack cheese, shredded
+- 2 1/2 ounces (70 g) fresh goat cheese, crumbled
+- 1/2 cup chopped mixed tender herbs and tender stems (about 2 ounces; 60 g), such as dill, parsley, mint, and cilantro
+- 4 scallions (2 ounces; 60 g), thinly sliced (1/2 cup)
+- 2 large eggs (110 g), lightly beaten
+- 1/4 teaspoon freshly ground black pepper
+- 10 ounces (285 g) frozen chopped spinach, thawed
+- 8 ounces (225 g) Greek feta, crumbled
+- 2 1/2 ounces (70 g) fresh goat cheese, crumbled
+- 2 ounces (1 packed cup; 60 g) chopped mixed tender herbs and tender stems, such as dill, parsley, mint, and cilantro (about 2 packed cups picked herbs before chopping)
+- 4 scallions (2 ounces; 60 g), thinly sliced (1/2 cup)
+- 2 large eggs (110 g), lightly beaten
+- 1/4 teaspoon Diamond Crystal kosher salt; for table salt use half as much by volume
+- 1/4 teaspoon freshly ground black pepper
+- 9 (13- by 18-inch) sheets phyllo dough, thawed and rested at room temperature for 30 minutes
+- 10 tablespoons (5 ounces; 140 g) unsalted butter
+- 1 tablespoon hulled sesame seeds
+- 1 teaspoon nigella seeds (optional; see notes)
 
 ## Instructions
 
@@ -43,6 +43,7 @@ photo_credit: Andrew Janjigian
 
 ## Notes
 
+- The recipe gives two filling options — herb and cheese, or spinach, herb, and cheese. Make one; either fills all 16 boreks.
 - You can substitute a variety of tender, fresh greens, such as spinach, watercress, arugula, Swiss chard, or beet greens, for the frozen spinach. To do so, wash 10 gently packed cups chopped mixed fresh greens and tender stems (about 15 ounces; 430 g) and place in a medium microwave-safe bowl along with 1/4 cup (60 ml) water. Cover and microwave on high power until greens have wilted and decreased in volume by about half, 3 to 5 minutes. Keep covered for 1 minute, then uncover and let cool slightly. Once cool enough to handle, chop fine, and squeeze dry in a clean kitchen towel. You will need 7 to 8 ounces (200–225 g) cooked, drained greens for the filling; set aside any excess for another use.
 - Each borek calls for about 3 tablespoons (40 g) of filling. Use a spoon and a 1/4 cup measure to transfer the filling to the strip of dough.
 - Rewarm the butter as needed to keep it melted so it's easy to brush onto phyllo.
