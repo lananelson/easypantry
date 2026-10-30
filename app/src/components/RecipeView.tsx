@@ -436,7 +436,7 @@ function renderMarkdownRecipe(
     }
 
     // Photos are shown as a gallery; the reference line is just bookkeeping.
-    if (/^[-*]\s+Photos:/.test(trimmed)) continue;
+    if (/^[-*]\s+Photos?:/.test(trimmed)) continue;
 
     const ulMatch = trimmed.match(/^[-*]\s+(.+)/);
     if (ulMatch) {

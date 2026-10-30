@@ -5,6 +5,7 @@ cook_time:
 servings: 4
 tags: []
 ayurvedic: [warming, heavy, hard-to-digest, gas-producing, kapha-aggravating, rajasic, tamasic]
+photo_credit: Crate & Barrel
 ---
 
 ## Ingredients

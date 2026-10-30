@@ -568,7 +568,13 @@
       "dessert",
       "vegetarian"
     ],
-    "photos": [],
+    "photos": [
+      {
+        "file": "black_sesame_shortbread_photo.jpg",
+        "width": 800,
+        "height": 800
+      }
+    ],
     "ingredients": [
       "10 tablespoons (1 1/4 sticks / 142 g) unsalted butter",
       "1 1/2 cups (180 g) all-purpose flour",
@@ -1053,8 +1059,8 @@
     "photos": [
       {
         "file": "chorizo_chickpea_carbonara_photo.jpg",
-        "width": 1206,
-        "height": 1608
+        "width": 800,
+        "height": 800
       }
     ],
     "ingredients": [

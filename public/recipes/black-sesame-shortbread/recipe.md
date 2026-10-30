@@ -5,6 +5,7 @@ cook_time:
 servings: 16 cookies
 tags: [dessert, vegetarian]
 ayurvedic: [heavy, grounding, kapha-aggravating]
+photo_credit: Crate & Barrel
 ---
 
 ## Ingredients
