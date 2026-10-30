@@ -80,6 +80,21 @@ export default function RecipeView({ path }: RecipeViewProps) {
     lead.width >= HERO_MIN_WIDTH &&
     lead.height > 0 &&
     lead.width / lead.height >= HERO_MIN_ASPECT;
+  const sidePhoto = (!!lead && !leadIsHero) || (!lead && !!remoteLeadUrl);
+
+  const servings = frontmatterValue(content, "servings");
+  const prepTime = frontmatterValue(content, "prep_time");
+  const cookTime = frontmatterValue(content, "cook_time");
+  const meta = [
+    servings && `Serves ${servings}`,
+    prepTime && `Prep ${prepTime}`,
+    cookTime && `Cook ${cookTime}`,
+  ].filter((item): item is string => !!item);
+  const tags = frontmatterValue(content, "tags")
+    .replace(/^\[|\]$/g, "")
+    .split(",")
+    .map((tag) => tag.trim())
+    .filter(Boolean);
 
   return (
     <div className="recipe-view">
@@ -96,7 +111,7 @@ export default function RecipeView({ path }: RecipeViewProps) {
       </a>
       <div className="card">
         {leadIsHero && (
-          <>
+          <figure className="recipe-hero-figure">
             <img
               className="recipe-hero"
               src={photoUrl(lead)}
@@ -106,13 +121,33 @@ export default function RecipeView({ path }: RecipeViewProps) {
               }
             />
             {photoCredit && (
-              <div className="text-muted small px-3 pt-2">Credit: {photoCredit}</div>
+              <figcaption className="recipe-credit">{photoCredit}</figcaption>
             )}
-          </>
+          </figure>
         )}
         <div className="card-body recipe-body">
+          <header className={`recipe-header${sidePhoto ? " has-photo" : ""}`}>
+            <div>
+              <h1 className="recipe-title">{title}</h1>
+              {meta.length > 0 && (
+                <div className="recipe-meta">
+                  {meta.map((item) => (
+                    <span key={item}>{item}</span>
+                  ))}
+                </div>
+              )}
+              {tags.length > 0 && (
+                <div className="recipe-tags">
+                  {tags.map((tag) => (
+                    <span key={tag} className="recipe-tag">
+                      {tag}
+                    </span>
+                  ))}
+                </div>
+              )}
+            </div>
           {lead && !leadIsHero && (
-            <figure className="mb-3">
+            <figure className="recipe-lead-figure">
               <img
                 className="recipe-lead-small"
                 src={photoUrl(lead)}
@@ -127,14 +162,12 @@ export default function RecipeView({ path }: RecipeViewProps) {
                 }
               />
               {photoCredit && (
-                <figcaption className="text-muted small mt-1">
-                  Credit: {photoCredit}
-                </figcaption>
+                <figcaption className="recipe-credit">{photoCredit}</figcaption>
               )}
             </figure>
           )}
           {!lead && remoteLeadUrl && (
-            <figure className="mb-3">
+            <figure className="recipe-lead-figure">
               <img
                 className="recipe-lead-small"
                 src={remoteLeadUrl}
@@ -142,13 +175,11 @@ export default function RecipeView({ path }: RecipeViewProps) {
                 style={{ maxWidth: `${SIDE_PHOTO_MAX_WIDTH}px`, width: "100%" }}
               />
               {photoCredit && (
-                <figcaption className="text-muted small mt-1">
-                  Credit: {photoCredit}
-                </figcaption>
+                <figcaption className="recipe-credit">{photoCredit}</figcaption>
               )}
             </figure>
           )}
-          <h1 className="recipe-title">{title}</h1>
+          </header>
           {loading && (
             <div className="text-center my-4">
               <div className="spinner-border" role="status">
@@ -276,10 +307,12 @@ function renderMarkdownRecipe(
   // "## My Notes" is the owner's own voice; collect it into a styled block.
   let out = elements;
   let myNotes: ReactNode[] | null = null;
+  // "My Notes" is the owner's voice; render it as a callout at the very bottom.
+  let myNotesBlock: ReactNode = null;
   const closeMyNotes = () => {
     if (myNotes) {
-      elements.push(
-        <div key={`notes-${key++}`} className="my-notes">
+      myNotesBlock = (
+        <div key="my-notes" className="my-notes">
           {myNotes}
         </div>
       );
@@ -433,6 +466,7 @@ function renderMarkdownRecipe(
   flushParagraph();
   flushList();
   closeMyNotes();
+  if (myNotesBlock) elements.push(myNotesBlock);
 
   if (elements.length === 0) {
     return <pre className="mb-0">{text}</pre>;

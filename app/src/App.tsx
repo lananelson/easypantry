@@ -54,6 +54,17 @@ function App() {
       {(
         <header className="navbar navbar-expand-md d-print-none">
           <div className="container-xl">
+            <a
+              className="navbar-brand brand-mark"
+              href="#"
+              onClick={(e) => {
+                e.preventDefault();
+                setActiveSection("recipes");
+                if (isRecipeRoute) window.location.hash = "";
+              }}
+            >
+              EasyPantry
+            </a>
             {/* BEGIN NAVBAR TOGGLER */}
             <button
               className="navbar-toggler"
