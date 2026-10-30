@@ -32,3 +32,5 @@ ayurvedic: [warming, heavy, pitta-aggravating, rajasic]
 ## References
 
 - Source: @flavorsbyyulia on TikTok
+
+- TikTok recipe: https://www.tiktok.com/@flavorsbyyulia/video/7620907171764505887

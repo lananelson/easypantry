@@ -1,3 +1,5 @@
+import { recipeVideo } from "../utils/recipeVideo";
+import { RecipeVideoPlayer } from "./RecipeVideo";
 import { useEffect, useState } from "react";
 import type { ReactNode } from "react";
 import { loadRecipeIndex, recipePhotoUrl } from "../utils/dataLoader.js";
@@ -193,8 +195,9 @@ export default function RecipeView({ path }: RecipeViewProps) {
             </div>
           )}
           {!loading && !error && content && (
-            <div className="markdown-body">
-              {renderMarkdownRecipe(content, slug ?? "", photos, setLightbox)}
+            <div className={recipeVideo(slug ?? "") ? "recipe-with-video" : ""}>
+              <div className="markdown-body">{renderMarkdownRecipe(content, slug ?? "", photos, setLightbox)}</div>
+              {recipeVideo(slug ?? "") && <aside className="recipe-video-aside"><h3>Watch recipe</h3><RecipeVideoPlayer slug={slug!}/></aside>}
             </div>
           )}
 

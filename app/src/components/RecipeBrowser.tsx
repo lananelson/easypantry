@@ -1,3 +1,5 @@
+import { recipeVideo } from "../utils/recipeVideo";
+import { RecipeVideoModal } from "./RecipeVideo";
 import { useEffect, useMemo, useState } from "react";
 import type { RecipeSummary } from "../types.js";
 import { loadRecipeIndex, recipePhotoUrl } from "../utils/dataLoader.js";
@@ -37,6 +39,7 @@ function stored(key: string): string {
 }
 
 export default function RecipeBrowser() {
+  const [watching, setWatching] = useState<string | null>(null);
   const [recipes, setRecipes] = useState<RecipeSummary[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -144,6 +147,7 @@ export default function RecipeBrowser() {
 
   return (
     <div className="recipe-browser">
+      {watching && <RecipeVideoModal slug={watching} onClose={()=>setWatching(null)}/>}
       <div className="recipe-browser-head">
         <div>
           <h2 className="page-title mb-1">Recipes</h2>
@@ -273,11 +277,10 @@ export default function RecipeBrowser() {
         <div className="row row-cards">
           {visible.map((r) => (
             <div className="col-6 col-md-4 col-xl-3" key={r.slug}>
-              <a
-                className="card card-link recipe-card h-100"
-                href={`#/recipe/recipes/${r.slug}/recipe.md`}
-              >
-                {r.photos.length > 0 || r.photoUrl ? (
+              <div className="card card-link recipe-card h-100">
+                <div className="recipe-card-media">
+                <a href={`#/recipe/recipes/${r.slug}/recipe.md`} aria-label={r.title}>
+                {r.photos.length > 0 || r.photoUrl || recipeVideo(r.slug) ? (
                   <img
                     className={`recipe-card-img ${
                       r.photos.length > 0 &&
@@ -290,7 +293,7 @@ export default function RecipeBrowser() {
                     src={
                       r.photos.length > 0
                         ? recipePhotoUrl(r.slug, r.photos[0].file)
-                        : r.photoUrl
+                        : r.photoUrl || recipeVideo(r.slug)?.cover
                     }
                     alt=""
                     loading="lazy"
@@ -303,7 +306,10 @@ export default function RecipeBrowser() {
                     {r.title.charAt(0)}
                   </div>
                 )}
-                <div className="card-body p-3">
+                </a>
+                {recipeVideo(r.slug) && <button className="recipe-video-watch" onClick={()=>setWatching(r.slug)} aria-label={`Watch ${r.title}`}>▶ Watch</button>}
+                </div>
+                <a href={`#/recipe/recipes/${r.slug}/recipe.md`} className="card-body p-3" style={{color:'inherit',textDecoration:'none'}}>
                   <div className="recipe-card-title">{r.title}</div>
                   {r.source && (
                     <div className="recipe-card-source">
@@ -313,8 +319,8 @@ export default function RecipeBrowser() {
                   {!r.hasInstructions && (
                     <div className="text-muted small mt-1">ingredients only</div>
                   )}
-                </div>
-              </a>
+                </a>
+              </div>
             </div>
           ))}
         </div>

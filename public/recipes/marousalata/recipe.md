@@ -31,3 +31,5 @@ ayurvedic: [cooling, light, vata-aggravating, pitta-aggravating]
 ## References
 
 - Source: @creamy_confusion on TikTok
+
+- TikTok recipe: https://www.tiktok.com/@creamy_confusion/video/7617418772823002388
