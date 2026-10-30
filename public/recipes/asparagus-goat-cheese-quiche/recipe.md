@@ -10,11 +10,11 @@ photo_url: https://i0.wp.com/www.pardonyourfrench.com/wp-content/uploads/2021/03
 
 ## Ingredients
 
-- 2 cups (260g) all-purpose flour (crust)
-- 1 tsp salt (crust)
-- 2/3 cup (150g) chilled unsalted butter, cubed (crust)
-- 5 tbsp (75ml) cold water (crust)
-- 1 tbsp (14g) butter (filling)
+- 2 cups (260g) all-purpose flour
+- 1 tsp salt
+- 2/3 cup (150g) chilled unsalted butter, cubed
+- 5 tbsp (75ml) cold water
+- 1 tbsp (14g) butter
 - 1 shallot, peeled and diced
 - 1 small bunch (200g) asparagus, stemmed and cut into 1.5-inch pieces
 - 4 large eggs

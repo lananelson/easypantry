@@ -10,7 +10,7 @@ ayurvedic: [warming, grounding, gas-producing, vata-aggravating]
 ## Ingredients
 
 - 200 g tondini (round) beans, dried
-- For the sauté: 1 carrot, 1 stalk celery, 1 onion
+- 1 carrot, 1 stalk celery, 1 onion
 - 1 tomato, chopped
 - 200 g wholemeal pasta (shape of your choice)
 - Extra virgin olive oil

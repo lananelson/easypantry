@@ -9,23 +9,23 @@ ayurvedic: [heating, pitta-aggravating, kapha-balancing, stimulates-agni]
 
 ## Ingredients
 
-- 3/4 pound skinless salmon fillet (fish rub)
-- 1/4 teaspoon salt (fish rub)
-- 1/4 teaspoon ground turmeric (fish rub)
-- 1/4 teaspoon cayenne powder (fish rub)
-- 1 tablespoon ground mustard (sauce)
-- 1/4 to 1/2 teaspoon cayenne pepper, depending on spice preference (sauce)
-- 1/4 teaspoon ground turmeric (sauce)
-- 1/4 teaspoon salt (sauce)
-- 2 tablespoons mustard oil or extra-virgin olive oil (sauce)
-- 1/4 teaspoon whole mustard seeds, brown or yellow (sauce)
-- 1/4 teaspoon whole cumin seeds (sauce)
-- 1/4 teaspoon whole fennel seeds (sauce)
-- 2 hot green chilies, slit slightly (sauce)
+- 3/4 pound skinless salmon fillet
+- 1/4 teaspoon salt
+- 1/4 teaspoon ground turmeric
+- 1/4 teaspoon cayenne powder
+- 1 tablespoon ground mustard
+- 1/4 to 1/2 teaspoon cayenne pepper, depending on spice preference
+- 1/4 teaspoon ground turmeric
+- 1/4 teaspoon salt
+- 2 tablespoons mustard oil or extra-virgin olive oil
+- 1/4 teaspoon whole mustard seeds, brown or yellow
+- 1/4 teaspoon whole cumin seeds
+- 1/4 teaspoon whole fennel seeds
+- 2 hot green chilies, slit slightly
 
 ## Instructions
 
-1. Fish rub: Cut the fish into 2-inch by 1-inch pieces and transfer to a medium dish. Combine the rub ingredients and sprinkle over the fish. Cover and refrigerate for 30 minutes to 10 hours.
+1. Fish rub: Cut the fish into 2-inch by 1-inch pieces and transfer to a medium dish. Combine the salt, turmeric, and cayenne powder and sprinkle over the fish. Cover and refrigerate for 30 minutes to 10 hours.
 2. Mustard sauce: Combine the mustard powder, cayenne, turmeric, and salt in a small bowl. Add one tablespoon of water and mix well. Then add another 7 tablespoons of water and mix again. Set aside.
 3. Pour the oil into a large skillet over medium-high heat. When shimmering, add the mustard seeds. Cook until they begin to pop, just a few seconds. Add the cumin and fennel seeds. Stir well, then add the mustard sauce and the chiles. It should begin boiling immediately. Reduce heat to maintain a bare simmer, and stir well.
 4. Add the fish pieces in a single layer. Simmer gently until cooked through, about five minutes, continuously spooning the sauce over the pieces.

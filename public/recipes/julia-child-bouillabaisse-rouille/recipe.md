@@ -25,14 +25,14 @@ ayurvedic: [heating, pitta-aggravating, heavy]
 - 1½ lbs. scrubbed, debearded mussels and/or clams
 - Minced parsley, for garnish
 - Toasted rustic bread
-- 1 red bell pepper, roasted, peeled (rouille)
-- 1 roasted hot red chile pepper or ground cayenne pepper, to taste (rouille)
-- 1 Tbsp fresh lemon juice (rouille)
-- 1 small garlic clove, peeled (rouille)
-- ¼ cup fresh breadcrumbs or finely chopped almonds (rouille)
-- ¼ cup fresh parsley leaves (rouille)
-- ½ tsp (or to taste) fine sea salt (rouille)
-- 1/3 cup extra-virgin olive oil (rouille)
+- 1 red bell pepper, roasted, peeled
+- 1 roasted hot red chile pepper or ground cayenne pepper, to taste
+- 1 Tbsp fresh lemon juice
+- 1 small garlic clove, peeled
+- ¼ cup fresh breadcrumbs or finely chopped almonds
+- ¼ cup fresh parsley leaves
+- ½ tsp (or to taste) fine sea salt
+- 1/3 cup extra-virgin olive oil
 
 ## Instructions
 

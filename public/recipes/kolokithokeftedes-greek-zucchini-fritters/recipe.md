@@ -9,21 +9,21 @@ ayurvedic: [cooling, heavy, grounding, kapha-aggravating]
 
 ## Ingredients
 
-- 3 cups packed, grated zucchini (from about 6 large zucchini) (fritters)
-- 6 tablespoons dill, chopped (fritters)
-- 1 bunch (about 8) scallions, white and light green parts finely chopped (fritters)
-- 1/2 teaspoon nutmeg (fritters)
-- 1 1/2 cups crumbled feta (fritters)
-- 4 large eggs, lightly beaten (fritters)
-- 1 cup flour, plus more if needed (fritters)
-- Salt and pepper (fritters)
-- 4 tablespoons olive oil (fritters)
-- 2 cups greek yogurt (tzatziki)
-- 1 clove of garlic, minced (tzatziki)
-- 1/2 cup grated, peeled cucumber (tzatziki)
-- 1 teaspoon red wine vinegar or lemon juice (tzatziki)
-- 1 tablespoon extra virgin olive oil (tzatziki)
-- Salt and pepper (tzatziki)
+- 3 cups packed, grated zucchini (from about 6 large zucchini)
+- 6 tablespoons dill, chopped
+- 1 bunch (about 8) scallions, white and light green parts finely chopped
+- 1/2 teaspoon nutmeg
+- 1 1/2 cups crumbled feta
+- 4 large eggs, lightly beaten
+- 1 cup flour, plus more if needed
+- Salt and pepper
+- 4 tablespoons olive oil
+- 2 cups greek yogurt
+- 1 clove of garlic, minced
+- 1/2 cup grated, peeled cucumber
+- 1 teaspoon red wine vinegar or lemon juice
+- 1 tablespoon extra virgin olive oil
+- Salt and pepper
 
 ## Instructions
 

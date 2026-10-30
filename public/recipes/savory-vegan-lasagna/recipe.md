@@ -23,9 +23,9 @@ ayurvedic: [heavy, grounding, gas-producing, kapha-aggravating, pitta-aggravatin
 - 2 lbs. mushrooms, sliced
 - 1/4 cup low-sodium tamari or soy sauce
 - 1 large onion, finely diced
-- 1 cup raw almonds or cashews (faux parmesan)
-- 1/2 cup nutritional yeast (faux parmesan)
-- 1 tbsp salt-free Italian seasoning (faux parmesan)
+- 1 cup raw almonds or cashews
+- 1/2 cup nutritional yeast
+- 1 tbsp salt-free Italian seasoning
 
 ## Instructions
 

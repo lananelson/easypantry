@@ -23,10 +23,10 @@ ayurvedic: [heavy, sweet, kapha-aggravating, vata-balancing]
 - 3 large eggs
 - 6 ounces (3/4 cup) plain yogurt
 - 6 ounces vegetable oil
-- 8 ounces cream cheese (frosting)
-- 2 ounces unsalted butter, room temperature (frosting)
-- 1 teaspoon vanilla extract (frosting)
-- 9 ounces powdered sugar, sifted, approximately 2 cups (frosting)
+- 8 ounces cream cheese
+- 2 ounces unsalted butter, room temperature
+- 1 teaspoon vanilla extract
+- 9 ounces powdered sugar, sifted, approximately 2 cups
 
 ## Instructions
 

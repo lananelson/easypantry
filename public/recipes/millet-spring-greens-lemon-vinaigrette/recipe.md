@@ -10,17 +10,17 @@ ayurvedic: [kapha-balancing, light, drying, tridoshic-greens]
 ## Ingredients
 
 - 1 cup dry millet
-- 3 cups water or light chicken stock (for the millet)
+- 3 cups water or light chicken stock
 - 1 cup fava beans
 - 1 cup shelled green peas
 - 16 green long asparagus stems
-- Sea salt and pepper (vinaigrette)
-- 1 teaspoon honey-flavored mustard (vinaigrette)
-- Juice of 1 large lemon (vinaigrette)
-- 1 garlic clove, peeled and finely minced (vinaigrette)
-- 3 tablespoons olive oil (vinaigrette)
-- 1 tablespoon pistachio oil (vinaigrette)
-- 2 tablespoons chopped basil, dill and parsley (vinaigrette)
+- Sea salt and pepper
+- 1 teaspoon honey-flavored mustard
+- Juice of 1 large lemon
+- 1 garlic clove, peeled and finely minced
+- 3 tablespoons olive oil
+- 1 tablespoon pistachio oil
+- 2 tablespoons chopped basil, dill and parsley
 - Ricotta salata and prosciutto, optional
 
 ## Instructions

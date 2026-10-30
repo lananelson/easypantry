@@ -9,10 +9,10 @@ ayurvedic: [cold, heavy, sweet, contains-alcohol, kapha-aggravating]
 
 ## Ingredients
 
-- 1 cup finely crushed pretzels (crust)
-- 1/4 cup unsalted butter, melted (crust)
-- 2 Tbs sugar (crust)
-- Canola oil cooking spray (crust)
+- 1 cup finely crushed pretzels
+- 1/4 cup unsalted butter, melted
+- 2 Tbs sugar
+- Canola oil cooking spray
 - 6 Tbs fresh squeezed lime juice, about 5 limes
 - freshly grated zest of lime (used all of the limes)
 - 2 Tbs fresh squeezed orange juice (1 orange)

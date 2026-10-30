@@ -2,6 +2,10 @@
   {
     "slug": "8-hour-marinara",
     "title": "8-hour Marinara",
+    "source": "Parm to Table",
+    "sourceKind": "book",
+    "author": "Christian Petroni",
+    "references": "Source: *Parm to Table* Author: Christian Petroni Page: 16 Photo: media/8_hour_marinara_sauce_photo.jpg",
     "tags": [
       "vegan",
       "vegetarian",
@@ -32,33 +36,41 @@
   {
     "slug": "adventurer-bowl",
     "title": "Adventurer Bowl with Tahini-Ginger Dressing",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Personal note in Evernote (2018)",
     "tags": [
       "vegetarian"
     ],
     "photos": [],
     "ingredients": [
-      "Beets (bowl)",
-      "Kale (bowl)",
-      "Broccoli (bowl)",
-      "Rice (bowl)",
-      "Quinoa (bowl)",
-      "Avocado (bowl)",
-      "Pepitas or almonds (bowl)",
-      "Tofu (bowl)",
-      "Cheddar (bowl)",
-      "2 garlic cloves, chopped (dressing)",
-      "2 inches of fresh peeled ginger, chopped (dressing)",
-      "1 tablespoon Tamari (or Nama Shoyu or soy sauce) (dressing)",
-      "2 tablespoons lemon juice, about 1/2 lemon (dressing)",
-      "2 tablespoons tahini (dressing)",
-      "1 tablespoon olive oil or flax oil (dressing)",
-      "2 tablespoons water (dressing)"
+      "Beets",
+      "Kale",
+      "Broccoli",
+      "Rice",
+      "Quinoa",
+      "Avocado",
+      "Pepitas or almonds",
+      "Tofu",
+      "Cheddar",
+      "2 garlic cloves, chopped",
+      "2 inches of fresh peeled ginger, chopped",
+      "1 tablespoon Tamari (or Nama Shoyu or soy sauce)",
+      "2 tablespoons lemon juice, about 1/2 lemon",
+      "2 tablespoons tahini",
+      "1 tablespoon olive oil or flax oil",
+      "2 tablespoons water"
     ],
     "hasInstructions": true
   },
   {
     "slug": "alice-waters-caesar-salad",
     "title": "Alice Waters' Caesar Salad",
+    "source": "The Art of Simple Food",
+    "sourceKind": "book",
+    "author": "Alice Waters",
+    "references": "Source: The Art of Simple Food Author: Alice Waters",
     "tags": [
       "pescatarian",
       "salad"
@@ -66,7 +78,7 @@
     "photos": [],
     "ingredients": [
       "3 ounces day-old bread, cut into 1/2 inch cubes",
-      "1 1/2 tablespoons olive oil (for croutons)",
+      "1 1/2 tablespoons olive oil",
       "Salt",
       "1 tablespoon red wine vinegar",
       "1 lemon, juiced",
@@ -74,7 +86,7 @@
       "2 teaspoons chopped anchovies, about 2-3 fillets",
       "Freshly ground black pepper",
       "1 egg yolk",
-      "1/4 cup olive oil (for dressing)",
+      "1/4 cup olive oil",
       "1/2 cup Parmesan, freshly grated",
       "2 heads romaine lettuce, dark outer leaves removed"
     ],
@@ -83,6 +95,10 @@
   {
     "slug": "alice-waters-swiss-chard-gratin",
     "title": "Alice Waters' Swiss Chard Gratin",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Blake Royer",
+    "references": "Source: Serious Eats (November 2011), from The Art of Simple Food by Alice Waters Author: Blake Royer Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -108,6 +124,10 @@
   {
     "slug": "all-day-glow-smoothie",
     "title": "All Day Glow Smoothie",
+    "source": "Oh She Glows",
+    "sourceKind": "web",
+    "author": "Angela Liddon",
+    "references": "Source: Oh She Glows — https://ohsheglows.com/all-day-glow-green-smoothie/ Author: Angela Liddon",
     "tags": [
       "vegan",
       "vegetarian",
@@ -132,6 +152,10 @@
   {
     "slug": "andrew-carmellini-cauliflower",
     "title": "Andrew Carmellini's Cauliflower with Brown Butter, Pear, Sage & Hazelnuts",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Carolyn Cope",
+    "references": "Source: Serious Eats (January 2011), adapted from Urban Italian by Andrew Carmellini and Gwen Hyman, via Fine Cooking (September 2008) Author: Carolyn Cope Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -156,6 +180,10 @@
   {
     "slug": "asparagus-goat-cheese-quiche",
     "title": "Asparagus Goat Cheese Quiche",
+    "source": "Pardon Your French",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: https://www.pardonyourfrench.com/asparagus-goat-cheese-quiche/",
     "tags": [
       "vegetarian",
       "breakfast"
@@ -163,11 +191,11 @@
     "photos": [],
     "photoUrl": "https://i0.wp.com/www.pardonyourfrench.com/wp-content/uploads/2021/03/asparagus-goat-cheese-quiche-1.jpg?fit=1170%2C1753&ssl=1",
     "ingredients": [
-      "2 cups (260g) all-purpose flour (crust)",
-      "1 tsp salt (crust)",
-      "2/3 cup (150g) chilled unsalted butter, cubed (crust)",
-      "5 tbsp (75ml) cold water (crust)",
-      "1 tbsp (14g) butter (filling)",
+      "2 cups (260g) all-purpose flour",
+      "1 tsp salt",
+      "2/3 cup (150g) chilled unsalted butter, cubed",
+      "5 tbsp (75ml) cold water",
+      "1 tbsp (14g) butter",
       "1 shallot, peeled and diced",
       "1 small bunch (200g) asparagus, stemmed and cut into 1.5-inch pieces",
       "4 large eggs",
@@ -185,6 +213,10 @@
   {
     "slug": "asparagus-goat-cheese-tarragon-tart",
     "title": "Asparagus, Goat Cheese and Tarragon Tart",
+    "source": "Dinner in French",
+    "sourceKind": "book",
+    "author": "",
+    "references": "Source: Adapted from Melissa Clark, *Dinner in French* (Clarkson Potter, 2020) Tomato tulip styling inspired by @bytheforkful on TikTok",
     "tags": [
       "vegetarian"
     ],
@@ -213,6 +245,10 @@
   {
     "slug": "atakilt-wat",
     "title": "Atakilt Wat (Ethiopian Cabbage, Potato & Carrots)",
+    "source": "Vegan Richa",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: Vegan Richa — http://www.veganricha.com Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian",
@@ -248,6 +284,10 @@
   {
     "slug": "baked-chicken-roasted-tomatillo-cream-sauce",
     "title": "Baked Chicken with Roasted Tomatillo Cream Sauce",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Blake Royer",
+    "references": "Source: Serious Eats, \"Dinner Tonight\" (October 2011), from Salsas That Cook by Rick Bayless Author: Blake Royer Photos: media/photo-01.jpg",
     "tags": [],
     "photos": [
       {
@@ -270,6 +310,10 @@
   {
     "slug": "banana-sour-cream-bread",
     "title": "Banana Sour Cream Bread",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Recipe website clipping saved in Evernote (2011) Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian",
       "dessert"
@@ -301,6 +345,10 @@
   {
     "slug": "beef-stroganoff",
     "title": "Beef Stroganoff",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Blake Royer",
+    "references": "Source: Serious Eats, \"Dinner Tonight\" (December 2009), adapted from Simply Recipes — http://simplyrecipes.com/recipes/beef_stroganoff/ Author: Blake Royer Photos: media/photo-01.jpg",
     "tags": [],
     "photos": [
       {
@@ -327,6 +375,10 @@
   {
     "slug": "beef-tagine-butternut-squash",
     "title": "Beef Tagine with Butternut Squash",
+    "source": "Cooking Light",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: Cooking Light (January 2011), via MyRecipes Photos: media/photo-01.jpg",
     "tags": [
       "one-pot"
     ],
@@ -358,6 +410,10 @@
   {
     "slug": "best-easy-pasta-salad",
     "title": "Best Easy Pasta Salad",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Personal note in Evernote (2015) Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian",
       "salad"
@@ -385,6 +441,10 @@
   {
     "slug": "big-beans-spicy-greens-gratin",
     "title": "Big Beans & Spicy Greens Gratin",
+    "source": "Cook This Book",
+    "sourceKind": "book",
+    "author": "Molly Baz",
+    "references": "Source: *Cook This Book* Author: Molly Baz Page: 171 Photo: media/big_beans_spicy_greens_gratin_photo.jpg",
     "tags": [
       "one-pot",
       "vegetarian"
@@ -414,6 +474,10 @@
   {
     "slug": "big-shells-escarole-chovies-mozz",
     "title": "Big Shells with Escarole, 'Chovies & Mozz",
+    "source": "Cook This Book",
+    "sourceKind": "book",
+    "author": "Molly Baz",
+    "references": "Source: *Cook This Book* Author: Molly Baz Page: 156 Photo: media/big_shells_escarole_chovies_mozz_photo.jpg",
     "tags": [
       "pescatarian"
     ],
@@ -443,6 +507,10 @@
   {
     "slug": "bigos",
     "title": "Bigos (Polish Hunter's Stew)",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Personal recipe in Evernote (2011)",
     "tags": [
       "low & slow"
     ],
@@ -466,6 +534,10 @@
   {
     "slug": "birria-tacos",
     "title": "Birria Tacos",
+    "source": "",
+    "sourceKind": "",
+    "author": "",
+    "references": "Video stored on phone",
     "tags": [
       "low & slow"
     ],
@@ -488,6 +560,10 @@
   {
     "slug": "black-sesame-shortbread",
     "title": "Black Sesame Shortbread",
+    "source": "Cook This Book",
+    "sourceKind": "book",
+    "author": "Molly Baz",
+    "references": "Source: *Cook This Book* Author: Molly Baz Photo: media/black_sesame_shortbread_photo.jpg",
     "tags": [
       "dessert",
       "vegetarian"
@@ -507,6 +583,10 @@
   {
     "slug": "borek-armenian-spinach-cheese-turnovers",
     "title": "Borek (Armenian Spinach and Cheese Turnovers)",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Andrew Janjigian",
+    "references": "Source: https://www.seriouseats.com/borek-5185229 Author: Andrew Janjigian",
     "tags": [
       "breakfast",
       "vegetarian",
@@ -545,6 +625,10 @@
   {
     "slug": "brussels-sprout-fried-rice-crispy-cauliflower",
     "title": "Brussels Sprout Fried Rice with Crispy Cauliflower",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "J. Kenji López-Alt",
+    "references": "Source: Serious Eats, \"The Vegan Experience\" (January 2012) Author: J. Kenji López-Alt Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian"
@@ -574,6 +658,10 @@
   {
     "slug": "bun-ca-moi-hop",
     "title": "Bún Cá Mòi Hộp (Canned Sardine Noodle Soup)",
+    "source": "Feed the Pudge",
+    "sourceKind": "web",
+    "author": "Ken Tran",
+    "references": "Source: https://feedthepudge.com/bun-ca-moi-hop-canned-sardine-noodle-soup/ Author: Ken Tran TikTok video saved in camera roll.",
     "tags": [
       "pescatarian"
     ],
@@ -615,6 +703,10 @@
   {
     "slug": "burrata-caprese-peaches",
     "title": "Burrata Caprese with Peaches",
+    "source": "Dinner: Changing the Game",
+    "sourceKind": "book",
+    "author": "Melissa Clark",
+    "references": "Source: Dinner: Changing the Game by Melissa Clark (Clarkson Potter, 2017) Author: Melissa Clark Online: Cup of Jo (August 2017) — https://cupofjo.com/2017/08/09/burrata-caprese-salad-peaches/ Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian",
       "salad"
@@ -642,6 +734,10 @@
   {
     "slug": "caramelized-onion-dip-thick-cut-potato-chips",
     "title": "Caramelized Onion Dip with Thick-Cut Potato Chips",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Caroline Russock",
+    "references": "Source: Serious Eats, \"Cook the Book\" (April 2011), from Michael's Genuine Food by Michael Schwartz Author: Caroline Russock Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian",
       "condiment"
@@ -654,23 +750,27 @@
       }
     ],
     "ingredients": [
-      "2 tablespoons extra-virgin olive oil (dip)",
-      "1 tablespoon unsalted butter (dip)",
-      "2 large onions, about 1 1/2 pounds, thinly sliced (dip)",
-      "Kosher salt and freshly ground black pepper (dip)",
-      "4 ounces cream cheese, at room temperature (dip)",
-      "1/2 cup sour cream (dip)",
-      "1/2 cup quality store-bought mayo (dip)",
-      "Chopped fresh chives (dip)",
-      "2 large russet (baking) potatoes, about 1 pound, scrubbed (chips)",
-      "Canola oil, for frying (chips)",
-      "Kosher salt (chips)"
+      "2 tablespoons extra-virgin olive oil",
+      "1 tablespoon unsalted butter",
+      "2 large onions, about 1 1/2 pounds, thinly sliced",
+      "Kosher salt and freshly ground black pepper",
+      "4 ounces cream cheese, at room temperature",
+      "1/2 cup sour cream",
+      "1/2 cup quality store-bought mayo",
+      "Chopped fresh chives",
+      "2 large russet (baking) potatoes, about 1 pound, scrubbed",
+      "Canola oil, for frying",
+      "Kosher salt"
     ],
     "hasInstructions": true
   },
   {
     "slug": "carrot-cake",
     "title": "Carrot Cake",
+    "source": "Food Network",
+    "sourceKind": "web",
+    "author": "Alton Brown",
+    "references": "Source: Food Network — https://www.foodnetwork.com/recipes/alton-brown/carrot-cake-recipe-1953483 Author: Alton Brown Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian",
       "dessert"
@@ -697,16 +797,20 @@
       "3 large eggs",
       "6 ounces (3/4 cup) plain yogurt",
       "6 ounces vegetable oil",
-      "8 ounces cream cheese (frosting)",
-      "2 ounces unsalted butter, room temperature (frosting)",
-      "1 teaspoon vanilla extract (frosting)",
-      "9 ounces powdered sugar, sifted, approximately 2 cups (frosting)"
+      "8 ounces cream cheese",
+      "2 ounces unsalted butter, room temperature",
+      "1 teaspoon vanilla extract",
+      "9 ounces powdered sugar, sifted, approximately 2 cups"
     ],
     "hasInstructions": true
   },
   {
     "slug": "cavatelli-sausage-broccoli-rabe",
     "title": "Cavatelli Sausage & Broccoli Rabe",
+    "source": "Parm to Table",
+    "sourceKind": "book",
+    "author": "Christian Petroni",
+    "references": "Source: *Parm to Table* Author: Christian Petroni Page: 40 Photo: media/cavatelli_sausage_broccoli_rabe_photo.jpg",
     "tags": [],
     "photos": [
       {
@@ -732,6 +836,10 @@
   {
     "slug": "chana-masala",
     "title": "Chana Masala",
+    "source": "Indian Instant-Pot Cookbook",
+    "sourceKind": "book",
+    "author": "Urvashi Pitre",
+    "references": "Source: Indian Instant-Pot Cookbook Author: Urvashi Pitre",
     "tags": [
       "vegetarian"
     ],
@@ -752,6 +860,10 @@
   {
     "slug": "chanterelle-cream-pasta",
     "title": "Chanterelle Cream Pasta",
+    "source": "",
+    "sourceKind": "",
+    "author": "",
+    "references": "",
     "tags": [
       "vegetarian"
     ],
@@ -771,6 +883,10 @@
   {
     "slug": "chia-bagel",
     "title": "Chia Bagel",
+    "source": "Bagel Rising",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Bagel Rising, Allston (personal note in Evernote, 2014) Vegocracy, \"Dining Out in Boston: Bagel Rising\" (2012) — https://vegocracy.blogspot.com/2012/10/dining-out-in-boston-bagel-rising.html Boston Restaurant Talk, \"Bagel Rising in Allston Is Becoming Pavement Coffeehouse\" (2014) — https://bostonrestaurants.blogspot.com/2014/06/bagel-rising-in-allston-to-become.html Photos: media/photo-01.jpg, media/photo-02.jpg",
     "tags": [
       "vegetarian",
       "breakfast"
@@ -801,6 +917,10 @@
   {
     "slug": "chicken-scarpariello",
     "title": "Chicken Scarpariello",
+    "source": "Parm to Table",
+    "sourceKind": "book",
+    "author": "Christian Petroni",
+    "references": "Source: *Parm to Table* Author: Christian Petroni Pages: 46-48 Photo: media/chicken_scarpariello_photo.jpg",
     "tags": [],
     "photos": [
       {
@@ -830,6 +950,10 @@
   {
     "slug": "chickpea-sunflower-sandwich",
     "title": "Chickpea Sunflower Sandwich",
+    "source": "Minimalist Baker",
+    "sourceKind": "web",
+    "author": "Minimalist Baker",
+    "references": "Source: https://minimalistbaker.com/chickpea-sunflower-sandwich/ Author: Minimalist Baker",
     "tags": [
       "vegan",
       "vegetarian"
@@ -846,18 +970,22 @@
       "Salt and black pepper, to taste",
       "4 slices rustic bread, lightly toasted",
       "Sliced avocado, onion, tomato, and/or lettuce, for serving (optional)",
-      "1/4 cup hummus (optional garlic herb sauce)",
-      "1/2 medium lemon, juiced (optional garlic herb sauce)",
-      "3/4 to 1 teaspoon dried dill (optional garlic herb sauce)",
-      "2 cloves garlic, minced (optional garlic herb sauce)",
-      "Water or unsweetened almond milk, to thin (optional garlic herb sauce)",
-      "Sea salt, to taste (optional garlic herb sauce)"
+      "1/4 cup hummus (optional)",
+      "1/2 medium lemon, juiced (optional)",
+      "3/4 to 1 teaspoon dried dill (optional)",
+      "2 cloves garlic, minced (optional)",
+      "Water or unsweetened almond milk, to thin (optional)",
+      "Sea salt, to taste (optional)"
     ],
     "hasInstructions": true
   },
   {
     "slug": "chickpea-potato-spinach-jalfrezi",
     "title": "Chickpea, Potato, and Spinach Jalfrezi with Cilantro Chutney",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "J. Kenji López-Alt",
+    "references": "Source: Serious Eats, \"The Vegan Experience\" (February 2012) Author: J. Kenji López-Alt Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian"
@@ -887,15 +1015,19 @@
       "1 (15-ounce) can chickpeas, with their liquid",
       "8 ounces curly spinach, roughly chopped",
       "2 tablespoons juice from 2 limes",
-      "2 cups picked fresh cilantro leaves and tender stems (chutney)",
-      "1 clove garlic (chutney)",
-      "1 small green Thai bird chile (chutney)"
+      "2 cups picked fresh cilantro leaves and tender stems",
+      "1 clove garlic",
+      "1 small green Thai bird chile"
     ],
     "hasInstructions": true
   },
   {
     "slug": "chinese-scrambled-eggs-garlic-chives",
     "title": "Chinese Scrambled Eggs with Garlic Chives",
+    "source": "Herbs Unlimited",
+    "sourceKind": "book",
+    "author": "",
+    "references": "Source: Adapted from Herbs Unlimited (saved in Evernote, 2013)",
     "tags": [
       "vegetarian"
     ],
@@ -913,6 +1045,10 @@
   {
     "slug": "chorizo-chickpea-carbonara",
     "title": "Chorizo & Chickpea Carbonara",
+    "source": "Cook This Book",
+    "sourceKind": "book",
+    "author": "Molly Baz",
+    "references": "Source: *Cook This Book* Author: Molly Baz Page: 140 Photo: media/chorizo_chickpea_carbonara_photo.jpg",
     "tags": [],
     "photos": [
       {
@@ -938,6 +1074,10 @@
   {
     "slug": "chouquettes",
     "title": "Chouquettes",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Kerry Saretsky (French Revolution Food)",
+    "references": "Source: Serious Eats, \"French in a Flash\" (November 2009) Author: Kerry Saretsky (French Revolution Food) Photos: media/photo-01.jpg (finished); media/photo-02.jpg … media/photo-06.jpg (choux pastry steps 1-4, in order)",
     "tags": [
       "vegetarian",
       "dessert"
@@ -989,6 +1129,10 @@
   {
     "slug": "coconut-green-chutney",
     "title": "Coconut Green Chutney",
+    "source": "Indian Instant-Pot Cookbook",
+    "sourceKind": "book",
+    "author": "Urvashi Pitre",
+    "references": "Source: Indian Instant-Pot Cookbook Author: Urvashi Pitre",
     "tags": [
       "vegan",
       "vegetarian",
@@ -1010,6 +1154,10 @@
   {
     "slug": "cognac-whipped-cream",
     "title": "Cognac Whipped Cream",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Classic recipe",
     "tags": [
       "vegetarian",
       "condiment",
@@ -1027,6 +1175,10 @@
   {
     "slug": "creamy-asparagus-basil-creme-fraiche-veloute",
     "title": "Creamy Asparagus, Basil, and Crème Fraîche Velouté",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Kerry Saretsky (French Revolution Food)",
+    "references": "Source: Serious Eats (January 2012) Author: Kerry Saretsky (French Revolution Food) Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -1052,6 +1204,10 @@
   {
     "slug": "avocado-almond-milk-cacao-smoothie",
     "title": "Creamy Avocado & Almond Milk Smoothie with Raw Cacao and Raspberries",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Food blog clipping saved in Evernote (2016) Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian",
@@ -1079,6 +1235,10 @@
   {
     "slug": "creamy-fingerling-potato-salad",
     "title": "Creamy Fingerling Potato Salad (Vegan)",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "J. Kenji López-Alt",
+    "references": "Source: Serious Eats Author: J. Kenji López-Alt Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian",
@@ -1110,6 +1270,10 @@
   {
     "slug": "creme-fraiche-galette-heirloom-tomatoes",
     "title": "Crème Fraîche Galette with Heirloom Tomatoes",
+    "source": "Harvest to Heat",
+    "sourceKind": "book",
+    "author": "",
+    "references": "Source: Harvest to Heat by Darryl Estrine and Kelly Kochendorfer (Taunton, 2010); recipe from chef Naomi Pomeroy (Beast, Portland) — via House & Home: https://houseandhome.com/recipe/creme-fraiche-galette-recipe/ Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -1128,17 +1292,21 @@
       "1/2 cup crème fraîche, chilled",
       "1 pint tomatoes, a combination of heirloom cherry tomatoes and other tomatoes, cut in half or sliced if large",
       "1/3 lb. semi-hard sheep's milk cheese, such as manchego",
-      "1 bunch microradishes or baby radishes, washed and trimmed (garnish, optional)",
-      "1 cup microgreens (garnish, optional)",
-      "Extra-virgin olive oil (garnish, optional)",
-      "Red-wine vinegar (garnish, optional)",
-      "Coarse salt (garnish, optional)"
+      "1 bunch microradishes or baby radishes, washed and trimmed (optional)",
+      "1 cup microgreens (optional)",
+      "Extra-virgin olive oil (optional)",
+      "Red-wine vinegar (optional)",
+      "Coarse salt (optional)"
     ],
     "hasInstructions": true
   },
   {
     "slug": "crispy-skinned-salmon-harissa-citrusy-fennel-salad",
     "title": "Crispy-Skinned Salmon with Harissa & Citrusy Fennel Salad",
+    "source": "Cook This Book",
+    "sourceKind": "book",
+    "author": "Molly Baz",
+    "references": "Source: *Cook This Book* Author: Molly Baz Page: 108 Companion video — Citrus Segments: https://mollybaz.com/techniques/citrus-segments/ Companion video — Fennel: https://mollybaz.com/techniques/fennel/ Photo: media/salmon_recipe_photo.jpg",
     "tags": [
       "pescatarian"
     ],
@@ -1165,6 +1333,10 @@
   {
     "slug": "daube-provencale",
     "title": "Daube Provençale (French Beef Stew with Red Wine)",
+    "source": "Home Made Winter",
+    "sourceKind": "book",
+    "author": "",
+    "references": "Source: Home Made Winter by Yvette van Boven (clipped from a blog adaptation, saved in Evernote 2012) Photos: media/photo-01.jpg",
     "tags": [
       "low & slow"
     ],
@@ -1195,6 +1367,10 @@
   {
     "slug": "easy-awesome-eggplant-tian",
     "title": "Easy Awesome Eggplant Tian",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Kerry Saretsky",
+    "references": "Source: <https://www.seriouseats.com/easy-awesome-eggplant-tian-recipe> Author: Kerry Saretsky Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -1222,6 +1398,10 @@
   {
     "slug": "skillet-braised-chicken-peppers-paprika",
     "title": "Easy Skillet Braised Chicken with Peppers and Paprika",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "J. Kenji López-Alt",
+    "references": "Source: Serious Eats (November 2011) Author: J. Kenji López-Alt Photos: media/photo-01.jpg",
     "tags": [
       "one-pot"
     ],
@@ -1252,6 +1432,10 @@
   {
     "slug": "easy-vegan-mayonnaise",
     "title": "Easy Vegan Mayonnaise (With Aquafaba)",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "J. Kenji López-Alt",
+    "references": "Source: https://www.seriouseats.com/easy-vegan-mayo-aquafaba-recipe-vegan-experience Author: J. Kenji López-Alt",
     "tags": [
       "vegan",
       "vegetarian",
@@ -1271,6 +1455,10 @@
   {
     "slug": "salmon-chowder",
     "title": "Easy, Creamy One-Pot Salmon Chowder",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "J. Kenji López-Alt",
+    "references": "Source: <https://www.seriouseats.com/easy-creamy-one-pot-weeknight-salmon-chowder-recipe> Author: J. Kenji López-Alt Photos: media/photo-01.jpg, media/photo-02.jpg, media/photo-03.jpg",
     "tags": [
       "one-pot"
     ],
@@ -1312,6 +1500,10 @@
   {
     "slug": "fall-apart-lamb-with-prunes",
     "title": "Fall-Apart Lamb with Prunes",
+    "source": "French Revolution Food",
+    "sourceKind": "web",
+    "author": "Kerry",
+    "references": "Source: [French Revolution Food](https://www.frenchrevolutionfood.com/2011/12/french-in-a-flash-fall-apart-lamb-with-prunes-2/) Author: Kerry",
     "tags": [
       "low & slow"
     ],
@@ -1333,6 +1525,10 @@
   {
     "slug": "farinata-caramelized-onions-tomatoes-butter-beans",
     "title": "Farinata with Caramelized Red Onions, Tomatoes & Butter Beans",
+    "source": "",
+    "sourceKind": "",
+    "author": "",
+    "references": "TikTok recipe: https://www.tiktok.com/t/ZTySnUhJp/ Serious Eats farinata base: https://www.seriouseats.com/farinata-italian-chickpea-pancake-recipe",
     "tags": [
       "pescatarian"
     ],
@@ -1360,6 +1556,10 @@
   {
     "slug": "farro-butternut-squash-radicchio-salad",
     "title": "Farro, Butternut Squash & Radicchio Salad",
+    "source": "Instagram",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: Instagram @allosimone Inspired by: Nigella Lawson Photo: media/photo-01.jpg",
     "tags": [
       "salad",
       "vegetarian"
@@ -1387,6 +1587,10 @@
   {
     "slug": "smoked-salmon-potato-salad",
     "title": "Five-Ingredient Smoked Salmon and Potato Salad",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "J. Kenji López-Alt",
+    "references": "Source: Serious Eats (October 2013) Author: J. Kenji López-Alt Photos: media/photo-01.jpg",
     "tags": [
       "pescatarian",
       "salad"
@@ -1412,6 +1616,10 @@
   {
     "slug": "french-onion-soup",
     "title": "French Onion Soup",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: Clipping saved in Evernote (2016); links to Serious Eats' chicken stock recipe Photos: media/photo-01.jpg",
     "tags": [
       "low & slow"
     ],
@@ -1442,6 +1650,10 @@
   {
     "slug": "spring-salad-poached-cod",
     "title": "Fresh Spring Salad with Poached Cod",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Food blog clipping saved in Evernote (2016) Photos: media/photo-01.jpg",
     "tags": [
       "pescatarian",
       "salad"
@@ -1454,26 +1666,30 @@
       }
     ],
     "ingredients": [
-      "1 small chioggia beet, scrubbed and thinly sliced (a mandolin is of good use here) (salad)",
-      "6 radishes, thinly sliced (salad)",
-      "4 spring onions, chopped (salad)",
-      "a good bunch of pea shoots (salad)",
-      "bunch of dill fronds (salad)",
-      "bunch of flat-leaf parsley leaves (salad)",
-      "edible flowers, optional (salad)",
-      "2 tbsp grapeseed oil or olive oil (dressing)",
-      "1/2 tbsp white balsamic vinegar (dressing)",
-      "a squeeze of lemon (dressing)",
-      "sea salt to taste (dressing)",
-      "250 g fresh cod (poached cod)",
-      "water enough to cover (poached cod)",
-      "1-2 tsp sea salt (poached cod)"
+      "1 small chioggia beet, scrubbed and thinly sliced (a mandolin is of good use here)",
+      "6 radishes, thinly sliced",
+      "4 spring onions, chopped",
+      "a good bunch of pea shoots",
+      "bunch of dill fronds",
+      "bunch of flat-leaf parsley leaves",
+      "edible flowers, optional",
+      "2 tbsp grapeseed oil or olive oil",
+      "1/2 tbsp white balsamic vinegar",
+      "a squeeze of lemon",
+      "sea salt to taste",
+      "250 g fresh cod",
+      "water enough to cover",
+      "1-2 tsp sea salt"
     ],
     "hasInstructions": true
   },
   {
     "slug": "frozen-margarita-pie",
     "title": "Frozen Margarita Pie",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Personal recipe in Evernote (2011) Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian",
       "dessert"
@@ -1486,10 +1702,10 @@
       }
     ],
     "ingredients": [
-      "1 cup finely crushed pretzels (crust)",
-      "1/4 cup unsalted butter, melted (crust)",
-      "2 Tbs sugar (crust)",
-      "Canola oil cooking spray (crust)",
+      "1 cup finely crushed pretzels",
+      "1/4 cup unsalted butter, melted",
+      "2 Tbs sugar",
+      "Canola oil cooking spray",
       "6 Tbs fresh squeezed lime juice, about 5 limes",
       "freshly grated zest of lime (used all of the limes)",
       "2 Tbs fresh squeezed orange juice (1 orange)",
@@ -1504,6 +1720,10 @@
   {
     "slug": "garam-masala",
     "title": "Garam Masala",
+    "source": "Indian Instant-Pot Cookbook",
+    "sourceKind": "book",
+    "author": "Urvashi Pitre",
+    "references": "Source: Indian Instant-Pot Cookbook Author: Urvashi Pitre",
     "tags": [
       "vegan",
       "vegetarian"
@@ -1523,6 +1743,10 @@
   {
     "slug": "garlic-bread",
     "title": "Garlic Bread",
+    "source": "Parm to Table",
+    "sourceKind": "book",
+    "author": "Christian Petroni",
+    "references": "Source: *Parm to Table* Author: Christian Petroni Pages: 11-12 Photo: media/garlic_bread_photo.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -1548,6 +1772,10 @@
   {
     "slug": "garlic-butter",
     "title": "Garlic Butter",
+    "source": "Parm to Table",
+    "sourceKind": "book",
+    "author": "Christian Petroni",
+    "references": "Source: Parm to Table Author: Christian Petroni",
     "tags": [
       "pescatarian",
       "condiment"
@@ -1567,6 +1795,10 @@
   {
     "slug": "garlic-dill-pickles",
     "title": "Garlic Dill Pickles",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Marisa McClellan",
+    "references": "Source: Serious Eats (August 2011) Author: Marisa McClellan Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian",
@@ -1594,6 +1826,10 @@
   {
     "slug": "genius-chickpea-tofu",
     "title": "Genius Chickpea Tofu",
+    "source": "My New Roots",
+    "sourceKind": "web",
+    "author": "Sarah Britton",
+    "references": "Source: My New Roots (April 2014) — https://www.mynewroots.org/2014/04/genius-chickpea-tofu/ Author: Sarah Britton Photos: media/photo-01.jpg, media/photo-02.jpg, media/photo-03.jpg",
     "tags": [
       "vegan",
       "vegetarian"
@@ -1628,6 +1864,10 @@
   {
     "slug": "golden-brown-chicken-crispy-bread-salad",
     "title": "Golden Brown & Delicious Chicken Breasts with Crispy Bread Salad",
+    "source": "Cook This Book",
+    "sourceKind": "book",
+    "author": "Molly Baz",
+    "references": "Source: *Cook This Book* Author: Molly Baz Page: 74 Companion video — Butter Baste: https://mollybaz.com/techniques/butter-baste/ Companion video — Carve a Chix Breast: https://mollybaz.com/techniques/carve-a-chix-breast/ Photo: media/chicken_recipe_photo.jpg",
     "tags": [
       "salad"
     ],
@@ -1657,6 +1897,10 @@
   {
     "slug": "golden-brown-delicious-chicken-breasts-crispy-bread-salad",
     "title": "Golden Brown & Delicious Chicken Breasts with Crispy Bread Salad",
+    "source": "Cook This Book",
+    "sourceKind": "book",
+    "author": "Molly Baz",
+    "references": "Source: *Cook This Book: Techniques That Teach and Recipes to Repeat* Author: Molly Baz Page: 74",
     "tags": [],
     "photos": [],
     "ingredients": [
@@ -1678,6 +1922,10 @@
   {
     "slug": "great-deviled-eggs",
     "title": "Great Deviled Eggs",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "J. Kenji López-Alt",
+    "references": "Source: Serious Eats (September 2011) Author: J. Kenji López-Alt Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -1706,6 +1954,10 @@
   {
     "slug": "green-goddess-egg-salad",
     "title": "Green Goddess Egg Salad",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Clipping saved in Evernote (2016) Photos: media/photo-01.jpg, media/photo-02.jpg, media/photo-03.jpg",
     "tags": [
       "vegetarian",
       "salad"
@@ -1748,6 +2000,10 @@
   {
     "slug": "harissa-yogurt-marinated-chicken",
     "title": "Harissa and Yogurt-Marinated Chicken",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Blake Royer",
+    "references": "Source: Serious Eats (May 2010), from Nigel Slater Author: Blake Royer Photos: media/photo-01.jpg",
     "tags": [],
     "photos": [
       {
@@ -1769,6 +2025,10 @@
   {
     "slug": "creme-fraiche",
     "title": "Homemade Crème Fraîche",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Clipping saved in Evernote (2011) Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian",
       "condiment"
@@ -1789,6 +2049,10 @@
   {
     "slug": "homemade-sibs",
     "title": "Homemade Seasoned Italian Breadcrumbs (SIBS)",
+    "source": "Parm to Table",
+    "sourceKind": "book",
+    "author": "Christian Petroni",
+    "references": "Source: Parm to Table Author: Christian Petroni",
     "tags": [
       "vegetarian"
     ],
@@ -1806,6 +2070,10 @@
   {
     "slug": "italian-egg-drop-soup",
     "title": "Italian Egg-Drop Soup",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Kristen Swensson Sturt (Cheap, Healthy, Good)",
+    "references": "Source: Serious Eats (January 2011), adapted from Eating Well — http://www.eatingwell.com/recipes/italian_egg_drop_soup.html Author: Kristen Swensson Sturt (Cheap, Healthy, Good) Photos: media/photo-01.jpg",
     "tags": [
       "one-pot"
     ],
@@ -1834,6 +2102,10 @@
   {
     "slug": "italian-lemon-ricotta-cake",
     "title": "Italian Lemon-Ricotta Cake",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Clipping saved in Evernote (2017) Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian",
       "dessert"
@@ -1861,6 +2133,10 @@
   {
     "slug": "julia-child-bouillabaisse-rouille",
     "title": "Julia Child's Bouillabaisse with Rouille",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Clipping saved in Evernote (2019), after Julia Child",
     "tags": [
       "pescatarian"
     ],
@@ -1882,20 +2158,24 @@
       "1½ lbs. scrubbed, debearded mussels and/or clams",
       "Minced parsley, for garnish",
       "Toasted rustic bread",
-      "1 red bell pepper, roasted, peeled (rouille)",
-      "1 roasted hot red chile pepper or ground cayenne pepper, to taste (rouille)",
-      "1 Tbsp fresh lemon juice (rouille)",
-      "1 small garlic clove, peeled (rouille)",
-      "¼ cup fresh breadcrumbs or finely chopped almonds (rouille)",
-      "¼ cup fresh parsley leaves (rouille)",
-      "½ tsp (or to taste) fine sea salt (rouille)",
-      "1/3 cup extra-virgin olive oil (rouille)"
+      "1 red bell pepper, roasted, peeled",
+      "1 roasted hot red chile pepper or ground cayenne pepper, to taste",
+      "1 Tbsp fresh lemon juice",
+      "1 small garlic clove, peeled",
+      "¼ cup fresh breadcrumbs or finely chopped almonds",
+      "¼ cup fresh parsley leaves",
+      "½ tsp (or to taste) fine sea salt",
+      "1/3 cup extra-virgin olive oil"
     ],
     "hasInstructions": true
   },
   {
     "slug": "k-bas-and-cabbage-soup",
     "title": "K-bas & Cabbage Soup",
+    "source": "Cook This Book",
+    "sourceKind": "book",
+    "author": "Molly Baz",
+    "references": "Source: *Cook This Book* Author: Molly Baz Photo: media/kbas_cabbage_soup_photo.jpg",
     "tags": [],
     "photos": [
       {
@@ -1923,6 +2203,10 @@
   {
     "slug": "kabocha-squash-miso-soup",
     "title": "Kabocha Squash Miso Soup (Traditional & Vegan Option)",
+    "source": "Yoko's Kitchen",
+    "sourceKind": "web",
+    "author": "Yoko Segawa",
+    "references": "Source: https://yokoskitchen.com/kabocha-squash-miso-soup/ Author: Yoko Segawa Video saved in camera roll.",
     "tags": [
       "one-pot",
       "pescatarian"
@@ -1942,6 +2226,10 @@
   {
     "slug": "kale-white-bean-mushroom",
     "title": "Kale, White Bean Purée & Mushrooms",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Personal note in Evernote (2021) Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian"
@@ -1954,7 +2242,7 @@
       }
     ],
     "ingredients": [
-      "White beans (for the purée)",
+      "White beans",
       "Lemon",
       "Garlic",
       "Mushrooms",
@@ -1966,6 +2254,10 @@
   {
     "slug": "kasha-with-tapenade",
     "title": "Kasha with Tapenade",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Personal recipe",
     "tags": [],
     "photos": [],
     "ingredients": [
@@ -1980,6 +2272,10 @@
   {
     "slug": "khichadi",
     "title": "Khichadi",
+    "source": "Indian Instant-Pot Cookbook",
+    "sourceKind": "book",
+    "author": "Urvashi Pitre",
+    "references": "Source: Indian Instant-Pot Cookbook Author: Urvashi Pitre",
     "tags": [
       "vegetarian",
       "one-pot"
@@ -2001,6 +2297,10 @@
   {
     "slug": "kolokithokeftedes-greek-zucchini-fritters",
     "title": "Kolokithokeftedes (Greek Zucchini Fritters) with Tzatziki",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Carrie Vasios",
+    "references": "Source: Serious Eats (April 2011) — http://www.seriouseats.com/recipes/2011/04/kolokithokeftedes-greek-zucchini-fritters-with-tzatziki-recipe.html Archived copy: https://web.archive.org/web/20110425232016/http://www.seriouseats.com/recipes/2011/04/kolokithokeftedes-greek-zucchini-fritters-with-tzatziki-recipe.html Author: Carrie Vasios Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -2012,27 +2312,31 @@
       }
     ],
     "ingredients": [
-      "3 cups packed, grated zucchini (from about 6 large zucchini) (fritters)",
-      "6 tablespoons dill, chopped (fritters)",
-      "1 bunch (about 8) scallions, white and light green parts finely chopped (fritters)",
-      "1/2 teaspoon nutmeg (fritters)",
-      "1 1/2 cups crumbled feta (fritters)",
-      "4 large eggs, lightly beaten (fritters)",
-      "1 cup flour, plus more if needed (fritters)",
-      "Salt and pepper (fritters)",
-      "4 tablespoons olive oil (fritters)",
-      "2 cups greek yogurt (tzatziki)",
-      "1 clove of garlic, minced (tzatziki)",
-      "1/2 cup grated, peeled cucumber (tzatziki)",
-      "1 teaspoon red wine vinegar or lemon juice (tzatziki)",
-      "1 tablespoon extra virgin olive oil (tzatziki)",
-      "Salt and pepper (tzatziki)"
+      "3 cups packed, grated zucchini (from about 6 large zucchini)",
+      "6 tablespoons dill, chopped",
+      "1 bunch (about 8) scallions, white and light green parts finely chopped",
+      "1/2 teaspoon nutmeg",
+      "1 1/2 cups crumbled feta",
+      "4 large eggs, lightly beaten",
+      "1 cup flour, plus more if needed",
+      "Salt and pepper",
+      "4 tablespoons olive oil",
+      "2 cups greek yogurt",
+      "1 clove of garlic, minced",
+      "1/2 cup grated, peeled cucumber",
+      "1 teaspoon red wine vinegar or lemon juice",
+      "1 tablespoon extra virgin olive oil",
+      "Salt and pepper"
     ],
     "hasInstructions": true
   },
   {
     "slug": "kulebyaka",
     "title": "Kulebyaka",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Notes in Evernote (2017) Photos: media/photo-01.jpg",
     "tags": [
       "pescatarian"
     ],
@@ -2065,6 +2369,10 @@
   {
     "slug": "kulebyaka-individual-salmon-pastries",
     "title": "Kulebyaka (Individual Salmon Pastries)",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Sydney Oland",
+    "references": "Source: Serious Eats, \"Sunday Supper\" (May 2011) Author: Sydney Oland Photos: media/photo-01.jpg",
     "tags": [
       "pescatarian"
     ],
@@ -2095,6 +2403,10 @@
   {
     "slug": "leek-goat-cheese-omelet",
     "title": "Leek and Goat Cheese Omelet",
+    "source": "Cup of Jo",
+    "sourceKind": "web",
+    "author": "Alexandra Stafford",
+    "references": "Source: Cup of Jo (March 2013) — https://cupofjo.com/2013/03/13/the-best-omelet-youll-ever-have/ Also on Alexandra's Kitchen: https://alexandracooks.com/2013/03/13/guest-post-on-a-cup-of-jo-leek-goat-cheese-omelet/ Author: Alexandra Stafford Photos: media/photo-01.jpg … media/photo-05.jpg",
     "tags": [
       "vegetarian",
       "breakfast"
@@ -2141,6 +2453,10 @@
   {
     "slug": "lentil-soup-gremolata",
     "title": "Lentil Soup with Gremolata",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "J. Kenji López-Alt",
+    "references": "Source: Serious Eats, \"Easy Lentil Soup With Parsley, Garlic, and Lemon Gremolata\" (saved in Evernote 2017) Author: J. Kenji López-Alt Photos: media/photo-01.jpg … media/photo-04.jpg",
     "tags": [
       "one-pot"
     ],
@@ -2185,6 +2501,10 @@
   {
     "slug": "loaded-olive-oil",
     "title": "Loaded Olive Oil",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: @flavorsbyyulia on TikTok",
     "tags": [
       "vegetarian",
       "condiment"
@@ -2206,6 +2526,10 @@
   {
     "slug": "macaroni-salad",
     "title": "Macaroni Salad",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: User recipe",
     "tags": [
       "pescatarian",
       "salad"
@@ -2229,6 +2553,10 @@
   {
     "slug": "marcella-hazan-tomato-sauce",
     "title": "Marcella Hazan's Tomato Sauce with Onion and Butter",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Clipping saved in Evernote (2016), after Marcella Hazan Photos: media/photo-01.jpg, media/photo-02.jpg, media/photo-03.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -2261,6 +2589,10 @@
   {
     "slug": "marinated-kale-chickpea-salad-sumac-onions",
     "title": "Marinated Kale and Chickpea Salad With Sumac Onions",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "J. Kenji López-Alt",
+    "references": "Source: [Serious Eats](https://www.seriouseats.com/vegan-marinated-kale-chickpea-salad-sumac-onions-recipe) Author: J. Kenji López-Alt",
     "tags": [
       "vegan",
       "vegetarian",
@@ -2285,6 +2617,10 @@
   {
     "slug": "marinated-lentils-spiced-walnuts-lotsa-basil",
     "title": "Marinated Lentils with Spiced Walnuts & Lotsa Basil",
+    "source": "Cook This Book",
+    "sourceKind": "book",
+    "author": "Molly Baz",
+    "references": "Source: *Cook This Book* Author: Molly Baz Page: 165 Photo: media/marinated_lentils_spiced_walnuts_basil_photo.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -2307,6 +2643,10 @@
   {
     "slug": "marousalata",
     "title": "Marousalata",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: @creamy_confusion on TikTok",
     "tags": [
       "vegetarian",
       "salad"
@@ -2329,6 +2669,10 @@
   {
     "slug": "melanzane-nel-ragu-con-marsala",
     "title": "Melanzane nel Ragù con Marsala",
+    "source": "In Nonna's Kitchen",
+    "sourceKind": "book",
+    "author": "Carol Field",
+    "references": "Source: *In Nonna's Kitchen* Author: Carol Field Pages: 343-344",
     "tags": [
       "vegetarian"
     ],
@@ -2348,6 +2692,10 @@
   {
     "slug": "millet-spring-greens-lemon-vinaigrette",
     "title": "Millet with Steamed Spring Greens and Lemon Vinaigrette",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Food blog clipping saved in Evernote (2013) Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -2360,17 +2708,17 @@
     ],
     "ingredients": [
       "1 cup dry millet",
-      "3 cups water or light chicken stock (for the millet)",
+      "3 cups water or light chicken stock",
       "1 cup fava beans",
       "1 cup shelled green peas",
       "16 green long asparagus stems",
-      "Sea salt and pepper (vinaigrette)",
-      "1 teaspoon honey-flavored mustard (vinaigrette)",
-      "Juice of 1 large lemon (vinaigrette)",
-      "1 garlic clove, peeled and finely minced (vinaigrette)",
-      "3 tablespoons olive oil (vinaigrette)",
-      "1 tablespoon pistachio oil (vinaigrette)",
-      "2 tablespoons chopped basil, dill and parsley (vinaigrette)",
+      "Sea salt and pepper",
+      "1 teaspoon honey-flavored mustard",
+      "Juice of 1 large lemon",
+      "1 garlic clove, peeled and finely minced",
+      "3 tablespoons olive oil",
+      "1 tablespoon pistachio oil",
+      "2 tablespoons chopped basil, dill and parsley",
       "Ricotta salata and prosciutto, optional"
     ],
     "hasInstructions": true
@@ -2378,6 +2726,10 @@
   {
     "slug": "minestra-coi-ceci",
     "title": "Minestra coi Ceci",
+    "source": "In Nonna's Kitchen",
+    "sourceKind": "book",
+    "author": "Carol Field",
+    "references": "Source: *In Nonna's Kitchen* Author: Carol Field Pages: 151-152",
     "tags": [
       "one-pot"
     ],
@@ -2403,6 +2755,10 @@
   {
     "slug": "minestrone-alla-genovese",
     "title": "Minestrone alla Genovese",
+    "source": "Caffè col Cioccolato",
+    "sourceKind": "web",
+    "author": "caffè col cioccolato",
+    "references": "Source: http://caffecolcioccolato.blogspot.com/2016/02/minestrone-si-ma-alla-genovese.html Author: caffè col cioccolato",
     "tags": [
       "vegetarian",
       "one-pot",
@@ -2426,6 +2782,10 @@
   {
     "slug": "wild-rice-mushroom-soup",
     "title": "Minnesota Wild Rice & Mushroom Soup",
+    "source": "The Kitchn",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: The Kitchn — https://www.thekitchn.com/recipe-minnesota-wild-rice-mushroom-soup-recipes-from-the-kitchn-164295 Photos: media/photo-01.jpg, media/photo-02.jpg, media/photo-03.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -2469,6 +2829,10 @@
   {
     "slug": "minty-lamb-meatballs-crispy-cabbage-tahini-sauce",
     "title": "Minty Lamb Meatballs with Crispy Cabbage & Tahini Sauce",
+    "source": "Cook This Book",
+    "sourceKind": "book",
+    "author": "Molly Baz",
+    "references": "Source: *Cook This Book* Author: Molly Baz Page: 97 Photo: media/minty_lamb_meatballs_crispy_cabbage_tahini_photo.jpg",
     "tags": [],
     "photos": [],
     "ingredients": [
@@ -2489,6 +2853,10 @@
   {
     "slug": "miso-mushroom-pie",
     "title": "Miso Mushroom Pie",
+    "source": "BOSH!",
+    "sourceKind": "web",
+    "author": "BOSH! (Henry Firth and Ian Theasby)",
+    "references": "Source: https://bosh.tv/recipes/miso-mushroom-pie Author: BOSH! (Henry Firth and Ian Theasby) Video saved in camera roll.",
     "tags": [
       "vegan",
       "vegetarian"
@@ -2521,6 +2889,10 @@
   {
     "slug": "moms-canned-artichoke-pie",
     "title": "Mom's Canned Artichoke Pie",
+    "source": "Parm to Table",
+    "sourceKind": "book",
+    "author": "Christian Petroni",
+    "references": "Source: *Parm to Table* Author: Christian Petroni Page: 84 Photo: media/moms_canned_artichoke_pie_photo.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -2546,6 +2918,10 @@
   {
     "slug": "mushroom-marsala-pasta-bake",
     "title": "Mushroom Marsala Pasta Bake",
+    "source": "Smitten Kitchen",
+    "sourceKind": "web",
+    "author": "Deb Perelman",
+    "references": "Source: Smitten Kitchen (saved in Evernote 2016) Author: Deb Perelman Photos: media/photo-01.jpg … media/photo-04.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -2590,6 +2966,10 @@
   {
     "slug": "neapolitan-escarole-bean-soup",
     "title": "Neapolitan Escarole Bean Soup",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Daniel Gritzer",
+    "references": "Source: Serious Eats Author: Daniel Gritzer Online: https://www.seriouseats.com/neapolitan-escarole-bean-soup-recipe-11821915",
     "tags": [
       "vegetarian",
       "one-pot"
@@ -2613,6 +2993,10 @@
   {
     "slug": "nicoise-tuna-cakes",
     "title": "Niçoise Tuna Cakes",
+    "source": "French Revolution Food",
+    "sourceKind": "web",
+    "author": "Kerry Saretsky",
+    "references": "Source: [French Revolution Food](https://www.frenchrevolutionfood.com/2010/06/french-in-a-flash-nicoise-tuna-cakes/) Author: Kerry Saretsky Photos: media/photo-01.jpg",
     "tags": [
       "pescatarian"
     ],
@@ -2640,11 +3024,11 @@
       "1 teaspoon anchovy paste",
       "1 teaspoon olive oil",
       "Vegetable oil and olive oil for frying",
-      "3 tablespoons mayonnaise (lemon aïoli)",
-      "1 clove garlic, grated (lemon aïoli)",
-      "Zest and juice of 1/4 lemon (lemon aïoli)",
-      "2 tablespoons crème fraîche (tapenade crème fraîche)",
-      "1 1/2 tablespoons black olive tapenade (tapenade crème fraîche)",
+      "3 tablespoons mayonnaise",
+      "1 clove garlic, grated",
+      "Zest and juice of 1/4 lemon",
+      "2 tablespoons crème fraîche",
+      "1 1/2 tablespoons black olive tapenade",
       "Lemon wedges, for serving"
     ],
     "hasInstructions": true
@@ -2652,6 +3036,10 @@
   {
     "slug": "olive-tapenade",
     "title": "Olive Tapenade",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Traditional Mediterranean recipe",
     "tags": [
       "pescatarian",
       "condiment"
@@ -2672,6 +3060,10 @@
   {
     "slug": "one-pot-chicken-schmaltzy-rice-lemony-yog",
     "title": "One-Pot Chicken & Schmaltzy Rice with Lemony Yog",
+    "source": "Cook This Book",
+    "sourceKind": "book",
+    "author": "Molly Baz",
+    "references": "Source: *Cook This Book* Author: Molly Baz Pages: 167-168 Photo: media/one_pot_chicken_schmaltzy_rice_lemony_yog_photo.jpg",
     "tags": [
       "one-pot"
     ],
@@ -2695,6 +3087,10 @@
   {
     "slug": "onion-masala",
     "title": "Onion Masala",
+    "source": "Indian Instant-Pot Cookbook",
+    "sourceKind": "book",
+    "author": "Urvashi Pitre",
+    "references": "Source: Indian Instant-Pot Cookbook Author: Urvashi Pitre",
     "tags": [
       "vegan",
       "vegetarian"
@@ -2720,6 +3116,10 @@
   {
     "slug": "orecchiette-e-broccoli-rape",
     "title": "Orecchiette e Broccoli Rape",
+    "source": "In Nonna's Kitchen",
+    "sourceKind": "book",
+    "author": "Carol Field",
+    "references": "Source: *In Nonna's Kitchen* Author: Carol Field Pages: 153-154",
     "tags": [
       "pescatarian"
     ],
@@ -2742,6 +3142,10 @@
   {
     "slug": "oven-roasted-tomato-sauce-salami-olives",
     "title": "Oven-Roasted Tomato Sauce with Salami, Olives, and Pecorino",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: Serious Eats, \"Sunday Supper\" (saved in Evernote 2014) Photos: media/photo-01.jpg",
     "tags": [],
     "photos": [
       {
@@ -2773,6 +3177,10 @@
   {
     "slug": "brussels-sprouts-crostini",
     "title": "Parmesan Brussels Sprouts Crostini",
+    "source": "How Sweet Eats",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: How Sweet Eats (November 2012) — http://www.howsweeteats.com/2012/11/brussels-sprouts-crostini/ Roasted garlic method: http://www.howsweeteats.com/2009/09/roasted-garlic/ Photos: media/photo-01.jpg … media/photo-08.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -2834,6 +3242,10 @@
   {
     "slug": "pasta-e-broccoli",
     "title": "Pasta e Broccoli",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Blake Royer",
+    "references": "Source: Serious Eats (March 2011) Author: Blake Royer Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -2858,6 +3270,10 @@
   {
     "slug": "pasta-salad-morty-d-mozz-pistachios",
     "title": "Pasta Salad with Morty-d, Mozz & Pistachios",
+    "source": "Cook This Book",
+    "sourceKind": "book",
+    "author": "Molly Baz",
+    "references": "Source: *Cook This Book* Author: Molly Baz Page: 147 Photo: media/pasta_salad_mortyd_mozz_pistachios_photo.jpg",
     "tags": [
       "salad"
     ],
@@ -2887,6 +3303,10 @@
   {
     "slug": "pasta-broccoli-goat-cheese-oregano",
     "title": "Pasta with Broccoli, Goat Cheese, and Oregano",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Blake Royer",
+    "references": "Source: Serious Eats (October 2010), from Gordon Ramsay Author: Blake Royer Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -2912,6 +3332,10 @@
   {
     "slug": "pasta-fried-lemons-chile-flakes",
     "title": "Pasta with Fried Lemons and Chile Flakes",
+    "source": "NYT Cooking",
+    "sourceKind": "web",
+    "author": "Melissa Clark",
+    "references": "Source: NYT Cooking (saved in Evernote 2016) Author: Melissa Clark Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -2941,6 +3365,10 @@
   {
     "slug": "pasta-with-tondini-beans",
     "title": "Pasta with Tondini Beans",
+    "source": "Delcolle",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: <https://delcolle.com/en/ricetta/pasta-coi-fagioli-tondini/>",
     "tags": [
       "vegan",
       "vegetarian"
@@ -2948,7 +3376,7 @@
     "photos": [],
     "ingredients": [
       "200 g tondini (round) beans, dried",
-      "For the sauté: 1 carrot, 1 stalk celery, 1 onion",
+      "1 carrot, 1 stalk celery, 1 onion",
       "1 tomato, chopped",
       "200 g wholemeal pasta (shape of your choice)",
       "Extra virgin olive oil",
@@ -2961,6 +3389,10 @@
   {
     "slug": "patatas-riojanas",
     "title": "Patatas Riojanas (Potatoes with Chorizo)",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Nick Kindelsperger",
+    "references": "Source: Serious Eats, \"Dinner Tonight\" (December 2010), from Blue Kitchen — http://www.blue-kitchen.com/2010/11/03/patatas-riojanas-potatoes-and-sausage-with-a-spicy-spanish-accent/ Author: Nick Kindelsperger Photos: media/photo-01.jpg",
     "tags": [
       "one-pot"
     ],
@@ -2990,6 +3422,10 @@
   {
     "slug": "penne-roasted-broccoli-pistachio-gremolata",
     "title": "Penne with Roasted Broccoli and Pistachio Gremolata",
+    "source": "Seriously Simple Parties",
+    "sourceKind": "book",
+    "author": "Diane Rossen Worthington",
+    "references": "Source: Seriously Simple Parties by Diane Rossen Worthington (saved in Evernote 2016) Author: Diane Rossen Worthington Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian"
@@ -3017,6 +3453,10 @@
   {
     "slug": "penne-tuna-spicy-mustard",
     "title": "Penne with Tuna and Spicy Mustard",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Blake Royer",
+    "references": "Source: Serious Eats, \"Dinner Tonight\" (September 2011), from Salad as a Meal by Patricia Wells Author: Blake Royer Photos: media/photo-01.jpg",
     "tags": [
       "pescatarian"
     ],
@@ -3038,6 +3478,10 @@
   {
     "slug": "pickled-red-onions",
     "title": "Pickled Red Onions",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "J. Kenji López-Alt",
+    "references": "Source: Serious Eats (saved in Evernote 2012 and 2014) Author: J. Kenji López-Alt Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian",
@@ -3063,33 +3507,41 @@
   {
     "slug": "pisarei-e-fasoi",
     "title": "Pisarei e Fasoi",
+    "source": "In Nonna's Kitchen",
+    "sourceKind": "book",
+    "author": "Carol Field",
+    "references": "Source: *In Nonna's Kitchen* Author: Carol Field Pages: 154-156",
     "tags": [
       "low & slow"
     ],
     "photos": [],
     "ingredients": [
-      "2 cups (1 pound) dried borlotti or cranberry beans, or 1 (19-ounce) can Italian borlotti or cranberry beans, undrained (for bean sauce)",
-      "10 cups water (for bean sauce)",
-      "4 tablespoons unsalted butter (for bean sauce)",
-      "1 small white onion, sliced extremely fine (for bean sauce)",
-      "1/3 cup (2 ounces) minced pancetta, salt pork, or bacon (for bean sauce)",
-      "1 cup meat broth, or 1 meat bouillon cube dissolved in 1 cup hot water (for bean sauce)",
-      "2 teaspoons tomato paste, just enough to add color (for bean sauce)",
-      "8 leaves fresh basil (for bean sauce)",
-      "2 European bay leaves, preferably fresh; use only 1 bay leaf if using dried California bay (for bean sauce)",
-      "Substantial grindings of fresh black pepper (for bean sauce)",
-      "1/2 scant cup fine dry bread crumbs (for pisarei)",
-      "About 3/4 cup very hot water (for pisarei)",
-      "2 cups (10 ounces) unbleached all-purpose flour (for pisarei)",
-      "1 egg (for pisarei)",
-      "At least 4 quarts water (for cooking)",
-      "2 teaspoons salt (for cooking)"
+      "2 cups (1 pound) dried borlotti or cranberry beans, or 1 (19-ounce) can Italian borlotti or cranberry beans, undrained",
+      "10 cups water",
+      "4 tablespoons unsalted butter",
+      "1 small white onion, sliced extremely fine",
+      "1/3 cup (2 ounces) minced pancetta, salt pork, or bacon",
+      "1 cup meat broth, or 1 meat bouillon cube dissolved in 1 cup hot water",
+      "2 teaspoons tomato paste, just enough to add color",
+      "8 leaves fresh basil",
+      "2 European bay leaves, preferably fresh; use only 1 bay leaf if using dried California bay",
+      "Substantial grindings of fresh black pepper",
+      "1/2 scant cup fine dry bread crumbs",
+      "About 3/4 cup very hot water",
+      "2 cups (10 ounces) unbleached all-purpose flour",
+      "1 egg",
+      "At least 4 quarts water",
+      "2 teaspoons salt"
     ],
     "hasInstructions": true
   },
   {
     "slug": "poblano-stuffed-chorizo-shrimp-rice",
     "title": "Poblanos Stuffed with Chorizo, Shrimp and Rice",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Clipping saved in Evernote (2011)",
     "tags": [],
     "photos": [],
     "ingredients": [
@@ -3114,6 +3566,10 @@
   {
     "slug": "potatoes-boulangere",
     "title": "Potatoes à la Boulangère",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Food blog clipping saved in Evernote (2011) Photos: media/photo-01.jpg … media/photo-07.jpg (step-by-step)",
     "tags": [
       "vegetarian"
     ],
@@ -3169,6 +3625,10 @@
   {
     "slug": "pressure-cooker-black-beans-chorizo",
     "title": "Pressure Cooker Black Beans with Chorizo",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: Serious Eats (saved in Evernote 2019)",
     "tags": [
       "one-pot"
     ],
@@ -3190,6 +3650,10 @@
   {
     "slug": "pumpkin-chickpea-curry",
     "title": "Pumpkin Curry with Chickpeas",
+    "source": "BBC Good Food",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: BBC Good Food (saved in Evernote 2012) Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian",
@@ -3222,6 +3686,10 @@
   {
     "slug": "pumpkin-shrimp-curry",
     "title": "Pumpkin-Shrimp Curry",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Meal-plan clipping saved in Evernote (2012) Photos: media/photo-01.jpg",
     "tags": [
       "pescatarian",
       "one-pot"
@@ -3255,6 +3723,10 @@
   {
     "slug": "punjabi-lobia",
     "title": "Punjabi Lobia",
+    "source": "Indian Instant-Pot Cookbook",
+    "sourceKind": "book",
+    "author": "Urvashi Pitre",
+    "references": "Source: Indian Instant-Pot Cookbook Author: Urvashi Pitre",
     "tags": [
       "vegan",
       "vegetarian"
@@ -3281,6 +3753,10 @@
   {
     "slug": "radish-egg-salad-sandwiches",
     "title": "Radish and Egg Salad Sandwiches",
+    "source": "A Couple Cooks",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: A Couple Cooks — http://www.acouplecooks.com Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -3306,6 +3782,10 @@
   {
     "slug": "revani-turkish-semolina-cake",
     "title": "Revani (Turkish Semolina Cake)",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Clipping saved in Evernote (2015) Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian",
       "dessert"
@@ -3330,15 +3810,19 @@
       "2 tsp. baking powder",
       "1 tsp. vanilla",
       "ground nuts and coconut flakes for garnish",
-      "1 cup sugar (syrup)",
-      "1 cup water (syrup)",
-      "juice of 1/2 lemon (syrup)"
+      "1 cup sugar",
+      "1 cup water",
+      "juice of 1/2 lemon"
     ],
     "hasInstructions": true
   },
   {
     "slug": "ricotta-herbs-cucumber-toast",
     "title": "Ricotta, Herbs, and Cucumber Toast",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Clipping saved in Evernote (2013) Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian",
       "breakfast"
@@ -3363,6 +3847,10 @@
   {
     "slug": "rio-zape-beans-with-toasted-chile-sauce",
     "title": "Rio Zape Beans with Toasted Chile Sauce",
+    "source": "Food52",
+    "sourceKind": "web",
+    "author": "Fairmount_market",
+    "references": "Source: <https://food52.com/recipes/9586-rio-zape-beans-with-toasted-chile-sauce> Author: Fairmount_market",
     "tags": [
       "vegetarian",
       "low & slow"
@@ -3388,6 +3876,10 @@
   {
     "slug": "roasted-eggplant-tahini-pine-nuts-lentils",
     "title": "Roasted Eggplant with Tahini, Pine Nuts, and Lentils",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: Serious Eats (saved in Evernote 2017) Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian"
@@ -3400,25 +3892,25 @@
       }
     ],
     "ingredients": [
-      "2 tablespoons (30ml) extra-virgin olive oil (lentils)",
-      "2 small carrots, peeled and cut into 1/2-inch chunks, about 1 cup (lentils)",
-      "2 small stalks celery, cut into 1/4-inch slices, about 1 cup (lentils)",
-      "1 medium onion, finely diced, about 1 cup (lentils)",
-      "6 medium cloves garlic, thinly sliced (lentils)",
-      "12 ounces (340g) brown or de Puy lentils (lentils)",
-      "2 bay leaves (lentils)",
-      "4 cups homemade vegetable stock or water, about 1L (lentils)",
-      "Kosher salt (lentils)",
-      "2 teaspoons (10ml) red wine vinegar, apple cider vinegar, or sherry vinegar (lentils)",
-      "Freshly ground black pepper (lentils)",
-      "2 large Italian or small globe eggplants, about 1 pound (450g) each (eggplant)",
-      "4 tablespoons (60ml) extra-virgin olive oil (eggplant)",
-      "Kosher salt and freshly ground black pepper (eggplant)",
-      "4 large sprigs fresh rosemary (eggplant)",
-      "1 whole head garlic, broken into individual unpeeled cloves, about 20 (tahini sauce)",
-      "2/3 cup fresh juice from 3 to 4 lemons, 160ml (tahini sauce)",
-      "1/2 teaspoon ground cumin (tahini sauce)",
-      "1 generous cup tahini paste, about 300g (tahini sauce)",
+      "2 tablespoons (30ml) extra-virgin olive oil",
+      "2 small carrots, peeled and cut into 1/2-inch chunks, about 1 cup",
+      "2 small stalks celery, cut into 1/4-inch slices, about 1 cup",
+      "1 medium onion, finely diced, about 1 cup",
+      "6 medium cloves garlic, thinly sliced",
+      "12 ounces (340g) brown or de Puy lentils",
+      "2 bay leaves",
+      "4 cups homemade vegetable stock or water, about 1L",
+      "Kosher salt",
+      "2 teaspoons (10ml) red wine vinegar, apple cider vinegar, or sherry vinegar",
+      "Freshly ground black pepper",
+      "2 large Italian or small globe eggplants, about 1 pound (450g) each",
+      "4 tablespoons (60ml) extra-virgin olive oil",
+      "Kosher salt and freshly ground black pepper",
+      "4 large sprigs fresh rosemary",
+      "1 whole head garlic, broken into individual unpeeled cloves, about 20",
+      "2/3 cup fresh juice from 3 to 4 lemons, 160ml",
+      "1/2 teaspoon ground cumin",
+      "1 generous cup tahini paste, about 300g",
       "2 tablespoons (30ml) extra-virgin olive oil, plus more for drizzling (to serve)",
       "1/4 cup pine nuts (to serve)",
       "2 tablespoons minced fresh parsley leaves (to serve)",
@@ -3429,6 +3921,10 @@
   {
     "slug": "roasted-oyster-mushroom-watercress-salad",
     "title": "Roasted Oyster Mushroom and Watercress Salad",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Clipping saved in Evernote (2016) Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian",
       "salad"
@@ -3459,6 +3955,10 @@
   {
     "slug": "roasted-spring-garlic",
     "title": "Roasted Spring Garlic",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Food blog clipping saved in Evernote (2013) Photos: media/photo-01.jpg, media/photo-02.jpg",
     "tags": [
       "vegan",
       "vegetarian"
@@ -3485,6 +3985,10 @@
   {
     "slug": "russian-olivier-salad",
     "title": "Russian Olivier Salad",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: User recipe",
     "tags": [
       "salad"
     ],
@@ -3504,6 +4008,10 @@
   {
     "slug": "salmon-bengali-mustard-sauce",
     "title": "Salmon in a Bengali Mustard Sauce",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Nick Kindelsperger",
+    "references": "Source: Serious Eats (August 2011), from At Home with Madhur Jaffrey Author: Nick Kindelsperger Photos: media/photo-01.jpg",
     "tags": [
       "pescatarian"
     ],
@@ -3515,25 +4023,29 @@
       }
     ],
     "ingredients": [
-      "3/4 pound skinless salmon fillet (fish rub)",
-      "1/4 teaspoon salt (fish rub)",
-      "1/4 teaspoon ground turmeric (fish rub)",
-      "1/4 teaspoon cayenne powder (fish rub)",
-      "1 tablespoon ground mustard (sauce)",
-      "1/4 to 1/2 teaspoon cayenne pepper, depending on spice preference (sauce)",
-      "1/4 teaspoon ground turmeric (sauce)",
-      "1/4 teaspoon salt (sauce)",
-      "2 tablespoons mustard oil or extra-virgin olive oil (sauce)",
-      "1/4 teaspoon whole mustard seeds, brown or yellow (sauce)",
-      "1/4 teaspoon whole cumin seeds (sauce)",
-      "1/4 teaspoon whole fennel seeds (sauce)",
-      "2 hot green chilies, slit slightly (sauce)"
+      "3/4 pound skinless salmon fillet",
+      "1/4 teaspoon salt",
+      "1/4 teaspoon ground turmeric",
+      "1/4 teaspoon cayenne powder",
+      "1 tablespoon ground mustard",
+      "1/4 to 1/2 teaspoon cayenne pepper, depending on spice preference",
+      "1/4 teaspoon ground turmeric",
+      "1/4 teaspoon salt",
+      "2 tablespoons mustard oil or extra-virgin olive oil",
+      "1/4 teaspoon whole mustard seeds, brown or yellow",
+      "1/4 teaspoon whole cumin seeds",
+      "1/4 teaspoon whole fennel seeds",
+      "2 hot green chilies, slit slightly"
     ],
     "hasInstructions": true
   },
   {
     "slug": "salsiccia-di-tacchino",
     "title": "Salsiccia di Tacchino",
+    "source": "In Nonna's Kitchen",
+    "sourceKind": "book",
+    "author": "Carol Field",
+    "references": "Source: *In Nonna's Kitchen* Author: Carol Field Pages: 235-236",
     "tags": [],
     "photos": [],
     "ingredients": [
@@ -3559,6 +4071,10 @@
   {
     "slug": "salty-date-cheddar-biscuits",
     "title": "Salty Date & Cheddar Biscuits",
+    "source": "Cook This Book",
+    "sourceKind": "book",
+    "author": "Molly Baz",
+    "references": "Source: *Cook This Book* Author: Molly Baz Photo: media/salty_date_cheddar_biscuits_photo.jpg",
     "tags": [
       "breakfast",
       "vegetarian"
@@ -3589,6 +4105,10 @@
   {
     "slug": "savory-vegan-lasagna",
     "title": "Savory Vegan Lasagna",
+    "source": "Vegan American Princess",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: Vegan American Princess — http://veganamericanprincess.com/11-simple-recipes-for-delicious-no-oil-vegan-meals/",
     "tags": [
       "vegan",
       "vegetarian"
@@ -3609,15 +4129,19 @@
       "2 lbs. mushrooms, sliced",
       "1/4 cup low-sodium tamari or soy sauce",
       "1 large onion, finely diced",
-      "1 cup raw almonds or cashews (faux parmesan)",
-      "1/2 cup nutritional yeast (faux parmesan)",
-      "1 tbsp salt-free Italian seasoning (faux parmesan)"
+      "1 cup raw almonds or cashews",
+      "1/2 cup nutritional yeast",
+      "1 tbsp salt-free Italian seasoning"
     ],
     "hasInstructions": true
   },
   {
     "slug": "seasoned-italian-breadcrumbs",
     "title": "Seasoned Italian Breadcrumbs",
+    "source": "Parm to Table",
+    "sourceKind": "book",
+    "author": "Christian Petroni",
+    "references": "Source: Parm to Table Author: Christian Petroni",
     "tags": [
       "vegetarian"
     ],
@@ -3635,6 +4159,10 @@
   {
     "slug": "seaweed-sesame-pasta",
     "title": "Seaweed Sesame Pasta",
+    "source": "Happy Baes",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: https://happybaes.com/2026/10/15/seaweed-sesame-pasta/ Creator: Steph Bae (@happy_baes)",
     "tags": [
       "pescatarian"
     ],
@@ -3658,6 +4186,10 @@
   {
     "slug": "sesame-ginger-dressing",
     "title": "Sesame Ginger Dressing",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Clipping saved in Evernote (2014) Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian",
@@ -3686,6 +4218,10 @@
   {
     "slug": "shrimp-parm",
     "title": "Shrimp Parm",
+    "source": "Parm to Table",
+    "sourceKind": "book",
+    "author": "Christian Petroni",
+    "references": "Source: *Parm to Table* Author: Christian Petroni Pages: 13-14 Photo: media/shrimp_parm_photo.jpg",
     "tags": [
       "pescatarian"
     ],
@@ -3717,6 +4253,10 @@
   {
     "slug": "snapper-fennel-tomatoes",
     "title": "Snapper with Fennel and Tomatoes",
+    "source": "Food Network Magazine",
+    "sourceKind": "web",
+    "author": "Marc Murphy",
+    "references": "Source: Food Network Magazine (\"In the Know\"), photographed from the magazine, saved in Evernote (2016) — https://www.foodnetwork.com/recipes/marc-murphy/snapper-with-fennel-and-tomatoes-3364508 Author: Marc Murphy Photos: media/photo-01.jpg, media/photo-02.jpg (the magazine page)",
     "tags": [
       "pescatarian"
     ],
@@ -3752,6 +4292,10 @@
   {
     "slug": "spicy-cashew-spring-greens-soup",
     "title": "Spicy Cashew Spring Greens Soup",
+    "source": "Letty's Kitchen",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: Letty's Kitchen (saved in Evernote 2017) Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian"
@@ -3775,15 +4319,19 @@
       "1/2 teaspoon sea salt",
       "1 1/4 cups raw cashews, soaked 1 to 4 hours",
       "2 teaspoons white miso",
-      "Toasted cashews (topping)",
-      "Pea shoots, sunflower sprouts, or small greens (topping)",
-      "Chopped Kalamata olives, definitely optional (topping)"
+      "Toasted cashews",
+      "Pea shoots, sunflower sprouts, or small greens",
+      "Chopped Kalamata olives, definitely optional"
     ],
     "hasInstructions": true
   },
   {
     "slug": "spicy-cauliflower-sabzi-cashews",
     "title": "Spicy Cauliflower Sabzi with Cashews",
+    "source": "Bon Appétit",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: Bon Appétit — https://www.bonappetit.com/recipe/spicy-cauliflower-sabzi-with-cashews Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian"
@@ -3813,6 +4361,10 @@
   {
     "slug": "spicy-cucumber-avocado-onion-salad",
     "title": "Spicy Cucumber Avocado Onion Salad",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Clipping saved in Evernote (2017) Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian",
@@ -3839,6 +4391,10 @@
   {
     "slug": "spicy-vegan-white-pizza-broccoli-rabe",
     "title": "Spicy Vegan White Pizza with Broccoli Rabe & Truffle Cream",
+    "source": "The First Mess",
+    "sourceKind": "web",
+    "author": "Laura Wright",
+    "references": "Source: The First Mess (February 2017) — https://thefirstmess.com/2017/02/15/spicy-vegan-white-pizza-recipe-broccoli-rabe-truffle-cream/ Author: Laura Wright Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian"
@@ -3851,13 +4407,13 @@
       }
     ],
     "ingredients": [
-      "¾ cup cooked white beans, like cannellini or navy (truffled cream sauce)",
-      "2 tablespoons water (truffled cream sauce)",
-      "1 tablespoon fresh lemon juice (truffled cream sauce)",
-      "1 tablespoon nutritional yeast, optional (truffled cream sauce)",
-      "1 clove of garlic, peeled (truffled cream sauce)",
-      "¼ teaspoon white truffle oil (truffled cream sauce)",
-      "sea salt & ground black pepper (truffled cream sauce)",
+      "¾ cup cooked white beans, like cannellini or navy",
+      "2 tablespoons water",
+      "1 tablespoon fresh lemon juice",
+      "1 tablespoon nutritional yeast, optional",
+      "1 clove of garlic, peeled",
+      "¼ teaspoon white truffle oil",
+      "sea salt & ground black pepper",
       "½ bunch broccoli rabe, tough stems removed and chopped",
       "1 tablespoon olive oil, plus extra",
       "6 oz/185 grams shiitake mushrooms, stemmed and sliced",
@@ -3875,6 +4431,10 @@
   {
     "slug": "split-pea-soup",
     "title": "Split Pea Soup",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Personal recipe",
     "tags": [
       "one-pot"
     ],
@@ -3901,6 +4461,10 @@
   {
     "slug": "suddenly-stew",
     "title": "Suddenly Stew (Kale, Chickpea & Brown Rice)",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Carolyn Cope (Umami Girl)",
+    "references": "Source: Serious Eats (December 2010) Author: Carolyn Cope (Umami Girl) Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian",
       "one-pot"
@@ -3933,6 +4497,10 @@
   {
     "slug": "swiss-chard-frittata",
     "title": "Swiss Chard Frittata",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Blake Royer",
+    "references": "Source: Serious Eats, \"Dinner Tonight\" (September 2011) Author: Blake Royer Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian",
       "breakfast"
@@ -3962,6 +4530,10 @@
   {
     "slug": "thai-peanut-sauce",
     "title": "Thai Peanut (Satay) Sauce",
+    "source": "She Simmers",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: She Simmers — http://shesimmers.com Photos: media/photo-01.jpg, media/photo-02.jpg",
     "tags": [
       "condiment"
     ],
@@ -3991,6 +4563,10 @@
   {
     "slug": "tofu-spinach-scramble",
     "title": "Tofu Spinach Scramble with Avocado",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Notes in Evernote (2016) Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian",
@@ -4026,6 +4602,10 @@
   {
     "slug": "tom-yum-goong",
     "title": "Tom Yum Goong (ต้มยำกุ้ง) — Thai Hot & Sour Shrimp Soup",
+    "source": "EatingThaiFood.com",
+    "sourceKind": "web",
+    "author": "Mark Wiens",
+    "references": "Source: EatingThaiFood.com — http://www.eatingthaifood.com/ Author: Mark Wiens Photos: media/photo-01.jpg",
     "tags": [
       "pescatarian",
       "one-pot"
@@ -4060,6 +4640,10 @@
   {
     "slug": "tomato-melon-chile-salad-burrata",
     "title": "Tomato, Melon, and Hot Chile Salad with Burrata",
+    "source": "Six Seasons",
+    "sourceKind": "book",
+    "author": "",
+    "references": "Source: Six Seasons: A New Way with Vegetables by Joshua McFadden (Artisan, 2017) — photographed from the book, saved in Evernote (2019) Index: https://www.eatyourbooks.com/library/recipes/1806035/tomato-melon-and-hot-chile Photos: media/photo-01.jpg (the cookbook page), media/photo-02.jpg",
     "tags": [
       "vegetarian",
       "salad"
@@ -4091,6 +4675,10 @@
   {
     "slug": "tunisian-sweet-potato-stew",
     "title": "Tunisian Sweet Potato Stew",
+    "source": "The Starch Solution",
+    "sourceKind": "book",
+    "author": "",
+    "references": "Source: The Starch Solution by John A. McDougall, MD (via Vegan American Princess) Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian",
@@ -4126,6 +4714,10 @@
   {
     "slug": "vegan-chilaquiles-charred-corn-black-beans",
     "title": "Vegan Chilaquiles with Pepitas, Charred Corn, and Black Beans",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "J. Kenji López-Alt",
+    "references": "Source: Serious Eats (January 2012) Author: J. Kenji López-Alt Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian"
@@ -4157,6 +4749,10 @@
   {
     "slug": "vegan-tempeh-reuben",
     "title": "Vegan Tempeh Reuben",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Notes in Evernote (2015) Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian"
@@ -4169,41 +4765,40 @@
       }
     ],
     "ingredients": [
-      "2 Tbs. extra-virgin olive oil (for marinade)",
-      "2 Tbs. balsamic vinegar (for marinade)",
-      "2 Tbs. low-sodium, gluten-free tamari (for marinade)",
-      "1 Tbs. gluten-free, vegan Worcestershire sauce (for marinade)",
-      "2 Tbs. raw apple cider vinegar (for marinade)",
-      "2 Tbs. water (for marinade)",
-      "1 tsp. liquid smoke (for marinade)",
-      "2 cloves garlic, minced (for marinade)",
-      "1 tsp. onion powder (for marinade)",
-      "1 tsp. dried mustard (for marinade)",
-      "1 tsp. dried coriander (for marinade)",
-      "1 tsp. smoked paprika (for marinade)",
-      "1 bay leaf, crumbled (for marinade)",
-      "1/3 cup vegan mayonnaise (for Russian dressing)",
-      "2 Tbs. ketchup (for Russian dressing)",
-      "1 Tbs. prepared horseradish (for Russian dressing)",
-      "1 tsp. gluten-free, vegan Worcestershire sauce (for Russian dressing)",
-      "1/8 tsp. hot sauce or Sriracha, optional (for Russian dressing)",
-      "Kosher salt and black pepper to taste (for Russian dressing)",
+      "2 Tbs. extra-virgin olive oil",
+      "2 Tbs. balsamic vinegar",
+      "2 Tbs. low-sodium, gluten-free tamari",
+      "1 Tbs. gluten-free, vegan Worcestershire sauce",
+      "2 Tbs. raw apple cider vinegar",
+      "2 Tbs. water",
+      "1 tsp. liquid smoke",
+      "2 cloves garlic, minced",
+      "1 tsp. onion powder",
+      "1 tsp. dried mustard",
+      "1 tsp. dried coriander",
+      "1 tsp. smoked paprika",
+      "1 bay leaf, crumbled",
+      "1/3 cup vegan mayonnaise",
+      "2 Tbs. ketchup",
+      "1 Tbs. prepared horseradish",
+      "1 tsp. gluten-free, vegan Worcestershire sauce",
+      "1/8 tsp. hot sauce or Sriracha, optional",
+      "Kosher salt and black pepper to taste",
       "1 block tempeh, cut into 8 pieces",
       "1 Tbs. canola oil",
       "1-2 Tbs. vegan butter",
       "4 slices gluten-free bread",
-      "1 cup sauerkraut",
-      "1 cup canola oil (for vegan mayo)",
-      "1/2 cup soy milk (for vegan mayo)",
-      "1 tsp fresh lemon juice (for vegan mayo)",
-      "Pinch of salt (for vegan mayo)",
-      "Pinch of ground mustard or 1/2 tsp prepared mustard (for vegan mayo)"
+      "1 cup sauerkraut"
     ],
     "hasInstructions": true
   },
   {
     "slug": "walnut-faux-cream-mushroom-soup",
     "title": "Walnut Faux-Cream of Mushroom Soup",
+    "source": "California Walnuts",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: California Walnuts — https://walnuts.org/recipe/walnut-cream-of-mushroom-soup/ Photos: media/photo-01.jpg",
     "tags": [],
     "photos": [
       {
@@ -4227,6 +4822,10 @@
   {
     "slug": "yellow-split-pea-dal",
     "title": "Yellow Split Pea Dal",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Clipping saved in Evernote (2016) Photos: media/photo-01.jpg",
     "tags": [
       "vegan",
       "vegetarian",
@@ -4258,6 +4857,10 @@
   {
     "slug": "zucchini-pancakes",
     "title": "Zucchini Pancakes",
+    "source": "Plant-Based RD",
+    "sourceKind": "web",
+    "author": "Catherine Perez",
+    "references": "Source: https://plantbasedrdblog.com/2026/09/zucchini-pancakes/ Author: Catherine Perez",
     "tags": [
       "vegan",
       "vegetarian"
@@ -4282,6 +4885,10 @@
   {
     "slug": "zucchini-pancakes-dill-ricotta",
     "title": "Zucchini Pancakes with Dill and Fresh Ricotta",
+    "source": "Serious Eats",
+    "sourceKind": "web",
+    "author": "Blake Royer",
+    "references": "Source: Serious Eats (June 2011), from Working Class Foodies Author: Blake Royer Photos: media/photo-01.jpg",
     "tags": [
       "vegetarian"
     ],
@@ -4309,6 +4916,10 @@
   {
     "slug": "borscht",
     "title": "Борщ — Borscht",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Personal recipe Photos: media/photo-01.jpg (saved in Evernote for inspiration)",
     "tags": [
       "vegan",
       "vegetarian",
@@ -4337,6 +4948,10 @@
   {
     "slug": "bouillabaisse",
     "title": "Буйабес — Bouillabaisse (Simple Marseille Version)",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: belonika.livejournal.com (Russian food blog), saved in Evernote (2015) Photos: media/photo-01.jpg … media/photo-41.jpg (step-by-step, in order)",
     "tags": [
       "pescatarian"
     ],
@@ -4577,6 +5192,10 @@
   {
     "slug": "pirozhki-s-kapustoy",
     "title": "Пирожки с капустой — Pirozhki (Russian Cabbage Hand Pies)",
+    "source": "Foodclub.ru",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: Foodclub.ru — http://foodclub.ru/detail/5373/ Photos: media/photo-01.jpg … media/photo-12.jpg (step-by-step, in order)",
     "tags": [
       "vegetarian"
     ],
@@ -4643,18 +5262,18 @@
       }
     ],
     "ingredients": [
-      "15 г сухих быстродействующих дрожжей (тесто)",
-      "1000 г муки пшеничной (тесто)",
-      "60 г сахара-песка (тесто)",
-      "2 ч.л. соли (тесто)",
-      "200 г сливочного масла (тесто)",
-      "около 400 мл теплой кипяченой воды (тесто)",
-      "800 г капусты белокочанной (начинка)",
-      "1 ч.л. соли (начинка)",
+      "15 г сухих быстродействующих дрожжей",
+      "1000 г муки пшеничной",
+      "60 г сахара-песка",
+      "2 ч.л. соли",
+      "200 г сливочного масла",
+      "около 400 мл теплой кипяченой воды",
+      "800 г капусты белокочанной",
+      "1 ч.л. соли",
       "5 яиц (начинка, вкрутую)",
-      "30 мл растительного масла (начинка)",
-      "2 луковицы, по 100 г (начинка)",
-      "50 г сливочного масла (начинка)",
+      "30 мл растительного масла",
+      "2 луковицы, по 100 г",
+      "50 г сливочного масла",
       "яйцо для смазывания"
     ],
     "hasInstructions": true
@@ -4662,6 +5281,10 @@
   {
     "slug": "rasstegai",
     "title": "Расстегаи — Rasstegai (Russian Open-Top Fish Pies)",
+    "source": "Personal & clippings",
+    "sourceKind": "personal",
+    "author": "",
+    "references": "Source: Russian recipe blog, clipped to Evernote (2020) Photos: media/photo-01.jpg … media/photo-14.jpg (step-by-step, in order)",
     "tags": [
       "pescatarian"
     ],
@@ -4738,22 +5361,22 @@
       }
     ],
     "ingredients": [
-      "1/2 стакана воды (тесто)",
-      "1/2 стакана молока (тесто)",
-      "2,5 ч.л. сухих дрожжей или 25 гр. свежих дрожжей (тесто)",
-      "1 ч.л. сахара (тесто)",
-      "3 ст. муки в/с, 500 гр. (тесто)",
-      "1 яйцо (тесто)",
-      "3 ст.л. подсолнечного масла (тесто)",
-      "1 ч.л. соли (тесто)",
-      "500 гр. рыбного филе (начинка)",
-      "2 крупные луковицы (начинка)",
-      "2/3 ч.л. соли (начинка)",
-      "1/3 ч.л. черного молотого перца (начинка)",
-      "1 ч.л. сухого укропа или небольшой пучок свежего укропа (начинка)",
-      "щепотка кардамона, по желанию (начинка)",
-      "растительное масло (начинка)",
-      "30-50 гр. сливочного масла (начинка)",
+      "1/2 стакана воды",
+      "1/2 стакана молока",
+      "2,5 ч.л. сухих дрожжей или 25 гр. свежих дрожжей",
+      "1 ч.л. сахара",
+      "3 ст. муки в/с, 500 гр.",
+      "1 яйцо",
+      "3 ст.л. подсолнечного масла",
+      "1 ч.л. соли",
+      "500 гр. рыбного филе",
+      "2 крупные луковицы",
+      "2/3 ч.л. соли",
+      "1/3 ч.л. черного молотого перца",
+      "1 ч.л. сухого укропа или небольшой пучок свежего укропа",
+      "щепотка кардамона, по желанию",
+      "растительное масло",
+      "30-50 гр. сливочного масла",
       "1 яйцо (украшение)"
     ],
     "hasInstructions": true
@@ -4761,6 +5384,10 @@
   {
     "slug": "toplyonoye-moloko-baked-milk",
     "title": "Топлёное молоко — Baked Milk",
+    "source": "Lyukum Cooking Lab",
+    "sourceKind": "web",
+    "author": "Katya Lyukum",
+    "references": "Source: Lyukum Cooking Lab (July 2017) — https://lyukum.net/recipe/baked-milk-pryazhene-moloko-toplyonoye-moloko/ Author: Katya Lyukum Photos: media/photo-01.jpg … media/photo-07.jpg (from the blog); media/photo-08.jpg (your own)",
     "tags": [
       "vegetarian"
     ],

@@ -9,25 +9,25 @@ ayurvedic: [warming, grounding, gas-producing, vata-aggravating, pitta-aggravati
 
 ## Ingredients
 
-- 2 tablespoons (30ml) extra-virgin olive oil (lentils)
-- 2 small carrots, peeled and cut into 1/2-inch chunks, about 1 cup (lentils)
-- 2 small stalks celery, cut into 1/4-inch slices, about 1 cup (lentils)
-- 1 medium onion, finely diced, about 1 cup (lentils)
-- 6 medium cloves garlic, thinly sliced (lentils)
-- 12 ounces (340g) brown or de Puy lentils (lentils)
-- 2 bay leaves (lentils)
-- 4 cups homemade vegetable stock or water, about 1L (lentils)
-- Kosher salt (lentils)
-- 2 teaspoons (10ml) red wine vinegar, apple cider vinegar, or sherry vinegar (lentils)
-- Freshly ground black pepper (lentils)
-- 2 large Italian or small globe eggplants, about 1 pound (450g) each (eggplant)
-- 4 tablespoons (60ml) extra-virgin olive oil (eggplant)
-- Kosher salt and freshly ground black pepper (eggplant)
-- 4 large sprigs fresh rosemary (eggplant)
-- 1 whole head garlic, broken into individual unpeeled cloves, about 20 (tahini sauce)
-- 2/3 cup fresh juice from 3 to 4 lemons, 160ml (tahini sauce)
-- 1/2 teaspoon ground cumin (tahini sauce)
-- 1 generous cup tahini paste, about 300g (tahini sauce)
+- 2 tablespoons (30ml) extra-virgin olive oil
+- 2 small carrots, peeled and cut into 1/2-inch chunks, about 1 cup
+- 2 small stalks celery, cut into 1/4-inch slices, about 1 cup
+- 1 medium onion, finely diced, about 1 cup
+- 6 medium cloves garlic, thinly sliced
+- 12 ounces (340g) brown or de Puy lentils
+- 2 bay leaves
+- 4 cups homemade vegetable stock or water, about 1L
+- Kosher salt
+- 2 teaspoons (10ml) red wine vinegar, apple cider vinegar, or sherry vinegar
+- Freshly ground black pepper
+- 2 large Italian or small globe eggplants, about 1 pound (450g) each
+- 4 tablespoons (60ml) extra-virgin olive oil
+- Kosher salt and freshly ground black pepper
+- 4 large sprigs fresh rosemary
+- 1 whole head garlic, broken into individual unpeeled cloves, about 20
+- 2/3 cup fresh juice from 3 to 4 lemons, 160ml
+- 1/2 teaspoon ground cumin
+- 1 generous cup tahini paste, about 300g
 - 2 tablespoons (30ml) extra-virgin olive oil, plus more for drizzling (to serve)
 - 1/4 cup pine nuts (to serve)
 - 2 tablespoons minced fresh parsley leaves (to serve)

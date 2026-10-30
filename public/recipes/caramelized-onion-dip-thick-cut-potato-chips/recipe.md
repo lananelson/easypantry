@@ -9,17 +9,17 @@ ayurvedic: [heavy, tamasic, deep-fried, kapha-aggravating]
 
 ## Ingredients
 
-- 2 tablespoons extra-virgin olive oil (dip)
-- 1 tablespoon unsalted butter (dip)
-- 2 large onions, about 1 1/2 pounds, thinly sliced (dip)
-- Kosher salt and freshly ground black pepper (dip)
-- 4 ounces cream cheese, at room temperature (dip)
-- 1/2 cup sour cream (dip)
-- 1/2 cup quality store-bought mayo (dip)
-- Chopped fresh chives (dip)
-- 2 large russet (baking) potatoes, about 1 pound, scrubbed (chips)
-- Canola oil, for frying (chips)
-- Kosher salt (chips)
+- 2 tablespoons extra-virgin olive oil
+- 1 tablespoon unsalted butter
+- 2 large onions, about 1 1/2 pounds, thinly sliced
+- Kosher salt and freshly ground black pepper
+- 4 ounces cream cheese, at room temperature
+- 1/2 cup sour cream
+- 1/2 cup quality store-bought mayo
+- Chopped fresh chives
+- 2 large russet (baking) potatoes, about 1 pound, scrubbed
+- Canola oil, for frying
+- Kosher salt
 
 ## Instructions
 

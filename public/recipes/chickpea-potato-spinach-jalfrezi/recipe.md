@@ -26,9 +26,9 @@ ayurvedic: [heating, kapha-balancing, digestive-spices, pitta-aggravating]
 - 1 (15-ounce) can chickpeas, with their liquid
 - 8 ounces curly spinach, roughly chopped
 - 2 tablespoons juice from 2 limes
-- 2 cups picked fresh cilantro leaves and tender stems (chutney)
-- 1 clove garlic (chutney)
-- 1 small green Thai bird chile (chutney)
+- 2 cups picked fresh cilantro leaves and tender stems
+- 1 clove garlic
+- 1 small green Thai bird chile
 
 ## Instructions
 

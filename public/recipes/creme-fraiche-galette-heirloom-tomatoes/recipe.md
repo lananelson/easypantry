@@ -16,11 +16,11 @@ ayurvedic: [heavy, grounding, pitta-aggravating, kapha-aggravating]
 - 1/2 cup crème fraîche, chilled
 - 1 pint tomatoes, a combination of heirloom cherry tomatoes and other tomatoes, cut in half or sliced if large
 - 1/3 lb. semi-hard sheep's milk cheese, such as manchego
-- 1 bunch microradishes or baby radishes, washed and trimmed (garnish, optional)
-- 1 cup microgreens (garnish, optional)
-- Extra-virgin olive oil (garnish, optional)
-- Red-wine vinegar (garnish, optional)
-- Coarse salt (garnish, optional)
+- 1 bunch microradishes or baby radishes, washed and trimmed (optional)
+- 1 cup microgreens (optional)
+- Extra-virgin olive oil (optional)
+- Red-wine vinegar (optional)
+- Coarse salt (optional)
 
 ## Instructions
 

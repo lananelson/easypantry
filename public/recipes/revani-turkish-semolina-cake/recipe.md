@@ -21,9 +21,9 @@ ayurvedic: [sweet, heavy, vata-balancing, kapha-aggravating]
 - 2 tsp. baking powder
 - 1 tsp. vanilla
 - ground nuts and coconut flakes for garnish
-- 1 cup sugar (syrup)
-- 1 cup water (syrup)
-- juice of 1/2 lemon (syrup)
+- 1 cup sugar
+- 1 cup water
+- juice of 1/2 lemon
 
 ## Instructions
 

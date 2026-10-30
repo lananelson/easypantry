@@ -9,27 +9,27 @@ ayurvedic: [tridoshic-base, grounding, digestive-ginger]
 
 ## Ingredients
 
-- Beets (bowl)
-- Kale (bowl)
-- Broccoli (bowl)
-- Rice (bowl)
-- Quinoa (bowl)
-- Avocado (bowl)
-- Pepitas or almonds (bowl)
-- Tofu (bowl)
-- Cheddar (bowl)
-- 2 garlic cloves, chopped (dressing)
-- 2 inches of fresh peeled ginger, chopped (dressing)
-- 1 tablespoon Tamari (or Nama Shoyu or soy sauce) (dressing)
-- 2 tablespoons lemon juice, about 1/2 lemon (dressing)
-- 2 tablespoons tahini (dressing)
-- 1 tablespoon olive oil or flax oil (dressing)
-- 2 tablespoons water (dressing)
+- Beets
+- Kale
+- Broccoli
+- Rice
+- Quinoa
+- Avocado
+- Pepitas or almonds
+- Tofu
+- Cheddar
+- 2 garlic cloves, chopped
+- 2 inches of fresh peeled ginger, chopped
+- 1 tablespoon Tamari (or Nama Shoyu or soy sauce)
+- 2 tablespoons lemon juice, about 1/2 lemon
+- 2 tablespoons tahini
+- 1 tablespoon olive oil or flax oil
+- 2 tablespoons water
 
 ## Instructions
 
 1. Dressing: Combine the garlic and ginger in a mini food processor or blender. Blend well. You may need to chop them up finely depending on the efficiency of your blender.
-2. Add the remaining dressing ingredients and blend until you have a creamy consistency. Add more water if you would like a less thick sauce.
+2. Add the tamari, lemon juice, tahini, oil, and water and blend until you have a creamy consistency. Add more water if you would like a less thick sauce.
 
 ## Notes
 

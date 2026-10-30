@@ -9,24 +9,24 @@ ayurvedic: [cooling, light, vata-aggravating]
 
 ## Ingredients
 
-- 1 small chioggia beet, scrubbed and thinly sliced (a mandolin is of good use here) (salad)
-- 6 radishes, thinly sliced (salad)
-- 4 spring onions, chopped (salad)
-- a good bunch of pea shoots (salad)
-- bunch of dill fronds (salad)
-- bunch of flat-leaf parsley leaves (salad)
-- edible flowers, optional (salad)
-- 2 tbsp grapeseed oil or olive oil (dressing)
-- 1/2 tbsp white balsamic vinegar (dressing)
-- a squeeze of lemon (dressing)
-- sea salt to taste (dressing)
-- 250 g fresh cod (poached cod)
-- water enough to cover (poached cod)
-- 1-2 tsp sea salt (poached cod)
+- 1 small chioggia beet, scrubbed and thinly sliced (a mandolin is of good use here)
+- 6 radishes, thinly sliced
+- 4 spring onions, chopped
+- a good bunch of pea shoots
+- bunch of dill fronds
+- bunch of flat-leaf parsley leaves
+- edible flowers, optional
+- 2 tbsp grapeseed oil or olive oil
+- 1/2 tbsp white balsamic vinegar
+- a squeeze of lemon
+- sea salt to taste
+- 250 g fresh cod
+- water enough to cover
+- 1-2 tsp sea salt
 
 ## Instructions
 
-1. Whisk all ingredients for the dressing together.
+1. For the dressing, whisk the oil, white balsamic vinegar, lemon juice, and sea salt together.
 2. Cut the cod in two pieces. Bring the salted water to a boil/simmer and add the fish in a single layer, making sure it is completely covered with liquid. Cover and cook for 5-6 minutes until the fish flesh flakes easily.
 3. Toss the salad with the dressing. Use a skimmer to pick up the fish and place it on the plates with the salad on the side.
 

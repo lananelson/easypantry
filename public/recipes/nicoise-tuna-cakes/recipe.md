@@ -25,11 +25,11 @@ ayurvedic: [warming, heavy, pitta-aggravating, rajasic]
 - 1 teaspoon anchovy paste
 - 1 teaspoon olive oil
 - Vegetable oil and olive oil for frying
-- 3 tablespoons mayonnaise (lemon aïoli)
-- 1 clove garlic, grated (lemon aïoli)
-- Zest and juice of 1/4 lemon (lemon aïoli)
-- 2 tablespoons crème fraîche (tapenade crème fraîche)
-- 1 1/2 tablespoons black olive tapenade (tapenade crème fraîche)
+- 3 tablespoons mayonnaise
+- 1 clove garlic, grated
+- Zest and juice of 1/4 lemon
+- 2 tablespoons crème fraîche
+- 1 1/2 tablespoons black olive tapenade
 - Lemon wedges, for serving
 
 ## Instructions

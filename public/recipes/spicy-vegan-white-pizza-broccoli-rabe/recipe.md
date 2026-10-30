@@ -9,13 +9,13 @@ ayurvedic: [heating, heavy, pitta-aggravating]
 
 ## Ingredients
 
-- ¾ cup cooked white beans, like cannellini or navy (truffled cream sauce)
-- 2 tablespoons water (truffled cream sauce)
-- 1 tablespoon fresh lemon juice (truffled cream sauce)
-- 1 tablespoon nutritional yeast, optional (truffled cream sauce)
-- 1 clove of garlic, peeled (truffled cream sauce)
-- ¼ teaspoon white truffle oil (truffled cream sauce)
-- sea salt & ground black pepper (truffled cream sauce)
+- ¾ cup cooked white beans, like cannellini or navy
+- 2 tablespoons water
+- 1 tablespoon fresh lemon juice
+- 1 tablespoon nutritional yeast, optional
+- 1 clove of garlic, peeled
+- ¼ teaspoon white truffle oil
+- sea salt & ground black pepper
 - ½ bunch broccoli rabe, tough stems removed and chopped
 - 1 tablespoon olive oil, plus extra
 - 6 oz/185 grams shiitake mushrooms, stemmed and sliced

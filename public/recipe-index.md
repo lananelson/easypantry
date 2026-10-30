@@ -19,28 +19,28 @@ Auto-generated from recipe files. Do not edit manually.
 ## adventurer-bowl
 **Adventurer Bowl with Tahini-Ginger Dressing**
 
-- Beets (bowl)
-- Kale (bowl)
-- Broccoli (bowl)
-- Rice (bowl)
-- Quinoa (bowl)
-- Avocado (bowl)
-- Pepitas or almonds (bowl)
-- Tofu (bowl)
-- Cheddar (bowl)
-- 2 garlic cloves, chopped (dressing)
-- 2 inches of fresh peeled ginger, chopped (dressing)
-- 1 tablespoon Tamari (or Nama Shoyu or soy sauce) (dressing)
-- 2 tablespoons lemon juice, about 1/2 lemon (dressing)
-- 2 tablespoons tahini (dressing)
-- 1 tablespoon olive oil or flax oil (dressing)
-- 2 tablespoons water (dressing)
+- Beets
+- Kale
+- Broccoli
+- Rice
+- Quinoa
+- Avocado
+- Pepitas or almonds
+- Tofu
+- Cheddar
+- 2 garlic cloves, chopped
+- 2 inches of fresh peeled ginger, chopped
+- 1 tablespoon Tamari (or Nama Shoyu or soy sauce)
+- 2 tablespoons lemon juice, about 1/2 lemon
+- 2 tablespoons tahini
+- 1 tablespoon olive oil or flax oil
+- 2 tablespoons water
 
 ## alice-waters-caesar-salad
 **Alice Waters' Caesar Salad**
 
 - 3 ounces day-old bread, cut into 1/2 inch cubes
-- 1 1/2 tablespoons olive oil (for croutons)
+- 1 1/2 tablespoons olive oil
 - Salt
 - 1 tablespoon red wine vinegar
 - 1 lemon, juiced
@@ -48,7 +48,7 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 teaspoons chopped anchovies, about 2-3 fillets
 - Freshly ground black pepper
 - 1 egg yolk
-- 1/4 cup olive oil (for dressing)
+- 1/4 cup olive oil
 - 1/2 cup Parmesan, freshly grated
 - 2 heads romaine lettuce, dark outer leaves removed
 
@@ -93,11 +93,11 @@ Auto-generated from recipe files. Do not edit manually.
 ## asparagus-goat-cheese-quiche
 **Asparagus Goat Cheese Quiche**
 
-- 2 cups (260g) all-purpose flour (crust)
-- 1 tsp salt (crust)
-- 2/3 cup (150g) chilled unsalted butter, cubed (crust)
-- 5 tbsp (75ml) cold water (crust)
-- 1 tbsp (14g) butter (filling)
+- 2 cups (260g) all-purpose flour
+- 1 tsp salt
+- 2/3 cup (150g) chilled unsalted butter, cubed
+- 5 tbsp (75ml) cold water
+- 1 tbsp (14g) butter
 - 1 shallot, peeled and diced
 - 1 small bunch (200g) asparagus, stemmed and cut into 1.5-inch pieces
 - 4 large eggs
@@ -451,17 +451,17 @@ Auto-generated from recipe files. Do not edit manually.
 ## caramelized-onion-dip-thick-cut-potato-chips
 **Caramelized Onion Dip with Thick-Cut Potato Chips**
 
-- 2 tablespoons extra-virgin olive oil (dip)
-- 1 tablespoon unsalted butter (dip)
-- 2 large onions, about 1 1/2 pounds, thinly sliced (dip)
-- Kosher salt and freshly ground black pepper (dip)
-- 4 ounces cream cheese, at room temperature (dip)
-- 1/2 cup sour cream (dip)
-- 1/2 cup quality store-bought mayo (dip)
-- Chopped fresh chives (dip)
-- 2 large russet (baking) potatoes, about 1 pound, scrubbed (chips)
-- Canola oil, for frying (chips)
-- Kosher salt (chips)
+- 2 tablespoons extra-virgin olive oil
+- 1 tablespoon unsalted butter
+- 2 large onions, about 1 1/2 pounds, thinly sliced
+- Kosher salt and freshly ground black pepper
+- 4 ounces cream cheese, at room temperature
+- 1/2 cup sour cream
+- 1/2 cup quality store-bought mayo
+- Chopped fresh chives
+- 2 large russet (baking) potatoes, about 1 pound, scrubbed
+- Canola oil, for frying
+- Kosher salt
 
 ## carrot-cake
 **Carrot Cake**
@@ -480,10 +480,10 @@ Auto-generated from recipe files. Do not edit manually.
 - 3 large eggs
 - 6 ounces (3/4 cup) plain yogurt
 - 6 ounces vegetable oil
-- 8 ounces cream cheese (frosting)
-- 2 ounces unsalted butter, room temperature (frosting)
-- 1 teaspoon vanilla extract (frosting)
-- 9 ounces powdered sugar, sifted, approximately 2 cups (frosting)
+- 8 ounces cream cheese
+- 2 ounces unsalted butter, room temperature
+- 1 teaspoon vanilla extract
+- 9 ounces powdered sugar, sifted, approximately 2 cups
 
 ## cavatelli-sausage-broccoli-rabe
 **Cavatelli Sausage & Broccoli Rabe**
@@ -573,9 +573,9 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 (15-ounce) can chickpeas, with their liquid
 - 8 ounces curly spinach, roughly chopped
 - 2 tablespoons juice from 2 limes
-- 2 cups picked fresh cilantro leaves and tender stems (chutney)
-- 1 clove garlic (chutney)
-- 1 small green Thai bird chile (chutney)
+- 2 cups picked fresh cilantro leaves and tender stems
+- 1 clove garlic
+- 1 small green Thai bird chile
 
 ## chickpea-sunflower-sandwich
 **Chickpea Sunflower Sandwich**
@@ -590,12 +590,12 @@ Auto-generated from recipe files. Do not edit manually.
 - Salt and black pepper, to taste
 - 4 slices rustic bread, lightly toasted
 - Sliced avocado, onion, tomato, and/or lettuce, for serving (optional)
-- 1/4 cup hummus (optional garlic herb sauce)
-- 1/2 medium lemon, juiced (optional garlic herb sauce)
-- 3/4 to 1 teaspoon dried dill (optional garlic herb sauce)
-- 2 cloves garlic, minced (optional garlic herb sauce)
-- Water or unsweetened almond milk, to thin (optional garlic herb sauce)
-- Sea salt, to taste (optional garlic herb sauce)
+- 1/4 cup hummus (optional)
+- 1/2 medium lemon, juiced (optional)
+- 3/4 to 1 teaspoon dried dill (optional)
+- 2 cloves garlic, minced (optional)
+- Water or unsweetened almond milk, to thin (optional)
+- Sea salt, to taste (optional)
 
 ## chinese-scrambled-eggs-garlic-chives
 **Chinese Scrambled Eggs with Garlic Chives**
@@ -691,11 +691,11 @@ Auto-generated from recipe files. Do not edit manually.
 - 1/2 cup crème fraîche, chilled
 - 1 pint tomatoes, a combination of heirloom cherry tomatoes and other tomatoes, cut in half or sliced if large
 - 1/3 lb. semi-hard sheep's milk cheese, such as manchego
-- 1 bunch microradishes or baby radishes, washed and trimmed (garnish, optional)
-- 1 cup microgreens (garnish, optional)
-- Extra-virgin olive oil (garnish, optional)
-- Red-wine vinegar (garnish, optional)
-- Coarse salt (garnish, optional)
+- 1 bunch microradishes or baby radishes, washed and trimmed (optional)
+- 1 cup microgreens (optional)
+- Extra-virgin olive oil (optional)
+- Red-wine vinegar (optional)
+- Coarse salt (optional)
 
 ## creme-fraiche
 **Homemade Crème Fraîche**
@@ -824,10 +824,10 @@ Auto-generated from recipe files. Do not edit manually.
 ## frozen-margarita-pie
 **Frozen Margarita Pie**
 
-- 1 cup finely crushed pretzels (crust)
-- 1/4 cup unsalted butter, melted (crust)
-- 2 Tbs sugar (crust)
-- Canola oil cooking spray (crust)
+- 1 cup finely crushed pretzels
+- 1/4 cup unsalted butter, melted
+- 2 Tbs sugar
+- Canola oil cooking spray
 - 6 Tbs fresh squeezed lime juice, about 5 limes
 - freshly grated zest of lime (used all of the limes)
 - 2 Tbs fresh squeezed orange juice (1 orange)
@@ -1025,14 +1025,14 @@ Auto-generated from recipe files. Do not edit manually.
 - 1½ lbs. scrubbed, debearded mussels and/or clams
 - Minced parsley, for garnish
 - Toasted rustic bread
-- 1 red bell pepper, roasted, peeled (rouille)
-- 1 roasted hot red chile pepper or ground cayenne pepper, to taste (rouille)
-- 1 Tbsp fresh lemon juice (rouille)
-- 1 small garlic clove, peeled (rouille)
-- ¼ cup fresh breadcrumbs or finely chopped almonds (rouille)
-- ¼ cup fresh parsley leaves (rouille)
-- ½ tsp (or to taste) fine sea salt (rouille)
-- 1/3 cup extra-virgin olive oil (rouille)
+- 1 red bell pepper, roasted, peeled
+- 1 roasted hot red chile pepper or ground cayenne pepper, to taste
+- 1 Tbsp fresh lemon juice
+- 1 small garlic clove, peeled
+- ¼ cup fresh breadcrumbs or finely chopped almonds
+- ¼ cup fresh parsley leaves
+- ½ tsp (or to taste) fine sea salt
+- 1/3 cup extra-virgin olive oil
 
 ## k-bas-and-cabbage-soup
 **K-bas & Cabbage Soup**
@@ -1064,7 +1064,7 @@ Auto-generated from recipe files. Do not edit manually.
 ## kale-white-bean-mushroom
 **Kale, White Bean Purée & Mushrooms**
 
-- White beans (for the purée)
+- White beans
 - Lemon
 - Garlic
 - Mushrooms
@@ -1096,21 +1096,21 @@ Auto-generated from recipe files. Do not edit manually.
 ## kolokithokeftedes-greek-zucchini-fritters
 **Kolokithokeftedes (Greek Zucchini Fritters) with Tzatziki**
 
-- 3 cups packed, grated zucchini (from about 6 large zucchini) (fritters)
-- 6 tablespoons dill, chopped (fritters)
-- 1 bunch (about 8) scallions, white and light green parts finely chopped (fritters)
-- 1/2 teaspoon nutmeg (fritters)
-- 1 1/2 cups crumbled feta (fritters)
-- 4 large eggs, lightly beaten (fritters)
-- 1 cup flour, plus more if needed (fritters)
-- Salt and pepper (fritters)
-- 4 tablespoons olive oil (fritters)
-- 2 cups greek yogurt (tzatziki)
-- 1 clove of garlic, minced (tzatziki)
-- 1/2 cup grated, peeled cucumber (tzatziki)
-- 1 teaspoon red wine vinegar or lemon juice (tzatziki)
-- 1 tablespoon extra virgin olive oil (tzatziki)
-- Salt and pepper (tzatziki)
+- 3 cups packed, grated zucchini (from about 6 large zucchini)
+- 6 tablespoons dill, chopped
+- 1 bunch (about 8) scallions, white and light green parts finely chopped
+- 1/2 teaspoon nutmeg
+- 1 1/2 cups crumbled feta
+- 4 large eggs, lightly beaten
+- 1 cup flour, plus more if needed
+- Salt and pepper
+- 4 tablespoons olive oil
+- 2 cups greek yogurt
+- 1 clove of garlic, minced
+- 1/2 cup grated, peeled cucumber
+- 1 teaspoon red wine vinegar or lemon juice
+- 1 tablespoon extra virgin olive oil
+- Salt and pepper
 
 ## kulebyaka-individual-salmon-pastries
 **Kulebyaka (Individual Salmon Pastries)**
@@ -1273,17 +1273,17 @@ Auto-generated from recipe files. Do not edit manually.
 **Millet with Steamed Spring Greens and Lemon Vinaigrette**
 
 - 1 cup dry millet
-- 3 cups water or light chicken stock (for the millet)
+- 3 cups water or light chicken stock
 - 1 cup fava beans
 - 1 cup shelled green peas
 - 16 green long asparagus stems
-- Sea salt and pepper (vinaigrette)
-- 1 teaspoon honey-flavored mustard (vinaigrette)
-- Juice of 1 large lemon (vinaigrette)
-- 1 garlic clove, peeled and finely minced (vinaigrette)
-- 3 tablespoons olive oil (vinaigrette)
-- 1 tablespoon pistachio oil (vinaigrette)
-- 2 tablespoons chopped basil, dill and parsley (vinaigrette)
+- Sea salt and pepper
+- 1 teaspoon honey-flavored mustard
+- Juice of 1 large lemon
+- 1 garlic clove, peeled and finely minced
+- 3 tablespoons olive oil
+- 1 tablespoon pistachio oil
+- 2 tablespoons chopped basil, dill and parsley
 - Ricotta salata and prosciutto, optional
 
 ## minestra-coi-ceci
@@ -1413,11 +1413,11 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 teaspoon anchovy paste
 - 1 teaspoon olive oil
 - Vegetable oil and olive oil for frying
-- 3 tablespoons mayonnaise (lemon aïoli)
-- 1 clove garlic, grated (lemon aïoli)
-- Zest and juice of 1/4 lemon (lemon aïoli)
-- 2 tablespoons crème fraîche (tapenade crème fraîche)
-- 1 1/2 tablespoons black olive tapenade (tapenade crème fraîche)
+- 3 tablespoons mayonnaise
+- 1 clove garlic, grated
+- Zest and juice of 1/4 lemon
+- 2 tablespoons crème fraîche
+- 1 1/2 tablespoons black olive tapenade
 - Lemon wedges, for serving
 
 ## olive-tapenade
@@ -1559,7 +1559,7 @@ Auto-generated from recipe files. Do not edit manually.
 **Pasta with Tondini Beans**
 
 - 200 g tondini (round) beans, dried
-- For the sauté: 1 carrot, 1 stalk celery, 1 onion
+- 1 carrot, 1 stalk celery, 1 onion
 - 1 tomato, chopped
 - 200 g wholemeal pasta (shape of your choice)
 - Extra virgin olive oil
@@ -1617,39 +1617,39 @@ Auto-generated from recipe files. Do not edit manually.
 ## pirozhki-s-kapustoy
 **Пирожки с капустой — Pirozhki (Russian Cabbage Hand Pies)**
 
-- 15 г сухих быстродействующих дрожжей (тесто)
-- 1000 г муки пшеничной (тесто)
-- 60 г сахара-песка (тесто)
-- 2 ч.л. соли (тесто)
-- 200 г сливочного масла (тесто)
-- около 400 мл теплой кипяченой воды (тесто)
-- 800 г капусты белокочанной (начинка)
-- 1 ч.л. соли (начинка)
+- 15 г сухих быстродействующих дрожжей
+- 1000 г муки пшеничной
+- 60 г сахара-песка
+- 2 ч.л. соли
+- 200 г сливочного масла
+- около 400 мл теплой кипяченой воды
+- 800 г капусты белокочанной
+- 1 ч.л. соли
 - 5 яиц (начинка, вкрутую)
-- 30 мл растительного масла (начинка)
-- 2 луковицы, по 100 г (начинка)
-- 50 г сливочного масла (начинка)
+- 30 мл растительного масла
+- 2 луковицы, по 100 г
+- 50 г сливочного масла
 - яйцо для смазывания
 
 ## pisarei-e-fasoi
 **Pisarei e Fasoi**
 
-- 2 cups (1 pound) dried borlotti or cranberry beans, or 1 (19-ounce) can Italian borlotti or cranberry beans, undrained (for bean sauce)
-- 10 cups water (for bean sauce)
-- 4 tablespoons unsalted butter (for bean sauce)
-- 1 small white onion, sliced extremely fine (for bean sauce)
-- 1/3 cup (2 ounces) minced pancetta, salt pork, or bacon (for bean sauce)
-- 1 cup meat broth, or 1 meat bouillon cube dissolved in 1 cup hot water (for bean sauce)
-- 2 teaspoons tomato paste, just enough to add color (for bean sauce)
-- 8 leaves fresh basil (for bean sauce)
-- 2 European bay leaves, preferably fresh; use only 1 bay leaf if using dried California bay (for bean sauce)
-- Substantial grindings of fresh black pepper (for bean sauce)
-- 1/2 scant cup fine dry bread crumbs (for pisarei)
-- About 3/4 cup very hot water (for pisarei)
-- 2 cups (10 ounces) unbleached all-purpose flour (for pisarei)
-- 1 egg (for pisarei)
-- At least 4 quarts water (for cooking)
-- 2 teaspoons salt (for cooking)
+- 2 cups (1 pound) dried borlotti or cranberry beans, or 1 (19-ounce) can Italian borlotti or cranberry beans, undrained
+- 10 cups water
+- 4 tablespoons unsalted butter
+- 1 small white onion, sliced extremely fine
+- 1/3 cup (2 ounces) minced pancetta, salt pork, or bacon
+- 1 cup meat broth, or 1 meat bouillon cube dissolved in 1 cup hot water
+- 2 teaspoons tomato paste, just enough to add color
+- 8 leaves fresh basil
+- 2 European bay leaves, preferably fresh; use only 1 bay leaf if using dried California bay
+- Substantial grindings of fresh black pepper
+- 1/2 scant cup fine dry bread crumbs
+- About 3/4 cup very hot water
+- 2 cups (10 ounces) unbleached all-purpose flour
+- 1 egg
+- At least 4 quarts water
+- 2 teaspoons salt
 
 ## poblano-stuffed-chorizo-shrimp-rice
 **Poblanos Stuffed with Chorizo, Shrimp and Rice**
@@ -1765,22 +1765,22 @@ Auto-generated from recipe files. Do not edit manually.
 ## rasstegai
 **Расстегаи — Rasstegai (Russian Open-Top Fish Pies)**
 
-- 1/2 стакана воды (тесто)
-- 1/2 стакана молока (тесто)
-- 2,5 ч.л. сухих дрожжей или 25 гр. свежих дрожжей (тесто)
-- 1 ч.л. сахара (тесто)
-- 3 ст. муки в/с, 500 гр. (тесто)
-- 1 яйцо (тесто)
-- 3 ст.л. подсолнечного масла (тесто)
-- 1 ч.л. соли (тесто)
-- 500 гр. рыбного филе (начинка)
-- 2 крупные луковицы (начинка)
-- 2/3 ч.л. соли (начинка)
-- 1/3 ч.л. черного молотого перца (начинка)
-- 1 ч.л. сухого укропа или небольшой пучок свежего укропа (начинка)
-- щепотка кардамона, по желанию (начинка)
-- растительное масло (начинка)
-- 30-50 гр. сливочного масла (начинка)
+- 1/2 стакана воды
+- 1/2 стакана молока
+- 2,5 ч.л. сухих дрожжей или 25 гр. свежих дрожжей
+- 1 ч.л. сахара
+- 3 ст. муки в/с, 500 гр.
+- 1 яйцо
+- 3 ст.л. подсолнечного масла
+- 1 ч.л. соли
+- 500 гр. рыбного филе
+- 2 крупные луковицы
+- 2/3 ч.л. соли
+- 1/3 ч.л. черного молотого перца
+- 1 ч.л. сухого укропа или небольшой пучок свежего укропа
+- щепотка кардамона, по желанию
+- растительное масло
+- 30-50 гр. сливочного масла
 - 1 яйцо (украшение)
 
 ## revani-turkish-semolina-cake
@@ -1798,9 +1798,9 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 tsp. baking powder
 - 1 tsp. vanilla
 - ground nuts and coconut flakes for garnish
-- 1 cup sugar (syrup)
-- 1 cup water (syrup)
-- juice of 1/2 lemon (syrup)
+- 1 cup sugar
+- 1 cup water
+- juice of 1/2 lemon
 
 ## ricotta-herbs-cucumber-toast
 **Ricotta, Herbs, and Cucumber Toast**
@@ -1832,25 +1832,25 @@ Auto-generated from recipe files. Do not edit manually.
 ## roasted-eggplant-tahini-pine-nuts-lentils
 **Roasted Eggplant with Tahini, Pine Nuts, and Lentils**
 
-- 2 tablespoons (30ml) extra-virgin olive oil (lentils)
-- 2 small carrots, peeled and cut into 1/2-inch chunks, about 1 cup (lentils)
-- 2 small stalks celery, cut into 1/4-inch slices, about 1 cup (lentils)
-- 1 medium onion, finely diced, about 1 cup (lentils)
-- 6 medium cloves garlic, thinly sliced (lentils)
-- 12 ounces (340g) brown or de Puy lentils (lentils)
-- 2 bay leaves (lentils)
-- 4 cups homemade vegetable stock or water, about 1L (lentils)
-- Kosher salt (lentils)
-- 2 teaspoons (10ml) red wine vinegar, apple cider vinegar, or sherry vinegar (lentils)
-- Freshly ground black pepper (lentils)
-- 2 large Italian or small globe eggplants, about 1 pound (450g) each (eggplant)
-- 4 tablespoons (60ml) extra-virgin olive oil (eggplant)
-- Kosher salt and freshly ground black pepper (eggplant)
-- 4 large sprigs fresh rosemary (eggplant)
-- 1 whole head garlic, broken into individual unpeeled cloves, about 20 (tahini sauce)
-- 2/3 cup fresh juice from 3 to 4 lemons, 160ml (tahini sauce)
-- 1/2 teaspoon ground cumin (tahini sauce)
-- 1 generous cup tahini paste, about 300g (tahini sauce)
+- 2 tablespoons (30ml) extra-virgin olive oil
+- 2 small carrots, peeled and cut into 1/2-inch chunks, about 1 cup
+- 2 small stalks celery, cut into 1/4-inch slices, about 1 cup
+- 1 medium onion, finely diced, about 1 cup
+- 6 medium cloves garlic, thinly sliced
+- 12 ounces (340g) brown or de Puy lentils
+- 2 bay leaves
+- 4 cups homemade vegetable stock or water, about 1L
+- Kosher salt
+- 2 teaspoons (10ml) red wine vinegar, apple cider vinegar, or sherry vinegar
+- Freshly ground black pepper
+- 2 large Italian or small globe eggplants, about 1 pound (450g) each
+- 4 tablespoons (60ml) extra-virgin olive oil
+- Kosher salt and freshly ground black pepper
+- 4 large sprigs fresh rosemary
+- 1 whole head garlic, broken into individual unpeeled cloves, about 20
+- 2/3 cup fresh juice from 3 to 4 lemons, 160ml
+- 1/2 teaspoon ground cumin
+- 1 generous cup tahini paste, about 300g
 - 2 tablespoons (30ml) extra-virgin olive oil, plus more for drizzling (to serve)
 - 1/4 cup pine nuts (to serve)
 - 2 tablespoons minced fresh parsley leaves (to serve)
@@ -1894,19 +1894,19 @@ Auto-generated from recipe files. Do not edit manually.
 ## salmon-bengali-mustard-sauce
 **Salmon in a Bengali Mustard Sauce**
 
-- 3/4 pound skinless salmon fillet (fish rub)
-- 1/4 teaspoon salt (fish rub)
-- 1/4 teaspoon ground turmeric (fish rub)
-- 1/4 teaspoon cayenne powder (fish rub)
-- 1 tablespoon ground mustard (sauce)
-- 1/4 to 1/2 teaspoon cayenne pepper, depending on spice preference (sauce)
-- 1/4 teaspoon ground turmeric (sauce)
-- 1/4 teaspoon salt (sauce)
-- 2 tablespoons mustard oil or extra-virgin olive oil (sauce)
-- 1/4 teaspoon whole mustard seeds, brown or yellow (sauce)
-- 1/4 teaspoon whole cumin seeds (sauce)
-- 1/4 teaspoon whole fennel seeds (sauce)
-- 2 hot green chilies, slit slightly (sauce)
+- 3/4 pound skinless salmon fillet
+- 1/4 teaspoon salt
+- 1/4 teaspoon ground turmeric
+- 1/4 teaspoon cayenne powder
+- 1 tablespoon ground mustard
+- 1/4 to 1/2 teaspoon cayenne pepper, depending on spice preference
+- 1/4 teaspoon ground turmeric
+- 1/4 teaspoon salt
+- 2 tablespoons mustard oil or extra-virgin olive oil
+- 1/4 teaspoon whole mustard seeds, brown or yellow
+- 1/4 teaspoon whole cumin seeds
+- 1/4 teaspoon whole fennel seeds
+- 2 hot green chilies, slit slightly
 
 ## salmon-chowder
 **Easy, Creamy One-Pot Salmon Chowder**
@@ -1979,9 +1979,9 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 lbs. mushrooms, sliced
 - 1/4 cup low-sodium tamari or soy sauce
 - 1 large onion, finely diced
-- 1 cup raw almonds or cashews (faux parmesan)
-- 1/2 cup nutritional yeast (faux parmesan)
-- 1 tbsp salt-free Italian seasoning (faux parmesan)
+- 1 cup raw almonds or cashews
+- 1/2 cup nutritional yeast
+- 1 tbsp salt-free Italian seasoning
 
 ## seasoned-italian-breadcrumbs
 **Seasoned Italian Breadcrumbs**
@@ -2099,9 +2099,9 @@ Auto-generated from recipe files. Do not edit manually.
 - 1/2 teaspoon sea salt
 - 1 1/4 cups raw cashews, soaked 1 to 4 hours
 - 2 teaspoons white miso
-- Toasted cashews (topping)
-- Pea shoots, sunflower sprouts, or small greens (topping)
-- Chopped Kalamata olives, definitely optional (topping)
+- Toasted cashews
+- Pea shoots, sunflower sprouts, or small greens
+- Chopped Kalamata olives, definitely optional
 
 ## spicy-cauliflower-sabzi-cashews
 **Spicy Cauliflower Sabzi with Cashews**
@@ -2132,13 +2132,13 @@ Auto-generated from recipe files. Do not edit manually.
 ## spicy-vegan-white-pizza-broccoli-rabe
 **Spicy Vegan White Pizza with Broccoli Rabe & Truffle Cream**
 
-- ¾ cup cooked white beans, like cannellini or navy (truffled cream sauce)
-- 2 tablespoons water (truffled cream sauce)
-- 1 tablespoon fresh lemon juice (truffled cream sauce)
-- 1 tablespoon nutritional yeast, optional (truffled cream sauce)
-- 1 clove of garlic, peeled (truffled cream sauce)
-- ¼ teaspoon white truffle oil (truffled cream sauce)
-- sea salt & ground black pepper (truffled cream sauce)
+- ¾ cup cooked white beans, like cannellini or navy
+- 2 tablespoons water
+- 1 tablespoon fresh lemon juice
+- 1 tablespoon nutritional yeast, optional
+- 1 clove of garlic, peeled
+- ¼ teaspoon white truffle oil
+- sea salt & ground black pepper
 - ½ bunch broccoli rabe, tough stems removed and chopped
 - 1 tablespoon olive oil, plus extra
 - 6 oz/185 grams shiitake mushrooms, stemmed and sliced
@@ -2173,20 +2173,20 @@ Auto-generated from recipe files. Do not edit manually.
 ## spring-salad-poached-cod
 **Fresh Spring Salad with Poached Cod**
 
-- 1 small chioggia beet, scrubbed and thinly sliced (a mandolin is of good use here) (salad)
-- 6 radishes, thinly sliced (salad)
-- 4 spring onions, chopped (salad)
-- a good bunch of pea shoots (salad)
-- bunch of dill fronds (salad)
-- bunch of flat-leaf parsley leaves (salad)
-- edible flowers, optional (salad)
-- 2 tbsp grapeseed oil or olive oil (dressing)
-- 1/2 tbsp white balsamic vinegar (dressing)
-- a squeeze of lemon (dressing)
-- sea salt to taste (dressing)
-- 250 g fresh cod (poached cod)
-- water enough to cover (poached cod)
-- 1-2 tsp sea salt (poached cod)
+- 1 small chioggia beet, scrubbed and thinly sliced (a mandolin is of good use here)
+- 6 radishes, thinly sliced
+- 4 spring onions, chopped
+- a good bunch of pea shoots
+- bunch of dill fronds
+- bunch of flat-leaf parsley leaves
+- edible flowers, optional
+- 2 tbsp grapeseed oil or olive oil
+- 1/2 tbsp white balsamic vinegar
+- a squeeze of lemon
+- sea salt to taste
+- 250 g fresh cod
+- water enough to cover
+- 1-2 tsp sea salt
 
 ## suddenly-stew
 **Suddenly Stew (Kale, Chickpea & Brown Rice)**
@@ -2329,35 +2329,30 @@ Auto-generated from recipe files. Do not edit manually.
 ## vegan-tempeh-reuben
 **Vegan Tempeh Reuben**
 
-- 2 Tbs. extra-virgin olive oil (for marinade)
-- 2 Tbs. balsamic vinegar (for marinade)
-- 2 Tbs. low-sodium, gluten-free tamari (for marinade)
-- 1 Tbs. gluten-free, vegan Worcestershire sauce (for marinade)
-- 2 Tbs. raw apple cider vinegar (for marinade)
-- 2 Tbs. water (for marinade)
-- 1 tsp. liquid smoke (for marinade)
-- 2 cloves garlic, minced (for marinade)
-- 1 tsp. onion powder (for marinade)
-- 1 tsp. dried mustard (for marinade)
-- 1 tsp. dried coriander (for marinade)
-- 1 tsp. smoked paprika (for marinade)
-- 1 bay leaf, crumbled (for marinade)
-- 1/3 cup vegan mayonnaise (for Russian dressing)
-- 2 Tbs. ketchup (for Russian dressing)
-- 1 Tbs. prepared horseradish (for Russian dressing)
-- 1 tsp. gluten-free, vegan Worcestershire sauce (for Russian dressing)
-- 1/8 tsp. hot sauce or Sriracha, optional (for Russian dressing)
-- Kosher salt and black pepper to taste (for Russian dressing)
+- 2 Tbs. extra-virgin olive oil
+- 2 Tbs. balsamic vinegar
+- 2 Tbs. low-sodium, gluten-free tamari
+- 1 Tbs. gluten-free, vegan Worcestershire sauce
+- 2 Tbs. raw apple cider vinegar
+- 2 Tbs. water
+- 1 tsp. liquid smoke
+- 2 cloves garlic, minced
+- 1 tsp. onion powder
+- 1 tsp. dried mustard
+- 1 tsp. dried coriander
+- 1 tsp. smoked paprika
+- 1 bay leaf, crumbled
+- 1/3 cup vegan mayonnaise
+- 2 Tbs. ketchup
+- 1 Tbs. prepared horseradish
+- 1 tsp. gluten-free, vegan Worcestershire sauce
+- 1/8 tsp. hot sauce or Sriracha, optional
+- Kosher salt and black pepper to taste
 - 1 block tempeh, cut into 8 pieces
 - 1 Tbs. canola oil
 - 1-2 Tbs. vegan butter
 - 4 slices gluten-free bread
 - 1 cup sauerkraut
-- 1 cup canola oil (for vegan mayo)
-- 1/2 cup soy milk (for vegan mayo)
-- 1 tsp fresh lemon juice (for vegan mayo)
-- Pinch of salt (for vegan mayo)
-- Pinch of ground mustard or 1/2 tsp prepared mustard (for vegan mayo)
 
 ## walnut-faux-cream-mushroom-soup
 **Walnut Faux-Cream of Mushroom Soup**

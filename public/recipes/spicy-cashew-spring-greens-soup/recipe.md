@@ -20,9 +20,9 @@ ayurvedic: [warming, nourishing, heavy, vata-balancing, pitta-aggravating]
 - 1/2 teaspoon sea salt
 - 1 1/4 cups raw cashews, soaked 1 to 4 hours
 - 2 teaspoons white miso
-- Toasted cashews (topping)
-- Pea shoots, sunflower sprouts, or small greens (topping)
-- Chopped Kalamata olives, definitely optional (topping)
+- Toasted cashews
+- Pea shoots, sunflower sprouts, or small greens
+- Chopped Kalamata olives, definitely optional
 
 ## Instructions
 

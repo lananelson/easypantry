@@ -10,7 +10,7 @@ ayurvedic: [cooling, light, vata-aggravating, pitta-aggravating, rajasic]
 ## Ingredients
 
 - 3 ounces day-old bread, cut into 1/2 inch cubes
-- 1 1/2 tablespoons olive oil (for croutons)
+- 1 1/2 tablespoons olive oil
 - Salt
 - 1 tablespoon red wine vinegar
 - 1 lemon, juiced
@@ -18,7 +18,7 @@ ayurvedic: [cooling, light, vata-aggravating, pitta-aggravating, rajasic]
 - 2 teaspoons chopped anchovies, about 2-3 fillets
 - Freshly ground black pepper
 - 1 egg yolk
-- 1/4 cup olive oil (for dressing)
+- 1/4 cup olive oil
 - 1/2 cup Parmesan, freshly grated
 - 2 heads romaine lettuce, dark outer leaves removed
 

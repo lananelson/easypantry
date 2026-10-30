@@ -9,7 +9,7 @@ ayurvedic: [grounding, gas-producing, vata-aggravating, tamasic]
 
 ## Ingredients
 
-- White beans (for the purée)
+- White beans
 - Lemon
 - Garlic
 - Mushrooms

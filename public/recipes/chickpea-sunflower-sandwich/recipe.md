@@ -19,12 +19,12 @@ ayurvedic: [cooling, heavy, gas-producing, vata-aggravating]
 - Salt and black pepper, to taste
 - 4 slices rustic bread, lightly toasted
 - Sliced avocado, onion, tomato, and/or lettuce, for serving (optional)
-- 1/4 cup hummus (optional garlic herb sauce)
-- 1/2 medium lemon, juiced (optional garlic herb sauce)
-- 3/4 to 1 teaspoon dried dill (optional garlic herb sauce)
-- 2 cloves garlic, minced (optional garlic herb sauce)
-- Water or unsweetened almond milk, to thin (optional garlic herb sauce)
-- Sea salt, to taste (optional garlic herb sauce)
+- 1/4 cup hummus (optional)
+- 1/2 medium lemon, juiced (optional)
+- 3/4 to 1 teaspoon dried dill (optional)
+- 2 cloves garlic, minced (optional)
+- Water or unsweetened almond milk, to thin (optional)
+- Sea salt, to taste (optional)
 
 ## Instructions
 
