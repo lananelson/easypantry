@@ -1,6 +1,6 @@
 name,category,quantity,unit,container_state,location,perishable,urgency,vendor,stock_requirement,notes
 Carrots,produce,0.78,lb,,fridge,yes,medium,,,
-Lemons,produce,1,each,,fridge,yes,medium,,keep in stock,
+Lemons,produce,0,each,,fridge,yes,medium,,keep in stock,
 Garlic,produce,1,bulb,,pantry,yes,medium,,keep in stock,
 Tahini,fermented pastes,1,jar,open,fridge,no,low,,keep in stock,"Sesame paste"
 Miso paste,fermented pastes,1,container,sealed,fridge,no,low,,,
@@ -138,7 +138,6 @@ Cilantro,produce,1,bunch,,fridge,yes,medium,,,
 Dill,produce,1,bunch,,fridge,yes,medium,,,
 Red potatoes,produce,10,lb,,pantry,yes,low,Costco,,
 Dubliner cheese,cheese,1,block,sealed,fridge,yes,low,Costco,,
-Tempeh,prepared foods,2,blocks,,fridge,yes,medium,,,
 Vegan sausage,prepared foods,8,oz,open,fridge,yes,medium,,,
 Sauerkraut,preserved vegetables,1,container,,fridge,yes,low,,,
 Onion,produce,0.9,lb,,pantry,yes,low,,,Yellow
@@ -157,7 +156,6 @@ Whole milk,dairy,0.5,gallon,sealed,fridge,yes,medium,Berkeley Bowl,,Clover Sonom
 Fish sauce (premium),asian sauces,1,bottle,sealed,pantry,no,low,Berkeley Bowl,,Son
 Chicken thighs (boneless skinless),poultry,1,pack,sealed,fridge,yes,medium,Costco,,Organic
 Turkey breast (oven-browned),poultry,1,breast,sealed,fridge,yes,medium,Costco,,Fully cooked
-Petrale sole,seafood,1,package,sealed,fridge,yes,high,Costco,,
 Whole milk yogurt,dairy,2,containers,sealed,fridge,yes,medium,Costco,,Bellwether Farms organic a2; 32 oz each
 Feta,cheese,14,oz,sealed,fridge,yes,low,Costco,,Valbreso French sheep's milk
 Silken tofu,prepared foods,1,package,sealed,fridge,yes,medium,Berkeley Bowl,,
