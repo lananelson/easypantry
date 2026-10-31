@@ -22,6 +22,9 @@ const videos: Record<string, RecipeVideo> = {
   'marousalata': {
     id: '7617418772823002388', author: '@creamy_confusion', coverFile: 'marousalata.jpg',
   },
+  'bun-ca-moi-hop': {
+    id: '7693726342109613342', author: '@feedthepudge',
+  },
 };
 export function recipeVideo(slug: string) {
   const video = videos[slug];

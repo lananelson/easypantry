@@ -55,3 +55,4 @@ ayurvedic: []
 - Source: https://feedthepudge.com/bun-ca-moi-hop-canned-sardine-noodle-soup/
 - Author: Ken Tran
 - TikTok video saved in camera roll.
+- TikTok recipe: https://www.tiktok.com/@feedthepudge/video/7693726342109613342

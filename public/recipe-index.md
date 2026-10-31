@@ -2298,7 +2298,7 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 balls burrata or very fresh mozzarella
 
 ## toplyonoye-moloko-baked-milk
-**Топлёное молоко — Baked Milk**
+**Топлёное молоко (Baked Milk)**
 
 - 2 quarts milk (FairLife 2%, or good tasting whole milk)
 
