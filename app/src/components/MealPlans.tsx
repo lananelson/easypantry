@@ -78,6 +78,16 @@ function hasDetails(dish: Dish): boolean {
   return !dish.path && !!r && (r.ingredients.length > 0 || r.inspiredBy.length > 0 || r.variations.length > 0);
 }
 
+/** Made-up dishes (no recipe page of their own) get a chef emoji. */
+function MadeUpMark({ dish, className }: { dish: Dish; className: string }) {
+  if (!hasDetails(dish)) return null;
+  return (
+    <span className={className} title="Made-up recipe" aria-label="Made-up recipe">
+      👩‍🍳
+    </span>
+  );
+}
+
 /** Recipe paths open in the app; anything else (a website) opens in a new tab. */
 function linkProps(path: string) {
   if (/^https?:/.test(path)) return { href: path, target: "_blank", rel: "noopener noreferrer" };
@@ -259,9 +269,12 @@ function DishTile({
       <div className="dish-tile-body">
         <div className="dish-tile-name">{dish.name}</div>
         {dish.note && <div className="dish-note">{dish.note}</div>}
-        {dish.status && (
-          <span className={`status-chip ${dish.status}`}>{STATUS_LABEL[dish.status]}</span>
-        )}
+        <div className="dish-tile-foot">
+          {dish.status && (
+            <span className={`status-chip ${dish.status}`}>{STATUS_LABEL[dish.status]}</span>
+          )}
+          <MadeUpMark dish={dish} className="dish-made-up" />
+        </div>
       </div>
     </>
   );
@@ -343,6 +356,7 @@ function DishChip({
         </span>
       )}
       <span className="dish-chip-name">{dish.name}</span>
+      <MadeUpMark dish={dish} className="dish-chip-made-up" />
       {dish.status === "made" && <span className="dish-chip-check">✓</span>}
     </>
   );
@@ -397,9 +411,12 @@ function DishDetail({ dish, onClose }: { dish: Dish; onClose: () => void }) {
           Close ×
         </button>
       </div>
-      {dish.status && (
-        <span className={`status-chip ${dish.status}`}>{STATUS_LABEL[dish.status]}</span>
-      )}
+      <div className="dish-detail-chips">
+        <MadeUpMark dish={dish} className="dish-detail-made-up" />
+        {dish.status && (
+          <span className={`status-chip ${dish.status}`}>{STATUS_LABEL[dish.status]}</span>
+        )}
+      </div>
       {dish.note && <div className="dish-note">{dish.note}</div>}
       {r && r.inspiredBy.length > 0 && (
         <p className="dish-detail-inspired">
