@@ -448,6 +448,20 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 pound ripe tomatoes, cut into wedges (or use cherry tomatoes, halved or left whole)
 - Flaky sea salt
 
+## buttery-garlic-herb-spaghetti-squash-pasta
+**Buttery Garlic Herb Spaghetti Squash Pasta**
+
+- 1 small spaghetti squash (about 600 g / 1 1/3 lb)
+- 1 small head of garlic
+- 4 tbsp butter
+- 1 tsp chile flakes
+- A handful of fresh parsley, finely chopped
+- 1 1/2–2 cups mixed grated cheese, such as mozzarella or fontina with Parmesan, Gruyère, or sharp cheddar
+- 300–400 g pasta, such as spaghetti or fettuccine
+- Extra-virgin olive oil
+- Kosher salt and pepper
+- Parmesan, to serve
+
 ## caramelized-onion-dip-thick-cut-potato-chips
 **Caramelized Onion Dip with Thick-Cut Potato Chips**
 
@@ -534,6 +548,22 @@ Auto-generated from recipe files. Do not edit manually.
 - Honey mustard
 - Lettuce
 - Swiss cheese
+
+## chicken-piccata
+**Chicken Piccata with Lemon Butter Spaghetti**
+
+- 3 boneless, skinless chicken thighs
+- All-purpose flour, for lightly coating
+- 2 tbsp olive oil, for frying
+- 2 tbsp capers
+- 1/2 cup chicken stock
+- 1/2 cup white wine
+- Salt and black pepper
+- 250 g unsalted butter
+- 4–6 lemons, juiced
+- 3 large garlic cloves, peeled and crushed
+- 100 g spaghetti
+- Fresh parsley, chopped
 
 ## chicken-scarpariello
 **Chicken Scarpariello**
@@ -681,6 +711,20 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 stalks celery, finely diced
 - 1/4 cup roughly chopped fresh parsley leaves
 
+## creamy-miso-coconut-butter-beans
+**Creamy Miso + Coconut Butter Beans**
+
+- Olive oil
+- 1 onion, peeled and sliced
+- 2 (400 g) tins butter beans
+- 1 (400 g) tin full-fat coconut milk
+- 1 tbsp white miso paste
+- Salt and pepper
+- 100 g baby spinach
+- 1 handful fresh dill
+- ½ lemon, juice only
+- 6 slices toasted bread, to serve (or gluten-free bread)
+
 ## creme-fraiche-galette-heirloom-tomatoes
 **Crème Fraîche Galette with Heirloom Tomatoes**
 
@@ -756,6 +800,17 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 to 2 medium cloves garlic (5 to 10g), minced
 - 1/2 cup (120 ml) vegetable oil
 - Kosher salt and freshly ground black pepper
+
+## eggs-en-cocotte-baked-eggs
+**Eggs en Cocotte (Baked Eggs)**
+
+- 4 whole eggs
+- 4 tbsp heavy cream
+- 4 tbsp Boursin cheese
+- 2 tbsp butter
+- 2 tbsp chopped chives
+- Salt and freshly cracked pepper
+- 2 slices grainy, seedy bread
 
 ## fall-apart-lamb-with-prunes
 **Fall-Apart Lamb with Prunes**
@@ -958,6 +1013,40 @@ Auto-generated from recipe files. Do not edit manually.
 - Kosher salt and freshly ground pepper
 - Bread, or bruschetta
 
+## grilled-peach-panzanella
+**Grilled Peach Panzanella**
+
+- 3 small round shallots
+- 150 g dried lentils
+- 500 g heirloom tomatoes
+- 1 peach
+- Olive oil for charring (not extra virgin)
+- 150 g sourdough bread (or ciabatta)
+- 1 small garlic clove
+- 6 tbsp extra virgin olive oil, plus more to finish
+- 2 tbsp red wine vinegar
+- 20 g basil
+- Salt and black pepper
+
+## harissa-sardine-avocado-toast
+**Harissa Sardine Avocado Toast**
+
+- 1 large slice sourdough
+- 1 can sardines (Moroccan preferred)
+- 2 tbsp harissa
+- 1 tbsp chopped cilantro
+- Juice of ½ lemon
+- 2 garlic cloves, minced
+- Cumin, salt, and pepper, to taste
+- 1 Hass avocado
+- 1 tbsp lemon juice
+- ½ tbsp chopped cilantro
+- ½ tsp za'atar
+- ¼ tsp garlic powder
+- ¼ tsp cumin
+- Salt, to taste
+- Za'atar, lemon zest, chopped cilantro, and pomegranate molasses, to garnish
+
 ## harissa-yogurt-marinated-chicken
 **Harissa and Yogurt-Marinated Chicken**
 
@@ -967,6 +1056,26 @@ Auto-generated from recipe files. Do not edit manually.
 - 3 tablespoons olive oil
 - Salt and pepper to taste
 - 1/4 cup torn mint leaves
+
+## homemade-chilli-crisp-chilli-oil
+**Homemade Chinese Chilli Crisp Chilli Oil**
+
+- 400 ml neutral cooking oil with a high smoke point, such as rapeseed
+- 2 shallots, thinly sliced
+- 10 cloves garlic, thinly sliced
+- 40 g Chinese dried chilli flakes
+- 15 g medium chilli flakes
+- 15 g Korean gochugaru (or more medium chilli flakes)
+- 3 cm piece ginger, thinly sliced
+- 2 whole star anise
+- 1 tbsp Sichuan peppercorns
+- 1 cassia cinnamon stick
+- 3 tsp granulated sugar
+- 2 tsp salt
+- 1 tsp MSG (optional)
+- 1 tbsp Chinese black vinegar (optional)
+- 50 g roasted peanuts, roughly chopped (optional)
+- 2 tbsp white sesame seeds (optional)
 
 ## homemade-sibs
 **Homemade Seasoned Italian Breadcrumbs (SIBS)**
@@ -1147,6 +1256,22 @@ Auto-generated from recipe files. Do not edit manually.
 - ½ cup fine bread crumbs
 - 2 tablespoons minced fresh parsley
 - ¼ cup heavy cream
+
+## lebanese-red-lentil-soup-shorbat-adas
+**Lebanese Red Lentil Soup (Shorbat Adas)**
+
+- 2 cups red lentils
+- 1 potato
+- 1 carrot
+- 1 onion
+- 4 cloves garlic
+- 2 lemons
+- Parsley, to taste
+- 1 loaf Arabic bread (khubz arabi)
+- Cumin, to taste
+- Salt, to taste
+- Black pepper, to taste
+- 1 liter water
 
 ## leek-goat-cheese-omelet
 **Leek and Goat Cheese Omelet**
@@ -1379,6 +1504,23 @@ Auto-generated from recipe files. Do not edit manually.
 - 4 ounces (115 grams) mozzarella, cut into small cubes
 - 3 tablespoons chopped fresh flat-leaf parsley
 
+## my-mums-best-tuna-steak-salad
+**My Mum's Best Tuna Steak Salad**
+
+- 1 good-quality tuna steak, line-caught
+- 1 head butter lettuce
+- 8 stems tenderstem broccoli
+- 200 g peas
+- 2 shallots
+- 4 eggs
+- 2 tbsp olive oil, plus more for the tuna
+- 1 tbsp freshly squeezed lemon juice
+- 1 tsp honey
+- 1 tsp wholegrain mustard
+- Salt and pepper
+- 6 oil-packed anchovies, chopped, plus a few tbsp of their oil
+- 10 black olives, pitted
+
 ## neapolitan-eggplant-parm
 **Neapolitan Eggplant Parm**
 
@@ -1512,6 +1654,20 @@ Auto-generated from recipe files. Do not edit manually.
 - 12 ounces to 1 pound dry spaghetti
 - 1 teaspoon zest from 1 lemon
 - 2 tablespoons finely grated Pecorino cheese
+
+## pantry-carbonara
+**Pantry Carbonara**
+
+- Pasta
+- Hard cheese, grated
+- Egg yolks
+- Shallots
+- Garlic
+- Fresh parsley
+- Olive oil
+- Freshly cracked black pepper
+- Chili flakes
+- Caramelized onion salt (optional)
 
 ## pasta-broccoli-goat-cheese-oregano
 **Pasta with Broccoli, Goat Cheese, and Oregano**
@@ -2081,6 +2237,20 @@ Auto-generated from recipe files. Do not edit manually.
 - 1/4 cup finely chopped fresh herbs such as parsley, chives, tarragon, or scallions
 - Freshly ground black pepper
 
+## smoky-carrot-hazelnut-dip
+**Smoky Carrot Hazelnut Dip**
+
+- 6–7 large carrots
+- 7 tbsp olive oil, plus good extra-virgin olive oil to finish
+- 1 1/2 tsp cinnamon
+- 3/4 tsp nutmeg
+- Sea salt
+- 2/3 cup hazelnuts, plus more chopped to garnish
+- 1 (15 oz) can chickpeas, with their liquid (aquafaba)
+- 6 tbsp orange juice (about 1 large orange)
+- 8–10 sage leaves
+- Chili flakes or cayenne, to garnish
+
 ## snapper-fennel-tomatoes
 **Snapper with Fennel and Tomatoes**
 
@@ -2097,6 +2267,22 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 tablespoons chopped fresh parsley
 - 4 6-ounce snapper fillets, pin bones removed
 - Gray salt, for finishing
+
+## spicy-butter-garlic-pasta
+**Spicy Butter Garlic Pasta**
+
+- Pasta
+- Salt, for the pasta water
+- Olive oil
+- Garlic, sliced
+- Butter
+- Chili flakes
+- Oyster sauce
+- Soy sauce
+- Chives
+- Parmesan
+- Sesame seeds, to serve
+- Crispy chili oil, to serve (optional)
 
 ## spicy-cashew-spring-greens-soup
 **Spicy Cashew Spring Greens Soup**
@@ -2141,6 +2327,30 @@ Auto-generated from recipe files. Do not edit manually.
 - pinch of cayenne
 - 1-2 Tbsp coconut aminos (or Bragg's Aminos or tamari)
 - Optional: grape tomatoes, seaweed (dulse, hijiki, arame)
+
+## spicy-lemon-shrimp-alfredo-pasta
+**Spicy Lemon Shrimp Alfredo Pasta**
+
+- Shell-on shrimp (peels and tails saved for stock)
+- Leftover onion scraps
+- Garlic powder
+- Paprika
+- Cayenne
+- Avocado oil
+- Salt and pepper
+- Olive oil
+- Red pepper flakes
+- Garlic, minced
+- Tomato paste
+- Butter
+- Flour
+- Half-and-half
+- Lemon juice
+- Capers
+- Spinach
+- Linguine or spaghetti
+- Pecorino Romano, grated, lots
+- Truffle oil, to finish (optional)
 
 ## spicy-vegan-white-pizza-broccoli-rabe
 **Spicy Vegan White Pizza with Broccoli Rabe & Truffle Cream**
@@ -2200,6 +2410,43 @@ Auto-generated from recipe files. Do not edit manually.
 - 250 g fresh cod
 - water enough to cover
 - 1-2 tsp sea salt
+
+## sticky-soy-honey-baked-salmon
+**Sticky Soy & Honey Baked Salmon**
+
+- Salmon fillet
+- 100 ml mirin
+- 100 ml soy sauce
+- 50 ml dark soy sauce
+- 50 ml honey
+- 3 tbsp brown sugar
+- 2 tbsp sesame oil
+- 10 garlic cloves
+- 2 thumb-sized pieces ginger
+- 5 spring onions, plus more to garnish
+- 4 cloves
+- 1 star anise
+- 150 ml water
+- 2 lemons, sliced
+- Sesame seeds, to garnish
+
+## sticky-tofu
+**Sticky Tofu**
+
+- Firm or extra-firm tofu
+- Garlic, minced
+- Chili, diced
+- Ginger
+- Soy sauce
+- Mirin
+- Sesame oil
+- Gochujang
+- Good-quality honey
+- A splash of boiling water
+- Potato starch
+- Vegetable oil, for frying
+- Rice, to serve
+- Sesame seeds and green onions, to garnish
 
 ## suddenly-stew
 **Suddenly Stew (Kale, Chickpea & Brown Rice)**

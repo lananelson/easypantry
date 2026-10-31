@@ -679,7 +679,7 @@
     "source": "Feed the Pudge",
     "sourceKind": "web",
     "author": "Ken Tran",
-    "references": "Source: https://feedthepudge.com/bun-ca-moi-hop-canned-sardine-noodle-soup/ Author: Ken Tran TikTok video saved in camera roll. TikTok recipe: https://www.tiktok.com/@feedthepudge/video/7693726342109613342",
+    "references": "Source: https://feedthepudge.com/bun-ca-moi-hop-canned-sardine-noodle-soup/ Author: Ken Tran TikTok recipe: https://www.tiktok.com/@feedthepudge/video/7693726342109613342 Video backup: external hard drive (copied from old phone)",
     "tags": [
       "pescatarian"
     ],
@@ -746,6 +746,31 @@
       "2 large or 4 small ripe peaches, pitted and cut into wedges",
       "1 pound ripe tomatoes, cut into wedges (or use cherry tomatoes, halved or left whole)",
       "Flaky sea salt"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "buttery-garlic-herb-spaghetti-squash-pasta",
+    "title": "Buttery Garlic Herb Spaghetti Squash Pasta",
+    "source": "Carolina Gelen",
+    "sourceKind": "web",
+    "author": "Carolina Gelen",
+    "references": "Source: https://carolinagelen.com/buttery-garlic-herb-spaghetti-squash-pasta/ Author: Carolina Gelen TikTok recipe: https://www.tiktok.com/@carolinagelen/video/7396072187066584352 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "1 small spaghetti squash (about 600 g / 1 1/3 lb)",
+      "1 small head of garlic",
+      "4 tbsp butter",
+      "1 tsp chile flakes",
+      "A handful of fresh parsley, finely chopped",
+      "1 1/2–2 cups mixed grated cheese, such as mozzarella or fontina with Parmesan, Gruyère, or sharp cheddar",
+      "300–400 g pasta, such as spaghetti or fettuccine",
+      "Extra-virgin olive oil",
+      "Kosher salt and pepper",
+      "Parmesan, to serve"
     ],
     "hasInstructions": true
   },
@@ -929,6 +954,31 @@
       "Honey mustard",
       "Lettuce",
       "Swiss cheese"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "chicken-piccata",
+    "title": "Chicken Piccata with Lemon Butter Spaghetti",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Jesse Jenkins (@adip_food, Another Day in Paradise), from the post caption TikTok recipe: https://www.tiktok.com/@adip_food/video/7146273488653782277 Video backup: external hard drive (copied from old phone)",
+    "tags": [],
+    "photos": [],
+    "ingredients": [
+      "3 boneless, skinless chicken thighs",
+      "All-purpose flour, for lightly coating",
+      "2 tbsp olive oil, for frying",
+      "2 tbsp capers",
+      "1/2 cup chicken stock",
+      "1/2 cup white wine",
+      "Salt and black pepper",
+      "250 g unsalted butter",
+      "4–6 lemons, juiced",
+      "3 large garlic cloves, peeled and crushed",
+      "100 g spaghetti",
+      "Fresh parsley, chopped"
     ],
     "hasInstructions": true
   },
@@ -1286,6 +1336,33 @@
     "hasInstructions": true
   },
   {
+    "slug": "creamy-miso-coconut-butter-beans",
+    "title": "Creamy Miso + Coconut Butter Beans",
+    "source": "SO VEGAN",
+    "sourceKind": "web",
+    "author": "Roxy Pope and Ben Pook (SO VEGAN)",
+    "references": "Source: https://wearesovegan.com/creamy-miso-coconut-butter-beans Author: Roxy Pope and Ben Pook (SO VEGAN) TikTok recipe: https://www.tiktok.com/@roxyandben/video/7281682671007288609 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "one-pot",
+      "vegan",
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Olive oil",
+      "1 onion, peeled and sliced",
+      "2 (400 g) tins butter beans",
+      "1 (400 g) tin full-fat coconut milk",
+      "1 tbsp white miso paste",
+      "Salt and pepper",
+      "100 g baby spinach",
+      "1 handful fresh dill",
+      "½ lemon, juice only",
+      "6 slices toasted bread, to serve (or gluten-free bread)"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "creme-fraiche-galette-heirloom-tomatoes",
     "title": "Crème Fraîche Galette with Heirloom Tomatoes",
     "source": "Harvest to Heat",
@@ -1522,6 +1599,29 @@
     "hasInstructions": true
   },
   {
+    "slug": "eggs-en-cocotte-baked-eggs",
+    "title": "Eggs en Cocotte (Baked Eggs)",
+    "source": "Craving California",
+    "sourceKind": "web",
+    "author": "Leigh Anderson (Craving California)",
+    "references": "Source: https://cravingcalifornia.com/eggs-en-cocotte-baked-eggs/ Author: Leigh Anderson (Craving California) TikTok recipe: https://www.tiktok.com/@craving_california/video/7052128961630915886 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "breakfast",
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "4 whole eggs",
+      "4 tbsp heavy cream",
+      "4 tbsp Boursin cheese",
+      "2 tbsp butter",
+      "2 tbsp chopped chives",
+      "Salt and freshly cracked pepper",
+      "2 slices grainy, seedy bread"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "fall-apart-lamb-with-prunes",
     "title": "Fall-Apart Lamb with Prunes",
     "source": "French Revolution Food",
@@ -1558,7 +1658,7 @@
     "source": "",
     "sourceKind": "",
     "author": "",
-    "references": "TikTok recipe: https://www.tiktok.com/t/ZTySnUhJp/ Serious Eats farinata base: https://www.seriouseats.com/farinata-italian-chickpea-pancake-recipe",
+    "references": "TikTok recipe: https://www.tiktok.com/t/ZTySnUhJp/ Serious Eats farinata base: https://www.seriouseats.com/farinata-italian-chickpea-pancake-recipe Video backup: external hard drive (copied from old phone)",
     "tags": [
       "pescatarian"
     ],
@@ -2028,6 +2128,34 @@
     "hasInstructions": true
   },
   {
+    "slug": "grilled-peach-panzanella",
+    "title": "Grilled Peach Panzanella",
+    "source": "Baking Hermann",
+    "sourceKind": "web",
+    "author": "Julius Fiedler (Baking Hermann)",
+    "references": "Source: https://bakinghermann.com/grilled-peach-panzanella/ Author: Julius Fiedler (Baking Hermann) TikTok recipe: https://www.tiktok.com/@juliusfiedler/video/7124227804555758854 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "salad",
+      "vegan",
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "3 small round shallots",
+      "150 g dried lentils",
+      "500 g heirloom tomatoes",
+      "1 peach",
+      "Olive oil for charring (not extra virgin)",
+      "150 g sourdough bread (or ciabatta)",
+      "1 small garlic clove",
+      "6 tbsp extra virgin olive oil, plus more to finish",
+      "2 tbsp red wine vinegar",
+      "20 g basil",
+      "Salt and black pepper"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "harissa-yogurt-marinated-chicken",
     "title": "Harissa and Yogurt-Marinated Chicken",
     "source": "Serious Eats",
@@ -2049,6 +2177,69 @@
       "3 tablespoons olive oil",
       "Salt and pepper to taste",
       "1/4 cup torn mint leaves"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "harissa-sardine-avocado-toast",
+    "title": "Harissa Sardine Avocado Toast",
+    "source": "Lahb Co.",
+    "sourceKind": "web",
+    "author": "Nasim Lahbichi (Lahb Co.)",
+    "references": "Source: https://www.lahbco.com/snacks/harissasardinetoast Author: Nasim Lahbichi (Lahb Co.) TikTok recipe: https://www.tiktok.com/@lahbco/video/6963754025212857606 Instagram: https://www.instagram.com/p/CPDqM8HpnfA/ Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "pescatarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "1 large slice sourdough",
+      "1 can sardines (Moroccan preferred)",
+      "2 tbsp harissa",
+      "1 tbsp chopped cilantro",
+      "Juice of ½ lemon",
+      "2 garlic cloves, minced",
+      "Cumin, salt, and pepper, to taste",
+      "1 Hass avocado",
+      "1 tbsp lemon juice",
+      "½ tbsp chopped cilantro",
+      "½ tsp za'atar",
+      "¼ tsp garlic powder",
+      "¼ tsp cumin",
+      "Salt, to taste",
+      "Za'atar, lemon zest, chopped cilantro, and pomegranate molasses, to garnish"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "homemade-chilli-crisp-chilli-oil",
+    "title": "Homemade Chinese Chilli Crisp Chilli Oil",
+    "source": "Verna Hungry Banana",
+    "sourceKind": "web",
+    "author": "Verna Gao (Verna Hungry Banana)",
+    "references": "Source: https://www.vernabanana.com/recipes/homemade-chilli-crisp-chilli-oil Author: Verna Gao (Verna Hungry Banana) TikTok recipe: https://www.tiktok.com/@vernahungrybanana/video/7190163570275962117 Instagram: https://www.instagram.com/reel/Cv5g003oo8D/ Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "condiment",
+      "vegan",
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "400 ml neutral cooking oil with a high smoke point, such as rapeseed",
+      "2 shallots, thinly sliced",
+      "10 cloves garlic, thinly sliced",
+      "40 g Chinese dried chilli flakes",
+      "15 g medium chilli flakes",
+      "15 g Korean gochugaru (or more medium chilli flakes)",
+      "3 cm piece ginger, thinly sliced",
+      "2 whole star anise",
+      "1 tbsp Sichuan peppercorns",
+      "1 cassia cinnamon stick",
+      "3 tsp granulated sugar",
+      "2 tsp salt",
+      "1 tsp MSG (optional)",
+      "1 tbsp Chinese black vinegar (optional)",
+      "50 g roasted peanuts, roughly chopped (optional)",
+      "2 tbsp white sesame seeds (optional)"
     ],
     "hasInstructions": true
   },
@@ -2236,7 +2427,7 @@
     "source": "Yoko's Kitchen",
     "sourceKind": "web",
     "author": "Yoko Segawa",
-    "references": "Source: https://yokoskitchen.com/kabocha-squash-miso-soup/ Author: Yoko Segawa Video saved in camera roll. TikTok recipe: https://www.tiktok.com/@yokoskitchen/video/7700324050664459533",
+    "references": "Source: https://yokoskitchen.com/kabocha-squash-miso-soup/ Author: Yoko Segawa TikTok recipe: https://www.tiktok.com/@yokoskitchen/video/7700324050664459533 Video backup: external hard drive (copied from old phone)",
     "tags": [
       "one-pot",
       "pescatarian"
@@ -2431,6 +2622,34 @@
     "hasInstructions": true
   },
   {
+    "slug": "lebanese-red-lentil-soup-shorbat-adas",
+    "title": "Lebanese Red Lentil Soup (Shorbat Adas)",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Ziad (@thechefziad), \"Autumn Soup Series Season 3: Lebanese Lentil Soup\" TikTok recipe: https://www.tiktok.com/@thechefziad/video/7419713420859084064 Online: https://reelsmeals.com/recipes/lebanese-red-lentil-soup-shorbat-adas Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "2 cups red lentils",
+      "1 potato",
+      "1 carrot",
+      "1 onion",
+      "4 cloves garlic",
+      "2 lemons",
+      "Parsley, to taste",
+      "1 loaf Arabic bread (khubz arabi)",
+      "Cumin, to taste",
+      "Salt, to taste",
+      "Black pepper, to taste",
+      "1 liter water"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "leek-goat-cheese-omelet",
     "title": "Leek and Goat Cheese Omelet",
     "source": "Cup of Jo",
@@ -2534,7 +2753,7 @@
     "source": "TikTok",
     "sourceKind": "web",
     "author": "",
-    "references": "Source: @flavorsbyyulia on TikTok TikTok recipe: https://www.tiktok.com/@flavorsbyyulia/video/7620907171764505887",
+    "references": "Source: @flavorsbyyulia on TikTok TikTok recipe: https://www.tiktok.com/@flavorsbyyulia/video/7620907171764505887 Video backup: external hard drive (copied from old phone)",
     "tags": [
       "vegetarian",
       "condiment"
@@ -2676,7 +2895,7 @@
     "source": "TikTok",
     "sourceKind": "web",
     "author": "",
-    "references": "Source: @creamy_confusion on TikTok TikTok recipe: https://www.tiktok.com/@creamy_confusion/video/7617418772823002388",
+    "references": "Source: @creamy_confusion on TikTok TikTok recipe: https://www.tiktok.com/@creamy_confusion/video/7617418772823002388 Video backup: external hard drive (copied from old phone)",
     "tags": [
       "vegetarian",
       "salad"
@@ -2886,7 +3105,7 @@
     "source": "BOSH!",
     "sourceKind": "web",
     "author": "BOSH! (Henry Firth and Ian Theasby)",
-    "references": "Source: https://bosh.tv/recipes/miso-mushroom-pie Author: BOSH! (Henry Firth and Ian Theasby) Video saved in camera roll. TikTok recipe: https://www.tiktok.com/@bosh.tv/video/7554691925974994198",
+    "references": "Source: https://bosh.tv/recipes/miso-mushroom-pie Author: BOSH! (Henry Firth and Ian Theasby) TikTok recipe: https://www.tiktok.com/@bosh.tv/video/7554691925974994198 Video backup: external hard drive (copied from old phone)",
     "tags": [
       "vegan",
       "vegetarian"
@@ -2990,6 +3209,35 @@
       "1/2 cup (50 grams) finely grated parmesan cheese",
       "4 ounces (115 grams) mozzarella, cut into small cubes",
       "3 tablespoons chopped fresh flat-leaf parsley"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "my-mums-best-tuna-steak-salad",
+    "title": "My Mum's Best Tuna Steak Salad",
+    "source": "Desert Island Dishes",
+    "sourceKind": "web",
+    "author": "Margie Nomura (Desert Island Dishes)",
+    "references": "Source: https://desertislanddishes.co/my-mums-best-tuna-steak-salad/ Author: Margie Nomura (Desert Island Dishes) TikTok recipe: https://www.tiktok.com/@desertislanddishes/video/7230887259891862810 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "pescatarian",
+      "salad"
+    ],
+    "photos": [],
+    "ingredients": [
+      "1 good-quality tuna steak, line-caught",
+      "1 head butter lettuce",
+      "8 stems tenderstem broccoli",
+      "200 g peas",
+      "2 shallots",
+      "4 eggs",
+      "2 tbsp olive oil, plus more for the tuna",
+      "1 tbsp freshly squeezed lemon juice",
+      "1 tsp honey",
+      "1 tsp wholegrain mustard",
+      "Salt and pepper",
+      "6 oil-packed anchovies, chopped, plus a few tbsp of their oil",
+      "10 black olives, pitted"
     ],
     "hasInstructions": true
   },
@@ -3231,6 +3479,31 @@
       "12 ounces to 1 pound dry spaghetti",
       "1 teaspoon zest from 1 lemon",
       "2 tablespoons finely grated Pecorino cheese"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "pantry-carbonara",
+    "title": "Pantry Carbonara",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Carolina Gelen (@carolinagelen) TikTok recipe: https://www.tiktok.com/@carolinagelen/video/7148896664214965510 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Pasta",
+      "Hard cheese, grated",
+      "Egg yolks",
+      "Shallots",
+      "Garlic",
+      "Fresh parsley",
+      "Olive oil",
+      "Freshly cracked black pepper",
+      "Chili flakes",
+      "Caramelized onion salt (optional)"
     ],
     "hasInstructions": true
   },
@@ -4311,6 +4584,32 @@
     "hasInstructions": true
   },
   {
+    "slug": "smoky-carrot-hazelnut-dip",
+    "title": "Smoky Carrot Hazelnut Dip",
+    "source": "Lahb Co.",
+    "sourceKind": "web",
+    "author": "Nasim Lahbichi (Lahb Co.)",
+    "references": "Source: https://www.lahbco.com/dips/carrothazelnutdip Author: Nasim Lahbichi (Lahb Co.) TikTok recipe: https://www.tiktok.com/@lahbco/video/7028352248623189254 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "6–7 large carrots",
+      "7 tbsp olive oil, plus good extra-virgin olive oil to finish",
+      "1 1/2 tsp cinnamon",
+      "3/4 tsp nutmeg",
+      "Sea salt",
+      "2/3 cup hazelnuts, plus more chopped to garnish",
+      "1 (15 oz) can chickpeas, with their liquid (aquafaba)",
+      "6 tbsp orange juice (about 1 large orange)",
+      "8–10 sage leaves",
+      "Chili flakes or cayenne, to garnish"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "snapper-fennel-tomatoes",
     "title": "Snapper with Fennel and Tomatoes",
     "source": "Food Network Magazine",
@@ -4346,6 +4645,33 @@
       "2 tablespoons chopped fresh parsley",
       "4 6-ounce snapper fillets, pin bones removed",
       "Gray salt, for finishing"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "spicy-butter-garlic-pasta",
+    "title": "Spicy Butter Garlic Pasta",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Nguyen (@itsgnochgnoch), inspired by Marion TikTok recipe: https://www.tiktok.com/@itsgnochgnoch/video/7057452591801797894 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "pescatarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Pasta",
+      "Salt, for the pasta water",
+      "Olive oil",
+      "Garlic, sliced",
+      "Butter",
+      "Chili flakes",
+      "Oyster sauce",
+      "Soy sauce",
+      "Chives",
+      "Parmesan",
+      "Sesame seeds, to serve",
+      "Crispy chili oil, to serve (optional)"
     ],
     "hasInstructions": true
   },
@@ -4449,6 +4775,41 @@
     "hasInstructions": true
   },
   {
+    "slug": "spicy-lemon-shrimp-alfredo-pasta",
+    "title": "Spicy Lemon Shrimp Alfredo Pasta",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Sara (@nutrientmatters) TikTok recipe: https://www.tiktok.com/@nutrientmatters/video/7173752759538175238 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "pescatarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Shell-on shrimp (peels and tails saved for stock)",
+      "Leftover onion scraps",
+      "Garlic powder",
+      "Paprika",
+      "Cayenne",
+      "Avocado oil",
+      "Salt and pepper",
+      "Olive oil",
+      "Red pepper flakes",
+      "Garlic, minced",
+      "Tomato paste",
+      "Butter",
+      "Flour",
+      "Half-and-half",
+      "Lemon juice",
+      "Capers",
+      "Spinach",
+      "Linguine or spaghetti",
+      "Pecorino Romano, grated, lots",
+      "Truffle oil, to finish (optional)"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "spicy-vegan-white-pizza-broccoli-rabe",
     "title": "Spicy Vegan White Pizza with Broccoli Rabe & Truffle Cream",
     "source": "The First Mess",
@@ -4515,6 +4876,65 @@
       "Kosher salt",
       "Fresh parsley (for serving)",
       "Potatoes (optional)"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "sticky-soy-honey-baked-salmon",
+    "title": "Sticky Soy & Honey Baked Salmon",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Bartek Michalski (@letsmunch), from the post caption TikTok recipe: https://www.tiktok.com/@letsmunch/video/7146930504296697093 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "pescatarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Salmon fillet",
+      "100 ml mirin",
+      "100 ml soy sauce",
+      "50 ml dark soy sauce",
+      "50 ml honey",
+      "3 tbsp brown sugar",
+      "2 tbsp sesame oil",
+      "10 garlic cloves",
+      "2 thumb-sized pieces ginger",
+      "5 spring onions, plus more to garnish",
+      "4 cloves",
+      "1 star anise",
+      "150 ml water",
+      "2 lemons, sliced",
+      "Sesame seeds, to garnish"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "sticky-tofu",
+    "title": "Sticky Tofu",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Ara (@sheffara) TikTok recipe: https://www.tiktok.com/@sheffara/video/7055375498246917382 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Firm or extra-firm tofu",
+      "Garlic, minced",
+      "Chili, diced",
+      "Ginger",
+      "Soy sauce",
+      "Mirin",
+      "Sesame oil",
+      "Gochujang",
+      "Good-quality honey",
+      "A splash of boiling water",
+      "Potato starch",
+      "Vegetable oil, for frying",
+      "Rice, to serve",
+      "Sesame seeds and green onions, to garnish"
     ],
     "hasInstructions": true
   },
@@ -4920,7 +5340,7 @@
     "source": "Plant-Based RD",
     "sourceKind": "web",
     "author": "Catherine Perez",
-    "references": "Source: https://plantbasedrdblog.com/2026/09/zucchini-pancakes/ Author: Catherine Perez TikTok recipe: https://www.tiktok.com/@plantbasedrd/video/7681871082306948366",
+    "references": "Source: https://plantbasedrdblog.com/2026/09/zucchini-pancakes/ Author: Catherine Perez TikTok recipe: https://www.tiktok.com/@plantbasedrd/video/7681871082306948366 Video backup: external hard drive (copied from old phone)",
     "tags": [
       "vegan",
       "vegetarian"

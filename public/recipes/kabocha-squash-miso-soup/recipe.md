@@ -35,6 +35,6 @@ ayurvedic: []
 
 - Source: https://yokoskitchen.com/kabocha-squash-miso-soup/
 - Author: Yoko Segawa
-- Video saved in camera roll.
 
 - TikTok recipe: https://www.tiktok.com/@yokoskitchen/video/7700324050664459533
+- Video backup: external hard drive (copied from old phone)

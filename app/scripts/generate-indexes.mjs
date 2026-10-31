@@ -73,6 +73,13 @@ function sectionLines(md, name) {
 const SITE_NAMES = {
   "seriouseats.com": "Serious Eats",
   "bosh.tv": "BOSH!",
+  "wearesovegan.com": "SO VEGAN",
+  "lahbco.com": "Lahb Co.",
+  "cravingcalifornia.com": "Craving California",
+  "vernabanana.com": "Verna Hungry Banana",
+  "desertislanddishes.co": "Desert Island Dishes",
+  "bakinghermann.com": "Baking Hermann",
+  "carolinagelen.com": "Carolina Gelen",
   "yokoskitchen.com": "Yoko's Kitchen",
   "feedthepudge.com": "Feed the Pudge",
   "happybaes.com": "Happy Baes",

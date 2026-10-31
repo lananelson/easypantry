@@ -33,6 +33,19 @@ export function tintFor(slug: string): string {
   return PLACEHOLDER_TINTS[hash % PLACEHOLDER_TINTS.length];
 }
 
+// Card image in order of preference: a photo saved with the recipe, a photo_url
+// from its frontmatter, then the TikTok cover frame saved for its video. Adding a
+// real photo to the recipe's media/ folder replaces the video cover automatically.
+type CardImage = { src: string; kind: "photo" | "photo-url" | "video-cover" };
+
+function cardImage(r: RecipeSummary): CardImage | undefined {
+  if (r.photos.length > 0) return { src: recipePhotoUrl(r.slug, r.photos[0].file), kind: "photo" };
+  if (r.photoUrl) return { src: r.photoUrl, kind: "photo-url" };
+  const cover = recipeVideo(r.slug)?.cover;
+  if (cover) return { src: cover, kind: "video-cover" };
+  return undefined;
+}
+
 function stored(key: string): string {
   const value = sessionStorage.getItem(key) || "";
   return value === "All" ? "" : value; // older sessions stored "All" for no filter
@@ -275,26 +288,25 @@ export default function RecipeBrowser() {
         </div>
       ) : (
         <div className="row row-cards">
-          {visible.map((r) => (
+          {visible.map((r) => {
+            const image = cardImage(r);
+            return (
             <div className="col-6 col-md-4 col-xl-3" key={r.slug}>
               <div className="card card-link recipe-card h-100">
                 <div className="recipe-card-media">
                 <a href={`#/recipe/recipes/${r.slug}/recipe.md`} aria-label={r.title}>
-                {r.photos.length > 0 || r.photoUrl || recipeVideo(r.slug) ? (
+                {image ? (
                   <img
                     className={`recipe-card-img ${
-                      r.photos.length > 0 &&
+                      image.kind === "photo" &&
                       r.photos[0].width > 0 &&
                       r.photos[0].width < SMALL_CARD_PHOTO
                         ? "recipe-card-img-small"
                         : ""
                     }`}
                     style={{ background: tintFor(r.slug) }}
-                    src={
-                      r.photos.length > 0
-                        ? recipePhotoUrl(r.slug, r.photos[0].file)
-                        : r.photoUrl || recipeVideo(r.slug)?.cover
-                    }
+                    src={image.src}
+                    data-image-kind={image.kind}
                     alt=""
                     loading="lazy"
                   />
@@ -322,7 +334,8 @@ export default function RecipeBrowser() {
                 </a>
               </div>
             </div>
-          ))}
+            );
+          })}
         </div>
       )}
     </div>

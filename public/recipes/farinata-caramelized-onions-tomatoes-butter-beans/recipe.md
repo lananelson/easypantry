@@ -54,3 +54,4 @@ ayurvedic: [warming, heavy, gas-producing, vata-aggravating, pitta-aggravating]
 
 - TikTok recipe: https://www.tiktok.com/t/ZTySnUhJp/
 - Serious Eats farinata base: https://www.seriouseats.com/farinata-italian-chickpea-pancake-recipe
+- Video backup: external hard drive (copied from old phone)

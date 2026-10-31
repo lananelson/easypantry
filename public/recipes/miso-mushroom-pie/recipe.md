@@ -41,6 +41,6 @@ photo_credit: BOSH!
 
 - Source: https://bosh.tv/recipes/miso-mushroom-pie
 - Author: BOSH! (Henry Firth and Ian Theasby)
-- Video saved in camera roll.
 
 - TikTok recipe: https://www.tiktok.com/@bosh.tv/video/7554691925974994198
+- Video backup: external hard drive (copied from old phone)
