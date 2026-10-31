@@ -226,7 +226,13 @@
     "tags": [
       "vegetarian"
     ],
-    "photos": [],
+    "photos": [
+      {
+        "file": "photo-01.jpg",
+        "width": 1200,
+        "height": 1600
+      }
+    ],
     "ingredients": [
       "1 cup (4 oz) goat cheese, room temperature",
       "1 large egg, lightly beaten, room temperature",
@@ -1453,7 +1459,13 @@
       "vegetarian",
       "condiment"
     ],
-    "photos": [],
+    "photos": [
+      {
+        "file": "photo-01.webp",
+        "width": 0,
+        "height": 0
+      }
+    ],
     "ingredients": [
       "3 tablespoons (45ml) liquid from 1 can of chickpeas, plus 12 whole chickpeas (about 1/2 ounce; 16 g)",
       "2 teaspoons (10 ml) Dijon mustard",
@@ -1519,7 +1531,13 @@
     "tags": [
       "low & slow"
     ],
-    "photos": [],
+    "photos": [
+      {
+        "file": "photo-01.jpg",
+        "width": 610,
+        "height": 458
+      }
+    ],
     "ingredients": [
       "4 lamb shanks",
       "Kosher salt",
