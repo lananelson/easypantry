@@ -38,7 +38,7 @@ export function tintFor(slug: string): string {
 // real photo to the recipe's media/ folder replaces the video cover automatically.
 type CardImage = { src: string; kind: "photo" | "photo-url" | "video-cover" };
 
-function cardImage(r: RecipeSummary): CardImage | undefined {
+export function cardImage(r: RecipeSummary): CardImage | undefined {
   if (r.photos.length > 0) return { src: recipePhotoUrl(r.slug, r.photos[0].file), kind: "photo" };
   if (r.photoUrl) return { src: r.photoUrl, kind: "photo-url" };
   const cover = recipeVideo(r.slug)?.cover;

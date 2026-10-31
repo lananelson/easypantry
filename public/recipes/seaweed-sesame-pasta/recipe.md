@@ -35,3 +35,4 @@ ayurvedic: []
 
 - Source: https://happybaes.com/2026/10/15/seaweed-sesame-pasta/
 - Creator: Steph Bae (@happy_baes)
+- TikTok recipe: https://www.tiktok.com/@happy.baes/video/7696707811744501005

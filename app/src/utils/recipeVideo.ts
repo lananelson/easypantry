@@ -70,6 +70,9 @@ const videos: Record<string, RecipeVideo> = {
   'spicy-lemon-shrimp-alfredo-pasta': {
     id: '7173752759538175238', author: '@nutrientmatters', coverFile: 'spicy-lemon-shrimp-alfredo-pasta.jpg',
   },
+  'seaweed-sesame-pasta': {
+    id: '7696707811744501005', author: '@happy.baes', coverFile: 'seaweed-sesame-pasta.jpg',
+  },
 };
 export function recipeVideo(slug: string) {
   const video = videos[slug];

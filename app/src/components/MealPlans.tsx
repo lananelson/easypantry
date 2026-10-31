@@ -1,13 +1,12 @@
-import { useEffect, useMemo, useState } from "react";
-import type { MealPlan, RecipeSummary, ShoppingList } from "../types.js";
+import { Fragment, useEffect, useMemo, useRef, useState } from "react";
+import type { MealPlan, MealPlanRecipe, RecipeSummary, ShoppingList } from "../types.js";
 import {
   loadMealPlans,
   loadRecipeIndex,
   loadShoppingList,
   loadShoppingLists,
-  recipePhotoUrl,
 } from "../utils/dataLoader.js";
-import { tintFor } from "./RecipeBrowser.js";
+import { cardImage, tintFor } from "./RecipeBrowser.js";
 
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
@@ -18,6 +17,8 @@ interface Dish {
   path?: string;
   status: DishStatus;
   note?: string;
+  /** The plan's entry for this dish; absent for meals only logged under "Meals". */
+  recipe?: MealPlanRecipe;
 }
 
 interface MealPlansProps {
@@ -59,6 +60,7 @@ function dishesOf(plan: MealPlan): Dish[] {
     path: r.path,
     note: r.statusNote,
     status: r.status ?? (cooked.includes(r.name) ? "made" : ""),
+    recipe: r,
   }));
   for (const name of cooked) {
     if (name && !dishes.some((d) => d.name === name)) dishes.push({ name, status: "made" });
@@ -68,6 +70,32 @@ function dishesOf(plan: MealPlan): Dish[] {
 
 function slugOf(path?: string): string | undefined {
   return path?.match(/^recipes\/([^/]+)\//)?.[1];
+}
+
+/** A dish without its own recipe page opens its plan details instead. */
+function hasDetails(dish: Dish): boolean {
+  const r = dish.recipe;
+  return !dish.path && !!r && (r.ingredients.length > 0 || r.inspiredBy.length > 0 || r.variations.length > 0);
+}
+
+/** Recipe paths open in the app; anything else (a website) opens in a new tab. */
+function linkProps(path: string) {
+  if (/^https?:/.test(path)) return { href: path, target: "_blank", rel: "noopener noreferrer" };
+  const normalized = path.replace(/^(\.\.\/|\.\/|\/)/, "");
+  return { href: `#/recipe/${normalized}` };
+}
+
+/** Ingredient text with its markdown links made clickable. */
+function InlineLinks({ text }: { text: string }) {
+  const parts = text.split(/(\[[^\]]+\]\([^)]+\))/);
+  return (
+    <>
+      {parts.map((part, i) => {
+        const m = part.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
+        return m ? <a key={i} {...linkProps(m[2])}>{m[1]}</a> : <Fragment key={i}>{part}</Fragment>;
+      })}
+    </>
+  );
 }
 
 const STATUS_LABEL: Record<DishStatus, string> = {
@@ -83,6 +111,7 @@ export default function MealPlans({ onOpenShopping }: MealPlansProps) {
   const [shopping, setShopping] = useState<ShoppingList | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [openDish, setOpenDish] = useState<Dish | null>(null);
 
   useEffect(() => {
     Promise.all([loadMealPlans(), loadRecipeIndex().catch(() => [])])
@@ -127,8 +156,7 @@ export default function MealPlans({ onOpenShopping }: MealPlansProps) {
   const photoFor = (dish: Dish): string | undefined => {
     const slug = slugOf(dish.path);
     const r = slug ? recipes.get(slug) : undefined;
-    if (!r) return undefined;
-    return r.photos.length > 0 ? recipePhotoUrl(r.slug, r.photos[0].file) : r.photoUrl;
+    return r ? cardImage(r)?.src : undefined;
   };
 
   if (loading) {
@@ -183,7 +211,7 @@ export default function MealPlans({ onOpenShopping }: MealPlansProps) {
         {heroDishes.length > 0 ? (
           <div className="dish-grid">
             {heroDishes.map((dish) => (
-              <DishTile key={dish.name} dish={dish} photo={photoFor(dish)} />
+              <DishTile key={dish.name} dish={dish} photo={photoFor(dish)} onOpen={setOpenDish} />
             ))}
           </div>
         ) : (
@@ -203,16 +231,25 @@ export default function MealPlans({ onOpenShopping }: MealPlansProps) {
       </section>
 
       {upcoming.length > 0 && (
-        <WeekList title="Coming up" plans={upcoming} photoFor={photoFor} />
+        <WeekList title="Coming up" plans={upcoming} photoFor={photoFor} onOpen={setOpenDish} />
       )}
       {earlier.length > 0 && (
-        <WeekList title="Earlier weeks" plans={earlier} photoFor={photoFor} />
+        <WeekList title="Earlier weeks" plans={earlier} photoFor={photoFor} onOpen={setOpenDish} />
       )}
+      {openDish && <DishDetail dish={openDish} onClose={() => setOpenDish(null)} />}
     </div>
   );
 }
 
-function DishTile({ dish, photo }: { dish: Dish; photo?: string }) {
+function DishTile({
+  dish,
+  photo,
+  onOpen,
+}: {
+  dish: Dish;
+  photo?: string;
+  onOpen: (dish: Dish) => void;
+}) {
   const slug = slugOf(dish.path) ?? dish.name;
   const body = (
     <>
@@ -229,23 +266,33 @@ function DishTile({ dish, photo }: { dish: Dish; photo?: string }) {
     </>
   );
   const className = `dish-tile ${dish.status}`;
-  return dish.path ? (
-    <a className={className} href={`#/recipe/${dish.path}`}>
-      {body}
-    </a>
-  ) : (
-    <div className={className}>{body}</div>
-  );
+  if (dish.path) {
+    return (
+      <a className={className} href={`#/recipe/${dish.path}`}>
+        {body}
+      </a>
+    );
+  }
+  if (hasDetails(dish)) {
+    return (
+      <button type="button" className={`${className} dish-open`} onClick={() => onOpen(dish)}>
+        {body}
+      </button>
+    );
+  }
+  return <div className={className}>{body}</div>;
 }
 
 function WeekList({
   title,
   plans,
   photoFor,
+  onOpen,
 }: {
   title: string;
   plans: MealPlan[];
   photoFor: (dish: Dish) => string | undefined;
+  onOpen: (dish: Dish) => void;
 }) {
   return (
     <section className="mb-4">
@@ -262,7 +309,7 @@ function WeekList({
               {dishes.length > 0 ? (
                 <div className="week-row-dishes">
                   {dishes.map((dish) => (
-                    <DishChip key={dish.name} dish={dish} photo={photoFor(dish)} />
+                    <DishChip key={dish.name} dish={dish} photo={photoFor(dish)} onOpen={onOpen} />
                   ))}
                 </div>
               ) : (
@@ -276,7 +323,15 @@ function WeekList({
   );
 }
 
-function DishChip({ dish, photo }: { dish: Dish; photo?: string }) {
+function DishChip({
+  dish,
+  photo,
+  onOpen,
+}: {
+  dish: Dish;
+  photo?: string;
+  onOpen: (dish: Dish) => void;
+}) {
   const slug = slugOf(dish.path) ?? dish.name;
   const body = (
     <>
@@ -292,13 +347,95 @@ function DishChip({ dish, photo }: { dish: Dish; photo?: string }) {
     </>
   );
   const className = `dish-chip ${dish.status}`;
-  return dish.path ? (
-    <a className={className} href={`#/recipe/${dish.path}`} title={dish.note || dish.name}>
-      {body}
-    </a>
-  ) : (
+  if (dish.path) {
+    return (
+      <a className={className} href={`#/recipe/${dish.path}`} title={dish.note || dish.name}>
+        {body}
+      </a>
+    );
+  }
+  if (hasDetails(dish)) {
+    return (
+      <button
+        type="button"
+        className={`${className} dish-open`}
+        title={dish.note || dish.name}
+        onClick={() => onOpen(dish)}
+      >
+        {body}
+      </button>
+    );
+  }
+  return (
     <span className={className} title={dish.note || dish.name}>
       {body}
     </span>
+  );
+}
+
+/** Plan details for a dish that has no recipe page: sources and ingredients. */
+function DishDetail({ dish, onClose }: { dish: Dish; onClose: () => void }) {
+  const ref = useRef<HTMLDialogElement>(null);
+  useEffect(() => {
+    ref.current?.showModal();
+  }, []);
+  const r = dish.recipe;
+  return (
+    <dialog
+      ref={ref}
+      className="dish-detail"
+      aria-label={dish.name}
+      onCancel={onClose}
+      onClose={onClose}
+      onClick={(e) => {
+        if (e.target === e.currentTarget) onClose();
+      }}
+    >
+      <div className="dish-detail-head">
+        <h3 className="dish-detail-title">{dish.name}</h3>
+        <button type="button" className="shop-link" onClick={onClose} autoFocus>
+          Close ×
+        </button>
+      </div>
+      {dish.status && (
+        <span className={`status-chip ${dish.status}`}>{STATUS_LABEL[dish.status]}</span>
+      )}
+      {dish.note && <div className="dish-note">{dish.note}</div>}
+      {r && r.inspiredBy.length > 0 && (
+        <p className="dish-detail-inspired">
+          Inspired by{" "}
+          {r.inspiredBy.map((link, i) => (
+            <Fragment key={link.name}>
+              {i > 0 && ", "}
+              {link.path ? <a {...linkProps(link.path)}>{link.name}</a> : link.name}
+            </Fragment>
+          ))}
+        </p>
+      )}
+      {r && r.ingredients.length > 0 && (
+        <>
+          <div className="section-eyebrow">Ingredients</div>
+          <ul className="dish-detail-list">
+            {r.ingredients.map((item) => (
+              <li key={item} className={/\(need to buy\)/i.test(item) ? "need" : undefined}>
+                <InlineLinks text={item} />
+              </li>
+            ))}
+          </ul>
+        </>
+      )}
+      {r?.variations.map((v) => (
+        <Fragment key={v.name}>
+          <div className="section-eyebrow">{v.name}</div>
+          <ul className="dish-detail-list">
+            {v.ingredients.map((item) => (
+              <li key={item} className={/\(need to buy\)/i.test(item) ? "need" : undefined}>
+                <InlineLinks text={item} />
+              </li>
+            ))}
+          </ul>
+        </Fragment>
+      ))}
+    </dialog>
   );
 }

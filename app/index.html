@@ -712,15 +712,19 @@
         text-decoration: none;
       }
       .dish-tile-img {
+        position: relative;
         display: flex;
         align-items: center;
         justify-content: center;
         aspect-ratio: 4 / 3;
+        overflow: hidden;
         font-family: "Bricolage Grotesque", sans-serif;
         font-size: 2.25rem;
         color: var(--accent);
       }
       .dish-tile-img img {
+        position: absolute;
+        inset: 0;
         display: block;
         width: 100%;
         height: 100%;
@@ -863,6 +867,87 @@
       .dish-chip-check {
         font-size: 0.75rem;
         color: #2f7a4f;
+      }
+      button.dish-open {
+        padding: 0;
+        border: 0;
+        font: inherit;
+        text-align: left;
+        cursor: pointer;
+      }
+      button.dish-tile.dish-open {
+        border: 1px solid var(--line);
+        transition: transform 0.15s ease, box-shadow 0.15s ease;
+      }
+      button.dish-tile.dish-open:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 10px 24px rgba(16, 24, 40, 0.1);
+      }
+      button.dish-chip.dish-open {
+        padding: 0.2rem 0.7rem 0.2rem 0.2rem;
+      }
+      button.dish-chip.dish-open:hover {
+        background: #efede9;
+      }
+      .dish-detail {
+        width: 30rem;
+        max-width: calc(100% - 24px);
+        max-height: 90vh;
+        overflow: auto;
+        padding: 1.25rem 1.4rem 1.4rem;
+        border: 1px solid var(--line);
+        border-radius: var(--radius);
+        background: var(--surface);
+        color: var(--ink);
+        box-shadow: var(--shadow);
+      }
+      .dish-detail::backdrop {
+        background: rgba(31, 36, 48, 0.55);
+      }
+      .dish-detail-head {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 1rem;
+        margin-bottom: 0.5rem;
+      }
+      .dish-detail-head .shop-link {
+        flex: 0 0 auto;
+        white-space: nowrap;
+      }
+      .dish-detail-title {
+        margin: 0;
+        font-size: 1.25rem;
+        line-height: 1.25;
+      }
+      .dish-detail .status-chip {
+        display: inline-block;
+        margin: 0 0 0.75rem;
+      }
+      .dish-detail-inspired {
+        margin: 0 0 1rem;
+        font-size: 0.9rem;
+        color: var(--muted);
+      }
+      .dish-detail .section-eyebrow {
+        margin: 0.75rem 0 0.4rem;
+      }
+      .dish-detail-list {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+      .dish-detail-list li {
+        padding: 0.45rem 0;
+        border-bottom: 1px solid #f1f1f2;
+        font-size: 0.92rem;
+      }
+      .dish-detail-list li:last-child {
+        border-bottom: 0;
+      }
+      .dish-detail-list li.need {
+        color: var(--accent-700);
+        font-weight: 500;
       }
       .week-row-empty {
         padding-top: 0.15rem;
