@@ -33,10 +33,6 @@ ayurvedic: [tofu is cooling and heavy, ginger and garlic aid digestion]
 5. Add the sauce and cook for 1 more minute, until sticky.
 6. Serve over rice, garnished with sesame seeds and green onions.
 
-## Notes
-
-- The video doesn't give amounts; build the sauce to taste.
-
 ## References
 
 - Source: TikTok, Ara (@sheffara)

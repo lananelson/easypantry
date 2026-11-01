@@ -80,6 +80,8 @@ const SITE_NAMES = {
   "desertislanddishes.co": "Desert Island Dishes",
   "bakinghermann.com": "Baking Hermann",
   "carolinagelen.com": "Carolina Gelen",
+  "iankewks.com": "Iankewks",
+  "saltnpepperhere.com": "saltnpepperhere",
   "yokoskitchen.com": "Yoko's Kitchen",
   "feedthepudge.com": "Feed the Pudge",
   "happybaes.com": "Happy Baes",

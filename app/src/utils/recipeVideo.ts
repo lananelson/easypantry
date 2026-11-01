@@ -73,6 +73,18 @@ const videos: Record<string, RecipeVideo> = {
   'seaweed-sesame-pasta': {
     id: '7696707811744501005', author: '@happy.baes', coverFile: 'seaweed-sesame-pasta.jpg',
   },
+  'lamb-arayes': {
+    id: '7213375861330922757', author: '@thechefmine', coverFile: 'lamb-arayes.jpg',
+  },
+  'tofu-cabbage-rolls': {
+    id: '7253814219076930822', author: '@iankewks', coverFile: 'tofu-cabbage-rolls.jpg',
+  },
+  'herbal-bone-broth': {
+    id: '7369055461062003974', author: '@orysiaanna', coverFile: 'herbal-bone-broth.jpg',
+  },
+  'green-beans-miso-butter-onions': {
+    id: '7424308132005858565', author: '@saltnpepperhere', coverFile: 'green-beans-miso-butter-onions.jpg',
+  },
 };
 export function recipeVideo(slug: string) {
   const video = videos[slug];

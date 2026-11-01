@@ -31,10 +31,6 @@ ayurvedic: [garlic and chili are heating, butter and parmesan are rich and groun
 5. Add the chives and parmesan and toss again until evenly coated.
 6. Serve topped with sesame seeds, crispy chili oil if you like, and the crispy golden garlic chips.
 
-## Notes
-
-- The video doesn't give amounts; build the sauce to taste.
-
 ## References
 
 - Source: TikTok, Nguyen (@itsgnochgnoch), inspired by Marion

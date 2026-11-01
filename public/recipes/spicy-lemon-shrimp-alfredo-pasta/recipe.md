@@ -39,10 +39,6 @@ ayurvedic: [shrimp, chili, and tomato paste are heating, cream and cheese are he
 5. Add the shrimp back to the sauce along with the cooked pasta.
 6. Top with a generous amount of pecorino Romano and toss until well combined. Finish with a drizzle of truffle oil if you like.
 
-## Notes
-
-- The video doesn't give amounts.
-
 ## References
 
 - Source: TikTok, Sara (@nutrientmatters)

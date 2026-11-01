@@ -995,6 +995,18 @@ Auto-generated from recipe files. Do not edit manually.
 - Crushed red pepper or hot paprika
 - Crunchy sea salt (like Maldon)
 
+## green-beans-miso-butter-onions
+**Green Beans with Miso Butter Onions**
+
+- 1–1 1/2 lb (450–675 g) green beans, trimmed
+- 2 lb small onions (9–10 onions, about 100 g each)
+- 7 tbsp (98 g) unsalted butter, melted
+- 7 tbsp (105 g) white or yellow miso
+- 3 cups warm water
+- 2 tbsp cornstarch
+- Salt, for blanching
+- A little oil
+
 ## green-goddess-egg-salad
 **Green Goddess Egg Salad**
 
@@ -1056,6 +1068,21 @@ Auto-generated from recipe files. Do not edit manually.
 - 3 tablespoons olive oil
 - Salt and pepper to taste
 - 1/4 cup torn mint leaves
+
+## herbal-bone-broth
+**Herbal Bone Broth**
+
+- Chicken carcass
+- Onions
+- Garlic
+- Celery
+- Eleuthero root
+- Astragalus root
+- Burdock root
+- Ginger root
+- Reishi mushrooms
+- A little apple cider vinegar
+- Water
 
 ## homemade-chilli-crisp-chilli-oil
 **Homemade Chinese Chilli Crisp Chilli Oil**
@@ -1256,6 +1283,30 @@ Auto-generated from recipe files. Do not edit manually.
 - ½ cup fine bread crumbs
 - 2 tablespoons minced fresh parsley
 - ¼ cup heavy cream
+
+## lamb-arayes
+**Lamb Arayes**
+
+- 500 g / 1 lb ground lamb
+- 1/2 large onion or 1 medium onion
+- 1 egg
+- 4 cloves garlic, minced
+- 2 tsp ground cumin
+- 2 tsp ground cinnamon
+- 2 tsp ground coriander
+- 2 tsp sumac
+- 2 1/2 tsp black pepper
+- 3 tsp salt
+- Handful chopped parsley
+- 5 pita or Arab flatbreads
+- Mozzarella (optional)
+- 1/4 cup red wine vinegar
+- 2 1/2 tbsp honey
+- 3 tbsp canned chipotle in adobo
+- 4 tbsp water
+- 1/2 cup oil
+- 1/4 tsp dried oregano
+- Sour cream or yogurt, to taste
 
 ## lebanese-red-lentil-soup-shorbat-adas
 **Lebanese Red Lentil Soup (Shorbat Adas)**
@@ -2491,6 +2542,26 @@ Auto-generated from recipe files. Do not edit manually.
 - ¾ cup sugar
 - 2 tablespoons apple cider vinegar or white vinegar (not wine, balsamic, or rice vinegar)
 - ½ cup water
+
+## tofu-cabbage-rolls
+**Tofu Cabbage Rolls**
+
+- 1 head napa cabbage
+- 1 tbsp oil, for sautéing
+- 280 g extra-firm tofu
+- 1/2 cup cooked rice
+- 140 g mushrooms, chopped
+- 140 g carrot, chopped
+- 2 green onions, chopped
+- 3 garlic cloves, grated
+- 1/2 tsp ginger, grated
+- 2 tbsp soy sauce
+- 2 tbsp oyster sauce
+- 1 tbsp + 1 tsp cornstarch
+- 2 tsp sesame oil
+- 1 tsp rice vinegar
+- 2 1/2 tsp sugar
+- 1/4 tsp white pepper
 
 ## tofu-spinach-scramble
 **Tofu Spinach Scramble with Avocado**

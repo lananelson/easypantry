@@ -29,10 +29,6 @@ ayurvedic: [eggs and garlic are heating, cheese is heavy, chili is pitta-aggrava
 5. Add the pasta and a good splash of pasta water.
 6. Temper the egg mixture with more pasta water so it doesn't curdle, then pour it over the pasta and stir vigorously to emulsify. The sauce should be silky, thick, and glossy. Finish with the parsley.
 
-## Notes
-
-- The video doesn't give amounts; it's meant for using up whatever cheese, eggs, and herbs are in the fridge.
-
 ## References
 
 - Source: TikTok, Carolina Gelen (@carolinagelen)
