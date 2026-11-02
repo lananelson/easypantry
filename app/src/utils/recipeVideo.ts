@@ -85,6 +85,129 @@ const videos: Record<string, RecipeVideo> = {
   'green-beans-miso-butter-onions': {
     id: '7424308132005858565', author: '@saltnpepperhere', coverFile: 'green-beans-miso-butter-onions.jpg',
   },
+  'shanghai-pork-bok-choy-dumplings': {
+    id: '7507301942356544773', author: '@saltnpepperhere', coverFile: 'shanghai-pork-bok-choy-dumplings.jpg',
+  },
+  'vodka-parm-sausage-fusilli': {
+    id: '7479116170323430662', author: '@chefdwightsmith', coverFile: 'vodka-parm-sausage-fusilli.jpg',
+  },
+  'carrots-butter-bean-puree': {
+    id: '7242415674084101402', author: '@adip_food', coverFile: 'carrots-butter-bean-puree.jpg',
+  },
+  'zucchini-scarpaccia': {
+    id: '7294675620426992928', author: '@spicymoustache', coverFile: 'zucchini-scarpaccia.jpg',
+  },
+  'korean-chili-oil-noodles': {
+    id: '7248605680104393986', author: '@geniuseatss', coverFile: 'korean-chili-oil-noodles.jpg',
+  },
+  'toowoomba-ramen': {
+    id: '7041381411991014702', author: '@annainseoul', coverFile: 'toowoomba-ramen.jpg',
+  },
+  'mortadella-pistachio-pesto-stracciatella-sandwich': {
+    id: '7042782145865125167', author: '@owen.han', coverFile: 'mortadella-pistachio-pesto-stracciatella-sandwich.jpg',
+  },
+  'spicy-seafood-boil': {
+    id: '7049402897741810991', author: '@derekkchen', coverFile: 'spicy-seafood-boil.jpg',
+  },
+  'simple-kimchi-fried-rice': {
+    id: '7050246001357131055', author: '@basicsundaycooking', coverFile: 'simple-kimchi-fried-rice.jpg',
+  },
+  'chicken-biryani': {
+    id: '7052407189037894958', author: '@manistyle25', coverFile: 'chicken-biryani.jpg',
+  },
+  'garlic-confit-toast': {
+    id: '7055872347345030446', author: '@whisperofyum', coverFile: 'garlic-confit-toast.jpg',
+  },
+  'tomato-egg-stir-fry': {
+    id: '7057970696454196526', author: '@derekkchen', coverFile: 'tomato-egg-stir-fry.jpg',
+  },
+  'gochujang-glazed-salmon': {
+    id: '7058039976059227438', author: '@teekeatz', coverFile: 'gochujang-glazed-salmon.jpg',
+  },
+  'miso-black-cod': {
+    id: '7063894296474307886', author: '@derekkchen', coverFile: 'miso-black-cod.jpg',
+  },
+  'french-onion-pasta': {
+    id: '7065378576916483374', author: '@bettinamak', coverFile: 'french-onion-pasta.jpg',
+  },
+  'sourdough-english-muffins': {
+    id: '7069194644504055086', author: '@brokenbreadblog', coverFile: 'sourdough-english-muffins.jpg',
+  },
+  'crispy-rice-paper-dumplings': {
+    id: '7082493389069126958', author: '@jeccachantilly', coverFile: 'crispy-rice-paper-dumplings.jpg',
+  },
+  'fondant-potatoes': {
+    id: '7083629094985927982', author: '@kellyscleankitchen', coverFile: 'fondant-potatoes.jpg',
+  },
+  'roasted-garlic-steak-sandwich': {
+    id: '7111102045553265966', author: '@brittneeciara', coverFile: 'roasted-garlic-steak-sandwich.jpg',
+  },
+  'griddle-sourdough-english-muffins': {
+    id: '7122151706984516906', author: '@savtwatson', coverFile: 'griddle-sourdough-english-muffins.jpg',
+  },
+  'instant-pot-dal-makhani': {
+    id: '7127417635196718382', author: '@ministryofcurry', coverFile: 'instant-pot-dal-makhani.jpg',
+  },
+  'roasted-artichokes-garlic-butter': {
+    id: '7128537447608175918', author: '@myhealthydish', coverFile: 'roasted-artichokes-garlic-butter.jpg',
+  },
+  'salmon-mushroom-rice': {
+    id: '7135634809241554218', author: '@tiffoodss', coverFile: 'salmon-mushroom-rice.jpg',
+  },
+  'swedish-style-meatball-pasta': {
+    id: '7136369304106192174', author: '@delishaas', coverFile: 'swedish-style-meatball-pasta.jpg',
+  },
+  'moroccan-spiced-kabocha-squash-soup': {
+    id: '7148175134073916718', author: '@lahbco', coverFile: 'moroccan-spiced-kabocha-squash-soup.jpg',
+  },
+  'ghormeh-sabzi': {
+    id: '7166273238123728170', author: '@cheffinwithzach', coverFile: 'ghormeh-sabzi.jpg',
+  },
+  'mayak-eggs-rice-bowl': {
+    id: '7188309255580142894', author: '@nutritionbykylie', coverFile: 'mayak-eggs-rice-bowl.jpg',
+  },
+  'pasta-con-le-sarde': {
+    id: '7212789659456245034', author: '@chefdaniellesepsy', coverFile: 'pasta-con-le-sarde.jpg',
+  },
+  'crispy-tofu-laab': {
+    id: '7215297924442377514', author: '@papayapetite', coverFile: 'crispy-tofu-laab.jpg',
+  },
+  'khao-khua-toasted-rice-powder': {
+    id: '7216825262007242027', author: '@papayapetite', coverFile: 'khao-khua-toasted-rice-powder.jpg',
+  },
+  'jujube-goji-chia-pudding': {
+    id: '7219855648513821998', author: '@alicecsun', coverFile: 'jujube-goji-chia-pudding.jpg',
+  },
+  'buffet-style-fried-green-beans': {
+    id: '7221291624058490158', author: '@positivethingshappening', coverFile: 'buffet-style-fried-green-beans.jpg',
+  },
+  'chipotle-chicken-street-tacos': {
+    id: '7223842852244114730', author: '@surayaskitchen', coverFile: 'chipotle-chicken-street-tacos.jpg',
+  },
+  'shrimp-tofu-pad-thai': {
+    id: '7230155476057607466', author: '@cassyeungmoney', coverFile: 'shrimp-tofu-pad-thai.jpg',
+  },
+  'gochujang-miso-udon-carbonara': {
+    id: '7237581408158371114', author: '@foligion', coverFile: 'gochujang-miso-udon-carbonara.jpg',
+  },
+  'drunken-noodles-pad-kee-mao': {
+    id: '7249186415228063022', author: '@cassyeungmoney', coverFile: 'drunken-noodles-pad-kee-mao.jpg',
+  },
+  'tom-kha-kai': {
+    id: '7249884362638986538', author: '@cookthaiwithmom', coverFile: 'tom-kha-kai.jpg',
+  },
+  'crispy-chicken-thighs-fines-herbes': {
+    id: '7277711148051352874', author: '@haileecatalano', coverFile: 'crispy-chicken-thighs-fines-herbes.jpg',
+  },
+  'radish-butter-sandwich': {
+    id: '7216857246418947370', author: '@haileecatalano', coverFile: 'radish-butter-sandwich.jpg',
+  },
+  'flamin-hot-mac-and-cheese-bites': {
+    id: '7303260732697759018', author: '@lifeandsprinkles', coverFile: 'flamin-hot-mac-and-cheese-bites.jpg',
+  },
+  'paneer-butter-masala': {
+    id: '7313430669940624683', author: '@somethingfreshh', coverFile: 'paneer-butter-masala.jpg',
+  },
 };
 export function recipeVideo(slug: string) {
   const video = videos[slug];

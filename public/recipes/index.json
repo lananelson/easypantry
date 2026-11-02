@@ -674,6 +674,28 @@
     "hasInstructions": true
   },
   {
+    "slug": "buffet-style-fried-green-beans",
+    "title": "Buffet-Style Fried Green Beans",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Roofayduh (@positivethingshappening) TikTok recipe: https://www.tiktok.com/@positivethingshappening/video/7221291624058490158 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Fresh green beans",
+      "Oil, for deep-frying",
+      "Sesame oil",
+      "Hoisin sauce",
+      "Soy sauce",
+      "Chili crisp"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "bun-ca-moi-hop",
     "title": "Bún Cá Mòi Hộp (Canned Sardine Noodle Soup)",
     "source": "Feed the Pudge",
@@ -848,6 +870,36 @@
     "hasInstructions": true
   },
   {
+    "slug": "carrots-butter-bean-puree",
+    "title": "Carrots and Butter Beans",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Jesse Jenkins (@adip_food, Another Day in Paradise), from the post caption TikTok recipe: https://www.tiktok.com/@adip_food/video/7242415674084101402 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "8 carrots",
+      "1 large white onion, thinly sliced",
+      "4 cloves garlic, thinly sliced",
+      "4 sprigs thyme",
+      "1/2 cup white wine, stock, or water",
+      "1 tin butter beans, with their liquid",
+      "1/2 lemon, juiced, plus a squeeze for the garnish",
+      "1 tbsp cider vinegar",
+      "Olive oil",
+      "Salt",
+      "2 tbsp flaked almonds",
+      "1 jalapeño, minced",
+      "Parsley, finely chopped",
+      "Pinch of sugar"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "cavatelli-sausage-broccoli-rabe",
     "title": "Cavatelli Sausage & Broccoli Rabe",
     "source": "Parm to Table",
@@ -954,6 +1006,42 @@
       "Honey mustard",
       "Lettuce",
       "Swiss cheese"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "chicken-biryani",
+    "title": "Chicken Biryani",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Manistyle25 (@manistyle25) TikTok recipe: https://www.tiktok.com/@manistyle25/video/7052407189037894958 Video backup: external hard drive (copied from old phone)",
+    "tags": [],
+    "photos": [],
+    "ingredients": [
+      "Chicken, cut into small pieces",
+      "1 spoon ginger-garlic paste",
+      "Turmeric",
+      "Red chili powder",
+      "Garam masala",
+      "Salt",
+      "1/2 lemon, juiced, plus more lemon juice to finish",
+      "A little yogurt",
+      "1 glass basmati rice",
+      "Bay leaf",
+      "Green cardamom",
+      "Oil",
+      "Cumin seeds",
+      "Black cardamom",
+      "Cinnamon",
+      "1 red onion, sliced",
+      "Tomato",
+      "Green chili",
+      "Saffron, soaked in a little milk",
+      "Mint leaves",
+      "Cilantro",
+      "Crispy fried onions",
+      "Ghee"
     ],
     "hasInstructions": true
   },
@@ -1107,6 +1195,37 @@
       "freshly ground black pepper, to taste",
       "1 teaspoon vegetable oil",
       "2 tablespoons vegetable or peanut oil"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "chipotle-chicken-street-tacos",
+    "title": "Chipotle Chicken Street Tacos",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, surayaskitchen (@surayaskitchen), from the post caption TikTok recipe: https://www.tiktok.com/@surayaskitchen/video/7223842852244114730 Video backup: external hard drive (copied from old phone)",
+    "tags": [],
+    "photos": [],
+    "ingredients": [
+      "6 chicken thighs",
+      "2 tbsp chipotle pepper sauce",
+      "2 tsp salt, plus more to taste",
+      "2 tsp black pepper",
+      "1 tbsp dried parsley flakes",
+      "1 1/2 tsp cumin",
+      "2 tsp smoked paprika",
+      "2 tsp chili powder",
+      "Juice of 1 lime, plus lime wedges to serve",
+      "Juice of 1/2 orange",
+      "1 1/2 onions (1/2 sliced for the marinade, 1 piece for the salsa, the rest for toppings)",
+      "Cilantro (a handful each for marinade and salsa, plus more chopped to serve)",
+      "10 garlic cloves (5 crushed for the marinade, 5 for the salsa)",
+      "4 tbsp olive oil",
+      "2 jalapeños",
+      "1 avocado",
+      "1/2 cup water",
+      "Corn tortillas"
     ],
     "hasInstructions": true
   },
@@ -1396,6 +1515,89 @@
     "hasInstructions": true
   },
   {
+    "slug": "crispy-chicken-thighs-fines-herbes",
+    "title": "Crispy Chicken Thighs with Fines Herbes Sauce",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Hailee Catalano (@haileecatalano) TikTok recipe: https://www.tiktok.com/@haileecatalano/video/7277711148051352874 Video backup: external hard drive (copied from old phone)",
+    "tags": [],
+    "photos": [],
+    "ingredients": [
+      "Bone-in, skin-on chicken thighs",
+      "Salt and pepper",
+      "Ground coriander",
+      "Oil",
+      "Shallot, finely chopped",
+      "White wine",
+      "Chicken stock",
+      "Crème fraîche (or cream)",
+      "Chives, parsley, and tarragon, finely chopped",
+      "Fennel fronds (instead of hard-to-find chervil)",
+      "Shaved fennel and Belgian endive, for the salad"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "crispy-rice-paper-dumplings",
+    "title": "Crispy Rice Paper Dumplings",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Jecca (@jeccachantilly) TikTok recipe: https://www.tiktok.com/@jeccachantilly/video/7082493389069126958 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "pescatarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Firm tofu, crumbled",
+      "Canned tuna",
+      "Cabbage, shredded",
+      "Perilla leaves, some sliced, some whole",
+      "Green onions, sliced",
+      "Egg",
+      "Starch",
+      "Black pepper and salt",
+      "Rice paper",
+      "Oil, for frying"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "crispy-tofu-laab",
+    "title": "Crispy Tofu Laab",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, papayapetite (@papayapetite) TikTok recipe: https://www.tiktok.com/@papayapetite/video/7215297924442377514 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Extra-firm tofu",
+      "Oil, for frying",
+      "Palm sugar",
+      "Galangal",
+      "Garlic",
+      "Black pepper",
+      "Green onions, white parts",
+      "Shallots",
+      "Red onion",
+      "Mushroom seasoning",
+      "Vegan fish sauce",
+      "Lemon juice",
+      "Salt",
+      "Chilies",
+      "Cilantro",
+      "Mint",
+      "[Khao khua](../khao-khua-toasted-rice-powder/recipe.md) (toasted rice powder)",
+      "Sticky rice, to serve"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "crispy-skinned-salmon-harissa-citrusy-fennel-salad",
     "title": "Crispy-Skinned Salmon with Harissa & Citrusy Fennel Salad",
     "source": "Cook This Book",
@@ -1456,6 +1658,35 @@
       "1 6-oz can tomato paste",
       "4 1/2 cups water",
       "3 1/2 oz. pitted black olives"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "drunken-noodles-pad-kee-mao",
+    "title": "Drunken Noodles (Pad Kee Mao)",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Cassie Yeung (@cassyeungmoney), from the post caption TikTok recipe: https://www.tiktok.com/@cassyeungmoney/video/7249186415228063022 Video backup: external hard drive (copied from old phone)",
+    "tags": [],
+    "photos": [],
+    "ingredients": [
+      "1 lb chicken thighs",
+      "1/2 tsp baking soda",
+      "1 tsp cornstarch",
+      "1 tsp oil, plus more for the wok",
+      "4 tbsp soy sauce (1 for the marinade, 3 for the sauce)",
+      "4 cloves garlic",
+      "2–3 bird's eye chilies",
+      "2 tbsp oyster sauce",
+      "1 tbsp dark soy sauce",
+      "1 tbsp fish sauce",
+      "1 tbsp Shaoxing wine",
+      "1 tbsp palm sugar or brown sugar",
+      "3 stalks gai lan (or broccolini)",
+      "1 big handful Thai basil",
+      "8 oz fresh wide rice noodles",
+      "Green onion, to garnish"
     ],
     "hasInstructions": true
   },
@@ -1744,6 +1975,69 @@
     "hasInstructions": true
   },
   {
+    "slug": "flamin-hot-mac-and-cheese-bites",
+    "title": "Flamin' Hot Cheetos Mac and Cheese Bites",
+    "source": "Goon with the Spoon",
+    "sourceKind": "book",
+    "author": "",
+    "references": "Source: Snoop Dogg and E-40, *Goon with the Spoon*, via TikTok, Life and Sprinkles (@lifeandsprinkles) TikTok recipe: https://www.tiktok.com/@lifeandsprinkles/video/7303260732697759018 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Mac and cheese (stovetop, made the day before)",
+      "Flour",
+      "Eggs, beaten",
+      "Flamin' Hot Cheetos, crushed",
+      "Oil, for frying",
+      "Ranch or blue cheese dressing, to serve"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "fondant-potatoes",
+    "title": "Fondant Potatoes",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Chef Kelly Scott (@kellyscleankitchen) TikTok recipe: https://www.tiktok.com/@kellyscleankitchen/video/7083629094985927982 Video backup: external hard drive (copied from old phone)",
+    "tags": [],
+    "photos": [],
+    "ingredients": [
+      "4–5 russet potatoes",
+      "10 cloves garlic, smashed",
+      "Salt and pepper",
+      "High-smoke-point oil",
+      "4 tbsp butter",
+      "Fresh rosemary",
+      "Fresh thyme",
+      "1/2 cup chicken stock"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "french-onion-pasta",
+    "title": "French Onion Pasta",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Bettina Makalintal (@bettinamak) TikTok recipe: https://www.tiktok.com/@bettinamak/video/7065378576916483374 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "one-pot"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Yellow onions, thinly sliced",
+      "Butter or oil",
+      "Broth",
+      "Rigatoni",
+      "Hard cheese, grated",
+      "Fennel and microgreens, to serve (optional)"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "french-onion-soup",
     "title": "French Onion Soup",
     "source": "Serious Eats",
@@ -1923,6 +2217,28 @@
     "hasInstructions": true
   },
   {
+    "slug": "garlic-confit-toast",
+    "title": "Garlic Confit Toast",
+    "source": "Whisper of Yum",
+    "sourceKind": "web",
+    "author": "Jeri Mobley-Arias (Whisper of Yum)",
+    "references": "Source: https://whisperofyum.com/post/garlic-confit-toast/ Author: Jeri Mobley-Arias (Whisper of Yum) TikTok recipe: https://www.tiktok.com/@whisperofyum/video/7055872347345030446 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "1 cup extra-virgin olive oil",
+      "1 cup garlic cloves, peeled and roots removed",
+      "4 tbsp unsalted butter, room temperature",
+      "1/2 cup freshly grated Parmesan",
+      "2 tsp flat-leaf parsley, finely chopped",
+      "1/2 tsp kosher salt (Diamond Crystal), or to taste",
+      "1 loaf French bread, cut into 1-inch diagonal slices"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "garlic-dill-pickles",
     "title": "Garlic Dill Pickles",
     "source": "Serious Eats",
@@ -1988,6 +2304,82 @@
       "2 ½ tsp. fine grain sea salt",
       "1 Tbsp. ground turmeric (optional)",
       "1 tsp. garlic powder (optional)"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "ghormeh-sabzi",
+    "title": "Ghormeh Sabzi (Persian Herb Stew)",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Zachary Neman (@cheffinwithzach) TikTok recipe: https://www.tiktok.com/@cheffinwithzach/video/7166273238123728170 Video backup: external hard drive (copied from old phone), saved twice",
+    "tags": [
+      "low & slow"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Beef chuck or stewing lamb, cubed",
+      "Onion, diced",
+      "Salt and pepper",
+      "Turmeric",
+      "Tomato paste",
+      "Kidney beans",
+      "Dried limes (limoo omani)",
+      "Water",
+      "Scallions, chopped",
+      "Cilantro, chopped",
+      "Parsley, chopped",
+      "Spinach, chopped",
+      "Dried fenugreek",
+      "Oil",
+      "Rice and tahdig, to serve"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "gochujang-glazed-salmon",
+    "title": "Gochujang Glazed Salmon",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, teekeatz (@teekeatz) TikTok recipe: https://www.tiktok.com/@teekeatz/video/7058039976059227438 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "pescatarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Salmon fillets",
+      "Gochujang",
+      "Miso",
+      "Garlic, minced",
+      "Soy sauce",
+      "Mirin",
+      "Sugar",
+      "Sesame seeds",
+      "Rice and lettuce leaves, to serve"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "gochujang-miso-udon-carbonara",
+    "title": "Gochujang Miso Udon Carbonara",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Andy (@foligion) TikTok recipe: https://www.tiktok.com/@foligion/video/7237581408158371114 Video backup: external hard drive (copied from old phone)",
+    "tags": [],
+    "photos": [],
+    "ingredients": [
+      "Udon noodles",
+      "Pork belly or bacon, cut into pieces",
+      "Garlic, minced",
+      "Gochujang",
+      "Miso",
+      "Egg yolks, plus one to top",
+      "Parmesan, grated, plus more to serve",
+      "Black pepper",
+      "Chives, to garnish"
     ],
     "hasInstructions": true
   },
@@ -2082,6 +2474,29 @@
     "hasInstructions": true
   },
   {
+    "slug": "green-beans-miso-butter-onions",
+    "title": "Green Beans with Miso Butter Onions",
+    "source": "saltnpepperhere",
+    "sourceKind": "web",
+    "author": "Sonia (saltnpepperhere)",
+    "references": "Source: https://www.saltnpepperhere.com/blog/green-beans-miso-butter-braised-onions Author: Sonia (saltnpepperhere) TikTok recipe: https://www.tiktok.com/@saltnpepperhere/video/7424308132005858565 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "1–1 1/2 lb (450–675 g) green beans, trimmed",
+      "2 lb small onions (9–10 onions, about 100 g each)",
+      "7 tbsp (98 g) unsalted butter, melted",
+      "7 tbsp (105 g) white or yellow miso",
+      "3 cups warm water",
+      "2 tbsp cornstarch",
+      "Salt, for blanching",
+      "A little oil"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "green-goddess-egg-salad",
     "title": "Green Goddess Egg Salad",
     "source": "Personal & clippings",
@@ -2124,6 +2539,29 @@
       "sliced tomatoes, optional",
       "Kosher salt and freshly ground pepper",
       "Bread, or bruschetta"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "griddle-sourdough-english-muffins",
+    "title": "Griddle Sourdough English Muffins",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Savannah Watson (@savtwatson) TikTok recipe: https://www.tiktok.com/@savtwatson/video/7122151706984516906 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "breakfast",
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "1/2 cup sourdough starter",
+      "1 cup milk",
+      "2 1/2 cups flour (2 cups + 1/2 cup)",
+      "1 tbsp sugar",
+      "1 1/2 tsp salt",
+      "1/2 tsp baking soda",
+      "Cornmeal, for dusting"
     ],
     "hasInstructions": true
   },
@@ -2315,6 +2753,39 @@
     "hasInstructions": false
   },
   {
+    "slug": "instant-pot-dal-makhani",
+    "title": "Instant Pot Dal Makhani with Brown Rice",
+    "source": "Ministry of Curry",
+    "sourceKind": "web",
+    "author": "Archana Mundhe (Ministry of Curry)",
+    "references": "Source: https://ministryofcurry.com/madras-lentils-daal-makhani-instant-pot/ Author: Archana Mundhe (Ministry of Curry) TikTok recipe: https://www.tiktok.com/@ministryofcurry/video/7127417635196718382 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "vegetarian",
+      "one-pot"
+    ],
+    "photos": [],
+    "ingredients": [
+      "1 cup black gram beans (or adzuki beans or whole brown lentils)",
+      "1/3 cup red kidney beans",
+      "1 tbsp oil, ghee, or butter",
+      "1 tsp cumin seeds",
+      "1 medium yellow onion, finely diced",
+      "1 tbsp ginger paste",
+      "1 tbsp garlic paste",
+      "1/4 tsp ground turmeric",
+      "2 tsp Kashmiri red chili powder",
+      "3 tsp kosher salt (2 tsp for the dal, 1 for the rice)",
+      "2 cups diced tomatoes",
+      "4 cups water (2 cups for the dal, 2 for the rice)",
+      "1/2 cup light cream",
+      "1 tsp garam masala",
+      "1/4 cup cilantro, chopped",
+      "1 tbsp kasoori methi (dried fenugreek leaves), optional",
+      "1 cup brown rice, rinsed and drained (optional)"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "italian-egg-drop-soup",
     "title": "Italian Egg-Drop Soup",
     "source": "Serious Eats",
@@ -2374,6 +2845,29 @@
       "4 large eggs",
       "1 pound (2 cups) fresh ricotta cheese, strained",
       "Confectioners' sugar for sprinkling"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "jujube-goji-chia-pudding",
+    "title": "Jujube, Goji, and Osmanthus Chia Pudding",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Alice Sun (@alicecsun) TikTok recipe: https://www.tiktok.com/@alicecsun/video/7219855648513821998 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "breakfast",
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Chia seeds",
+      "Almond milk",
+      "Dried red jujubes, sliced",
+      "Goji berries",
+      "Dried osmanthus flowers",
+      "Honey (optional)",
+      "Yellow dragon fruit and kiwi, to top"
     ],
     "hasInstructions": true
   },
@@ -2517,6 +3011,26 @@
     "hasInstructions": true
   },
   {
+    "slug": "khao-khua-toasted-rice-powder",
+    "title": "Khao Khua (Toasted Rice Powder)",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, papayapetite (@papayapetite) TikTok recipe: https://www.tiktok.com/@papayapetite/video/7216825262007242027 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "condiment",
+      "vegan",
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Glutinous (sticky) rice, uncooked",
+      "Lemongrass, sliced",
+      "Makrut lime leaves"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "khichadi",
     "title": "Khichadi",
     "source": "Indian Instant-Pot Cookbook",
@@ -2574,6 +3088,31 @@
       "1 teaspoon red wine vinegar or lemon juice",
       "1 tablespoon extra virgin olive oil",
       "Salt and pepper"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "korean-chili-oil-noodles",
+    "title": "Korean Chili Oil Noodles",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Genio (@geniuseatss) TikTok recipe: https://www.tiktok.com/@geniuseatss/video/7248605680104393986 Video backup: external hard drive (copied from old phone)",
+    "tags": [],
+    "photos": [],
+    "ingredients": [
+      "Wide noodles",
+      "Gochujang",
+      "Peanut butter",
+      "Garlic",
+      "1 tsp chili flakes",
+      "Sugar",
+      "Soy sauce",
+      "Rice vinegar",
+      "Chicken powder",
+      "Scallion",
+      "Sesame seeds",
+      "Neutral oil, heated"
     ],
     "hasInstructions": true
   },
@@ -2975,6 +3514,32 @@
     "hasInstructions": true
   },
   {
+    "slug": "mayak-eggs-rice-bowl",
+    "title": "Mayak Eggs Rice Bowl (Korean Marinated Eggs)",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Kylie Sakaida (@nutritionbykylie) TikTok recipe: https://www.tiktok.com/@nutritionbykylie/video/7188309255580142894 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "breakfast",
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Eggs",
+      "1/2 cup soy sauce",
+      "1/2 cup water",
+      "2 garlic cloves, minced",
+      "Honey",
+      "Jalapeño, sliced",
+      "Green onions, sliced",
+      "Sesame seeds",
+      "Cooked rice",
+      "Kimchi"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "melanzane-nel-ragu-con-marsala",
     "title": "Melanzane nel Ragù con Marsala",
     "source": "In Nonna's Kitchen",
@@ -3159,6 +3724,27 @@
     "hasInstructions": true
   },
   {
+    "slug": "miso-black-cod",
+    "title": "Miso Black Cod",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Derek Chen (@derekkchen) TikTok recipe: https://www.tiktok.com/@derekkchen/video/7063894296474307886 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "pescatarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Black cod fillets",
+      "Sake, plus more for the marinade",
+      "White miso",
+      "Mirin",
+      "Sugar",
+      "Radish and green onion, to garnish"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "miso-mushroom-pie",
     "title": "Miso Mushroom Pie",
     "source": "BOSH!",
@@ -3220,6 +3806,58 @@
       "2 cups grated Parmesan",
       "Garlic powder, for dusting",
       "2 store-bought disks refrigerated pie dough"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "moroccan-spiced-kabocha-squash-soup",
+    "title": "Moroccan-Spiced Kabocha Squash Soup",
+    "source": "Lahb Co.",
+    "sourceKind": "web",
+    "author": "Nasim Lahbichi (Lahb Co.)",
+    "references": "Source: https://www.lahbco.com/soups/moroccanspicedkabochasquashsoup Author: Nasim Lahbichi (Lahb Co.) TikTok recipe: https://www.tiktok.com/@lahbco/video/7148175134073916718 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "2 lb kabocha squash (or butternut)",
+      "6 tbsp olive oil",
+      "Salt and pepper",
+      "2-inch piece ginger, minced",
+      "1 shallot, minced",
+      "3 garlic cloves, minced",
+      "1/2 tsp turmeric",
+      "1/4 tsp cinnamon",
+      "1/4 tsp ground clove",
+      "1/4 tsp cayenne, plus more to garnish",
+      "1 cup red lentils, rinsed",
+      "4 cups water",
+      "4 tbsp maple syrup",
+      "2 tbsp apple cider vinegar (or lemon juice)",
+      "2 tbsp red miso",
+      "2 tbsp tomato paste",
+      "1 cup coconut milk (or heavy cream)",
+      "Full-fat yogurt and fresh sage, to serve (optional)"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "mortadella-pistachio-pesto-stracciatella-sandwich",
+    "title": "Mortadella, Pistachio Pesto, and Stracciatella Sandwich",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Owen Han (@owen.han) TikTok recipe: https://www.tiktok.com/@owen.han/video/7042782145865125167 Video backup: external hard drive (copied from old phone)",
+    "tags": [],
+    "photos": [],
+    "ingredients": [
+      "Ciabatta or a crusty roll",
+      "Pistachio pesto",
+      "Mortadella",
+      "Stracciatella",
+      "Hard cheese, grated"
     ],
     "hasInstructions": true
   },
@@ -3452,6 +4090,34 @@
     "hasInstructions": true
   },
   {
+    "slug": "vodka-parm-sausage-fusilli",
+    "title": "One-Pot Vodka Parm and Sausage Fusilli",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Dwight Smith (@chefdwightsmith), from the post caption TikTok recipe: https://www.tiktok.com/@chefdwightsmith/video/7479116170323430662 Video backup: external hard drive (copied from old phone)",
+    "tags": [],
+    "photos": [],
+    "ingredients": [
+      "Fusilli",
+      "5 sausages, casings removed",
+      "Olive oil",
+      "1/2 stick butter",
+      "1 small white onion, diced",
+      "3–4 cloves garlic, sliced",
+      "2 tsp chili flakes",
+      "1 tbsp tomato paste",
+      "2 oz vodka",
+      "2 cups heavy cream",
+      "2 cups marinara sauce",
+      "2 tbsp salt",
+      "1 tbsp pepper",
+      "1 bunch basil, leaves only",
+      "1 cup grated Parmesan, plus more to serve"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "onion-masala",
     "title": "Onion Masala",
     "source": "Indian Instant-Pot Cookbook",
@@ -3542,6 +4208,38 @@
     "hasInstructions": true
   },
   {
+    "slug": "paneer-butter-masala",
+    "title": "Paneer Butter Masala",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Something Fresh (@somethingfreshh), on-screen amounts TikTok recipe: https://www.tiktok.com/@somethingfreshh/video/7313430669940624683 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "2 onions, roughly chopped",
+      "4 tomatoes, roughly chopped",
+      "1/2 inch ginger and 1 green chili, finely chopped",
+      "15 almonds and 8–10 cashews",
+      "2 dried red chilies",
+      "2 each black and green cardamom",
+      "Bay leaf",
+      "1 tbsp coriander powder",
+      "1/2 cup milk",
+      "1/2 cup water",
+      "Honey",
+      "Butter",
+      "1 tbsp Kashmiri red chili powder",
+      "About 200 g paneer, diced",
+      "Dried fenugreek leaves (kasoori methi), crushed",
+      "Garam masala",
+      "Cilantro, finely chopped"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "pantry-carbonara",
     "title": "Pantry Carbonara",
     "source": "TikTok",
@@ -3628,6 +4326,35 @@
       "pinch of nutmeg",
       "2 tablespoons freshly grated parmesan cheese",
       "shaved parmesan cheese for topping"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "pasta-con-le-sarde",
+    "title": "Pasta con le Sarde",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Chef Danielle Sepsy (@chefdaniellesepsy) TikTok recipe: https://www.tiktok.com/@chefdaniellesepsy/video/7212789659456245034 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "pescatarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "1/2 lb bucatini",
+      "1/4 cup + 2 tbsp extra-virgin olive oil, plus more to finish",
+      "1/2 bulb fennel, thinly sliced, fronds saved",
+      "1/2 medium yellow onion, finely diced",
+      "Red pepper flakes",
+      "Salt and black pepper",
+      "1/2 cup plain breadcrumbs",
+      "2 cloves garlic, minced",
+      "Anchovies",
+      "1 can skinless, boneless sardines in olive oil",
+      "1/4 cup white wine",
+      "2 tbsp pine nuts",
+      "2 tbsp currants",
+      "Fresh parsley, chopped"
     ],
     "hasInstructions": true
   },
@@ -4143,6 +4870,27 @@
     "hasInstructions": false
   },
   {
+    "slug": "radish-butter-sandwich",
+    "title": "Radish and Butter Sandwich",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Hailee Catalano (@haileecatalano, formerly @cafehailee) TikTok recipe: https://www.tiktok.com/@haileecatalano/video/7216857246418947370 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Fresh baguette (or ciabatta or another rustic bread)",
+      "Radishes, ideally with their greens",
+      "Good salted butter, high butterfat",
+      "Lemon",
+      "Salt and pepper",
+      "White anchovies (optional)"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "radish-egg-salad-sandwiches",
     "title": "Radish and Egg Salad Sandwiches",
     "source": "A Couple Cooks",
@@ -4266,6 +5014,27 @@
     "hasInstructions": true
   },
   {
+    "slug": "roasted-artichokes-garlic-butter",
+    "title": "Roasted Artichokes with Garlic Butter",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, My Nguyen (@myhealthydish) TikTok recipe: https://www.tiktok.com/@myhealthydish/video/7128537447608175918 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Artichokes",
+      "Lemon",
+      "Olive oil",
+      "Salt",
+      "Butter",
+      "Garlic"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "roasted-eggplant-tahini-pine-nuts-lentils",
     "title": "Roasted Eggplant with Tahini, Pine Nuts, and Lentils",
     "source": "Serious Eats",
@@ -4307,6 +5076,30 @@
       "1/4 cup pine nuts (to serve)",
       "2 tablespoons minced fresh parsley leaves (to serve)",
       "1 tablespoon chopped fresh rosemary leaves (to serve)"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "roasted-garlic-steak-sandwich",
+    "title": "Roasted Garlic Steak Sandwich",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Brittnee (@brittneeciara) TikTok recipe: https://www.tiktok.com/@brittneeciara/video/7111102045553265966 Video backup: external hard drive (copied from old phone)",
+    "tags": [],
+    "photos": [],
+    "ingredients": [
+      "Head of garlic",
+      "Olive oil",
+      "Butter",
+      "Fresh rosemary and thyme",
+      "Crusty bread",
+      "Steak",
+      "Onions, sliced",
+      "Broth and a dark sauce, such as Worcestershire or soy, for the jus",
+      "Boursin garlic and herb cheese",
+      "Melting cheese, sliced, and grated cheese",
+      "Arugula"
     ],
     "hasInstructions": true
   },
@@ -4428,6 +5221,33 @@
       "1/4 teaspoon whole cumin seeds",
       "1/4 teaspoon whole fennel seeds",
       "2 hot green chilies, slit slightly"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "salmon-mushroom-rice",
+    "title": "Salmon Mushroom Rice",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, tiffoodss (@tiffoodss) TikTok recipe: https://www.tiktok.com/@tiffoodss/video/7135634809241554218 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "pescatarian",
+      "one-pot"
+    ],
+    "photos": [],
+    "ingredients": [
+      "2 cups rice",
+      "1.75 cups water",
+      "1 tbsp sake",
+      "1 tbsp mirin",
+      "2 tbsp soy sauce",
+      "2 tsp dashi powder",
+      "1 tsp grated ginger",
+      "Mushrooms, such as shimeji and oyster",
+      "Salmon fillet",
+      "Shichimi togarashi",
+      "Shiso or herbs, green onion, and pickled red ginger, to serve"
     ],
     "hasInstructions": true
   },
@@ -4608,6 +5428,63 @@
     "hasInstructions": false
   },
   {
+    "slug": "shanghai-pork-bok-choy-dumplings",
+    "title": "Shanghai Pork and Bok Choy Dumplings",
+    "source": "saltnpepperhere",
+    "sourceKind": "web",
+    "author": "Sonia Wong (saltnpepperhere)",
+    "references": "Source: https://www.saltnpepperhere.com/blog/2016/1/11/shanghai-wontons Author: Sonia Wong (saltnpepperhere) TikTok recipe: https://www.tiktok.com/@saltnpepperhere/video/7507301942356544773 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "frozen meal prep"
+    ],
+    "photos": [],
+    "ingredients": [
+      "1 lb (450 g) ground pork, 20–30% fat",
+      "3 lb (1350 g) baby or regular bok choy",
+      "2 tbsp soy sauce",
+      "1/2 tsp kosher salt (1 tsp if Diamond Crystal)",
+      "1 1/2 tsp sugar",
+      "3 dashes white pepper",
+      "650 g square wonton wrappers, 3 inch (about 90–100)",
+      "Neutral oil",
+      "Soy sauce, rice vinegar, and Chinese chili oil, for dipping",
+      "Chicken stock and sliced scallions, to serve in broth (optional)"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "shrimp-tofu-pad-thai",
+    "title": "Shrimp and Tofu Pad Thai",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Cassie Yeung (@cassyeungmoney), from the post caption TikTok recipe: https://www.tiktok.com/@cassyeungmoney/video/7230155476057607466 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "pescatarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "1 bundle rice noodles",
+      "1 lb shrimp",
+      "1 tsp granulated garlic",
+      "1 tsp white pepper",
+      "1/2 pack firm tofu, cubed",
+      "3 green onions",
+      "1 shallot",
+      "4 cloves garlic",
+      "2 tbsp palm sugar (or brown sugar)",
+      "1/4 cup tamarind paste (or 2 tbsp tomato paste + 1 tbsp vinegar)",
+      "1/4 cup fish sauce",
+      "1 tsp chicken bouillon powder",
+      "2 eggs",
+      "Oil",
+      "1 cup bean sprouts",
+      "1–2 tsp chili flakes (optional)",
+      "Roasted peanuts, crushed, and lime wedges, to serve"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "shrimp-parm",
     "title": "Shrimp Parm",
     "source": "Parm to Table",
@@ -4639,6 +5516,29 @@
       "2 tablespoons dried Sicilian oregano",
       "1 loaf Italian bread, for serving",
       "[Garlic Butter](../garlic-butter/recipe.md), for serving"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "simple-kimchi-fried-rice",
+    "title": "Simple Kimchi Fried Rice",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, BasicSundayCooking (@basicsundaycooking) TikTok recipe: https://www.tiktok.com/@basicsundaycooking/video/7050246001357131055 Video backup: external hard drive (copied from old phone)",
+    "tags": [],
+    "photos": [],
+    "ingredients": [
+      "Oil",
+      "Green onions, diced",
+      "Bacon, Spam, or other pork (or mushrooms)",
+      "Kimchi",
+      "Sugar",
+      "Soy sauce",
+      "Gochujang",
+      "Cooked rice",
+      "Sesame oil",
+      "Fried eggs, nori, or cheese, to top"
     ],
     "hasInstructions": true
   },
@@ -4704,6 +5604,28 @@
       "2 tablespoons chopped fresh parsley",
       "4 6-ounce snapper fillets, pin bones removed",
       "Gray salt, for finishing"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "sourdough-english-muffins",
+    "title": "Sourdough English Muffins",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: Leavenly.com, via TikTok, Shannon (@brokenbreadblog) TikTok recipe (part 1): https://www.tiktok.com/@brokenbreadblog/video/7069194644504055086 TikTok recipe (part 2): https://www.tiktok.com/@brokenbreadblog/video/7069549448556203307 Video backup: external hard drive (copied from old phone), both parts",
+    "tags": [
+      "breakfast",
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "270 g sourdough discard",
+      "720 g flour (550 g + 170 g)",
+      "500 g milk",
+      "30 g sugar",
+      "10 g baking soda",
+      "Cornmeal or semolina, for the trays"
     ],
     "hasInstructions": true
   },
@@ -4865,6 +5787,33 @@
       "Linguine or spaghetti",
       "Pecorino Romano, grated, lots",
       "Truffle oil, to finish (optional)"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "spicy-seafood-boil",
+    "title": "Spicy Seafood Boil",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Derek Chen (@derekkchen) TikTok recipe: https://www.tiktok.com/@derekkchen/video/7049402897741810991 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "one-pot"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Shell-on shrimp",
+      "Small potatoes",
+      "Corn on the cob, cut into pieces",
+      "Sausage",
+      "Eggs",
+      "Onion",
+      "Lemons",
+      "Salt",
+      "Paprika",
+      "Mustard powder",
+      "Butter",
+      "Tabasco"
     ],
     "hasInstructions": true
   },
@@ -5034,6 +5983,34 @@
     "hasInstructions": true
   },
   {
+    "slug": "swedish-style-meatball-pasta",
+    "title": "Swedish-Style Meatball Pasta",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Hayden Delishaas (@delishaas) TikTok recipe: https://www.tiktok.com/@delishaas/video/7136369304106192174 Video backup: external hard drive (copied from old phone)",
+    "tags": [],
+    "photos": [],
+    "ingredients": [
+      "1 lb spicy Italian sausage",
+      "1 onion, diced (half for the meatballs, half for the sauce)",
+      "4 cloves garlic, minced",
+      "1/2 cup breadcrumbs",
+      "1 egg",
+      "1/2 tbsp each ground ginger, cardamom, and white pepper",
+      "1/4 tsp allspice",
+      "Fresh nutmeg",
+      "6 tbsp butter",
+      "Egg noodles or pasta",
+      "2 tbsp all-purpose flour",
+      "1 1/2 cups beef broth",
+      "1 tbsp stone-ground mustard",
+      "1/2 tbsp Worcestershire sauce",
+      "Sour cream or Greek yogurt, and parsley, to serve"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "swiss-chard-frittata",
     "title": "Swiss Chard Frittata",
     "source": "Serious Eats",
@@ -5170,6 +6147,34 @@
     "hasInstructions": true
   },
   {
+    "slug": "tom-kha-kai",
+    "title": "Tom Kha Kai (Chicken Coconut Soup)",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Cooking Thai with Mom (@cookthaiwithmom) TikTok recipe: https://www.tiktok.com/@cookthaiwithmom/video/7249884362638986538 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "one-pot"
+    ],
+    "photos": [],
+    "ingredients": [
+      "1 can coconut milk",
+      "About 2 tbsp fish sauce, to taste",
+      "1 lime, juiced, to taste",
+      "Mushroom powder",
+      "Lime powder (or 1 more lime)",
+      "Lemongrass",
+      "Makrut lime leaves",
+      "Galangal",
+      "Shallots",
+      "Chilies (optional)",
+      "Chicken thighs, or other protein such as fish balls, tofu, or pork",
+      "King oyster mushrooms",
+      "Green onions and cilantro, chopped"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "tom-yum-goong",
     "title": "Tom Yum Goong (ต้มยำกุ้ง) — Thai Hot & Sour Shrimp Soup",
     "source": "EatingThaiFood.com",
@@ -5208,6 +6213,33 @@
     "hasInstructions": true
   },
   {
+    "slug": "tomato-egg-stir-fry",
+    "title": "Tomato Egg Stir-Fry",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Derek Chen (@derekkchen) TikTok recipe: https://www.tiktok.com/@derekkchen/video/7057970696454196526 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "pescatarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "Eggs",
+      "Oil",
+      "Salt and white pepper",
+      "Scallions",
+      "Tomatoes, cut into chunks",
+      "Soy sauce",
+      "Oyster sauce",
+      "Ketchup",
+      "Sugar",
+      "Water",
+      "Cornstarch slurry",
+      "Rice or noodles, to serve"
+    ],
+    "hasInstructions": true
+  },
+  {
     "slug": "tomato-melon-chile-salad-burrata",
     "title": "Tomato, Melon, and Hot Chile Salad with Burrata",
     "source": "Six Seasons",
@@ -5239,6 +6271,28 @@
       "1 small handful basil leaves",
       "¼ cup extra-virgin olive oil",
       "2 balls burrata or very fresh mozzarella"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "toowoomba-ramen",
+    "title": "Toowoomba Ramen",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, Anna (@annainseoul) TikTok recipe: https://www.tiktok.com/@annainseoul/video/7041381411991014702 Video backup: external hard drive (copied from old phone)",
+    "tags": [],
+    "photos": [],
+    "ingredients": [
+      "Instant ramen, with its seasoning packet",
+      "Bacon",
+      "Shrimp or another meat (optional)",
+      "3–4 cloves garlic",
+      "Onion, sliced",
+      "Oil",
+      "Whole milk",
+      "Cheddar cheese (or mozzarella)",
+      "Green onion, to garnish"
     ],
     "hasInstructions": true
   },
@@ -5421,6 +6475,31 @@
       "1 cup yellow split peas, uncooked",
       "1/4 teaspoon salt (or to taste)",
       "Fresh cilantro or parsley, for garnish (optional)"
+    ],
+    "hasInstructions": true
+  },
+  {
+    "slug": "zucchini-scarpaccia",
+    "title": "Zucchini and Onion Scarpaccia",
+    "source": "TikTok",
+    "sourceKind": "web",
+    "author": "",
+    "references": "Source: TikTok, SpicyMoustache (@spicymoustache), from the post caption TikTok recipe: https://www.tiktok.com/@spicymoustache/video/7294675620426992928 Video backup: external hard drive (copied from old phone)",
+    "tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "photos": [],
+    "ingredients": [
+      "3 zucchini",
+      "1 onion",
+      "1 tsp salt",
+      "1 tsp herbs, such as basil, oregano, or thyme",
+      "2 tbsp nutritional yeast",
+      "3 garlic cloves, minced",
+      "1 cup all-purpose flour",
+      "1/4 cup cornmeal",
+      "2 tbsp olive oil"
     ],
     "hasInstructions": true
   },

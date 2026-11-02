@@ -401,6 +401,16 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 tablespoons freshly grated parmesan cheese
 - shaved parmesan cheese for topping
 
+## buffet-style-fried-green-beans
+**Buffet-Style Fried Green Beans**
+
+- Fresh green beans
+- Oil, for deep-frying
+- Sesame oil
+- Hoisin sauce
+- Soy sauce
+- Chili crisp
+
 ## bun-ca-moi-hop
 **Bún Cá Mòi Hộp (Canned Sardine Noodle Soup)**
 
@@ -499,6 +509,24 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 teaspoon vanilla extract
 - 9 ounces powdered sugar, sifted, approximately 2 cups
 
+## carrots-butter-bean-puree
+**Carrots and Butter Beans**
+
+- 8 carrots
+- 1 large white onion, thinly sliced
+- 4 cloves garlic, thinly sliced
+- 4 sprigs thyme
+- 1/2 cup white wine, stock, or water
+- 1 tin butter beans, with their liquid
+- 1/2 lemon, juiced, plus a squeeze for the garnish
+- 1 tbsp cider vinegar
+- Olive oil
+- Salt
+- 2 tbsp flaked almonds
+- 1 jalapeño, minced
+- Parsley, finely chopped
+- Pinch of sugar
+
 ## cavatelli-sausage-broccoli-rabe
 **Cavatelli Sausage & Broccoli Rabe**
 
@@ -548,6 +576,33 @@ Auto-generated from recipe files. Do not edit manually.
 - Honey mustard
 - Lettuce
 - Swiss cheese
+
+## chicken-biryani
+**Chicken Biryani**
+
+- Chicken, cut into small pieces
+- 1 spoon ginger-garlic paste
+- Turmeric
+- Red chili powder
+- Garam masala
+- Salt
+- 1/2 lemon, juiced, plus more lemon juice to finish
+- A little yogurt
+- 1 glass basmati rice
+- Bay leaf
+- Green cardamom
+- Oil
+- Cumin seeds
+- Black cardamom
+- Cinnamon
+- 1 red onion, sliced
+- Tomato
+- Green chili
+- Saffron, soaked in a little milk
+- Mint leaves
+- Cilantro
+- Crispy fried onions
+- Ghee
 
 ## chicken-piccata
 **Chicken Piccata with Lemon Butter Spaghetti**
@@ -636,6 +691,28 @@ Auto-generated from recipe files. Do not edit manually.
 - freshly ground black pepper, to taste
 - 1 teaspoon vegetable oil
 - 2 tablespoons vegetable or peanut oil
+
+## chipotle-chicken-street-tacos
+**Chipotle Chicken Street Tacos**
+
+- 6 chicken thighs
+- 2 tbsp chipotle pepper sauce
+- 2 tsp salt, plus more to taste
+- 2 tsp black pepper
+- 1 tbsp dried parsley flakes
+- 1 1/2 tsp cumin
+- 2 tsp smoked paprika
+- 2 tsp chili powder
+- Juice of 1 lime, plus lime wedges to serve
+- Juice of 1/2 orange
+- 1 1/2 onions (1/2 sliced for the marinade, 1 piece for the salsa, the rest for toppings)
+- Cilantro (a handful each for marinade and salsa, plus more chopped to serve)
+- 10 garlic cloves (5 crushed for the marinade, 5 for the salsa)
+- 4 tbsp olive oil
+- 2 jalapeños
+- 1 avocado
+- 1/2 cup water
+- Corn tortillas
 
 ## chorizo-chickpea-carbonara
 **Chorizo & Chickpea Carbonara**
@@ -747,6 +824,35 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 pint heavy cream
 - 2 tablespoons cultured buttermilk
 
+## crispy-chicken-thighs-fines-herbes
+**Crispy Chicken Thighs with Fines Herbes Sauce**
+
+- Bone-in, skin-on chicken thighs
+- Salt and pepper
+- Ground coriander
+- Oil
+- Shallot, finely chopped
+- White wine
+- Chicken stock
+- Crème fraîche (or cream)
+- Chives, parsley, and tarragon, finely chopped
+- Fennel fronds (instead of hard-to-find chervil)
+- Shaved fennel and Belgian endive, for the salad
+
+## crispy-rice-paper-dumplings
+**Crispy Rice Paper Dumplings**
+
+- Firm tofu, crumbled
+- Canned tuna
+- Cabbage, shredded
+- Perilla leaves, some sliced, some whole
+- Green onions, sliced
+- Egg
+- Starch
+- Black pepper and salt
+- Rice paper
+- Oil, for frying
+
 ## crispy-skinned-salmon-harissa-citrusy-fennel-salad
 **Crispy-Skinned Salmon with Harissa & Citrusy Fennel Salad**
 
@@ -759,6 +865,28 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 tablespoons extra-virgin olive oil
 - Kosher salt
 - 4 (6-ounce) salmon fillets
+
+## crispy-tofu-laab
+**Crispy Tofu Laab**
+
+- Extra-firm tofu
+- Oil, for frying
+- Palm sugar
+- Galangal
+- Garlic
+- Black pepper
+- Green onions, white parts
+- Shallots
+- Red onion
+- Mushroom seasoning
+- Vegan fish sauce
+- Lemon juice
+- Salt
+- Chilies
+- Cilantro
+- Mint
+- [Khao khua](../khao-khua-toasted-rice-powder/recipe.md) (toasted rice powder)
+- Sticky rice, to serve
 
 ## daube-provencale
 **Daube Provençale (French Beef Stew with Red Wine)**
@@ -776,6 +904,26 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 6-oz can tomato paste
 - 4 1/2 cups water
 - 3 1/2 oz. pitted black olives
+
+## drunken-noodles-pad-kee-mao
+**Drunken Noodles (Pad Kee Mao)**
+
+- 1 lb chicken thighs
+- 1/2 tsp baking soda
+- 1 tsp cornstarch
+- 1 tsp oil, plus more for the wok
+- 4 tbsp soy sauce (1 for the marinade, 3 for the sauce)
+- 4 cloves garlic
+- 2–3 bird's eye chilies
+- 2 tbsp oyster sauce
+- 1 tbsp dark soy sauce
+- 1 tbsp fish sauce
+- 1 tbsp Shaoxing wine
+- 1 tbsp palm sugar or brown sugar
+- 3 stalks gai lan (or broccolini)
+- 1 big handful Thai basil
+- 8 oz fresh wide rice noodles
+- Green onion, to garnish
 
 ## easy-awesome-eggplant-tian
 **Easy Awesome Eggplant Tian**
@@ -859,6 +1007,38 @@ Auto-generated from recipe files. Do not edit manually.
 - Feta, crumbled, as much as desired
 - Dried oregano
 
+## flamin-hot-mac-and-cheese-bites
+**Flamin' Hot Cheetos Mac and Cheese Bites**
+
+- Mac and cheese (stovetop, made the day before)
+- Flour
+- Eggs, beaten
+- Flamin' Hot Cheetos, crushed
+- Oil, for frying
+- Ranch or blue cheese dressing, to serve
+
+## fondant-potatoes
+**Fondant Potatoes**
+
+- 4–5 russet potatoes
+- 10 cloves garlic, smashed
+- Salt and pepper
+- High-smoke-point oil
+- 4 tbsp butter
+- Fresh rosemary
+- Fresh thyme
+- 1/2 cup chicken stock
+
+## french-onion-pasta
+**French Onion Pasta**
+
+- Yellow onions, thinly sliced
+- Butter or oil
+- Broth
+- Rigatoni
+- Hard cheese, grated
+- Fennel and microgreens, to serve (optional)
+
 ## french-onion-soup
 **French Onion Soup**
 
@@ -926,6 +1106,17 @@ Auto-generated from recipe files. Do not edit manually.
 - Dried Sicilian oregano, to taste
 - Kosher salt and freshly ground black pepper, to taste
 
+## garlic-confit-toast
+**Garlic Confit Toast**
+
+- 1 cup extra-virgin olive oil
+- 1 cup garlic cloves, peeled and roots removed
+- 4 tbsp unsalted butter, room temperature
+- 1/2 cup freshly grated Parmesan
+- 2 tsp flat-leaf parsley, finely chopped
+- 1/2 tsp kosher salt (Diamond Crystal), or to taste
+- 1 loaf French bread, cut into 1-inch diagonal slices
+
 ## garlic-dill-pickles
 **Garlic Dill Pickles**
 
@@ -947,6 +1138,51 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 ½ tsp. fine grain sea salt
 - 1 Tbsp. ground turmeric (optional)
 - 1 tsp. garlic powder (optional)
+
+## ghormeh-sabzi
+**Ghormeh Sabzi (Persian Herb Stew)**
+
+- Beef chuck or stewing lamb, cubed
+- Onion, diced
+- Salt and pepper
+- Turmeric
+- Tomato paste
+- Kidney beans
+- Dried limes (limoo omani)
+- Water
+- Scallions, chopped
+- Cilantro, chopped
+- Parsley, chopped
+- Spinach, chopped
+- Dried fenugreek
+- Oil
+- Rice and tahdig, to serve
+
+## gochujang-glazed-salmon
+**Gochujang Glazed Salmon**
+
+- Salmon fillets
+- Gochujang
+- Miso
+- Garlic, minced
+- Soy sauce
+- Mirin
+- Sugar
+- Sesame seeds
+- Rice and lettuce leaves, to serve
+
+## gochujang-miso-udon-carbonara
+**Gochujang Miso Udon Carbonara**
+
+- Udon noodles
+- Pork belly or bacon, cut into pieces
+- Garlic, minced
+- Gochujang
+- Miso
+- Egg yolks, plus one to top
+- Parmesan, grated, plus more to serve
+- Black pepper
+- Chives, to garnish
 
 ## golden-brown-chicken-crispy-bread-salad
 **Golden Brown & Delicious Chicken Breasts with Crispy Bread Salad**
@@ -1024,6 +1260,17 @@ Auto-generated from recipe files. Do not edit manually.
 - sliced tomatoes, optional
 - Kosher salt and freshly ground pepper
 - Bread, or bruschetta
+
+## griddle-sourdough-english-muffins
+**Griddle Sourdough English Muffins**
+
+- 1/2 cup sourdough starter
+- 1 cup milk
+- 2 1/2 cups flour (2 cups + 1/2 cup)
+- 1 tbsp sugar
+- 1 1/2 tsp salt
+- 1/2 tsp baking soda
+- Cornmeal, for dusting
 
 ## grilled-peach-panzanella
 **Grilled Peach Panzanella**
@@ -1114,6 +1361,27 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 tablespoons freshly ground black pepper
 - 2 tablespoons onion powder
 
+## instant-pot-dal-makhani
+**Instant Pot Dal Makhani with Brown Rice**
+
+- 1 cup black gram beans (or adzuki beans or whole brown lentils)
+- 1/3 cup red kidney beans
+- 1 tbsp oil, ghee, or butter
+- 1 tsp cumin seeds
+- 1 medium yellow onion, finely diced
+- 1 tbsp ginger paste
+- 1 tbsp garlic paste
+- 1/4 tsp ground turmeric
+- 2 tsp Kashmiri red chili powder
+- 3 tsp kosher salt (2 tsp for the dal, 1 for the rice)
+- 2 cups diced tomatoes
+- 4 cups water (2 cups for the dal, 2 for the rice)
+- 1/2 cup light cream
+- 1 tsp garam masala
+- 1/4 cup cilantro, chopped
+- 1 tbsp kasoori methi (dried fenugreek leaves), optional
+- 1 cup brown rice, rinsed and drained (optional)
+
 ## italian-egg-drop-soup
 **Italian Egg-Drop Soup**
 
@@ -1141,6 +1409,17 @@ Auto-generated from recipe files. Do not edit manually.
 - 4 large eggs
 - 1 pound (2 cups) fresh ricotta cheese, strained
 - Confectioners' sugar for sprinkling
+
+## jujube-goji-chia-pudding
+**Jujube, Goji, and Osmanthus Chia Pudding**
+
+- Chia seeds
+- Almond milk
+- Dried red jujubes, sliced
+- Goji berries
+- Dried osmanthus flowers
+- Honey (optional)
+- Yellow dragon fruit and kiwi, to top
 
 ## julia-child-bouillabaisse-rouille
 **Julia Child's Bouillabaisse with Rouille**
@@ -1216,6 +1495,13 @@ Auto-generated from recipe files. Do not edit manually.
 - 0.5 liter broth (Costco chicken bone broth works well)
 - [Olive tapenade](../olive-tapenade/recipe.md) for serving
 
+## khao-khua-toasted-rice-powder
+**Khao Khua (Toasted Rice Powder)**
+
+- Glutinous (sticky) rice, uncooked
+- Lemongrass, sliced
+- Makrut lime leaves
+
 ## khichadi
 **Khichadi**
 
@@ -1247,6 +1533,22 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 teaspoon red wine vinegar or lemon juice
 - 1 tablespoon extra virgin olive oil
 - Salt and pepper
+
+## korean-chili-oil-noodles
+**Korean Chili Oil Noodles**
+
+- Wide noodles
+- Gochujang
+- Peanut butter
+- Garlic
+- 1 tsp chili flakes
+- Sugar
+- Soy sauce
+- Rice vinegar
+- Chicken powder
+- Scallion
+- Sesame seeds
+- Neutral oil, heated
 
 ## kulebyaka-individual-salmon-pastries
 **Kulebyaka (Individual Salmon Pastries)**
@@ -1433,6 +1735,20 @@ Auto-generated from recipe files. Do not edit manually.
 - Zest of 1 lemon
 - Salt to taste
 
+## mayak-eggs-rice-bowl
+**Mayak Eggs Rice Bowl (Korean Marinated Eggs)**
+
+- Eggs
+- 1/2 cup soy sauce
+- 1/2 cup water
+- 2 garlic cloves, minced
+- Honey
+- Jalapeño, sliced
+- Green onions, sliced
+- Sesame seeds
+- Cooked rice
+- Kimchi
+
 ## melanzane-nel-ragu-con-marsala
 **Melanzane nel Ragù con Marsala**
 
@@ -1509,6 +1825,16 @@ Auto-generated from recipe files. Do not edit manually.
 - 1/2 cup plus 2 tablespoons tahini
 - 1 1/2 teaspoons ground cumin
 
+## miso-black-cod
+**Miso Black Cod**
+
+- Black cod fillets
+- Sake, plus more for the marinade
+- White miso
+- Mirin
+- Sugar
+- Radish and green onion, to garnish
+
 ## miso-mushroom-pie
 **Miso Mushroom Pie**
 
@@ -1538,6 +1864,37 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 cups grated Parmesan
 - Garlic powder, for dusting
 - 2 store-bought disks refrigerated pie dough
+
+## moroccan-spiced-kabocha-squash-soup
+**Moroccan-Spiced Kabocha Squash Soup**
+
+- 2 lb kabocha squash (or butternut)
+- 6 tbsp olive oil
+- Salt and pepper
+- 2-inch piece ginger, minced
+- 1 shallot, minced
+- 3 garlic cloves, minced
+- 1/2 tsp turmeric
+- 1/4 tsp cinnamon
+- 1/4 tsp ground clove
+- 1/4 tsp cayenne, plus more to garnish
+- 1 cup red lentils, rinsed
+- 4 cups water
+- 4 tbsp maple syrup
+- 2 tbsp apple cider vinegar (or lemon juice)
+- 2 tbsp red miso
+- 2 tbsp tomato paste
+- 1 cup coconut milk (or heavy cream)
+- Full-fat yogurt and fresh sage, to serve (optional)
+
+## mortadella-pistachio-pesto-stracciatella-sandwich
+**Mortadella, Pistachio Pesto, and Stracciatella Sandwich**
+
+- Ciabatta or a crusty roll
+- Pistachio pesto
+- Mortadella
+- Stracciatella
+- Hard cheese, grated
 
 ## mushroom-marsala-pasta-bake
 **Mushroom Marsala Pasta Bake**
@@ -1706,6 +2063,27 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 teaspoon zest from 1 lemon
 - 2 tablespoons finely grated Pecorino cheese
 
+## paneer-butter-masala
+**Paneer Butter Masala**
+
+- 2 onions, roughly chopped
+- 4 tomatoes, roughly chopped
+- 1/2 inch ginger and 1 green chili, finely chopped
+- 15 almonds and 8–10 cashews
+- 2 dried red chilies
+- 2 each black and green cardamom
+- Bay leaf
+- 1 tbsp coriander powder
+- 1/2 cup milk
+- 1/2 cup water
+- Honey
+- Butter
+- 1 tbsp Kashmiri red chili powder
+- About 200 g paneer, diced
+- Dried fenugreek leaves (kasoori methi), crushed
+- Garam masala
+- Cilantro, finely chopped
+
 ## pantry-carbonara
 **Pantry Carbonara**
 
@@ -1731,6 +2109,24 @@ Auto-generated from recipe files. Do not edit manually.
 - 1/4 cup fresh oregano leaves
 - Sea salt and freshly ground black pepper, to taste
 - Finely grated Parmesan, for finishing
+
+## pasta-con-le-sarde
+**Pasta con le Sarde**
+
+- 1/2 lb bucatini
+- 1/4 cup + 2 tbsp extra-virgin olive oil, plus more to finish
+- 1/2 bulb fennel, thinly sliced, fronds saved
+- 1/2 medium yellow onion, finely diced
+- Red pepper flakes
+- Salt and black pepper
+- 1/2 cup plain breadcrumbs
+- 2 cloves garlic, minced
+- Anchovies
+- 1 can skinless, boneless sardines in olive oil
+- 1/4 cup white wine
+- 2 tbsp pine nuts
+- 2 tbsp currants
+- Fresh parsley, chopped
 
 ## pasta-e-broccoli
 **Pasta e Broccoli**
@@ -1970,6 +2366,16 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 cups water
 - 4 cups raw spinach
 
+## radish-butter-sandwich
+**Radish and Butter Sandwich**
+
+- Fresh baguette (or ciabatta or another rustic bread)
+- Radishes, ideally with their greens
+- Good salted butter, high butterfat
+- Lemon
+- Salt and pepper
+- White anchovies (optional)
+
 ## radish-egg-salad-sandwiches
 **Radish and Egg Salad Sandwiches**
 
@@ -2049,6 +2455,16 @@ Auto-generated from recipe files. Do not edit manually.
 - Cilantro, for serving
 - 2 tablespoons brown sugar (optional; see notes)
 
+## roasted-artichokes-garlic-butter
+**Roasted Artichokes with Garlic Butter**
+
+- Artichokes
+- Lemon
+- Olive oil
+- Salt
+- Butter
+- Garlic
+
 ## roasted-eggplant-tahini-pine-nuts-lentils
 **Roasted Eggplant with Tahini, Pine Nuts, and Lentils**
 
@@ -2075,6 +2491,21 @@ Auto-generated from recipe files. Do not edit manually.
 - 1/4 cup pine nuts (to serve)
 - 2 tablespoons minced fresh parsley leaves (to serve)
 - 1 tablespoon chopped fresh rosemary leaves (to serve)
+
+## roasted-garlic-steak-sandwich
+**Roasted Garlic Steak Sandwich**
+
+- Head of garlic
+- Olive oil
+- Butter
+- Fresh rosemary and thyme
+- Crusty bread
+- Steak
+- Onions, sliced
+- Broth and a dark sauce, such as Worcestershire or soy, for the jus
+- Boursin garlic and herb cheese
+- Melting cheese, sliced, and grated cheese
+- Arugula
 
 ## roasted-oyster-mushroom-watercress-salad
 **Roasted Oyster Mushroom and Watercress Salad**
@@ -2145,6 +2576,21 @@ Auto-generated from recipe files. Do not edit manually.
 - Minced fresh herbs such as parsley, dill, or chives, for serving
 - Hot sauce, for serving
 - Crackers, for serving
+
+## salmon-mushroom-rice
+**Salmon Mushroom Rice**
+
+- 2 cups rice
+- 1.75 cups water
+- 1 tbsp sake
+- 1 tbsp mirin
+- 2 tbsp soy sauce
+- 2 tsp dashi powder
+- 1 tsp grated ginger
+- Mushrooms, such as shimeji and oyster
+- Salmon fillet
+- Shichimi togarashi
+- Shiso or herbs, green onion, and pickled red ginger, to serve
 
 ## salsiccia-di-tacchino
 **Salsiccia di Tacchino**
@@ -2242,6 +2688,20 @@ Auto-generated from recipe files. Do not edit manually.
 - 1/2 Tbsp Dijon mustard (optional)
 - 1/2 teaspoon Sriracha or similar hot chili sauce/paste
 
+## shanghai-pork-bok-choy-dumplings
+**Shanghai Pork and Bok Choy Dumplings**
+
+- 1 lb (450 g) ground pork, 20–30% fat
+- 3 lb (1350 g) baby or regular bok choy
+- 2 tbsp soy sauce
+- 1/2 tsp kosher salt (1 tsp if Diamond Crystal)
+- 1 1/2 tsp sugar
+- 3 dashes white pepper
+- 650 g square wonton wrappers, 3 inch (about 90–100)
+- Neutral oil
+- Soy sauce, rice vinegar, and Chinese chili oil, for dipping
+- Chicken stock and sliced scallions, to serve in broth (optional)
+
 ## shrimp-parm
 **Shrimp Parm**
 
@@ -2259,6 +2719,41 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 tablespoons dried Sicilian oregano
 - 1 loaf Italian bread, for serving
 - [Garlic Butter](../garlic-butter/recipe.md), for serving
+
+## shrimp-tofu-pad-thai
+**Shrimp and Tofu Pad Thai**
+
+- 1 bundle rice noodles
+- 1 lb shrimp
+- 1 tsp granulated garlic
+- 1 tsp white pepper
+- 1/2 pack firm tofu, cubed
+- 3 green onions
+- 1 shallot
+- 4 cloves garlic
+- 2 tbsp palm sugar (or brown sugar)
+- 1/4 cup tamarind paste (or 2 tbsp tomato paste + 1 tbsp vinegar)
+- 1/4 cup fish sauce
+- 1 tsp chicken bouillon powder
+- 2 eggs
+- Oil
+- 1 cup bean sprouts
+- 1–2 tsp chili flakes (optional)
+- Roasted peanuts, crushed, and lime wedges, to serve
+
+## simple-kimchi-fried-rice
+**Simple Kimchi Fried Rice**
+
+- Oil
+- Green onions, diced
+- Bacon, Spam, or other pork (or mushrooms)
+- Kimchi
+- Sugar
+- Soy sauce
+- Gochujang
+- Cooked rice
+- Sesame oil
+- Fried eggs, nori, or cheese, to top
 
 ## skillet-braised-chicken-peppers-paprika
 **Easy Skillet Braised Chicken with Peppers and Paprika**
@@ -2318,6 +2813,16 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 tablespoons chopped fresh parsley
 - 4 6-ounce snapper fillets, pin bones removed
 - Gray salt, for finishing
+
+## sourdough-english-muffins
+**Sourdough English Muffins**
+
+- 270 g sourdough discard
+- 720 g flour (550 g + 170 g)
+- 500 g milk
+- 30 g sugar
+- 10 g baking soda
+- Cornmeal or semolina, for the trays
 
 ## spicy-butter-garlic-pasta
 **Spicy Butter Garlic Pasta**
@@ -2402,6 +2907,22 @@ Auto-generated from recipe files. Do not edit manually.
 - Linguine or spaghetti
 - Pecorino Romano, grated, lots
 - Truffle oil, to finish (optional)
+
+## spicy-seafood-boil
+**Spicy Seafood Boil**
+
+- Shell-on shrimp
+- Small potatoes
+- Corn on the cob, cut into pieces
+- Sausage
+- Eggs
+- Onion
+- Lemons
+- Salt
+- Paprika
+- Mustard powder
+- Butter
+- Tabasco
 
 ## spicy-vegan-white-pizza-broccoli-rabe
 **Spicy Vegan White Pizza with Broccoli Rabe & Truffle Cream**
@@ -2517,6 +3038,25 @@ Auto-generated from recipe files. Do not edit manually.
 - 2 (15.5-ounce) cans chickpeas
 - Grated parmesan cheese for serving (optional)
 
+## swedish-style-meatball-pasta
+**Swedish-Style Meatball Pasta**
+
+- 1 lb spicy Italian sausage
+- 1 onion, diced (half for the meatballs, half for the sauce)
+- 4 cloves garlic, minced
+- 1/2 cup breadcrumbs
+- 1 egg
+- 1/2 tbsp each ground ginger, cardamom, and white pepper
+- 1/4 tsp allspice
+- Fresh nutmeg
+- 6 tbsp butter
+- Egg noodles or pasta
+- 2 tbsp all-purpose flour
+- 1 1/2 cups beef broth
+- 1 tbsp stone-ground mustard
+- 1/2 tbsp Worcestershire sauce
+- Sour cream or Greek yogurt, and parsley, to serve
+
 ## swiss-chard-frittata
 **Swiss Chard Frittata**
 
@@ -2583,6 +3123,23 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 ripe avocado, sliced
 - freshly ground pepper to taste
 
+## tom-kha-kai
+**Tom Kha Kai (Chicken Coconut Soup)**
+
+- 1 can coconut milk
+- About 2 tbsp fish sauce, to taste
+- 1 lime, juiced, to taste
+- Mushroom powder
+- Lime powder (or 1 more lime)
+- Lemongrass
+- Makrut lime leaves
+- Galangal
+- Shallots
+- Chilies (optional)
+- Chicken thighs, or other protein such as fish balls, tofu, or pork
+- King oyster mushrooms
+- Green onions and cilantro, chopped
+
 ## tom-yum-goong
 **Tom Yum Goong (ต้มยำกุ้ง) — Thai Hot & Sour Shrimp Soup**
 
@@ -2603,6 +3160,22 @@ Auto-generated from recipe files. Do not edit manually.
 - 3 tablespoons canned Thai roasted chili sauce, nam prik pao น้ำพริกเผา (creamy version)
 - 10 tablespoons evaporated milk (creamy version)
 
+## tomato-egg-stir-fry
+**Tomato Egg Stir-Fry**
+
+- Eggs
+- Oil
+- Salt and white pepper
+- Scallions
+- Tomatoes, cut into chunks
+- Soy sauce
+- Oyster sauce
+- Ketchup
+- Sugar
+- Water
+- Cornstarch slurry
+- Rice or noodles, to serve
+
 ## tomato-melon-chile-salad-burrata
 **Tomato, Melon, and Hot Chile Salad with Burrata**
 
@@ -2614,6 +3187,19 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 small handful basil leaves
 - ¼ cup extra-virgin olive oil
 - 2 balls burrata or very fresh mozzarella
+
+## toowoomba-ramen
+**Toowoomba Ramen**
+
+- Instant ramen, with its seasoning packet
+- Bacon
+- Shrimp or another meat (optional)
+- 3–4 cloves garlic
+- Onion, sliced
+- Oil
+- Whole milk
+- Cheddar cheese (or mozzarella)
+- Green onion, to garnish
 
 ## toplyonoye-moloko-baked-milk
 **Топлёное молоко (Baked Milk)**
@@ -2684,6 +3270,25 @@ Auto-generated from recipe files. Do not edit manually.
 - 1-2 Tbs. vegan butter
 - 4 slices gluten-free bread
 - 1 cup sauerkraut
+
+## vodka-parm-sausage-fusilli
+**One-Pot Vodka Parm and Sausage Fusilli**
+
+- Fusilli
+- 5 sausages, casings removed
+- Olive oil
+- 1/2 stick butter
+- 1 small white onion, diced
+- 3–4 cloves garlic, sliced
+- 2 tsp chili flakes
+- 1 tbsp tomato paste
+- 2 oz vodka
+- 2 cups heavy cream
+- 2 cups marinara sauce
+- 2 tbsp salt
+- 1 tbsp pepper
+- 1 bunch basil, leaves only
+- 1 cup grated Parmesan, plus more to serve
 
 ## walnut-faux-cream-mushroom-soup
 **Walnut Faux-Cream of Mushroom Soup**
@@ -2762,4 +3367,17 @@ Auto-generated from recipe files. Do not edit manually.
 - 3 cloves garlic, grated
 - 1 inch fresh ginger, grated
 - Avocado oil for cooking
+
+## zucchini-scarpaccia
+**Zucchini and Onion Scarpaccia**
+
+- 3 zucchini
+- 1 onion
+- 1 tsp salt
+- 1 tsp herbs, such as basil, oregano, or thyme
+- 2 tbsp nutritional yeast
+- 3 garlic cloves, minced
+- 1 cup all-purpose flour
+- 1/4 cup cornmeal
+- 2 tbsp olive oil
 
