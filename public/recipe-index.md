@@ -174,6 +174,18 @@ Auto-generated from recipe files. Do not edit manually.
 - 1/2 cup heavy cream
 - 4 boneless, skinless chicken breasts, or 1 whole chicken, cut into pieces
 
+## baked-rigatoni
+**Baked Rigatoni**
+
+- Canned whole tomatoes
+- Olive oil
+- Onion
+- Rigatoni
+- Ricotta
+- Fresh mozzarella
+- Parmesan
+- Fresh basil
+
 ## banana-sour-cream-bread
 **Banana Sour Cream Bread**
 
@@ -190,6 +202,24 @@ Auto-generated from recipe files. Do not edit manually.
 - 3 teaspoons baking soda
 - 4 1/2 cups all-purpose flour
 - 1 cup chopped walnuts (optional)
+
+## beef-pad-see-ew
+**Beef Pad See Ew**
+
+- 1/2–1 lb flank steak (or other beef), thinly sliced
+- 3 tbsp oyster sauce (1 for the marinade, 2 for the sauce)
+- 1 tbsp soy sauce (1/2 for the marinade, 1/2 for the sauce)
+- 1 tsp + 1 1/2 tbsp dark soy sauce (1 tsp for the marinade, 1 tbsp for the sauce, 1/2 tbsp for the noodles)
+- 1 tsp + 1 tbsp sugar
+- 1 1/2 tsp ground black pepper
+- 1/4 tsp baking soda
+- 2 lb fresh wide rice noodles (1 pack)
+- 1/2 lb Chinese broccoli
+- 3 eggs
+- 1 tbsp sweet soy sauce
+- 1/2 tbsp seasoning sauce (or soy sauce)
+- 2–3 tbsp canola oil
+- Garlic, thinly sliced
 
 ## beef-stroganoff
 **Beef Stroganoff**
@@ -400,6 +430,19 @@ Auto-generated from recipe files. Do not edit manually.
 - pinch of nutmeg
 - 2 tablespoons freshly grated parmesan cheese
 - shaved parmesan cheese for topping
+
+## buckwheat-bibim-guksu
+**Buckwheat Bibim Guksu (Cold Spicy Noodles)**
+
+- Buckwheat soba noodles, for 2
+- 2 tbsp gochujang
+- 1 1/2 tbsp sugar
+- 2 tbsp rice vinegar
+- 1 tbsp soy sauce
+- 1 tbsp sesame oil
+- Sesame seeds
+- Cucumber, cut into matchsticks
+- Soft-boiled eggs, halved
 
 ## buffet-style-fried-green-beans
 **Buffet-Style Fried Green Beans**
@@ -740,6 +783,26 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 to 2 tablespoons milk, half and half, or heavy cream
 - 2 to 4 tablespoons pearl sugar
 
+## cilantro-lime-bean-salad-tostadas
+**Marinated Cilantro Lime Bean Salad Tostadas**
+
+- 3 tbsp white wine vinegar (2 for the pickled jalapeños, 1 for the marinade)
+- 1/2 tsp sugar
+- Kosher salt
+- 2 jalapeños (1 thinly sliced for pickling, 1 roughly chopped)
+- 2/3 cup + 2 tbsp fresh cilantro
+- 1/2 small red onion, thinly sliced
+- Zest and juice of 2 limes
+- 1 English cucumber
+- 2 tbsp olive oil
+- 4 cloves garlic, crushed
+- 2 tsp agave syrup
+- 1 tsp yellow miso
+- 1 can (15 oz) chickpeas, drained and rinsed
+- 1 can (15 oz) cannellini beans, drained and rinsed
+- 2 avocados
+- 6 tostadas
+
 ## coconut-green-chutney
 **Coconut Green Chutney**
 
@@ -887,6 +950,22 @@ Auto-generated from recipe files. Do not edit manually.
 - Mint
 - [Khao khua](../khao-khua-toasted-rice-powder/recipe.md) (toasted rice powder)
 - Sticky rice, to serve
+
+## custard-baked-mac-and-cheese
+**Custard Baked Mac and Cheese**
+
+- 1 lb elbow macaroni
+- Salt
+- Sharp cheddar, mild cheddar, and Colby Jack (part shredded, part cubed)
+- 1 egg per pound of pasta
+- Seasoning salt
+- Brown mustard
+- Nature's Seasons seasoning
+- Evaporated milk
+- Whole milk
+- 1/2 stick butter
+- Sour cream
+- A little Velveeta
 
 ## daube-provencale
 **Daube Provençale (French Beef Stew with Red Wine)**
@@ -1216,6 +1295,21 @@ Auto-generated from recipe files. Do not edit manually.
 - 3 tablespoons sherry vinegar
 - Honey, for drizzling
 
+## gougeres
+**Gougères (French Cheese Puffs)**
+
+- 2 sticks butter
+- 1/2 cup milk
+- 1/2 cup water
+- Salt
+- Nutmeg
+- Cayenne pepper
+- 1 cup flour
+- 5 eggs
+- 1 big spoonful Dijon mustard
+- About 1 1/2 cups grated Gruyère (or sharp white cheddar)
+- Parmesan, for sprinkling
+
 ## great-deviled-eggs
 **Great Deviled Eggs**
 
@@ -1330,6 +1424,20 @@ Auto-generated from recipe files. Do not edit manually.
 - Reishi mushrooms
 - A little apple cider vinegar
 - Water
+
+## high-protein-breakfast-bagels
+**High-Protein Breakfast Bagels**
+
+- 16 slices bacon (beef, turkey, or center-cut), each cut in half
+- 8 eggs
+- 500 g egg whites
+- 300 g low-fat cottage cheese, blended smooth
+- 5 g Parmesan
+- 1 tsp onion powder
+- 1 tsp garlic powder
+- Oil spray
+- 8 bagel thins or low-carb bagels
+- 8 slices cheddar
 
 ## homemade-chilli-crisp-chilli-oil
 **Homemade Chinese Chilli Crisp Chilli Oil**
@@ -1449,6 +1557,18 @@ Auto-generated from recipe files. Do not edit manually.
 - ½ tsp (or to taste) fine sea salt
 - 1/3 cup extra-virgin olive oil
 
+## julia-child-garlic-mashed-potatoes
+**Julia Child's Garlic Mashed Potatoes**
+
+- Potatoes
+- 1 stick butter, plus a pat to serve
+- 30 cloves garlic
+- A little flour
+- 1 cup milk, plus a little more
+- Salt and white pepper
+- A splash of cream
+- Parsley, chopped
+
 ## k-bas-and-cabbage-soup
 **K-bas & Cabbage Soup**
 
@@ -1514,6 +1634,27 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 3/4 cups water, plus more as needed
 - 1 teaspoon salt
 - Yogurt, for serving (optional)
+
+## kimchi-jjigae
+**Kimchi Jjigae**
+
+- 3/4 lb pork belly, sliced
+- Salt
+- 1/2 onion, sliced
+- 3 scallions (whites for cooking, greens to garnish)
+- 1 lb well-fermented kimchi
+- 1/4 cup kimchi juice
+- 4 1/2 cups dashi stock
+- 1/2 container soft tofu
+- 2 tbsp gochujang
+- 2 tbsp soy sauce
+- 1 tbsp sesame oil
+- 1 tbsp gochugaru flakes
+- 1 tbsp gochugaru powder
+- 2 tsp sugar
+- 3 cloves garlic, grated
+- 1/2-inch knob ginger, grated
+- Rice, to serve
 
 ## kolokithokeftedes-greek-zucchini-fritters
 **Kolokithokeftedes (Greek Zucchini Fritters) with Tzatziki**
@@ -1681,6 +1822,18 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 jar (12 oz) roasted red peppers, drained and diced (can use hot ones)
 - 1 cup mayonnaise
 - 1/4 cup milk
+
+## mackerel-orange-fennel-salad
+**Grilled Mackerel with Orange Fennel Salad**
+
+- Mackerel fillets
+- Olive oil
+- Salt
+- Fennel, thinly shaved
+- Orange
+- Fresh mint
+- Fresh dill
+- Lemon
 
 ## marcella-hazan-tomato-sauce
 **Marcella Hazan's Tomato Sauce with Onion and Butter**
@@ -1896,6 +2049,24 @@ Auto-generated from recipe files. Do not edit manually.
 - Stracciatella
 - Hard cheese, grated
 
+## mushroom-laab
+**Mushroom Laab (Laab Het)**
+
+- Oyster mushrooms
+- Galangal
+- Garlic
+- Black pepper
+- Palm sugar
+- Green onions
+- Shallots
+- Mushroom seasoning
+- Lime juice
+- Vegan fish sauce
+- [Khao khua](../khao-khua-toasted-rice-powder/recipe.md) (toasted rice powder)
+- Cilantro
+- Mint
+- Lettuce leaves and chilies, to serve
+
 ## mushroom-marsala-pasta-bake
 **Mushroom Marsala Pasta Bake**
 
@@ -2097,6 +2268,27 @@ Auto-generated from recipe files. Do not edit manually.
 - Freshly cracked black pepper
 - Chili flakes
 - Caramelized onion salt (optional)
+
+## parmentier-de-poisson
+**Parmentier de Poisson (French Fish Pie)**
+
+- 4 russet potatoes
+- 6 tbsp salted butter (4 for the mash, 2 for the sauce)
+- 3 egg yolks
+- Salt and white pepper
+- 1 large leek
+- 2 shallots
+- 1/2 bulb fennel
+- 1 tbsp oil
+- 2 tbsp all-purpose flour
+- 1 1/2 cups milk
+- 1 cup cream
+- 1 lb fish of your choice, cut into chunks
+- Zest of 1/2 lemon
+- 1 tbsp chopped dill
+- 1 tbsp chopped parsley
+- 1/2 tbsp chopped tarragon
+- 1/4 tsp grated nutmeg
 
 ## pasta-broccoli-goat-cheese-oregano
 **Pasta with Broccoli, Goat Cheese, and Oregano**
@@ -2409,6 +2601,23 @@ Auto-generated from recipe files. Do not edit manually.
 - 30-50 гр. сливочного масла
 - 1 яйцо (украшение)
 
+## red-wine-braised-short-ribs
+**Red Wine Braised Short Ribs**
+
+- 4 lb bone-in short ribs
+- Salt and pepper
+- White onion, celery, and carrot (2 parts onion, 1 part each celery and carrot)
+- A few cloves garlic
+- 2 tbsp tomato paste
+- 2 cups red wine
+- 3 cups beef broth
+- Parsley, thyme, rosemary, and bay leaves
+- Dijon mustard
+- 2 tbsp cold butter
+- 1 tbsp balsamic vinegar (optional)
+- Chives, minced
+- Mashed potatoes or polenta, to serve
+
 ## revani-turkish-semolina-cake
 **Revani (Turkish Semolina Cake)**
 
@@ -2437,6 +2646,30 @@ Auto-generated from recipe files. Do not edit manually.
 - Lemon juice
 - Toast
 - Cucumber, sliced
+
+## ricotta-pesto-tomato-confit-toast
+**Ricotta Pesto Toast with Tomato Confit**
+
+- Cherry tomatoes
+- Garlic cloves
+- Chili flakes
+- Olive oil
+- Sourdough bread
+- Salt
+- Fresh basil
+- Parmesan, grated
+- Ricotta
+
+## rigatoni-escarole-beans-sausage
+**Rigatoni with Escarole, Beans, and Hot Sausage**
+
+- Rigatoni
+- Hot Italian sausage, casings removed
+- Escarole
+- Cannellini beans
+- Calabrian chili
+- Pecorino Romano, grated
+- Parsley, to garnish
 
 ## rio-zape-beans-with-toasted-chile-sauce
 **Rio Zape Beans with Toasted Chile Sauce**
@@ -2771,6 +3004,21 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 cup dry white wine
 - 3 cups low sodium chicken broth
 - 1 large tomato, peeled, seeded, and cut into 1/2-inch pieces (about 1 cup, see notes)
+
+## slow-roasted-salmon-tomatoes-chili
+**Slow-Roasted Salmon with Tomatoes, Chili, and Vinegar**
+
+- Plum tomatoes, halved
+- Shallots
+- Garlic
+- Plenty of olive oil
+- Salmon fillet
+- Piment d'Espelette
+- Red chili flakes
+- Salt and pepper
+- Red wine vinegar
+- Fresh dill
+- Rice, to serve
 
 ## smoked-salmon-potato-salad
 **Five-Ingredient Smoked Salmon and Potato Salad**
@@ -3225,6 +3473,24 @@ Auto-generated from recipe files. Do not edit manually.
 - 1 ½ cups vegetable broth
 - ¼ cup natural peanut butter
 - ¼ cup chopped cilantro
+
+## tuscan-white-bean-kale-salad
+**Tuscan White Bean Kale Salad with Lemon Walnut Gremolata**
+
+- 4 cups lacinato kale, destemmed and chopped
+- 1 can artichokes, drained and chopped
+- 1 can chickpeas, drained and rinsed
+- 1 can white beans, drained and rinsed
+- 7 oz jar sun-dried tomatoes, drained and chopped
+- 1 avocado, sliced
+- 1/2 cup grated Parmesan
+- 1 bunch fresh parsley
+- 3 cloves garlic
+- 1 lemon, zested and juiced, plus a squeeze for the kale
+- 1/2 cup olive oil
+- 1/3 cup raw walnuts
+- 1/2 tsp salt
+- 1/4 tsp black pepper
 
 ## vegan-chilaquiles-charred-corn-black-beans
 **Vegan Chilaquiles with Pepitas, Charred Corn, and Black Beans**

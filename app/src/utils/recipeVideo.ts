@@ -208,6 +208,60 @@ const videos: Record<string, RecipeVideo> = {
   'paneer-butter-masala': {
     id: '7313430669940624683', author: '@somethingfreshh', coverFile: 'paneer-butter-masala.jpg',
   },
+  'gougeres': {
+    id: '7315568130833534251', author: '@amateurgourmet', coverFile: 'gougeres.jpg',
+  },
+  'beef-pad-see-ew': {
+    id: '7325954229695204654', author: '@stephvnietea', coverFile: 'beef-pad-see-ew.jpg',
+  },
+  'baked-rigatoni': {
+    id: '7327671227743538474', author: '@christianpetroni', coverFile: 'baked-rigatoni.jpg',
+  },
+  'red-wine-braised-short-ribs': {
+    id: '7333372696639573291', author: '@karens_cooking', coverFile: 'red-wine-braised-short-ribs.jpg',
+  },
+  'mushroom-laab': {
+    id: '7340028431188364586', author: '@papayapetite', coverFile: 'mushroom-laab.jpg',
+  },
+  'kimchi-jjigae': {
+    id: '7375182337853721902', author: '@derekkchen', coverFile: 'kimchi-jjigae.jpg',
+  },
+  'tuscan-white-bean-kale-salad': {
+    id: '7487718351179894059', author: '@foodiefromvt', coverFile: 'tuscan-white-bean-kale-salad.jpg',
+  },
+  'cilantro-lime-bean-salad-tostadas': {
+    id: '7507701298708450603', author: '@plantbasedrd', coverFile: 'cilantro-lime-bean-salad-tostadas.jpg',
+  },
+  'custard-baked-mac-and-cheese': {
+    id: '7507776149217496366', author: '@onestopchop', coverFile: 'custard-baked-mac-and-cheese.jpg',
+  },
+  'rigatoni-escarole-beans-sausage': {
+    id: '7523981986445233422', author: '@alessandrositalian', coverFile: 'rigatoni-escarole-beans-sausage.jpg',
+  },
+  'parmentier-de-poisson': {
+    id: '7527661279364910349', author: '@chefalextrim', coverFile: 'parmentier-de-poisson.jpg',
+  },
+  'ricotta-pesto-tomato-confit-toast': {
+    id: '7230623467161341186', author: '@daenskitchen', coverFile: 'ricotta-pesto-tomato-confit-toast.jpg',
+  },
+  'high-protein-breakfast-bagels': {
+    id: '7369549235634605328', author: '@aussiefitness', coverFile: 'high-protein-breakfast-bagels.jpg',
+  },
+  'slow-roasted-salmon-tomatoes-chili': {
+    id: '7405313276508212511', author: '@haileecatalano', coverFile: 'slow-roasted-salmon-tomatoes-chili.jpg',
+  },
+  'julia-child-garlic-mashed-potatoes': {
+    id: '7433080303113063711', author: '@cocolarkincooks', coverFile: 'julia-child-garlic-mashed-potatoes.jpg',
+  },
+  '8-hour-marinara': {
+    id: '7478765997088886046', author: '@christianpetroni', coverFile: '8-hour-marinara.jpg',
+  },
+  'buckwheat-bibim-guksu': {
+    id: '7515115845501209887', author: '@cabagges', coverFile: 'buckwheat-bibim-guksu.jpg',
+  },
+  'mackerel-orange-fennel-salad': {
+    id: '7508324725278444822', author: '@biteswithjulius', coverFile: 'mackerel-orange-fennel-salad.jpg',
+  },
 };
 export function recipeVideo(slug: string) {
   const video = videos[slug];
