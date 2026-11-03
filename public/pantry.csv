@@ -1,7 +1,7 @@
 name,category,quantity,unit,container_state,location,perishable,urgency,vendor,stock_requirement,notes
-Carrots,produce,0.78,lb,,fridge,yes,medium,,,
+Carrots,produce,2,each,,fridge,yes,medium,,,
 Lemons,produce,0,each,,fridge,yes,medium,,keep in stock,
-Garlic,produce,1,bulb,,pantry,yes,medium,,keep in stock,
+Garlic,produce,2,cloves,,pantry,yes,medium,,keep in stock,
 Tahini,fermented pastes,1,jar,open,fridge,no,low,,keep in stock,"Sesame paste"
 Miso paste,fermented pastes,1,container,sealed,fridge,no,low,,,
 Beef tallow,oils & fats,1,jar,open,fridge,no,low,,,"Cooking fat"
@@ -12,36 +12,36 @@ Fish sauce,asian sauces,1,bottle,open,fridge,no,low,,,"Salty, umami"
 Worcestershire sauce,seasonings,1,bottle,open,fridge,no,low,,,"Seasoning sauce"
 Sesame oil,oils & fats,1,bottle,open,fridge,no,low,,,"Toasted sesame oil"
 Mayonnaise,seasonings,0.5,jar,open,fridge,yes,medium,,keep in stock,"Avocado mayo"
-Milk,dairy,1,pint,sealed,fridge,yes,medium,,keep in stock,
 Mirin,asian sauces,1,bottle,open,fridge,no,low,,,
 Yellow curry paste,asian sauces,1,container,,fridge,yes,low,,,Mae Ploy
 Shaoxing wine,wine,1,bottle,open,fridge,no,low,,,
 Marsala wine,wine,1,bottle,open,fridge,no,low,,,
-Chipotles in adobo,canned goods,7,oz can,sealed,pantry,no,low,,,"Canned chipotles in adobo"
+Chipotles in adobo,canned goods,1,can,sealed,pantry,no,low,,,"7 oz can"
 Refried black beans,canned goods,1,can,sealed,pantry,no,low,,,
 Canned chickpeas,canned goods,12,cans,sealed,pantry,no,low,,,
-Canned tuna,canned goods,4,cans,,pantry,no,low,Costco,keep in stock,
+Canned tuna,canned goods,3,cans,,pantry,no,low,Costco,keep in stock,
 Roasted red peppers,preserved vegetables,0.9,jar,open,fridge,yes,medium,,,"Jarred, roasted"
-Capers,preserved vegetables,1,jar,sealed,pantry,no,low,,,
-Honey,sweeteners,8,oz,open,pantry,no,low,,,"Liquid honey"
-Agave syrup,sweeteners,2,bottles,open,pantry,no,low,,,"Raw blue agave"
+Capers,preserved vegetables,7,oz,sealed,pantry,no,low,,,
+Honey,sweeteners,16,oz,open,pantry,no,low,,,"Liquid honey"
+Blue agave syrup,sweeteners,20,oz,open,pantry,no,low,,,
+Light agave syrup,sweeteners,10,oz,open,pantry,no,low,,,
 Brown coconut sugar,sweeteners,1,lb,open,pantry,no,low,,,"Old but usable"
-Powdered sugar,sweeteners,1,lb,open,pantry,no,low,,,"Confectioners sugar"
+Powdered sugar,sweeteners,10,oz,open,pantry,no,low,,,"Confectioners sugar"
 Palm sugar,sweeteners,1,package,open,pantry,no,low,,,"For Thai cooking"
 Chia seeds,dried ingredients,4,oz,open,pantry,no,low,,,"Half of 8 oz bag"
 Granulated garlic,spices,5,oz,open,pantry,no,low,,,"Garlic powder-style"
 Medjool dates,dried ingredients,1,container,open,pantry,yes,medium,,,"Expired April this year; inspect at opening"
-Chardonnay vinegar,vinegars,1,bottle,open,pantry,no,low,,,"With mother"
-Apple cider vinegar (sealed),vinegars,64,oz,sealed,pantry,no,low,,,"2 x 32 oz bottles"
+Chardonnay vinegar,vinegars,16,oz,open,pantry,no,low,,,"With mother"
+Apple cider vinegar,vinegars,32,oz,open,pantry,no,low,,,"Across two open bottles"
 Distilled white vinegar,vinegars,8,fl oz,open,pantry,no,low,,,"16 oz bottle; about 1 dry measuring cup used"
-Balsamic vinegar,vinegars,1,bottle,open,pantry,no,low,,,"For loaded olive oil"
+Balsamic vinegar,vinegars,10,oz,open,pantry,no,low,,,"For loaded olive oil"
 Japanese curry mix,dried ingredients,1,box,sealed,pantry,no,low,,,"Curry roux blocks"
-Tomato paste,canned goods,0.5,can,open,fridge,no,high,,,"6 oz can, half used"
+Tomato paste,canned goods,2,tbsp,open,fridge,no,high,,,
 Tomato paste,canned goods,2,cans,sealed,garage,no,low,,,"6 oz each"
 Bonito flakes,dried ingredients,1,bag,open,pantry,no,low,,,"For dashi; old but usable"
 Kombu,dried ingredients,1,pack,sealed,pantry,no,low,,,"Dried kelp for dashi"
-Wakame / miso seaweed,dried ingredients,1,pack,sealed,pantry,no,low,,,"Dried seaweed for miso soup"
-Porcini mushrooms (dried),dried ingredients,1,pack,sealed,pantry,no,low,,,"Packed 2023"
+Wakame / miso seaweed,dried ingredients,1,pack,open,pantry,no,low,,,"Dried seaweed for miso soup"
+Mixed mushroom medley (dried),dried ingredients,1,package,sealed,pantry,no,low,,,
 Chicory (drink),beverages,1,pack,sealed,pantry,no,low,,,"From Russian store"
 Kosher salt,seasonings,1,container,open,pantry,no,low,,keep in stock,
 Bay leaves,spices,1,jar,open,pantry,no,low,,,"Dried bay"
@@ -52,7 +52,7 @@ Cumin seeds,whole spices,1,jar,open,pantry,no,low,,keep in stock,
 Black mustard seeds,spices,1,jar,open,pantry,no,low,,,"Whole seeds"
 Green cardamom,spices,1,jar,open,pantry,no,low,,,"Pods"
 Star anise,spices,1,jar,open,pantry,no,low,,,"Whole stars"
-Cinnamon sticks,spices,1,jar,open,pantry,no,low,,,"Whole sticks"
+Cinnamon sticks,spices,0,jar,open,pantry,no,low,,keep in stock,"Whole sticks"
 Omani black limes,spices,1,bag,open,pantry,no,low,,,"Dried limes"
 Berbere,spices,1,jar,open,pantry,no,low,,,"Ethiopian blend"
 Nutmeg,spices,1,jar,open,pantry,no,low,,,"Whole or ground"
@@ -69,16 +69,16 @@ Ground ginger,spices,1,jar,open,pantry,no,low,,,"Ground"
 Black peppercorns,spices,1,jar,open,pantry,no,low,,,"Whole peppercorns"
 Spicy curry powder,spices,1,jar,open,pantry,no,low,,,"Spice mix"
 Homemade garam masala,spices,1,jar,open,pantry,no,low,,,"Homemade"
-Chana masala powder,spices,1,jar,,pantry,no,low,,,
+Chana masala powder,spices,1,jar,open,pantry,no,low,,,
 Fennel seed,spices,1,jar,open,pantry,no,low,,,"Whole seeds"
 White pepper powder,spices,1,jar,open,pantry,no,low,,,"Ground white pepper"
 Thai dried chilies,dried chiles,,few,open,pantry,no,low,,,"Home-dried Thai chilies"
-Guajillo chiles,dried chiles,6,oz,sealed,pantry,no,low,,,"Two packs total"
+Guajillo chiles,dried chiles,3,oz,sealed,pantry,no,low,,,
 Morito chiles,dried chiles,5,whole pods,open,pantry,no,low,,,"Mild Spanish smoked peppers"
-Achiote powder,spices,1,jar,open,pantry,no,low,,,"Annatto powder"
-Pasta (Italian tin),pasta,1,tin,open,pantry,no,low,,,"Dry pasta"
-Baking soda,baking,1,container,open,pantry,no,low,,,"Leavening / cleaning"
-Cornstarch,baking,1,container,open,pantry,no,low,,,"Thickener"
+Achiote powder,spices,3,oz,open,pantry,no,low,,,"Annatto powder"
+Spaghetti,pasta,1,package,,pantry,no,low,,,
+Baking soda,baking,20,oz,open,pantry,no,low,,,"Leavening / cleaning"
+Cornstarch,baking,18,oz,open,pantry,no,low,,,"Thickener"
 Coleman's mustard,fermented pastes,1,jar,open,fridge,yes,low,,,"English mustard"
 Avocado oil,oils & fats,67,oz,sealed,pantry,no,low,,,"Costco-size bottle"
 Soy sauce (less-sodium),asian sauces,2,quarts,sealed,garage,no,low,,,"Single 2-quart container"
@@ -90,79 +90,93 @@ Di Bari Organic Pasta From Italy assortment,pasta,4,bags,open,garage,no,low,,,"R
 Fettuccine,pasta,500,grams,sealed,garage,no,low,,,"Dry pasta"
 Organic black pepper barilotti pasta,pasta,1,bag,sealed,pantry,no,low,Trader Joe's,,
 Beef tallow (sealed),oils & fats,400,grams,sealed,garage,no,low,,,"Sealed jar; garage storage"
-All-purpose flour,baking,2,pounds,open,pantry,no,low,,,"Plain flour"
+All-purpose flour,baking,0,pounds,open,pantry,no,low,,keep in stock,"Plain flour"
 Dried bread cubes,baking,,,,pantry,no,low,,,
 Dutch process cocoa powder,baking,1,container,open,pantry,no,low,,,"purchased 2021"
-Eggs,dairy,24,each,,fridge,yes,medium,,keep in stock,
+Eggs,dairy,12,each,,fridge,yes,medium,,keep in stock,
 Anchovy fillets,seafood,1,jar,open,,no,low,,keep in stock,
 Coriander seeds,spices,1,jar,,pantry,no,low,,keep in stock,
 Red onion,produce,0,each,,pantry,yes,medium,,keep in stock,
 Butter,dairy,2,sticks,open,fridge,yes,low,,keep in stock,
 Butter (frozen),dairy,2,packs,sealed,freezer,yes,low,,,Sticks
 
-Buckwheat grits,dried ingredients,3,cups,,pantry,no,low,,,
+Buckwheat grits,dried ingredients,0.5,cups,,pantry,no,low,,,
 Red lentils,dried ingredients,3.5,cups,,pantry,no,low,,,
-Pearled barley,dried ingredients,1.5,cups,,pantry,no,low,,,
-Yellow peas,dried ingredients,3.5,cups,,pantry,no,low,,keep in stock,
-Oats,dried ingredients,10,cups,,pantry,no,low,,keep in stock,"Large container from Costco"
-Ячменная крупа,dried ingredients,0,cups,,pantry,no,low,,keep in stock,"Cracked barley groats for porridge"
-Couscous,dried ingredients,1.5,cups,,pantry,no,low,,,
+Pearled barley,dried ingredients,2.5,lb,,pantry,no,low,,,
+Yellow peas,dried ingredients,2.3,lb,,pantry,no,low,,keep in stock,
+Oats,dried ingredients,9,cups,,pantry,no,low,,keep in stock,"Large container from Costco"
+Ячменная крупа,dried ingredients,2,cups,,pantry,no,low,,keep in stock,"Cracked barley groats for porridge"
+Couscous,dried ingredients,1,cup,,pantry,no,low,,,
 Dried chickpeas,dried ingredients,2,cups,,pantry,no,low,,,
-Chickpea flour,dried ingredients,2,cups,,pantry,no,low,,,
+Chickpea flour,dried ingredients,5,cups,,pantry,no,low,,,
 Mung dal (split yellow mung beans),dried ingredients,4,cups,,pantry,no,low,,,
 Black beans,dried ingredients,3,cups,,pantry,no,low,,,
-Buckwheat (groats),dried ingredients,2,cups,,pantry,no,low,,,
-Red kidney beans,dried ingredients,2,cups,,pantry,no,low,,,
-Tondino del Umbria beans,dried ingredients,1,cups,,pantry,no,low,,,
 Smoked chicken sausage,poultry,36,oz,frozen,freezer,yes,low,Costco,,
 Ground bison,meat,20,oz,frozen,freezer,yes,low,,,
-Mackerel,seafood,,,frozen,freezer,yes,low,Asian market,,
-Onion masala,prepared foods,6,pods,frozen,freezer,yes,low,,,"Homemade; each pod about 1/6 cup, two pods per chana masala"
+Mackerel,seafood,4,each,frozen,freezer,yes,low,Asian market,,
+Sundried tomato pods,prepared foods,5,pods,frozen,freezer,yes,low,,,
 Udon noodles,pasta,1,packet,frozen,freezer,yes,low,,,
 Melinda hot sauce,seasonings,1,bottle,sealed,fridge,no,low,,,
 Organic short white rice,dried ingredients,1,bag,sealed,pantry,no,low,,,
 Dijon mustard,fermented pastes,1,jar,sealed,pantry,no,low,,,"Grey Poupon"
-Harissa,fermented pastes,1,jar,sealed,pantry,no,low,,,"Tunisian harissa"
+Harissa,fermented pastes,6,oz,sealed,pantry,no,low,,,"Tunisian harissa"
 Fig spread,preserved foods,0.9,jar,open,fridge,yes,medium,,,"Almost full"
 Pistachios,nuts,30,oz,,pantry,no,low,,,"Roasted, salted"
-Cilantro,produce,1,bunch,,fridge,yes,medium,,,
-Dill,produce,1,bunch,,fridge,yes,medium,,,
-Red potatoes,produce,10,lb,,pantry,yes,low,Costco,,
+Cilantro,produce,0.5,bunch,,fridge,yes,medium,,,
+Dill,produce,0.5,bunch,,fridge,yes,medium,,,
+Red potatoes,produce,9,lb,,pantry,yes,low,Costco,,
 Dubliner cheese,cheese,1,block,sealed,fridge,yes,low,Costco,,
-Vegan sausage,prepared foods,8,oz,open,fridge,yes,medium,,,
-Sauerkraut,preserved vegetables,1,container,,fridge,yes,low,,,
-Onion,produce,0.9,lb,,pantry,yes,low,,,Yellow
+Sauerkraut,preserved vegetables,0.5,container,,fridge,yes,low,,,
+Onion,produce,1,each,,pantry,yes,low,,,Yellow
 Granulated sugar,sweeteners,2,cups,,pantry,no,low,,,
 Pickled red onions,preserved vegetables,1.5,cups,,fridge,yes,medium,,,"Homemade 2026-09-20"
 Scuccuzzù pasta,pasta,500,grams,sealed,pantry,no,low,Italian Harvest,,"Organic Ligurian pasta; Alta Valle Scrivia; 15-minute cooking time"
 
 Roasted white sesame seeds,nuts & seeds,8,oz,open,pantry,no,low,,,"Best by May 22 2023; tasted fine Sep 27 2026"
-Organic coconut chips,dried ingredients,1,container,open,pantry,no,low,Berkeley Bowl West,,"Packed May 17 2025; mostly full"
-Rye bread,bakery,1,loaf,sealed,pantry,yes,medium,Beckmann's,,
+Organic coconut chips,dried ingredients,0.3,lb,open,pantry,no,low,Berkeley Bowl West,,
+Rye bread,bakery,0.5,loaf,frozen,freezer,yes,low,Beckmann's,,
 Coconut water,beverages,1,container,sealed,pantry,no,low,Harmless Harvest,,
-Bartlett pears,produce,0.9,lb,,pantry,yes,medium,,,
 Prepared horseradish,condiments,1,jar,sealed,fridge,yes,medium,Bubbies,,
-Smoked provolone slices,cheese,1,package,sealed,fridge,yes,medium,Violife,,
-Whole milk,dairy,0.5,gallon,sealed,fridge,yes,medium,Berkeley Bowl,,Clover Sonoma organic
+Whole milk,dairy,100,ml,open,fridge,yes,medium,Berkeley Bowl,keep in stock,Clover Sonoma organic
 Fish sauce (premium),asian sauces,1,bottle,sealed,pantry,no,low,Berkeley Bowl,,Son
-Chicken thighs (boneless skinless),poultry,1,pack,sealed,fridge,yes,medium,Costco,,Organic
+Chicken thighs (boneless skinless),poultry,0.6667,pack,frozen,freezer,yes,low,Costco,,Organic
 Turkey breast (oven-browned),poultry,1,breast,sealed,fridge,yes,medium,Costco,,Fully cooked
 Whole milk yogurt,dairy,2,containers,sealed,fridge,yes,medium,Costco,,Bellwether Farms organic a2; 32 oz each
 Feta,cheese,14,oz,sealed,fridge,yes,low,Costco,,Valbreso French sheep's milk
-Silken tofu,prepared foods,1,package,sealed,fridge,yes,medium,Berkeley Bowl,,
-Shiitake mushrooms,produce,1,container,,fridge,yes,medium,Costco,,Organic
-Summer squash,produce,2,lb,,fridge,yes,medium,Costco,,Organic
-Grape tomatoes,produce,2,lb,,fridge,yes,medium,Costco,,
+Shiitake mushrooms,produce,1,cup,,fridge,yes,medium,Costco,,Organic
+Summer squash,produce,2,each,,fridge,yes,medium,Costco,,Organic
+Grape tomatoes,produce,0.8,lb,,fridge,yes,medium,Costco,,
 Arugula,produce,10,oz,,fridge,yes,high,Costco,,Organic
-Raspberries,produce,1,container,,fridge,yes,high,Costco,,Organic
-Asian pears,produce,3.5,lb,,fridge,yes,medium,Costco,,
-Guava,produce,0.66,lb,,fridge,yes,medium,Berkeley Bowl,,
-Green onions,produce,1,bunch,,fridge,yes,medium,Berkeley Bowl,,
+Asian pears,produce,2,each,,fridge,yes,medium,Costco,,
+Guava,produce,1,each,,fridge,yes,medium,Berkeley Bowl,,
 Argentine red shrimp,seafood,2,lb,frozen,freezer,yes,low,Costco,,"Kirkland; raw, peeled, tail-off"
 Frozen cut spinach,produce,3,lb,frozen,freezer,yes,low,Berkeley Bowl,,Woodstock organic
 Fillo sheets,baking,1,box,frozen,freezer,yes,low,Berkeley Bowl,,Organic
-Shallots,produce,2,lb,,pantry,yes,low,Costco,,
-Avocado,produce,1,each,,pantry,yes,medium,Berkeley Bowl,,
+Shallots,produce,1.5,lb,,pantry,yes,low,Costco,,
 Sardines,canned goods,6,cans,sealed,pantry,no,low,Costco,,Wild Planet in olive oil; 4.4 oz each
 Rice vermicelli,pasta,1,package,sealed,pantry,no,low,Berkeley Bowl,,
 Roasted seaweed snacks,dried ingredients,10,packs,sealed,pantry,no,low,Berkeley Bowl,,Organic
+Mild Turkish red pepper paste,fermented pastes,300,ml,open,fridge,,,,,
+Frozen tuna,seafood,1,package,frozen,freezer,yes,low,Trader Joe's,,
+Buckwheat (groats),dried ingredients,2,cups,,pantry,no,low,,,
+Medium-ground cornmeal,dried ingredients,24,oz,,pantry,no,low,,,
+Tapioca flour,baking,18,oz,,pantry,no,low,,,
+Dry yeast,baking,3,packets,,pantry,no,low,,,
+Rice paper rounds,dried ingredients,1,package,,pantry,no,low,,,
+Almond flour,baking,12,oz,,pantry,no,low,,,
+Lemon torchietti,pasta,2.2,lb,,pantry,no,low,,,
+Lasagne,pasta,1,box,sealed,pantry,no,low,,,
+Lasagne,pasta,1,box,open,pantry,no,low,,,
+Adzuki beans,dried ingredients,5,lb,,pantry,no,low,,,
+Bulgarian tomato and pepper spread,preserved vegetables,19,oz,sealed,pantry,,high,,,
+Pasilla chiles,dried chiles,2,oz,sealed,pantry,no,low,,,
+Chinese black vinegar,vinegars,400,ml,,pantry,no,low,,,
+Roasted red peppers,preserved vegetables,12,oz,sealed,pantry,no,low,,,
+Honey & Spice mustard,condiments,1,jar,sealed,pantry,no,low,Sierra Nevada,,
+Thai green curry paste,asian sauces,1,jar,sealed,pantry,no,low,,,Small jar
+Anchovy fillets,seafood,1,jar,sealed,pantry,no,low,,keep in stock,
+Dried vegetable broth,seasonings,5,oz,sealed,pantry,no,low,,,
+Tomato paste,canned goods,4.5,oz,sealed,pantry,no,low,Mutti,,
+Rice vinegar,vinegars,2,tbsp,open,pantry,no,low,,,
+Raw peanuts,nuts,20,oz,,pantry,no,low,,,
+Virgin coconut oil,oils & fats,10,oz,open,pantry,no,low,,,
