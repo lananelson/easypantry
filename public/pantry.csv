@@ -1,7 +1,7 @@
 name,category,quantity,unit,container_state,location,perishable,urgency,vendor,stock_requirement,notes
-Carrots,produce,2,each,,fridge,yes,medium,,,
+Carrots,produce,1,lb,,fridge,yes,medium,Whole Foods,,Organic
 Lemons,produce,0,each,,fridge,yes,medium,,keep in stock,
-Garlic,produce,2,cloves,,pantry,yes,medium,,keep in stock,
+Garlic,produce,0.34,lb,,pantry,yes,medium,Whole Foods,keep in stock,Organic
 Tahini,fermented pastes,1,jar,open,fridge,no,low,,keep in stock,"Sesame paste"
 Miso paste,fermented pastes,1,container,sealed,fridge,no,low,,,
 Beef tallow,oils & fats,1,jar,open,fridge,no,low,,,"Cooking fat"
@@ -93,7 +93,7 @@ Beef tallow (sealed),oils & fats,400,grams,sealed,garage,no,low,,,"Sealed jar; g
 All-purpose flour,baking,5,pounds,sealed,pantry,no,low,Whole Foods,keep in stock,King Arthur unbleached
 Dried bread cubes,baking,,,,pantry,no,low,,,
 Dutch process cocoa powder,baking,1,container,open,pantry,no,low,,,"purchased 2021"
-Eggs,dairy,30,each,,fridge,yes,medium,,keep in stock,
+Eggs,dairy,18,each,,fridge,yes,medium,Whole Foods,keep in stock,Vital Farms
 Anchovy fillets,seafood,1,jar,open,,no,low,,keep in stock,
 Coriander seeds,spices,1,jar,,pantry,no,low,,keep in stock,
 Red onion,produce,0,each,,pantry,yes,medium,,keep in stock,
@@ -123,12 +123,12 @@ Harissa,fermented pastes,6,oz,sealed,pantry,no,low,,,"Tunisian harissa"
 Fig spread,preserved foods,0.9,jar,open,fridge,yes,medium,,,"Almost full"
 Pistachios,nuts,30,oz,,pantry,no,low,,,"Roasted, salted"
 Cilantro,produce,0.5,bunch,,fridge,yes,medium,,,
-Dill,produce,0.5,bunch,,fridge,yes,medium,,,
+Dill,produce,1,bunch,,fridge,yes,medium,Whole Foods,,Organic
 Red potatoes,produce,9,lb,,pantry,yes,low,Costco,,
 Dubliner cheese,cheese,1,block,sealed,fridge,yes,low,Costco,,
 Sauerkraut,preserved vegetables,0.5,container,,fridge,yes,low,,,
 Onion,produce,1,each,,pantry,yes,low,,,Yellow
-Granulated sugar,sweeteners,2,cups,,pantry,no,low,,,
+Granulated sugar,sweeteners,,bag,,pantry,no,low,Whole Foods,,365 organic
 Pickled red onions,preserved vegetables,1.5,cups,,fridge,yes,medium,,,"Homemade 2026-09-20"
 Scuccuzzù pasta,pasta,500,grams,sealed,pantry,no,low,Italian Harvest,,"Organic Ligurian pasta; Alta Valle Scrivia; 15-minute cooking time"
 
@@ -137,7 +137,7 @@ Organic coconut chips,dried ingredients,0.3,lb,open,pantry,no,low,Berkeley Bowl 
 Rye bread,bakery,0.5,loaf,frozen,freezer,yes,low,Beckmann's,,
 Coconut water,beverages,1,container,sealed,pantry,no,low,Harmless Harvest,,
 Prepared horseradish,condiments,1,jar,sealed,fridge,yes,medium,Bubbies,,
-Whole milk,dairy,100,ml,open,fridge,yes,medium,Berkeley Bowl,keep in stock,Clover Sonoma organic
+Whole milk,dairy,,container,,fridge,yes,medium,Whole Foods,keep in stock,Clover Sonoma organic
 Fish sauce (premium),asian sauces,1,bottle,sealed,pantry,no,low,Berkeley Bowl,,Son
 Chicken thighs (boneless skinless),poultry,0.6667,pack,frozen,freezer,yes,low,Costco,,Organic
 Turkey breast (oven-browned),poultry,1,breast,sealed,fridge,yes,medium,Costco,,Fully cooked
@@ -152,7 +152,7 @@ Guava,produce,1,each,,fridge,yes,medium,Berkeley Bowl,,
 Argentine red shrimp,seafood,2,lb,frozen,freezer,yes,low,Costco,,"Kirkland; raw, peeled, tail-off"
 Frozen cut spinach,produce,3,lb,frozen,freezer,yes,low,Berkeley Bowl,,Woodstock organic
 Fillo sheets,baking,1,box,frozen,freezer,yes,low,Berkeley Bowl,,Organic
-Shallots,produce,1.5,lb,,pantry,yes,low,Costco,,
+Shallots,produce,1.19,lb,,pantry,yes,low,Whole Foods,,Organic
 Sardines,canned goods,6,cans,sealed,pantry,no,low,Costco,,Wild Planet in olive oil; 4.4 oz each
 Rice vermicelli,pasta,1,package,sealed,pantry,no,low,Berkeley Bowl,,
 Roasted seaweed snacks,dried ingredients,10,packs,sealed,pantry,no,low,Berkeley Bowl,,Organic
@@ -177,7 +177,16 @@ Thai green curry paste,asian sauces,1,jar,sealed,pantry,no,low,,,Small jar
 Anchovy fillets,seafood,1,jar,sealed,pantry,no,low,,keep in stock,
 Dried vegetable broth,seasonings,5,oz,sealed,pantry,no,low,,,
 Tomato paste,canned goods,4.5,oz,sealed,pantry,no,low,Mutti,,
-Rice vinegar,vinegars,2,tbsp,open,pantry,no,low,,,
+Rice vinegar,vinegars,,bottle,,pantry,no,low,Whole Foods,,Marukan seasoned rice vinegar
 Raw peanuts,nuts,20,oz,,pantry,no,low,,,
 Virgin coconut oil,oils & fats,10,oz,open,pantry,no,low,,,
 Moroccan-spiced kabocha squash soup,prepared foods,2,quarts,frozen,freezer,yes,low,,,Homemade
+Cannellini beans,canned goods,2,cans,,pantry,no,low,Whole Foods,,365 organic
+Pumpkin puree,canned goods,1,can,,pantry,no,low,Whole Foods,,365
+Guacamole,prepared foods,0.63,lb,,fridge,yes,high,Whole Foods,,Mild; no tomato
+Mint,produce,1,bunch,,fridge,yes,medium,Whole Foods,,Organic
+Green onions,produce,1,bunch,,fridge,yes,medium,Whole Foods,,Organic
+Lemon curd yogurt,dairy,4,containers,,fridge,yes,medium,Whole Foods,,Ellenos
+English breakfast tea,beverages,1,box,,pantry,no,low,Whole Foods,,Taylors of Harrogate
+Coffee,beverages,1,bag,,pantry,no,low,Whole Foods,,Blue Bottle Bright Blend organic
+Green cabbage,produce,3,lb,,fridge,yes,medium,Whole Foods,,Organic
