@@ -1779,6 +1779,23 @@ Auto-generated from recipe files. Do not edit manually.
 - Goat cheese, crumbled
 - 1 lb. unsalted butter (optional, for clarified butter)
 
+## lemony-chicken-feta-meatball-soup
+**Lemony Chicken-Feta Meatball Soup With Spinach**
+
+- 1 pound ground chicken or turkey, preferably dark meat
+- ½ cup crumbled feta
+- ¾ cup old-fashioned rolled oats
+- 1 small red onion, halved (½ diced, and ½ grated, then squeezed with a paper towel to remove excess liquid)
+- ⅓ packed cup fresh dill leaves and fine stems, finely chopped
+- 1 tablespoon ground cumin
+- ½ teaspoon plus 1 tablespoon ground turmeric
+- Kosher salt and black pepper
+- 3 tablespoons olive oil
+- ½ teaspoon red-pepper flakes, plus more for serving
+- 4 cups low-sodium chicken broth or water
+- 4 packed cups baby spinach (about 5 ounces)
+- 2 lemons (1 juiced and 1 cut into wedges for serving)
+
 ## lentil-soup-gremolata
 **Lentil Soup with Gremolata**
 
