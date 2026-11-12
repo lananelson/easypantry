@@ -2066,6 +2066,23 @@ Auto-generated from recipe files. Do not edit manually.
 - Stracciatella
 - Hard cheese, grated
 
+## mouthwatering-turkey-with-glass-noodles
+**Mouthwatering Turkey With Glass Noodles**
+
+- 5 tsp Sichuan peppercorns
+- 1½ tsp whole white peppercorns (optional)
+- 6 tbsp spicy chili crisp, preferably Lao Gan Ma
+- ⅓ cup chili oil
+- 3 tbsp light soy sauce
+- 3 tbsp unrefined peanut oil
+- 5 tsp Chinkiang black vinegar
+- 12 oz glass noodles made from sweet potato starch or mung beans
+- 2 celery stalks, sliced into thin 2-inch pieces
+- 1 lb shredded cooked turkey (about 3 cups)
+- Leaves from 1 small bunch basil, preferably Thai or Opal basil
+- Leaves and tender stems from 1 small bunch cilantro
+- ½ cup crushed roasted peanuts, salted or unsalted
+
 ## mushroom-laab
 **Mushroom Laab (Laab Het)**
 
