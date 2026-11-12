@@ -3508,6 +3508,36 @@ Auto-generated from recipe files. Do not edit manually.
 - ¼ cup natural peanut butter
 - ¼ cup chopped cilantro
 
+## turkey-pozole-verde
+**Turkey Pozole Verde**
+
+- 1 turkey carcass
+- 2 white onions, quartered with skins on
+- 8 garlic cloves
+- 4 celery stalks, chopped
+- 2 large carrots, scrubbed and chopped
+- 1 large bunch hardy herbs, such as thyme, oregano, or marjoram
+- 4 bay leaves
+- Kosher salt
+- 2 cups dried white or golden hominy, refrigerated in water overnight
+- 2 tbsp dried oregano, plus extra to serve
+- 2 tbsp vegetable oil
+- ½ white onion, roughly chopped
+- 4 garlic cloves, smashed
+- 1 cup raw pepitas
+- 4 allspice berries
+- 2 whole cloves
+- ½ tsp cumin seeds
+- 1 lb tomatillos, husked, rinsed, and roughly chopped
+- 3–5 serranos, optionally seeded
+- 1 cup radish tops, arugula, spinach, or other greens
+- Kosher salt
+- 8 radishes, sliced thin
+- 2 cups shredded iceberg or green cabbage (optional)
+- 1 cup crushed chicharrones (optional)
+- ¼ cup crushed pequin chiles or red pepper flakes
+- Lime wedges
+
 ## tuscan-white-bean-kale-salad
 **Tuscan White Bean Kale Salad with Lemon Walnut Gremolata**
 
