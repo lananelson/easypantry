@@ -6,7 +6,7 @@
   "completed_date": null,
   "items": [
     {
-      "name": "Scallions",
+      "name": "Green onions (scallions)",
       "for": [
         "Borek (Armenian Spinach and Cheese Turnovers)"
       ]
@@ -63,6 +63,72 @@
       "name": "Limes",
       "for": [
         "Turkey Pozole Verde"
+      ]
+    },
+    {
+      "name": "Potatoes",
+      "for": [
+        "restock"
+      ]
+    },
+    {
+      "name": "Mushrooms",
+      "for": [
+        "restock"
+      ]
+    },
+    {
+      "name": "Milk",
+      "for": [
+        "restock"
+      ]
+    },
+    {
+      "name": "Flour",
+      "for": [
+        "restock"
+      ]
+    },
+    {
+      "name": "Yellow onions",
+      "for": [
+        "restock"
+      ]
+    },
+    {
+      "name": "Rooibos tea",
+      "for": [
+        "restock"
+      ]
+    },
+    {
+      "name": "Nutmeg",
+      "for": [
+        "restock"
+      ]
+    },
+    {
+      "name": "Star anise",
+      "for": [
+        "restock"
+      ]
+    },
+    {
+      "name": "Brazil nuts",
+      "for": [
+        "restock"
+      ]
+    },
+    {
+      "name": "Cashews",
+      "for": [
+        "restock"
+      ]
+    },
+    {
+      "name": "Macadamia nuts",
+      "for": [
+        "restock"
       ]
     }
   ]
