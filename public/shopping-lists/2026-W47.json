@@ -67,75 +67,51 @@
     },
     {
       "name": "Potatoes",
-      "for": [
-        "restock"
-      ]
+      "for": []
     },
     {
       "name": "Mushrooms",
-      "for": [
-        "restock"
-      ]
+      "for": []
     },
     {
       "name": "Milk",
-      "for": [
-        "restock"
-      ]
+      "for": []
     },
     {
       "name": "Flour",
-      "for": [
-        "restock"
-      ]
+      "for": []
     },
     {
       "name": "Yellow onions",
-      "for": [
-        "restock"
-      ]
+      "for": []
     },
     {
       "name": "Rooibos tea",
-      "for": [
-        "restock"
-      ]
+      "for": []
     },
     {
       "name": "Nutmeg",
-      "for": [
-        "restock"
-      ]
+      "for": []
     },
     {
       "name": "Star anise",
-      "for": [
-        "restock"
-      ]
+      "for": []
     },
     {
       "name": "Brazil nuts",
-      "for": [
-        "restock"
-      ]
+      "for": []
     },
     {
       "name": "Cashews",
-      "for": [
-        "restock"
-      ]
+      "for": []
     },
     {
       "name": "Macadamia nuts",
-      "for": [
-        "restock"
-      ]
+      "for": []
     },
     {
       "name": "Cardamom",
-      "for": [
-        "restock"
-      ]
+      "for": []
     }
   ]
 }
